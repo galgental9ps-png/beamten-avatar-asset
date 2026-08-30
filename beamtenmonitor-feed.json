@@ -1,0 +1,204 @@
+{
+  "updatedAt": "2026-08-30T06:00:00+02:00",
+  "checkedSources": "Tagesprüfung 30.08.2026: BVS-Jahrgang 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; Verkündungsplattform Bayern (BayMBl./GVBl.); Bayern.Recht; Stadt Augsburg Amtsblatt und Stadtrecht; Regierungsamtsblatt Schwaben. Keine neue fachlich relevante Änderung gegenüber dem Vortag.",
+  "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
+  "topics": [
+    {
+      "id": "latest",
+      "label": "Neueste Gesetzesänderungen",
+      "intro": "Die zuletzt veröffentlichten und anhand amtlicher Primärquellen geprüften Änderungen im aktuellen Beamten-Monitor.",
+      "changes": [
+        {
+          "title": "Gefahrenabwehr bei Kampfmitteln neu geregelt",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 345",
+          "published": "26.08.2026",
+          "effective": "01.09.2026",
+          "summary": "Die Bekanntmachung ordnet Zuständigkeiten und Abläufe bei Kampfmittelverdacht und -fund neu. Gemeinden handeln grundsätzlich als örtliche Sicherheitsbehörden; Fundmeldung, Absicherung, historische Recherche und die Berücksichtigung in Bauleitplanung und Baugenehmigung werden konkretisiert.",
+          "administrationImpact": "Ordnungs-, Bau-, Planungs- und Katastrophenschutzstellen müssen Zuständigkeiten, Meldeketten, Dokumentation und Prüfschritte ab 1. September an der neuen Bekanntmachung ausrichten.",
+          "checkpoints": [
+            "Interne Melde- und Eskalationswege prüfen.",
+            "Verdachtsflächen in Planung und Genehmigung frühzeitig berücksichtigen.",
+            "Ab 01.09.2026 den neuen BayMBl.-Text zugrunde legen."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-345/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV238759"
+        },
+        {
+          "title": "52. Jahreskrankenhausbauprogramm 2026",
+          "kind": "Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 346",
+          "published": "26.08.2026",
+          "effective": "01.08.2026 rückwirkend",
+          "summary": "Das Krankenhausbauprogramm 2026 weist geförderte Vorhaben, Einzelmaßnahmen, Restförderungen, Kontingentmaßnahmen und Vorfestlegungen aus. Eine Programmaufnahme ist noch keine verbindliche Förderbewilligung.",
+          "administrationImpact": "Betroffene Träger und Verwaltungsstellen müssen Projektstand, Förderverfahren, Haushaltsbezug und Auszahlungsunterlagen mit der aktuellen Programmbekanntmachung abgleichen.",
+          "checkpoints": [
+            "Programmaufnahme nicht mit Förderbewilligung gleichsetzen.",
+            "Projekt- und Haushaltsunterlagen mit der aktuellen Programmliste abgleichen.",
+            "Rückwirkenden Geltungsbeginn 01.08.2026 beachten."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-346/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Augsburg ordnet Kita- und Ganztagsrecht neu",
+          "kind": "Kommunale Satzungsänderungen",
+          "reference": "Amtsblatt Augsburg Nr. 33/34 vom 21.08.2026",
+          "published": "21.08.2026",
+          "effective": "01.09.2026",
+          "summary": "Die Stadt Augsburg ändert Regelungen für Kindertageseinrichtungen und die kooperative Ganztagsbildung, einschließlich Benutzung, Aufnahme und Gebühren.",
+          "administrationImpact": "Betroffene Fachstellen müssen Antrags-, Buchungs- und Gebührenabläufe ab 1. September an den neuen Satzungsstand anpassen.",
+          "checkpoints": [
+            "Aktuellen Satzungstext im Amtsblatt verwenden.",
+            "Antrags- und Buchungsabläufe auf den neuen Stand prüfen.",
+            "Gebührenregelungen ab 01.09.2026 korrekt anwenden."
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-33-34_vom-21-08-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        }
+      ]
+    },
+    {
+      "id": "important",
+      "label": "Was ist wichtig?",
+      "intro": "Die wichtigsten Prüfpunkte aus dem verifizierten Tagesstand vom 30.08.2026.",
+      "changes": [
+        {
+          "title": "Mehrere Rechtsänderungen greifen zum 1. September",
+          "kind": "Stichtagshinweis",
+          "reference": "Prüfstand 30.08.2026",
+          "published": "30.08.2026",
+          "effective": "01.09.2026",
+          "summary": "Zum 1. September werden unter anderem die neue Kampfmittel-Bekanntmachung, Augsburger Kita-/Ganztagsregelungen und wesentliche Änderungen der Bayerischen Beihilfeverordnung relevant.",
+          "administrationImpact": "Dienststellen sollten vor dem Stichtag prüfen, ob Arbeitsunterlagen, Prüfschritte, Formulare oder interne Hinweise auf den neuen Rechtsstand angepasst werden müssen.",
+          "checkpoints": [
+            "Stichtag 01.09.2026 in betroffenen Verfahren beachten.",
+            "Änderungstext und konsolidierte Lesefassung getrennt prüfen.",
+            "Interne Arbeitshilfen nicht ungeprüft aus dem alten Stand weiterverwenden."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/"
+        },
+        {
+          "title": "Quellenstand vor Anwendung kontrollieren",
+          "kind": "Qualitätshinweis",
+          "reference": "Prüfstand 30.08.2026",
+          "published": "30.08.2026",
+          "effective": "laufend",
+          "summary": "BayMBl. steht weiterhin bei Nr. 346 vom 26.08.2026, das GVBl. bei Ausgabe 15 vom 14.08.2026, Augsburg bei Amtsblatt 33/34 vom 21.08.2026 und das Regierungsamtsblatt Schwaben bei Nr. 16 vom 18.08.2026.",
+          "administrationImpact": "Entscheidungen sollten auf der amtlichen Fundstelle und dem jeweils passenden Gültigkeitsstand der konsolidierten Fassung beruhen.",
+          "checkpoints": [
+            "Amtliche Fundstelle direkt öffnen.",
+            "Inkrafttreten und mögliche Rückwirkung prüfen.",
+            "Gültigkeitsdatum der konsolidierten Fassung kontrollieren."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/"
+        },
+        {
+          "title": "Augsburger und schwäbische Bekanntmachungen weiter beobachten",
+          "kind": "Kommunaler Prüfpunkt",
+          "reference": "Stadt Augsburg / Regierung von Schwaben",
+          "published": "30.08.2026",
+          "effective": "je Bekanntmachung",
+          "summary": "Das Augsburger Amtsblatt 33/34 vom 21.08.2026 bleibt die jüngste gelistete Ausgabe. Für die ZRF-Verbandssatzung ist weiterhin die maßgebliche Bekanntmachung im Regierungsamtsblatt Schwaben zu beobachten.",
+          "administrationImpact": "Kommunale Stellen müssen Inkrafttreten und Folgebekanntmachungen anhand der zuständigen amtlichen Veröffentlichungsorgane prüfen.",
+          "checkpoints": [
+            "Aktuelle Amtsblattausgabe der Stadt Augsburg prüfen.",
+            "Regierungsamtsblatt Schwaben auf die maßgebliche ZRF-Bekanntmachung prüfen.",
+            "Inkrafttreten nicht aus einem bloßen Abdruck ableiten."
+          ],
+          "sourceUrl": "https://www.augsburg.de/amtliche-bekanntmachungen",
+          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/service/veroeffentlichungen/amtsblatt/index.html"
+        }
+      ]
+    },
+    {
+      "id": "changes",
+      "label": "Gesetzesänderungen anzeigen",
+      "intro": "Kompakte Liste der derzeit im Beamten-Monitor geführten Rechtsänderungen und Bekanntmachungen.",
+      "changes": [
+        {
+          "title": "Gefahrenabwehr bei Kampfmitteln neu geregelt",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 345",
+          "published": "26.08.2026",
+          "effective": "01.09.2026",
+          "summary": "Zuständigkeiten und Abläufe bei Kampfmittelverdacht und -fund werden neu geordnet.",
+          "administrationImpact": "Ordnungs-, Bau-, Planungs- und Katastrophenschutzstellen müssen den neuen Ablauf ab 01.09. anwenden.",
+          "checkpoints": [
+            "Zuständigkeit und Meldewege prüfen.",
+            "Verdachtsflächen frühzeitig berücksichtigen.",
+            "Neuen amtlichen Text ab 01.09. verwenden."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-345/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV238759"
+        },
+        {
+          "title": "52. Jahreskrankenhausbauprogramm 2026",
+          "kind": "Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 346",
+          "published": "26.08.2026",
+          "effective": "01.08.2026 rückwirkend",
+          "summary": "Das aktuelle Krankenhausbauprogramm ordnet geförderte Vorhaben und Programmkategorien für 2026.",
+          "administrationImpact": "Projekt-, Förder- und Haushaltsunterlagen sind mit der aktuellen Bekanntmachung abzugleichen.",
+          "checkpoints": [
+            "Programmstatus richtig einordnen.",
+            "Förder- und Haushaltsunterlagen abgleichen.",
+            "Rückwirkenden Geltungsbeginn beachten."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-346/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Augsburg ordnet Kita- und Ganztagsrecht neu",
+          "kind": "Kommunale Satzungsänderungen",
+          "reference": "Amtsblatt Augsburg Nr. 33/34 vom 21.08.2026",
+          "published": "21.08.2026",
+          "effective": "01.09.2026",
+          "summary": "Benutzung, Aufnahme und Gebühren im Kita- und Ganztagsbereich werden zum 1. September neu geordnet.",
+          "administrationImpact": "Fachstellen müssen Antrags-, Buchungs- und Gebührenabläufe anpassen.",
+          "checkpoints": [
+            "Aktuellen Satzungstext verwenden.",
+            "Gebührenstand zum 01.09. prüfen.",
+            "Formulare und Abläufe abgleichen."
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-33-34_vom-21-08-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "ZRF-Verbandssatzung modernisiert",
+          "kind": "Zweckverbandssatzung",
+          "reference": "Amtsblatt Augsburg Nr. 33/34; Wirksamkeit noch zu verifizieren",
+          "published": "21.08.2026",
+          "effective": "nach maßgeblicher Bekanntmachung im Regierungsamtsblatt Schwaben",
+          "summary": "Elektronische Einberufung der Verbandsversammlung sowie Fristen und Adressatenkreis werden neu gefasst.",
+          "administrationImpact": "Für die praktische Anwendung ist das tatsächliche Inkrafttreten anhand der zuständigen Bekanntmachung zu prüfen.",
+          "checkpoints": [
+            "Regierungsamtsblatt Schwaben weiter beobachten.",
+            "Wirksamkeit nicht allein aus dem Augsburger Abdruck ableiten.",
+            "Einladungs- und Verfahrensregeln erst nach geklärtem Inkrafttreten anwenden."
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-33-34_vom-21-08-2026.pdf",
+          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/service/veroeffentlichungen/amtsblatt/index.html"
+        },
+        {
+          "title": "Bayerische Beihilfeverordnung geändert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 495",
+          "published": "14.08.2026",
+          "effective": "Hauptpaket ab 01.09.2026; einzelne Übergangsregelungen abweichend",
+          "summary": "Geändert werden unter anderem Heilbehandlungen, Hilfsmittel, Pflegeleistungen und Teile der Psychotherapie.",
+          "administrationImpact": "Beihilfestellen müssen neue Prüfregeln und Übergangsbestimmungen nach dem jeweils maßgeblichen Leistungsdatum anwenden.",
+          "checkpoints": [
+            "Leistungsdatum und Übergangsregeln prüfen.",
+            "Arbeits- und Informationsunterlagen aktualisieren.",
+            "Konsolidierte Fassung mit passendem Gültigkeitsdatum verwenden."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-495/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBhV"
+        }
+      ]
+    }
+  ]
+}
