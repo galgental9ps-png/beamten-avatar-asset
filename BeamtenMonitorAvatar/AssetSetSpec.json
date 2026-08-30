@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "repository": "galgental9ps-png/beamten-avatar-asset",
+  "branch": "main",
+  "assetsRoot": "BeamtenMonitorAvatar",
+  "baseReferenceSet": "BeamtenMonitorAvatar/Assets",
+  "numberedSetPathTemplate": "BeamtenMonitorAvatar/Assets {N}",
+  "nextSetNumberRule": "smallest-missing-positive-integer",
+  "requiredFiles": {
+    "Avatar/Idle.png": {
+      "format": "PNG",
+      "width": 1024,
+      "height": 1536,
+      "alphaRequired": true,
+      "transparentBackgroundRequired": true,
+      "fullFigureRequired": true
+    },
+    "Avatar/Actions.png": {
+      "format": "PNG",
+      "width": 1536,
+      "height": 1024,
+      "alphaRequired": true,
+      "transparentBackgroundRequired": true,
+      "grid": {
+        "columns": 4,
+        "rows": 2
+      },
+      "frameOrder": [
+        "Idle",
+        "Gehen 1",
+        "Gehen 2",
+        "Rennen",
+        "Jubelsprung",
+        "Sprung/Landung",
+        "Präsentieren",
+        "Lesen/Betrachten"
+      ],
+      "upperMovementDirection": "right",
+      "appMirrorsReturnWalk": true,
+      "figuresFullyVisible": true,
+      "walkingFramesSameGroundLine": true
+    },
+    "MonitorScene/MonitorScene.png": {
+      "format": "PNG",
+      "width": 1672,
+      "height": 941,
+      "alphaRequired": true,
+      "transparentBackgroundRequired": true,
+      "composition": "Eingang links, schmaler Boden, große freie Mitte, wenige Gegenstände rechts"
+    },
+    "Klingel/MonitorBell.png": {
+      "format": "PNG",
+      "width": 1254,
+      "height": 1254,
+      "alphaRequired": true,
+      "transparentBackgroundRequired": true
+    },
+    "Sprüche/Abschiedsspruch.json": {
+      "format": "JSON",
+      "encoding": "UTF-8",
+      "exactFields": [
+        "theme",
+        "line"
+      ],
+      "lineMaxCharacters": 180,
+      "exactlyOneFarewellLine": true
+    }
+  },
+  "uploadRules": {
+    "atomicCommit": true,
+    "overwriteExistingSets": false,
+    "pngUploadEncoding": "base64",
+    "verifyAllFilesFromMainAfterCommit": true,
+    "successRequiresVerifiedFiles": true
+  }
+}

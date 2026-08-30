@@ -1,28 +1,38 @@
-Beamten-Monitor Avatar – Aufbau eines Asset-Sets
+Beamten-Monitor Avatar – verbindlicher Aufbau eines Asset-Sets
 
-Jeder Ordner Assets, Assets 1, Assets 2 usw. verwendet dieselbe Struktur:
+STANDARD-GITHUB-QUELLE
+https://github.com/galgental9ps-png/beamten-avatar-asset/tree/main/BeamtenMonitorAvatar
 
-Avatar\Idle.png
-Avatar\Actions.png
-MonitorScene\MonitorScene.png
-Klingel\MonitorBell.png
-Sprüche\Abschiedsspruch.json
+MASCHINENLESBARE SPEZIFIKATION
+Die verbindlichen Größen, Dateipfade und Prüfregeln stehen in:
+BeamtenMonitorAvatar/AssetSetSpec.json
 
-Idle.png ist das einzelne Präsentationsbild.
-Actions.png ist das Sprite-Sheet für Lauf-, Sprung- und Aktionsanimationen.
-MonitorScene.png enthält Hauseingang, Boden und Umgebungsbild.
-MonitorBell.png ist die Desktop- und Tray-Klingel.
-Abschiedsspruch.json enthält genau einen zum Thema des Sets passenden humorvollen Abschiedsspruch.
-Assets\Sprüche\Fallback.json enthält die bisherigen geprüften Standardsprüche als Reserve.
+ORDNERSTRUKTUR
+Jeder Ordner Assets, Assets 1, Assets 2 usw. verwendet exakt diese Struktur:
 
-Weitere Sets werden als Geschwisterordner neben Assets angelegt, zum Beispiel:
-Assets 1
-Assets 2
-Assets Augsburg
+Avatar/Idle.png
+Avatar/Actions.png
+MonitorScene/MonitorScene.png
+Klingel/MonitorBell.png
+Sprüche/Abschiedsspruch.json
 
-Die App erkennt alle Ordner automatisch, deren Name mit Assets beginnt.
+Assets/Sprüche/Fallback.json enthält die geprüften Standardsprüche als Reserve und bleibt ausschließlich im Basis-Set Assets.
 
-Standard-GitHub-Quelle für die App:
-https://github.com/galgental9ps-png/VerwaltungsQuestBayern/tree/main/src/BeamtenMonitorAvatar
+VERBINDLICHE PNG-GRÖSSEN
+Idle.png: 1024 x 1536 Pixel
+Actions.png: 1536 x 1024 Pixel, exaktes 4x2-Sprite-Sheet
+MonitorScene.png: 1672 x 941 Pixel
+MonitorBell.png: 1254 x 1254 Pixel
 
-Diese Adresse ist in den App-Einstellungen als Standard eingetragen.
+Alle PNGs benötigen einen echten Alphakanal und transparente Flächen. Figuren und Motive dürfen nicht angeschnitten sein.
+
+ACTIONS-SPRITE-SHEET
+Obere Reihe: Idle, Gehen 1, Gehen 2, Rennen
+Untere Reihe: Jubelsprung, Sprung/Landung, Präsentieren, Lesen/Betrachten
+
+Alle oberen Bewegungsframes schauen nach rechts. Gehen 1 und Gehen 2 unterscheiden sich nur durch Beinstellung und Armschwung. Die App spiegelt das komplette Sprite beim Zurücklaufen selbst.
+
+AUTOMATISCHER UPLOAD
+Neue Sets werden als Geschwisterordner BeamtenMonitorAvatar/Assets N angelegt. Die Automatik liest zuerst AssetSetSpec.json und die vier Referenz-PNGs aus BeamtenMonitorAvatar/Assets. Vorhandene Sets dürfen niemals überschrieben werden.
+
+Ein Set gilt erst als erfolgreich, wenn alle vier PNGs und die Spruch-JSON in einem Commit auf main hochgeladen und anschließend direkt von GitHub erneut geprüft wurden.

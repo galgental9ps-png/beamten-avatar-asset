@@ -1,0 +1,21 @@
+{
+  "runAt": "2026-08-30T20:36:49.928Z",
+  "statusType": "repository-migration-initialized",
+  "sourceRepository": "galgental9ps-png/VerwaltungsQuestBayern",
+  "targetRepository": "galgental9ps-png/beamten-avatar-asset",
+  "targetSet": "BeamtenMonitorAvatar/Assets",
+  "theme": "Basisreferenz",
+  "success": true,
+  "committedSha": null,
+  "buildSuccess": null,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/AssetSetSpec.json",
+    "BeamtenMonitorAvatar/Assets/README.txt",
+    "BeamtenMonitorAvatar/Assets/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets/Klingel/MonitorBell.png"
+  ],
+  "failedStep": "",
+  "message": "Neue Repository-Adresse, verbindliche Größen-Spezifikation und übertragene Basisreferenzen wurden eingerichtet. Die tägliche Asset-Automatik überschreibt diesen Status nach dem nächsten Lauf."
+}
