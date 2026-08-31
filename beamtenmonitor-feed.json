@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-30T06:00:00+02:00",
-  "checkedSources": "Tagesprüfung 30.08.2026: BVS-Jahrgang 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; Verkündungsplattform Bayern (BayMBl./GVBl.); Bayern.Recht; Stadt Augsburg Amtsblatt und Stadtrecht; Regierungsamtsblatt Schwaben. Keine neue fachlich relevante Änderung gegenüber dem Vortag.",
+  "updatedAt": "2026-08-31T05:59:23+02:00",
+  "checkedSources": "Tagesprüfung 31.08.2026: BVS-Jahrgang 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; Verkündungsplattform Bayern (BayMBl./GVBl.); Bayern.Recht; Stadt Augsburg Amtsblatt und Stadtrecht; Regierungsamtsblatt Schwaben. Keine neue fachlich relevante Änderung gegenüber dem Vortag.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -8,6 +8,23 @@
       "label": "Neueste Gesetzesänderungen",
       "intro": "Die zuletzt veröffentlichten und anhand amtlicher Primärquellen geprüften Änderungen im aktuellen Beamten-Monitor.",
       "changes": [
+        {
+          "title": "Keine neue relevante Änderung am 31.08.2026",
+          "kind": "Amtlicher Quellenprüfstand",
+          "reference": "Tagesprüfung 31.08.2026",
+          "published": "31.08.2026",
+          "effective": "Rechtsstand unverändert",
+          "summary": "Die geprüften amtlichen Primärquellen enthalten gegenüber dem Vortag keine zusätzliche relevante Rechts- oder Terminänderung. Der zuletzt verifizierte sachliche Stand bleibt erhalten.",
+          "administrationImpact": "Für Dienststellen entsteht aus der heutigen Quellenprüfung kein zusätzlicher Umstellungsbedarf. Bereits dokumentierte Inkrafttreten zum 1. September 2026 bleiben zu beachten.",
+          "checkpoints": [
+            "BayMBl. weiterhin bis Nr. 346 vom 26.08.2026",
+            "GVBl. weiterhin bis 14.08.2026",
+            "Augsburger Amtsblatt weiterhin Nr. 33/34 vom 21.08.2026",
+            "Regierungsamtsblatt Schwaben weiterhin Nr. 16 vom 18.08.2026"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Gefahrenabwehr bei Kampfmitteln neu geregelt",
           "kind": "Verwaltungsvorschrift",
