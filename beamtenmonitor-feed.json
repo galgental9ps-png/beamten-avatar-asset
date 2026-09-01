@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-31T05:59:23+02:00",
-  "checkedSources": "Tagesprüfung 31.08.2026: BVS-Jahrgang 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; Verkündungsplattform Bayern (BayMBl./GVBl.); Bayern.Recht; Stadt Augsburg Amtsblatt und Stadtrecht; Regierungsamtsblatt Schwaben. Keine neue fachlich relevante Änderung gegenüber dem Vortag.",
+  "updatedAt": "2026-09-01T05:58:24+02:00",
+  "checkedSources": "Tagesprüfung 01.09.2026: BVS-Jahrgang 2026/2028 samt Zeitplan, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; Verkündungsplattform Bayern (BayMBl./GVBl.); Bayern.Recht; Stadt Augsburg Amtsblatt/Stadtrecht; Regierungsamtsblatt Schwaben. Eine neue relevante Änderung: Steuer-Zuständigkeitsverordnung, GVBl. 2026 S. 574.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "id": "latest",
       "label": "Neueste Gesetzesänderungen",
-      "intro": "Die zuletzt veröffentlichten und anhand amtlicher Primärquellen geprüften Änderungen im aktuellen Beamten-Monitor.",
+      "intro": "Amtlicher Tagesstand 01.09.2026 mit der neu veröffentlichten Steuer-Zuständigkeitsverordnung und den zuletzt verifizierten Änderungen.",
       "changes": [
         {
-          "title": "Keine neue relevante Änderung am 31.08.2026",
-          "kind": "Amtlicher Quellenprüfstand",
-          "reference": "Tagesprüfung 31.08.2026",
+          "title": "Steuer-Zuständigkeitsverordnung geändert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 574",
           "published": "31.08.2026",
-          "effective": "Rechtsstand unverändert",
-          "summary": "Die geprüften amtlichen Primärquellen enthalten gegenüber dem Vortag keine zusätzliche relevante Rechts- oder Terminänderung. Der zuletzt verifizierte sachliche Stand bleibt erhalten.",
-          "administrationImpact": "Für Dienststellen entsteht aus der heutigen Quellenprüfung kein zusätzlicher Umstellungsbedarf. Bereits dokumentierte Inkrafttreten zum 1. September 2026 bleiben zu beachten.",
+          "effective": "§ 1 ab 01.09.2026; § 2 ab 01.10.2026; § 3 ab 01.11.2026; § 4 ab 01.12.2026",
+          "summary": "§ 5 Abs. 1 und Anlage 3 der Steuer-Zuständigkeitsverordnung werden geändert. Besondere Aufgaben der staatlichen Steuerverwaltung werden bestimmten Finanzämtern bezirksübergreifend zugewiesen; weitere örtliche Zuständigkeiten wechseln in drei Folgestufen.",
+          "administrationImpact": "Unmittelbar betroffen sind Finanzämter und Verfahren der staatlichen Steuerverwaltung. Kommunale Stellen erhalten keine neuen Vollzugsaufgaben, müssen bei steuerbezogenen Schnittstellen aber die jeweils gültige Zuständigkeitsverteilung beachten.",
           "checkpoints": [
-            "BayMBl. weiterhin bis Nr. 346 vom 26.08.2026",
-            "GVBl. weiterhin bis 14.08.2026",
-            "Augsburger Amtsblatt weiterhin Nr. 33/34 vom 21.08.2026",
-            "Regierungsamtsblatt Schwaben weiterhin Nr. 16 vom 18.08.2026"
+            "Ab dem jeweiligen Stichtag Anlage 3 auf die zuständige Finanzbehörde prüfen",
+            "Geschäftsverteilung und Verfahrensweiterleitungen in betroffenen Finanzämtern anpassen",
+            "Bayern.Recht-Gültigkeitsstand kontrollieren; am 01.09.2026 zeigte die Lesefassung noch den Stand ab 01.01.2026",
+            "Keine Rückwirkung; die vier Inkrafttretensstufen getrennt anwenden"
           ],
-          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/",
-          "consolidatedUrl": ""
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-574/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayZustVSt"
         },
         {
           "title": "Gefahrenabwehr bei Kampfmitteln neu geregelt",
@@ -78,8 +78,25 @@
     {
       "id": "important",
       "label": "Was ist wichtig?",
-      "intro": "Die wichtigsten Prüfpunkte aus dem verifizierten Tagesstand vom 30.08.2026.",
+      "intro": "Die wichtigsten neutralen Prüfpunkte aus dem verifizierten Tagesstand vom 01.09.2026.",
       "changes": [
+        {
+          "title": "Steuer-Zuständigkeitsverordnung geändert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 574",
+          "published": "31.08.2026",
+          "effective": "§ 1 ab 01.09.2026; § 2 ab 01.10.2026; § 3 ab 01.11.2026; § 4 ab 01.12.2026",
+          "summary": "§ 5 Abs. 1 und Anlage 3 der Steuer-Zuständigkeitsverordnung werden geändert. Besondere Aufgaben der staatlichen Steuerverwaltung werden bestimmten Finanzämtern bezirksübergreifend zugewiesen; weitere örtliche Zuständigkeiten wechseln in drei Folgestufen.",
+          "administrationImpact": "Unmittelbar betroffen sind Finanzämter und Verfahren der staatlichen Steuerverwaltung. Kommunale Stellen erhalten keine neuen Vollzugsaufgaben, müssen bei steuerbezogenen Schnittstellen aber die jeweils gültige Zuständigkeitsverteilung beachten.",
+          "checkpoints": [
+            "Ab dem jeweiligen Stichtag Anlage 3 auf die zuständige Finanzbehörde prüfen",
+            "Geschäftsverteilung und Verfahrensweiterleitungen in betroffenen Finanzämtern anpassen",
+            "Bayern.Recht-Gültigkeitsstand kontrollieren; am 01.09.2026 zeigte die Lesefassung noch den Stand ab 01.01.2026",
+            "Keine Rückwirkung; die vier Inkrafttretensstufen getrennt anwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-574/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayZustVSt"
+        },
         {
           "title": "Mehrere Rechtsänderungen greifen zum 1. September",
           "kind": "Stichtagshinweis",
@@ -133,8 +150,25 @@
     {
       "id": "changes",
       "label": "Gesetzesänderungen anzeigen",
-      "intro": "Kompakte Liste der derzeit im Beamten-Monitor geführten Rechtsänderungen und Bekanntmachungen.",
+      "intro": "Kompakte Liste der am 01.09.2026 im Beamten-Monitor geführten und amtlich geprüften Rechtsänderungen.",
       "changes": [
+        {
+          "title": "Steuer-Zuständigkeitsverordnung geändert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 574",
+          "published": "31.08.2026",
+          "effective": "§ 1 ab 01.09.2026; § 2 ab 01.10.2026; § 3 ab 01.11.2026; § 4 ab 01.12.2026",
+          "summary": "§ 5 Abs. 1 und Anlage 3 der Steuer-Zuständigkeitsverordnung werden geändert. Besondere Aufgaben der staatlichen Steuerverwaltung werden bestimmten Finanzämtern bezirksübergreifend zugewiesen; weitere örtliche Zuständigkeiten wechseln in drei Folgestufen.",
+          "administrationImpact": "Unmittelbar betroffen sind Finanzämter und Verfahren der staatlichen Steuerverwaltung. Kommunale Stellen erhalten keine neuen Vollzugsaufgaben, müssen bei steuerbezogenen Schnittstellen aber die jeweils gültige Zuständigkeitsverteilung beachten.",
+          "checkpoints": [
+            "Ab dem jeweiligen Stichtag Anlage 3 auf die zuständige Finanzbehörde prüfen",
+            "Geschäftsverteilung und Verfahrensweiterleitungen in betroffenen Finanzämtern anpassen",
+            "Bayern.Recht-Gültigkeitsstand kontrollieren; am 01.09.2026 zeigte die Lesefassung noch den Stand ab 01.01.2026",
+            "Keine Rückwirkung; die vier Inkrafttretensstufen getrennt anwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-574/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayZustVSt"
+        },
         {
           "title": "Gefahrenabwehr bei Kampfmitteln neu geregelt",
           "kind": "Verwaltungsvorschrift",
