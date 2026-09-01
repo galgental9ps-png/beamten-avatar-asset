@@ -1,17 +1,17 @@
 {
-  "runAt": "2026-08-31T06:23:02+02:00",
-  "targetSet": "BeamtenMonitorAvatar/Assets 3",
-  "theme": "Gartentag",
+  "runAt": "2026-09-01T06:23:28+02:00",
+  "targetSet": "BeamtenMonitorAvatar/Assets 5",
+  "theme": "Fahrradtag",
   "success": true,
-  "committedSha": "7447648f6e256d514e1e75a931f507f8274ed266",
+  "committedSha": "e7ace1d91920cb758818038e6d55578722f5a0f2",
   "buildSuccess": false,
   "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 3/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 3/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 3/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 3/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 3/Sprüche/Abschiedsspruch.json"
+    "BeamtenMonitorAvatar/Assets 5/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 5/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 5/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 5/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 5/Sprüche/Abschiedsspruch.json"
   ],
   "failedStep": "",
-  "message": "Alle fünf Asset-Dateien wurden atomar veröffentlicht und anschließend direkt von main erneut geladen und validiert. Im Asset-Repository ist kein GitHub-Actions-Workflow vorhanden; daher war keine Windows-Build-Prüfung verfügbar."
+  "message": "Alle fünf Dateien wurden atomar committed, erneut von GitHub main geladen und validiert. Im reinen Asset-Repository ist kein GitHub-Actions-Workflow oder Commit-Statuscheck vorhanden."
 }
