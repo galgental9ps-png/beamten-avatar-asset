@@ -1,17 +1,11 @@
 {
-  "runAt": "2026-09-01T06:23:28+02:00",
-  "targetSet": "BeamtenMonitorAvatar/Assets 5",
-  "theme": "Fahrradtag",
-  "success": true,
-  "committedSha": "e7ace1d91920cb758818038e6d55578722f5a0f2",
+  "runAt": "2026-09-02T06:08:03+02:00",
+  "targetSet": "BeamtenMonitorAvatar/Assets 6",
+  "theme": "Bibliothekstag",
+  "success": false,
+  "committedSha": null,
   "buildSuccess": false,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 5/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 5/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 5/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 5/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 5/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Alle fünf Dateien wurden atomar committed, erneut von GitHub main geladen und validiert. Im reinen Asset-Repository ist kein GitHub-Actions-Workflow oder Commit-Statuscheck vorhanden."
+  "verifiedPaths": [],
+  "failedStep": "png-validation",
+  "message": "Die Bildgenerierung lieferte bei vier Versuchen für Idle.png nur RGB-PNGs mit eingezeichnetem Schachbrett statt echtem Alphakanal, auch bei Hintergrundentfernung und Bearbeitung einer RGBA-Referenz. Kein Asset-Set und keine Teilmenge veröffentlicht; vorhandene Sets unverändert. Direkte Pixel-Freistellung nicht vorgenommen, da für diesen Lauf Neugenerierung vorgeschrieben ist."
 }
