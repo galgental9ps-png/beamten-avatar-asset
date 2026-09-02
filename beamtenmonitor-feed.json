@@ -1,13 +1,29 @@
 {
-  "updatedAt": "2026-09-01T05:58:24+02:00",
-  "checkedSources": "Tagesprüfung 01.09.2026: BVS-Jahrgang 2026/2028 samt Zeitplan, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; Verkündungsplattform Bayern (BayMBl./GVBl.); Bayern.Recht; Stadt Augsburg Amtsblatt/Stadtrecht; Regierungsamtsblatt Schwaben. Eine neue relevante Änderung: Steuer-Zuständigkeitsverordnung, GVBl. 2026 S. 574.",
+  "updatedAt": "2026-09-02T06:01:49+02:00",
+  "checkedSources": "Keine relevante Änderung; amtliche Quellen geprüft. GVBl. weiterhin S. 574 vom 31.08.2026, BayMBl. bis Nr. 346 vom 26.08.2026; Augsburg Amtsblatt 33/34 vom 21.08. und Schwaben Nr. 16 vom 18.08.2026. Quellenaktualisierung: ZustVSt und Kampfmittelabwehr jetzt mit Bayern.Recht-Gültigkeitsstand 01.09.2026; Museumsförderung ab 25.08.2026. BVS-Unterlagen einschließlich Zeitplan, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung erneut geprüft; keine neue Terminänderung festgestellt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "id": "latest",
       "label": "Neueste Gesetzesänderungen",
-      "intro": "Amtlicher Tagesstand 01.09.2026 mit der neu veröffentlichten Steuer-Zuständigkeitsverordnung und den zuletzt verifizierten Änderungen.",
+      "intro": "Tagesstand 02.09.2026: keine neue relevante Verkündung; aktuelle Lesefassungen und amtliche Quellen geprüft.",
       "changes": [
+        {
+          "title": "Quellenprüfung 02.09.2026 – keine neue relevante Änderung",
+          "kind": "Quellenprüfstand, keine Rechtsänderung",
+          "reference": "Tagesprüfung 02.09.2026",
+          "published": "02.09.2026",
+          "effective": "Kein neues Inkrafttreten",
+          "summary": "Keine neue relevante Verkündung festgestellt. Aktuelle Bayern.Recht-Lesefassungen für Steuerzuständigkeit, Kampfmittelabwehr und Museumsförderung nachgewiesen.",
+          "administrationImpact": "Verweise auf Vorgängerfassungen in Arbeitshilfen durch die aktuellen Lesefassungen ersetzen.",
+          "checkpoints": [
+            "ZustVSt: Gültigkeitsstand 01.09.2026",
+            "Kampfmittelabwehr: Gültigkeitsstand 01.09.2026",
+            "Museumsförderung: Gültigkeitsstand 25.08.2026"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Steuer-Zuständigkeitsverordnung geändert",
           "kind": "Rechtsverordnung",
@@ -19,7 +35,7 @@
           "checkpoints": [
             "Ab dem jeweiligen Stichtag Anlage 3 auf die zuständige Finanzbehörde prüfen",
             "Geschäftsverteilung und Verfahrensweiterleitungen in betroffenen Finanzämtern anpassen",
-            "Bayern.Recht-Gültigkeitsstand kontrollieren; am 01.09.2026 zeigte die Lesefassung noch den Stand ab 01.01.2026",
+            "Bayern.Recht zeigt am 02.09.2026 den Gültigkeitsstand 01.09.2026; spätere Änderungsstufen getrennt beachten",
             "Keine Rückwirkung; die vier Inkrafttretensstufen getrennt anwenden"
           ],
           "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-574/",
@@ -39,7 +55,7 @@
             "Ab 01.09.2026 den neuen BayMBl.-Text zugrunde legen."
           ],
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-345/",
-          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV238759"
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2011_I_15792"
         },
         {
           "title": "52. Jahreskrankenhausbauprogramm 2026",
@@ -71,14 +87,14 @@
             "Gebührenregelungen ab 01.09.2026 korrekt anwenden."
           ],
           "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-33-34_vom-21-08-2026.pdf",
-          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+          "consolidatedUrl": ""
         }
       ]
     },
     {
       "id": "important",
       "label": "Was ist wichtig?",
-      "intro": "Die wichtigsten neutralen Prüfpunkte aus dem verifizierten Tagesstand vom 01.09.2026.",
+      "intro": "Tagesstand 02.09.2026: keine neue relevante Verkündung; aktuelle Lesefassungen und amtliche Quellen geprüft.",
       "changes": [
         {
           "title": "Steuer-Zuständigkeitsverordnung geändert",
@@ -91,35 +107,35 @@
           "checkpoints": [
             "Ab dem jeweiligen Stichtag Anlage 3 auf die zuständige Finanzbehörde prüfen",
             "Geschäftsverteilung und Verfahrensweiterleitungen in betroffenen Finanzämtern anpassen",
-            "Bayern.Recht-Gültigkeitsstand kontrollieren; am 01.09.2026 zeigte die Lesefassung noch den Stand ab 01.01.2026",
+            "Bayern.Recht zeigt am 02.09.2026 den Gültigkeitsstand 01.09.2026; spätere Änderungsstufen getrennt beachten",
             "Keine Rückwirkung; die vier Inkrafttretensstufen getrennt anwenden"
           ],
           "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-574/",
           "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayZustVSt"
         },
         {
-          "title": "Mehrere Rechtsänderungen greifen zum 1. September",
+          "title": "Seit 1. September geltende Vorschriften anwenden",
           "kind": "Stichtagshinweis",
-          "reference": "Prüfstand 30.08.2026",
-          "published": "30.08.2026",
+          "reference": "Prüfstand 02.09.2026",
+          "published": "02.09.2026",
           "effective": "01.09.2026",
-          "summary": "Zum 1. September werden unter anderem die neue Kampfmittel-Bekanntmachung, Augsburger Kita-/Ganztagsregelungen und wesentliche Änderungen der Bayerischen Beihilfeverordnung relevant.",
-          "administrationImpact": "Dienststellen sollten vor dem Stichtag prüfen, ob Arbeitsunterlagen, Prüfschritte, Formulare oder interne Hinweise auf den neuen Rechtsstand angepasst werden müssen.",
+          "summary": "Seit 1. September sind unter anderem die neue Kampfmittel-Bekanntmachung, Augsburger Kita-/Ganztagsregelungen und wesentliche Änderungen der Bayerischen Beihilfeverordnung relevant.",
+          "administrationImpact": "Dienststellen prüfen Arbeitsunterlagen und Verfahren auf die seit 01.09.2026 geltenden Fassungen.",
           "checkpoints": [
             "Stichtag 01.09.2026 in betroffenen Verfahren beachten.",
             "Änderungstext und konsolidierte Lesefassung getrennt prüfen.",
             "Interne Arbeitshilfen nicht ungeprüft aus dem alten Stand weiterverwenden."
           ],
           "sourceUrl": "https://www.verkuendung-bayern.de/",
-          "consolidatedUrl": "https://www.gesetze-bayern.de/"
+          "consolidatedUrl": ""
         },
         {
           "title": "Quellenstand vor Anwendung kontrollieren",
           "kind": "Qualitätshinweis",
-          "reference": "Prüfstand 30.08.2026",
-          "published": "30.08.2026",
+          "reference": "Prüfstand 02.09.2026",
+          "published": "02.09.2026",
           "effective": "laufend",
-          "summary": "BayMBl. steht weiterhin bei Nr. 346 vom 26.08.2026, das GVBl. bei Ausgabe 15 vom 14.08.2026, Augsburg bei Amtsblatt 33/34 vom 21.08.2026 und das Regierungsamtsblatt Schwaben bei Nr. 16 vom 18.08.2026.",
+          "summary": "GVBl. S. 574 vom 31.08.2026 und BayMBl. Nr. 346 vom 26.08.2026 bleiben aktuell. ZustVSt und Kampfmittelabwehr sind bei Bayern.Recht ab 01.09.2026, die Museumsförderung ab 25.08.2026 verfügbar.",
           "administrationImpact": "Entscheidungen sollten auf der amtlichen Fundstelle und dem jeweils passenden Gültigkeitsstand der konsolidierten Fassung beruhen.",
           "checkpoints": [
             "Amtliche Fundstelle direkt öffnen.",
@@ -127,7 +143,7 @@
             "Gültigkeitsdatum der konsolidierten Fassung kontrollieren."
           ],
           "sourceUrl": "https://www.verkuendung-bayern.de/",
-          "consolidatedUrl": "https://www.gesetze-bayern.de/"
+          "consolidatedUrl": ""
         },
         {
           "title": "Augsburger und schwäbische Bekanntmachungen weiter beobachten",
@@ -143,14 +159,14 @@
             "Inkrafttreten nicht aus einem bloßen Abdruck ableiten."
           ],
           "sourceUrl": "https://www.augsburg.de/amtliche-bekanntmachungen",
-          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/service/veroeffentlichungen/amtsblatt/index.html"
+          "consolidatedUrl": ""
         }
       ]
     },
     {
       "id": "changes",
       "label": "Gesetzesänderungen anzeigen",
-      "intro": "Kompakte Liste der am 01.09.2026 im Beamten-Monitor geführten und amtlich geprüften Rechtsänderungen.",
+      "intro": "Tagesstand 02.09.2026: keine neue relevante Verkündung; aktuelle Lesefassungen und amtliche Quellen geprüft.",
       "changes": [
         {
           "title": "Steuer-Zuständigkeitsverordnung geändert",
@@ -163,7 +179,7 @@
           "checkpoints": [
             "Ab dem jeweiligen Stichtag Anlage 3 auf die zuständige Finanzbehörde prüfen",
             "Geschäftsverteilung und Verfahrensweiterleitungen in betroffenen Finanzämtern anpassen",
-            "Bayern.Recht-Gültigkeitsstand kontrollieren; am 01.09.2026 zeigte die Lesefassung noch den Stand ab 01.01.2026",
+            "Bayern.Recht zeigt am 02.09.2026 den Gültigkeitsstand 01.09.2026; spätere Änderungsstufen getrennt beachten",
             "Keine Rückwirkung; die vier Inkrafttretensstufen getrennt anwenden"
           ],
           "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-574/",
@@ -183,7 +199,7 @@
             "Neuen amtlichen Text ab 01.09. verwenden."
           ],
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-345/",
-          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV238759"
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2011_I_15792"
         },
         {
           "title": "52. Jahreskrankenhausbauprogramm 2026",
@@ -215,7 +231,7 @@
             "Formulare und Abläufe abgleichen."
           ],
           "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-33-34_vom-21-08-2026.pdf",
-          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+          "consolidatedUrl": ""
         },
         {
           "title": "ZRF-Verbandssatzung modernisiert",
@@ -231,13 +247,13 @@
             "Einladungs- und Verfahrensregeln erst nach geklärtem Inkrafttreten anwenden."
           ],
           "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-33-34_vom-21-08-2026.pdf",
-          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/service/veroeffentlichungen/amtsblatt/index.html"
+          "consolidatedUrl": ""
         },
         {
           "title": "Bayerische Beihilfeverordnung geändert",
           "kind": "Rechtsverordnung",
           "reference": "GVBl. 2026 S. 495",
-          "published": "14.08.2026",
+          "published": "30.07.2026",
           "effective": "Hauptpaket ab 01.09.2026; einzelne Übergangsregelungen abweichend",
           "summary": "Geändert werden unter anderem Heilbehandlungen, Hilfsmittel, Pflegeleistungen und Teile der Psychotherapie.",
           "administrationImpact": "Beihilfestellen müssen neue Prüfregeln und Übergangsbestimmungen nach dem jeweils maßgeblichen Leistungsdatum anwenden.",
