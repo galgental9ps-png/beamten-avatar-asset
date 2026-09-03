@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-09-02T06:08:03+02:00",
+  "runAt": "2026-09-03T06:02:10+02:00",
   "targetSet": "BeamtenMonitorAvatar/Assets 6",
   "theme": "Bibliothekstag",
   "success": false,
@@ -7,5 +7,5 @@
   "buildSuccess": false,
   "verifiedPaths": [],
   "failedStep": "png-validation",
-  "message": "Die Bildgenerierung lieferte bei vier Versuchen für Idle.png nur RGB-PNGs mit eingezeichnetem Schachbrett statt echtem Alphakanal, auch bei Hintergrundentfernung und Bearbeitung einer RGBA-Referenz. Kein Asset-Set und keine Teilmenge veröffentlicht; vorhandene Sets unverändert. Direkte Pixel-Freistellung nicht vorgenommen, da für diesen Lauf Neugenerierung vorgeschrieben ist."
+  "message": "Erneute Prüfung am 03.09.2026: Spezifikation und vier originale Referenzbilder geladen, visuell geprüft und deren PNG-Maße/Alphakanal validiert. Zwei neue Idle-Bildversuche (Generierung und Freistellung) ergeben jeweils 1024x1536 RGB-PNG ohne Alphakanal, mit eingebranntem Schachbrett. Kein Asset-Set oder Teilset veröffentlicht; vorhandene Assets unverändert. Keine Build-Prüfung für ein Asset-Commit möglich, da kein Asset-Commit erstellt wurde. Automatische Veröffentlichung wegen fehlender echter Transparenz blockiert."
 }
