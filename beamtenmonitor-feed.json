@@ -1,28 +1,61 @@
 {
-  "updatedAt": "2026-09-02T06:01:49+02:00",
-  "checkedSources": "Keine relevante Änderung; amtliche Quellen geprüft. GVBl. weiterhin S. 574 vom 31.08.2026, BayMBl. bis Nr. 346 vom 26.08.2026; Augsburg Amtsblatt 33/34 vom 21.08. und Schwaben Nr. 16 vom 18.08.2026. Quellenaktualisierung: ZustVSt und Kampfmittelabwehr jetzt mit Bayern.Recht-Gültigkeitsstand 01.09.2026; Museumsförderung ab 25.08.2026. BVS-Unterlagen einschließlich Zeitplan, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung erneut geprüft; keine neue Terminänderung festgestellt.",
+  "updatedAt": "2026-09-03T06:12:00+02:00",
+  "checkedSources": "03.09.2026: BayMBl. bis Nr. 352 vom 02.09.2026 geprüft: zwei geänderte Verwaltungsvorschriften (Kunst/Musik) und eine neue befristete Allgemeinverfügung (Lkw/Niedrigwasser). GVBl. weiterhin S. 574 vom 31.08.2026. Augsburg Amtsblatt 33/34 vom 21.08.; Schwaben Nr. 16 vom 18.08.2026. BVS-Jahrgangsseite, Zeitplan, Leistungsnachweise, Stoffgliederung und Hilfsmittelbestimmung sowie Stadtrecht/Ausbildung geprüft; keine neue BVS-Terminänderung festgestellt. Bayern.Recht: ZustVSt/BayBhV/Kampfmittel ab 01.09.2026, Museumsförderung ab 25.08.2026; Kunst/Musik noch ab 01.08.2023 mit altem Wortlaut.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "id": "latest",
       "label": "Neueste Gesetzesänderungen",
-      "intro": "Tagesstand 02.09.2026: keine neue relevante Verkündung; aktuelle Lesefassungen und amtliche Quellen geprüft.",
+      "intro": "Tagesstand 03.09.2026: zwei geänderte Verwaltungsvorschriften (Kunst/Musik) und eine befristete Allgemeinverfügung (Lkw/Niedrigwasser). Keine neue BVS-Terminänderung.",
       "changes": [
         {
-          "title": "Quellenprüfung 02.09.2026 – keine neue relevante Änderung",
-          "kind": "Quellenprüfstand, keine Rechtsänderung",
-          "reference": "Tagesprüfung 02.09.2026",
-          "published": "02.09.2026",
-          "effective": "Kein neues Inkrafttreten",
-          "summary": "Keine neue relevante Verkündung festgestellt. Aktuelle Bayern.Recht-Lesefassungen für Steuerzuständigkeit, Kampfmittelabwehr und Museumsförderung nachgewiesen.",
-          "administrationImpact": "Verweise auf Vorgängerfassungen in Arbeitshilfen durch die aktuellen Lesefassungen ersetzen.",
+          "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen bei Auskünften und Kontrollen Transportzweck, Nachweise und Befristung unterscheiden. Keine pauschale Freigabe sämtlicher Lkw-Fahrten; andere Länder haben eigene Regelungen.",
           "checkpoints": [
-            "ZustVSt: Gültigkeitsstand 01.09.2026",
-            "Kampfmittelabwehr: Gültigkeitsstand 01.09.2026",
-            "Museumsförderung: Gültigkeitsstand 25.08.2026"
+            "Geltungszeitraum 06.09.–04.10.2026 prüfen; nicht schon am Veröffentlichungstag anwenden.",
+            "Nachweis des Niedrigwasserbezugs und Zusammenhang von Leerfahrten prüfen.",
+            "Sofortige Vollziehbarkeit nicht mit früherem Geltungsbeginn verwechseln.",
+            "Keine gesonderte konsolidierte Bayern.Recht-Fassung nachgewiesen; Verfügung direkt verwenden."
           ],
-          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/",
-          "consolidatedUrl": ""
+          "consolidatedUrl": "",
+          "effective": "06.09.2026 bis einschließlich 04.10.2026; keine Rückwirkung",
+          "kind": "Allgemeinverfügung – keine Änderung der StVO",
+          "published": "02.09.2026",
+          "reference": "BayMBl. 2026 Nr. 352; Bekanntmachung vom 26.08.2026, Az. C14-3612-21-220",
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-352/",
+          "summary": "In Bayern dürfen gewerbliche Gütertransporte mit Lkw über 7,5 t und Lkw mit Anhängern ausnahmsweise sonntags und feiertags fahren, wenn der Zusammenhang mit Niedrigwasserfolgen nachweisbar ist. Zugehörige Leerfahrten benötigen einen direkten, nachweisbaren Zusammenhang. Nur erforderlicher Umfang; Sicherheit, Verkehrslage und Feiertagsruhe beachten. Sofortige Vollziehbarkeit ist angeordnet. Amtlich ist das BayMBl.-PDF/A.",
+          "title": "Aussetzung des Sonn- und Feiertagsfahrverbots nach § 30 Abs. 3 Satz 1 StVO in Bayern zur Bewältigung der Auswirkungen des Niedrigwassers in den deutschen Binnenschifffahrtsstraßen"
+        },
+        {
+          "administrationImpact": "Betroffene Gymnasien, Oberstufenkoordination und Schulaufsicht müssen Formulare und Beratung zur Leistungsfachwahl anpassen; bei kommunalen Gymnasien auch die entsprechenden städtischen Schulstellen. Keine neue allgemeine kommunale Aufgabe.",
+          "checkpoints": [
+            "Notennachweis zum Halbjahr statt Bindung an das Zwischenzeugnis prüfen.",
+            "Rückwirkung auf 18.08.2026 beachten; keine besondere Übergangsregel im Änderungstext.",
+            "Bayern.Recht zeigt noch 01.08.2023 und den alten Wortlaut; bis zur Konsolidierung Änderungstext ergänzend anwenden."
+          ],
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2235_1_1_5_K_13894/true",
+          "effective": "rückwirkend ab 18.08.2026",
+          "kind": "Verwaltungsvorschrift",
+          "published": "02.09.2026",
+          "reference": "BayMBl. 2026 Nr. 350; 2235.1.1.5-K; Bekanntmachung vom 18.08.2026, Az. VIII.4-BS5402.17/12/5",
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-350/",
+          "summary": "In Nr. 1.2 Satz 2 Spiegelstriche 1 und 3 werden „im Zwischenzeugnis“ durch „zum Halbjahr“ und „keine Zwischenzeugnisnote“ durch „keine Note zum Halbjahr“ ersetzt. Die Änderung betrifft den Notennachweis für die Wahl des Leistungsfachs Kunst. Amtlich ist das BayMBl.-PDF/A.",
+          "title": "Änderung der Bekanntmachung über die Regelungen für das Fach Kunst in der Qualifikationsphase der Oberstufe des neunjährigen Gymnasiums"
+        },
+        {
+          "administrationImpact": "Gymnasien, Musikfachschaften, Oberstufenkoordination und Schulaufsicht müssen Auswahlunterlagen und Auskünfte anpassen; kommunale Gymnasien sind entsprechend betroffen. Keine neue allgemeine kommunale Aufgabe.",
+          "checkpoints": [
+            "Notennachweis zum Halbjahr bei Leistungsfachwahl berücksichtigen.",
+            "Rückwirkung auf 18.08.2026 beachten; keine gesonderte Übergangsregel.",
+            "Bayern.Recht Nr. 1 zeigt noch 01.08.2023 und den alten Wortlaut; Änderungstext ergänzend verwenden."
+          ],
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2235_1_1_5_K_13864-0",
+          "effective": "rückwirkend ab 18.08.2026",
+          "kind": "Verwaltungsvorschrift",
+          "published": "02.09.2026",
+          "reference": "BayMBl. 2026 Nr. 349; 2235.1.1.5-K; Bekanntmachung vom 18.08.2026, Az. VIII.4-BS5402.18/3/6",
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-349/",
+          "summary": "In Nr. 1.2 Satz 3 Spiegelstriche 1 und 3 werden „im Zwischenzeugnis“ durch „zum Halbjahr“ und „keine Zwischenzeugnisnote“ durch „keine Note zum Halbjahr“ ersetzt. Betroffen ist der Notennachweis für die Wahl des Leistungsfachs Musik. Amtlich ist das BayMBl.-PDF/A.",
+          "title": "Änderung der Bekanntmachung über das Leistungsfach Musik sowie Fächer des Zusatzangebots „Vokalensemble“ und „Instrumentalensemble“ in der Oberstufe des neunjährigen Gymnasiums"
         },
         {
           "title": "Steuer-Zuständigkeitsverordnung geändert",
@@ -35,7 +68,7 @@
           "checkpoints": [
             "Ab dem jeweiligen Stichtag Anlage 3 auf die zuständige Finanzbehörde prüfen",
             "Geschäftsverteilung und Verfahrensweiterleitungen in betroffenen Finanzämtern anpassen",
-            "Bayern.Recht zeigt am 02.09.2026 den Gültigkeitsstand 01.09.2026; spätere Änderungsstufen getrennt beachten",
+            "Bayern.Recht zeigt am 03.09.2026 den Gültigkeitsstand 01.09.2026; spätere Änderungsstufen getrennt beachten",
             "Keine Rückwirkung; die vier Inkrafttretensstufen getrennt anwenden"
           ],
           "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-574/",
@@ -94,8 +127,57 @@
     {
       "id": "important",
       "label": "Was ist wichtig?",
-      "intro": "Tagesstand 02.09.2026: keine neue relevante Verkündung; aktuelle Lesefassungen und amtliche Quellen geprüft.",
+      "intro": "Tagesstand 03.09.2026: zwei geänderte Verwaltungsvorschriften (Kunst/Musik) und eine befristete Allgemeinverfügung (Lkw/Niedrigwasser). Keine neue BVS-Terminänderung.",
       "changes": [
+        {
+          "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen bei Auskünften und Kontrollen Transportzweck, Nachweise und Befristung unterscheiden. Keine pauschale Freigabe sämtlicher Lkw-Fahrten; andere Länder haben eigene Regelungen.",
+          "checkpoints": [
+            "Geltungszeitraum 06.09.–04.10.2026 prüfen; nicht schon am Veröffentlichungstag anwenden.",
+            "Nachweis des Niedrigwasserbezugs und Zusammenhang von Leerfahrten prüfen.",
+            "Sofortige Vollziehbarkeit nicht mit früherem Geltungsbeginn verwechseln.",
+            "Keine gesonderte konsolidierte Bayern.Recht-Fassung nachgewiesen; Verfügung direkt verwenden."
+          ],
+          "consolidatedUrl": "",
+          "effective": "06.09.2026 bis einschließlich 04.10.2026; keine Rückwirkung",
+          "kind": "Allgemeinverfügung – keine Änderung der StVO",
+          "published": "02.09.2026",
+          "reference": "BayMBl. 2026 Nr. 352; Bekanntmachung vom 26.08.2026, Az. C14-3612-21-220",
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-352/",
+          "summary": "In Bayern dürfen gewerbliche Gütertransporte mit Lkw über 7,5 t und Lkw mit Anhängern ausnahmsweise sonntags und feiertags fahren, wenn der Zusammenhang mit Niedrigwasserfolgen nachweisbar ist. Zugehörige Leerfahrten benötigen einen direkten, nachweisbaren Zusammenhang. Nur erforderlicher Umfang; Sicherheit, Verkehrslage und Feiertagsruhe beachten. Sofortige Vollziehbarkeit ist angeordnet. Amtlich ist das BayMBl.-PDF/A.",
+          "title": "Aussetzung des Sonn- und Feiertagsfahrverbots nach § 30 Abs. 3 Satz 1 StVO in Bayern zur Bewältigung der Auswirkungen des Niedrigwassers in den deutschen Binnenschifffahrtsstraßen"
+        },
+        {
+          "administrationImpact": "Betroffene Gymnasien, Oberstufenkoordination und Schulaufsicht müssen Formulare und Beratung zur Leistungsfachwahl anpassen; bei kommunalen Gymnasien auch die entsprechenden städtischen Schulstellen. Keine neue allgemeine kommunale Aufgabe.",
+          "checkpoints": [
+            "Notennachweis zum Halbjahr statt Bindung an das Zwischenzeugnis prüfen.",
+            "Rückwirkung auf 18.08.2026 beachten; keine besondere Übergangsregel im Änderungstext.",
+            "Bayern.Recht zeigt noch 01.08.2023 und den alten Wortlaut; bis zur Konsolidierung Änderungstext ergänzend anwenden."
+          ],
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2235_1_1_5_K_13894/true",
+          "effective": "rückwirkend ab 18.08.2026",
+          "kind": "Verwaltungsvorschrift",
+          "published": "02.09.2026",
+          "reference": "BayMBl. 2026 Nr. 350; 2235.1.1.5-K; Bekanntmachung vom 18.08.2026, Az. VIII.4-BS5402.17/12/5",
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-350/",
+          "summary": "In Nr. 1.2 Satz 2 Spiegelstriche 1 und 3 werden „im Zwischenzeugnis“ durch „zum Halbjahr“ und „keine Zwischenzeugnisnote“ durch „keine Note zum Halbjahr“ ersetzt. Die Änderung betrifft den Notennachweis für die Wahl des Leistungsfachs Kunst. Amtlich ist das BayMBl.-PDF/A.",
+          "title": "Änderung der Bekanntmachung über die Regelungen für das Fach Kunst in der Qualifikationsphase der Oberstufe des neunjährigen Gymnasiums"
+        },
+        {
+          "administrationImpact": "Gymnasien, Musikfachschaften, Oberstufenkoordination und Schulaufsicht müssen Auswahlunterlagen und Auskünfte anpassen; kommunale Gymnasien sind entsprechend betroffen. Keine neue allgemeine kommunale Aufgabe.",
+          "checkpoints": [
+            "Notennachweis zum Halbjahr bei Leistungsfachwahl berücksichtigen.",
+            "Rückwirkung auf 18.08.2026 beachten; keine gesonderte Übergangsregel.",
+            "Bayern.Recht Nr. 1 zeigt noch 01.08.2023 und den alten Wortlaut; Änderungstext ergänzend verwenden."
+          ],
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2235_1_1_5_K_13864-0",
+          "effective": "rückwirkend ab 18.08.2026",
+          "kind": "Verwaltungsvorschrift",
+          "published": "02.09.2026",
+          "reference": "BayMBl. 2026 Nr. 349; 2235.1.1.5-K; Bekanntmachung vom 18.08.2026, Az. VIII.4-BS5402.18/3/6",
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-349/",
+          "summary": "In Nr. 1.2 Satz 3 Spiegelstriche 1 und 3 werden „im Zwischenzeugnis“ durch „zum Halbjahr“ und „keine Zwischenzeugnisnote“ durch „keine Note zum Halbjahr“ ersetzt. Betroffen ist der Notennachweis für die Wahl des Leistungsfachs Musik. Amtlich ist das BayMBl.-PDF/A.",
+          "title": "Änderung der Bekanntmachung über das Leistungsfach Musik sowie Fächer des Zusatzangebots „Vokalensemble“ und „Instrumentalensemble“ in der Oberstufe des neunjährigen Gymnasiums"
+        },
         {
           "title": "Steuer-Zuständigkeitsverordnung geändert",
           "kind": "Rechtsverordnung",
@@ -107,7 +189,7 @@
           "checkpoints": [
             "Ab dem jeweiligen Stichtag Anlage 3 auf die zuständige Finanzbehörde prüfen",
             "Geschäftsverteilung und Verfahrensweiterleitungen in betroffenen Finanzämtern anpassen",
-            "Bayern.Recht zeigt am 02.09.2026 den Gültigkeitsstand 01.09.2026; spätere Änderungsstufen getrennt beachten",
+            "Bayern.Recht zeigt am 03.09.2026 den Gültigkeitsstand 01.09.2026; spätere Änderungsstufen getrennt beachten",
             "Keine Rückwirkung; die vier Inkrafttretensstufen getrennt anwenden"
           ],
           "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-574/",
@@ -116,8 +198,8 @@
         {
           "title": "Seit 1. September geltende Vorschriften anwenden",
           "kind": "Stichtagshinweis",
-          "reference": "Prüfstand 02.09.2026",
-          "published": "02.09.2026",
+          "reference": "Prüfstand 03.09.2026",
+          "published": "03.09.2026",
           "effective": "01.09.2026",
           "summary": "Seit 1. September sind unter anderem die neue Kampfmittel-Bekanntmachung, Augsburger Kita-/Ganztagsregelungen und wesentliche Änderungen der Bayerischen Beihilfeverordnung relevant.",
           "administrationImpact": "Dienststellen prüfen Arbeitsunterlagen und Verfahren auf die seit 01.09.2026 geltenden Fassungen.",
@@ -132,10 +214,10 @@
         {
           "title": "Quellenstand vor Anwendung kontrollieren",
           "kind": "Qualitätshinweis",
-          "reference": "Prüfstand 02.09.2026",
-          "published": "02.09.2026",
+          "reference": "Prüfstand 03.09.2026",
+          "published": "03.09.2026",
           "effective": "laufend",
-          "summary": "GVBl. S. 574 vom 31.08.2026 und BayMBl. Nr. 346 vom 26.08.2026 bleiben aktuell. ZustVSt und Kampfmittelabwehr sind bei Bayern.Recht ab 01.09.2026, die Museumsförderung ab 25.08.2026 verfügbar.",
+          "summary": "03.09.2026: BayMBl. bis Nr. 352 vom 02.09.2026 geprüft: zwei geänderte Verwaltungsvorschriften (Kunst/Musik) und eine neue befristete Allgemeinverfügung (Lkw/Niedrigwasser). GVBl. weiterhin S. 574 vom 31.08.2026. Augsburg Amtsblatt 33/34 vom 21.08.; Schwaben Nr. 16 vom 18.08.2026. BVS-Jahrgangsseite, Zeitplan, Leistungsnachweise, Stoffgliederung und Hilfsmittelbestimmung sowie Stadtrecht/Ausbildung geprüft; keine neue BVS-Terminänderung festgestellt. Bayern.Recht: ZustVSt/BayBhV/Kampfmittel ab 01.09.2026, Museumsförderung ab 25.08.2026; Kunst/Musik noch ab 01.08.2023 mit altem Wortlaut.",
           "administrationImpact": "Entscheidungen sollten auf der amtlichen Fundstelle und dem jeweils passenden Gültigkeitsstand der konsolidierten Fassung beruhen.",
           "checkpoints": [
             "Amtliche Fundstelle direkt öffnen.",
@@ -166,8 +248,57 @@
     {
       "id": "changes",
       "label": "Gesetzesänderungen anzeigen",
-      "intro": "Tagesstand 02.09.2026: keine neue relevante Verkündung; aktuelle Lesefassungen und amtliche Quellen geprüft.",
+      "intro": "Tagesstand 03.09.2026: zwei geänderte Verwaltungsvorschriften (Kunst/Musik) und eine befristete Allgemeinverfügung (Lkw/Niedrigwasser). Keine neue BVS-Terminänderung.",
       "changes": [
+        {
+          "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen bei Auskünften und Kontrollen Transportzweck, Nachweise und Befristung unterscheiden. Keine pauschale Freigabe sämtlicher Lkw-Fahrten; andere Länder haben eigene Regelungen.",
+          "checkpoints": [
+            "Geltungszeitraum 06.09.–04.10.2026 prüfen; nicht schon am Veröffentlichungstag anwenden.",
+            "Nachweis des Niedrigwasserbezugs und Zusammenhang von Leerfahrten prüfen.",
+            "Sofortige Vollziehbarkeit nicht mit früherem Geltungsbeginn verwechseln.",
+            "Keine gesonderte konsolidierte Bayern.Recht-Fassung nachgewiesen; Verfügung direkt verwenden."
+          ],
+          "consolidatedUrl": "",
+          "effective": "06.09.2026 bis einschließlich 04.10.2026; keine Rückwirkung",
+          "kind": "Allgemeinverfügung – keine Änderung der StVO",
+          "published": "02.09.2026",
+          "reference": "BayMBl. 2026 Nr. 352; Bekanntmachung vom 26.08.2026, Az. C14-3612-21-220",
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-352/",
+          "summary": "In Bayern dürfen gewerbliche Gütertransporte mit Lkw über 7,5 t und Lkw mit Anhängern ausnahmsweise sonntags und feiertags fahren, wenn der Zusammenhang mit Niedrigwasserfolgen nachweisbar ist. Zugehörige Leerfahrten benötigen einen direkten, nachweisbaren Zusammenhang. Nur erforderlicher Umfang; Sicherheit, Verkehrslage und Feiertagsruhe beachten. Sofortige Vollziehbarkeit ist angeordnet. Amtlich ist das BayMBl.-PDF/A.",
+          "title": "Aussetzung des Sonn- und Feiertagsfahrverbots nach § 30 Abs. 3 Satz 1 StVO in Bayern zur Bewältigung der Auswirkungen des Niedrigwassers in den deutschen Binnenschifffahrtsstraßen"
+        },
+        {
+          "administrationImpact": "Betroffene Gymnasien, Oberstufenkoordination und Schulaufsicht müssen Formulare und Beratung zur Leistungsfachwahl anpassen; bei kommunalen Gymnasien auch die entsprechenden städtischen Schulstellen. Keine neue allgemeine kommunale Aufgabe.",
+          "checkpoints": [
+            "Notennachweis zum Halbjahr statt Bindung an das Zwischenzeugnis prüfen.",
+            "Rückwirkung auf 18.08.2026 beachten; keine besondere Übergangsregel im Änderungstext.",
+            "Bayern.Recht zeigt noch 01.08.2023 und den alten Wortlaut; bis zur Konsolidierung Änderungstext ergänzend anwenden."
+          ],
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2235_1_1_5_K_13894/true",
+          "effective": "rückwirkend ab 18.08.2026",
+          "kind": "Verwaltungsvorschrift",
+          "published": "02.09.2026",
+          "reference": "BayMBl. 2026 Nr. 350; 2235.1.1.5-K; Bekanntmachung vom 18.08.2026, Az. VIII.4-BS5402.17/12/5",
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-350/",
+          "summary": "In Nr. 1.2 Satz 2 Spiegelstriche 1 und 3 werden „im Zwischenzeugnis“ durch „zum Halbjahr“ und „keine Zwischenzeugnisnote“ durch „keine Note zum Halbjahr“ ersetzt. Die Änderung betrifft den Notennachweis für die Wahl des Leistungsfachs Kunst. Amtlich ist das BayMBl.-PDF/A.",
+          "title": "Änderung der Bekanntmachung über die Regelungen für das Fach Kunst in der Qualifikationsphase der Oberstufe des neunjährigen Gymnasiums"
+        },
+        {
+          "administrationImpact": "Gymnasien, Musikfachschaften, Oberstufenkoordination und Schulaufsicht müssen Auswahlunterlagen und Auskünfte anpassen; kommunale Gymnasien sind entsprechend betroffen. Keine neue allgemeine kommunale Aufgabe.",
+          "checkpoints": [
+            "Notennachweis zum Halbjahr bei Leistungsfachwahl berücksichtigen.",
+            "Rückwirkung auf 18.08.2026 beachten; keine gesonderte Übergangsregel.",
+            "Bayern.Recht Nr. 1 zeigt noch 01.08.2023 und den alten Wortlaut; Änderungstext ergänzend verwenden."
+          ],
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2235_1_1_5_K_13864-0",
+          "effective": "rückwirkend ab 18.08.2026",
+          "kind": "Verwaltungsvorschrift",
+          "published": "02.09.2026",
+          "reference": "BayMBl. 2026 Nr. 349; 2235.1.1.5-K; Bekanntmachung vom 18.08.2026, Az. VIII.4-BS5402.18/3/6",
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-349/",
+          "summary": "In Nr. 1.2 Satz 3 Spiegelstriche 1 und 3 werden „im Zwischenzeugnis“ durch „zum Halbjahr“ und „keine Zwischenzeugnisnote“ durch „keine Note zum Halbjahr“ ersetzt. Betroffen ist der Notennachweis für die Wahl des Leistungsfachs Musik. Amtlich ist das BayMBl.-PDF/A.",
+          "title": "Änderung der Bekanntmachung über das Leistungsfach Musik sowie Fächer des Zusatzangebots „Vokalensemble“ und „Instrumentalensemble“ in der Oberstufe des neunjährigen Gymnasiums"
+        },
         {
           "title": "Steuer-Zuständigkeitsverordnung geändert",
           "kind": "Rechtsverordnung",
@@ -179,7 +310,7 @@
           "checkpoints": [
             "Ab dem jeweiligen Stichtag Anlage 3 auf die zuständige Finanzbehörde prüfen",
             "Geschäftsverteilung und Verfahrensweiterleitungen in betroffenen Finanzämtern anpassen",
-            "Bayern.Recht zeigt am 02.09.2026 den Gültigkeitsstand 01.09.2026; spätere Änderungsstufen getrennt beachten",
+            "Bayern.Recht zeigt am 03.09.2026 den Gültigkeitsstand 01.09.2026; spätere Änderungsstufen getrennt beachten",
             "Keine Rückwirkung; die vier Inkrafttretensstufen getrennt anwenden"
           ],
           "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-574/",
