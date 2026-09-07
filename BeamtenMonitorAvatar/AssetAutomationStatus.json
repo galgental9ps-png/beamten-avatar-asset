@@ -1,11 +1,17 @@
 {
-  "runAt": "2026-09-03T06:02:10+02:00",
-  "targetSet": "BeamtenMonitorAvatar/Assets 6",
+  "runAt": "2026-09-07T08:51:27.308Z",
+  "targetSet": "Assets 6",
   "theme": "Bibliothekstag",
-  "success": false,
-  "committedSha": null,
+  "success": true,
+  "committedSha": "a907111709d8a268b0578cc0d13ab0e4e2b10dfc",
   "buildSuccess": false,
-  "verifiedPaths": [],
-  "failedStep": "png-validation",
-  "message": "Erneute Prüfung am 03.09.2026: Spezifikation und vier originale Referenzbilder geladen, visuell geprüft und deren PNG-Maße/Alphakanal validiert. Zwei neue Idle-Bildversuche (Generierung und Freistellung) ergeben jeweils 1024x1536 RGB-PNG ohne Alphakanal, mit eingebranntem Schachbrett. Kein Asset-Set oder Teilset veröffentlicht; vorhandene Assets unverändert. Keine Build-Prüfung für ein Asset-Commit möglich, da kein Asset-Commit erstellt wurde. Automatische Veröffentlichung wegen fehlender echter Transparenz blockiert."
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 6/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 6/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 6/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 6/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 6/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Asset-Set vollständig atomar veröffentlicht und auf main verifiziert. Im reinen Asset-Repository ist kein GitHub-Actions-Build-Workflow vorhanden."
 }
