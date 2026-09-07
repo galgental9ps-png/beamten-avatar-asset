@@ -1,9 +1,9 @@
 {
-  "runAt": "2026-09-07T08:51:27.308Z",
+  "runAt": "2026-09-07T08:57:22.693Z",
   "targetSet": "Assets 6",
   "theme": "Bibliothekstag",
   "success": true,
-  "committedSha": "a907111709d8a268b0578cc0d13ab0e4e2b10dfc",
+  "committedSha": "f8264d4be2d5d2c075cb7b1a858a5a7b92291527",
   "buildSuccess": false,
   "verifiedPaths": [
     "BeamtenMonitorAvatar/Assets 6/Avatar/Idle.png",
@@ -13,5 +13,5 @@
     "BeamtenMonitorAvatar/Assets 6/Sprüche/Abschiedsspruch.json"
   ],
   "failedStep": "",
-  "message": "Asset-Set vollständig atomar veröffentlicht und auf main verifiziert. Im reinen Asset-Repository ist kein GitHub-Actions-Build-Workflow vorhanden."
+  "message": "Asset-Set vollständig veröffentlicht, Figurvorgabe auf glatt rasiert korrigiert und auf main verifiziert. Im reinen Asset-Repository ist kein GitHub-Actions-Build-Workflow vorhanden."
 }
