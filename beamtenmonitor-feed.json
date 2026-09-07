@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-09-03T06:04:19+02:00",
-  "checkedSources": "03.09.2026: BayMBl. bis Nr. 352 vom 02.09.2026 geprüft: zwei geänderte Verwaltungsvorschriften (Kunst/Musik) und eine neue befristete Allgemeinverfügung (Lkw/Niedrigwasser). GVBl. weiterhin S. 574 vom 31.08.2026. Augsburg Amtsblatt 33/34 vom 21.08.; Schwaben Nr. 16 vom 18.08.2026. BVS-Jahrgangsseite, Zeitplan, Leistungsnachweise, Stoffgliederung und Hilfsmittelbestimmung sowie Stadtrecht/Ausbildung geprüft; keine neue BVS-Terminänderung festgestellt. Bayern.Recht: ZustVSt/BayBhV/Kampfmittel ab 01.09.2026, Museumsförderung ab 25.08.2026; Kunst/Musik noch ab 01.08.2023 mit altem Wortlaut.",
+  "updatedAt": "2026-09-07T06:01:21+02:00",
+  "checkedSources": "07.09.2026: Augsburger Amtsblatt Nr. 35/36 vom 04.09.2026 mit neuer BSPlärrer (in Kraft 05.09.2026) geprüft. BayMBl. bis Nr. 352 vom 02.09.2026, GVBl. bis S. 574 vom 31.08.2026, Bayern.Recht, Stadtrecht Augsburg, Regierungsamtsblatt Schwaben Nr. 16 vom 18.08.2026 sowie BVS-Jahrgangsunterlagen kontrolliert; keine weitere relevante Änderung und keine neue BVS-Terminänderung.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "id": "latest",
       "label": "Neueste Gesetzesänderungen",
-      "intro": "Tagesstand 03.09.2026: zwei geänderte Verwaltungsvorschriften (Kunst/Musik) und eine befristete Allgemeinverfügung (Lkw/Niedrigwasser). Keine neue BVS-Terminänderung.",
+      "intro": "Tagesstand 07.09.2026: Neue Augsburger Plärrersatzung seit 05.09.2026. Weitere amtliche Quellen ohne neue relevante Änderung.",
       "changes": [
+        {
+          "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)",
+          "kind": "Kommunale Satzung (Neufassung)",
+          "reference": "Amtsblatt der Stadt Augsburg Nr. 35/36 vom 04.09.2026, S. 253–257",
+          "published": "04.09.2026",
+          "effective": "05.09.2026; keine Rückwirkung, keine besondere Übergangsregel",
+          "summary": "Die Neufassung regelt die Plärrer als öffentliche Einrichtung, Veranstaltungszeiten, schriftliche Zulassung und Standplatzvergabe, die Antragsfrist 15. Juli des Vorjahres, dokumentierte Auswahlkriterien, eine dreimonatige Entscheidungsfrist mit Zulassungsfiktion, Auflagen und Widerruf sowie Sicherheits-, Verhaltens- und Bußgeldbestimmungen. Sie ersetzt die Satzung vom 21.03.2013.",
+          "administrationImpact": "Marktamt, Ordnungs-, Sicherheits-, Gewerbe-, Bau- und Brandschutzstellen müssen Zulassungs-, Auswahl-, Kontroll- und Widerrufsverfahren am neuen Satzungstext ausrichten. Auswahlentscheidungen und Abweichungen sind konsistent und nachvollziehbar zu dokumentieren.",
+          "checkpoints": [
+            "Für jeden Plärrer gesonderten, vollständigen Antrag und Ausschlussfrist 15. Juli des Vorjahres prüfen.",
+            "Bei Überzeichnung Auswahlkriterien einheitlich anwenden und Entscheidung dokumentieren.",
+            "Drei-Monats-Frist und Voraussetzungen der Zulassungsfiktion nach Art. 42a BayVwVfG prüfen.",
+            "Auflagen, Widerruf, Sicherheitsregeln und Ordnungswidrigkeitentatbestände in Bescheiden und Kontrollen berücksichtigen.",
+            "Keine Rückwirkung oder Übergangsregel; alte Satzung seit 05.09.2026 außer Kraft."
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-35-36_vom-04-09-2026_.pdf",
+          "consolidatedUrl": ""
+        },
         {
           "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen bei Auskünften und Kontrollen Transportzweck, Nachweise und Befristung unterscheiden. Keine pauschale Freigabe sämtlicher Lkw-Fahrten; andere Länder haben eigene Regelungen.",
           "checkpoints": [
@@ -127,8 +145,26 @@
     {
       "id": "important",
       "label": "Was ist wichtig?",
-      "intro": "Tagesstand 03.09.2026: zwei geänderte Verwaltungsvorschriften (Kunst/Musik) und eine befristete Allgemeinverfügung (Lkw/Niedrigwasser). Keine neue BVS-Terminänderung.",
+      "intro": "Wichtig für Dienststellen: Die neue Plärrersatzung ist seit 05.09.2026 anzuwenden; Zulassung, Auswahl, Fristen, Auflagen, Widerruf und Kontrollen am neuen Text ausrichten.",
       "changes": [
+        {
+          "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)",
+          "kind": "Kommunale Satzung (Neufassung)",
+          "reference": "Amtsblatt der Stadt Augsburg Nr. 35/36 vom 04.09.2026, S. 253–257",
+          "published": "04.09.2026",
+          "effective": "05.09.2026; keine Rückwirkung, keine besondere Übergangsregel",
+          "summary": "Die Neufassung regelt die Plärrer als öffentliche Einrichtung, Veranstaltungszeiten, schriftliche Zulassung und Standplatzvergabe, die Antragsfrist 15. Juli des Vorjahres, dokumentierte Auswahlkriterien, eine dreimonatige Entscheidungsfrist mit Zulassungsfiktion, Auflagen und Widerruf sowie Sicherheits-, Verhaltens- und Bußgeldbestimmungen. Sie ersetzt die Satzung vom 21.03.2013.",
+          "administrationImpact": "Marktamt, Ordnungs-, Sicherheits-, Gewerbe-, Bau- und Brandschutzstellen müssen Zulassungs-, Auswahl-, Kontroll- und Widerrufsverfahren am neuen Satzungstext ausrichten. Auswahlentscheidungen und Abweichungen sind konsistent und nachvollziehbar zu dokumentieren.",
+          "checkpoints": [
+            "Für jeden Plärrer gesonderten, vollständigen Antrag und Ausschlussfrist 15. Juli des Vorjahres prüfen.",
+            "Bei Überzeichnung Auswahlkriterien einheitlich anwenden und Entscheidung dokumentieren.",
+            "Drei-Monats-Frist und Voraussetzungen der Zulassungsfiktion nach Art. 42a BayVwVfG prüfen.",
+            "Auflagen, Widerruf, Sicherheitsregeln und Ordnungswidrigkeitentatbestände in Bescheiden und Kontrollen berücksichtigen.",
+            "Keine Rückwirkung oder Übergangsregel; alte Satzung seit 05.09.2026 außer Kraft."
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-35-36_vom-04-09-2026_.pdf",
+          "consolidatedUrl": ""
+        },
         {
           "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen bei Auskünften und Kontrollen Transportzweck, Nachweise und Befristung unterscheiden. Keine pauschale Freigabe sämtlicher Lkw-Fahrten; andere Länder haben eigene Regelungen.",
           "checkpoints": [
@@ -248,8 +284,26 @@
     {
       "id": "changes",
       "label": "Gesetzesänderungen anzeigen",
-      "intro": "Tagesstand 03.09.2026: zwei geänderte Verwaltungsvorschriften (Kunst/Musik) und eine befristete Allgemeinverfügung (Lkw/Niedrigwasser). Keine neue BVS-Terminänderung.",
+      "intro": "Verifizierte Rechtsänderungen mit amtlichem Änderungstext, Inkrafttreten, Verwaltungsauswirkungen und Prüfpunkten. Tagesprüfung vom 07.09.2026.",
       "changes": [
+        {
+          "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)",
+          "kind": "Kommunale Satzung (Neufassung)",
+          "reference": "Amtsblatt der Stadt Augsburg Nr. 35/36 vom 04.09.2026, S. 253–257",
+          "published": "04.09.2026",
+          "effective": "05.09.2026; keine Rückwirkung, keine besondere Übergangsregel",
+          "summary": "Die Neufassung regelt die Plärrer als öffentliche Einrichtung, Veranstaltungszeiten, schriftliche Zulassung und Standplatzvergabe, die Antragsfrist 15. Juli des Vorjahres, dokumentierte Auswahlkriterien, eine dreimonatige Entscheidungsfrist mit Zulassungsfiktion, Auflagen und Widerruf sowie Sicherheits-, Verhaltens- und Bußgeldbestimmungen. Sie ersetzt die Satzung vom 21.03.2013.",
+          "administrationImpact": "Marktamt, Ordnungs-, Sicherheits-, Gewerbe-, Bau- und Brandschutzstellen müssen Zulassungs-, Auswahl-, Kontroll- und Widerrufsverfahren am neuen Satzungstext ausrichten. Auswahlentscheidungen und Abweichungen sind konsistent und nachvollziehbar zu dokumentieren.",
+          "checkpoints": [
+            "Für jeden Plärrer gesonderten, vollständigen Antrag und Ausschlussfrist 15. Juli des Vorjahres prüfen.",
+            "Bei Überzeichnung Auswahlkriterien einheitlich anwenden und Entscheidung dokumentieren.",
+            "Drei-Monats-Frist und Voraussetzungen der Zulassungsfiktion nach Art. 42a BayVwVfG prüfen.",
+            "Auflagen, Widerruf, Sicherheitsregeln und Ordnungswidrigkeitentatbestände in Bescheiden und Kontrollen berücksichtigen.",
+            "Keine Rückwirkung oder Übergangsregel; alte Satzung seit 05.09.2026 außer Kraft."
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-35-36_vom-04-09-2026_.pdf",
+          "consolidatedUrl": ""
+        },
         {
           "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen bei Auskünften und Kontrollen Transportzweck, Nachweise und Befristung unterscheiden. Keine pauschale Freigabe sämtlicher Lkw-Fahrten; andere Länder haben eigene Regelungen.",
           "checkpoints": [
