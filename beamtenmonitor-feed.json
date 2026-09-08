@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-07T06:01:21+02:00",
-  "checkedSources": "07.09.2026: Augsburger Amtsblatt Nr. 35/36 vom 04.09.2026 mit neuer BSPlärrer (in Kraft 05.09.2026) geprüft. BayMBl. bis Nr. 352 vom 02.09.2026, GVBl. bis S. 574 vom 31.08.2026, Bayern.Recht, Stadtrecht Augsburg, Regierungsamtsblatt Schwaben Nr. 16 vom 18.08.2026 sowie BVS-Jahrgangsunterlagen kontrolliert; keine weitere relevante Änderung und keine neue BVS-Terminänderung.",
+  "updatedAt": "2026-09-08T06:02:09+02:00",
+  "checkedSources": "08.09.2026: BayMBl. bis Nr. 352 vom 02.09.2026, GVBl. bis S. 574 vom 31.08.2026, Bayern.Recht, Augsburger Amtsblatt Nr. 35/36 vom 04.09.2026 und Stadtrecht, Regierungsamtsblatt Schwaben Nr. 16 vom 18.08.2026 sowie BVS-Jahrgangsunterlagen geprüft; keine relevante Änderung und keine neue BVS-Terminänderung.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "id": "latest",
       "label": "Neueste Gesetzesänderungen",
-      "intro": "Tagesstand 07.09.2026: Neue Augsburger Plärrersatzung seit 05.09.2026. Weitere amtliche Quellen ohne neue relevante Änderung.",
+      "intro": "Tagesstand 08.09.2026: Keine neue relevante Rechtsänderung. Letzter sachlich gültiger Stand bleibt die Augsburger Plärrersatzung seit 05.09.2026.",
       "changes": [
         {
           "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)",
@@ -145,7 +145,7 @@
     {
       "id": "important",
       "label": "Was ist wichtig?",
-      "intro": "Wichtig für Dienststellen: Die neue Plärrersatzung ist seit 05.09.2026 anzuwenden; Zulassung, Auswahl, Fristen, Auflagen, Widerruf und Kontrollen am neuen Text ausrichten.",
+      "intro": "Tagesprüfung 08.09.2026: Keine neue relevante Änderung. Die zuletzt aufgenommenen Regelungen und Prüfpunkte bleiben gültig.",
       "changes": [
         {
           "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)",
@@ -284,7 +284,7 @@
     {
       "id": "changes",
       "label": "Gesetzesänderungen anzeigen",
-      "intro": "Verifizierte Rechtsänderungen mit amtlichem Änderungstext, Inkrafttreten, Verwaltungsauswirkungen und Prüfpunkten. Tagesprüfung vom 07.09.2026.",
+      "intro": "Verifizierte Rechtsänderungen mit amtlichem Text, Inkrafttreten, Verwaltungsauswirkungen und Prüfpunkten. Quellenstand vom 08.09.2026.",
       "changes": [
         {
           "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)",
