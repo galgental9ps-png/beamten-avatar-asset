@@ -1,13 +1,160 @@
 {
-  "updatedAt": "2026-09-08T06:02:09+02:00",
-  "checkedSources": "08.09.2026: BayMBl. bis Nr. 352 vom 02.09.2026, GVBl. bis S. 574 vom 31.08.2026, Bayern.Recht, Augsburger Amtsblatt Nr. 35/36 vom 04.09.2026 und Stadtrecht, Regierungsamtsblatt Schwaben Nr. 16 vom 18.08.2026 sowie BVS-Jahrgangsunterlagen geprüft; keine relevante Änderung und keine neue BVS-Terminänderung.",
+  "updatedAt": "2026-09-09T05:57:57+02:00",
+  "checkedSources": "09.09.2026: BayMBl. bis Nr. 369 geprüft; neun kommunal bzw. verwaltungsrelevante Veröffentlichungen Nrn. 355–362 sowie 367–368 aufgenommen. GVBl. bis S. 574, Bayern.Recht, BVS-Jahrgangsunterlagen, Augsburger Amtsblatt/Stadtrecht und Regierungsamtsblatt Schwaben geprüft; keine BVS-Terminänderung.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "id": "latest",
       "label": "Neueste Gesetzesänderungen",
-      "intro": "Tagesstand 08.09.2026: Keine neue relevante Rechtsänderung. Letzter sachlich gültiger Stand bleibt die Augsburger Plärrersatzung seit 05.09.2026.",
+      "intro": "Tagesstand 09.09.2026: Neue Vorschriften zu Kooperativem Ganztag, Schulbetreuung, Alltagskompetenzen-Förderung und Veröffentlichungswesen.",
       "changes": [
+        {
+          "title": "Kooperativer Ganztag",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 368; Bekanntmachung vom 28.08.2026, Az. StMAS-V1/6512.01-2/181",
+          "published": "09.09.2026",
+          "effective": "10.09.2026; keine Rückwirkung",
+          "summary": "Schule und BayKiBiG-geförderte Kombieinrichtung verzahnen ein mindestens achtstündiges Ganztagsangebot einschließlich Ferien, Planung, Finanzierung, Betriebserlaubnis, Raum- und Kooperationskonzept.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Zuständigkeiten schriftlich abgrenzen",
+            "Betriebserlaubnis und schulaufsichtliche Genehmigung prüfen",
+            "Finanzierung und KiBiG.web-Zuordnung prüfen",
+            "Bestehende Angebote gegebenenfalls schrittweise umwandeln"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-368/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Veröffentlichungsbekanntmachung",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 367; Bekanntmachung vom 01.09.2026, Az. B II 4 – G 48/13-10",
+          "published": "09.09.2026",
+          "effective": "01.01.2027; keine Rückwirkung",
+          "summary": "Regeln der Nr. 6 werden auf den Bayerischen Staatsanzeiger erstreckt; in Nr. 8.1 wird die entsprechende Anwendung von Art. 8 Abs. 1 Satz 8 und Abs. 3 BayRSG ergänzt.",
+          "administrationImpact": "Unmittelbar betroffen sind staatliche veröffentlichende Stellen; kommunale Stellen müssen bei Quellen- und Bekanntmachungsfragen den amtlichen Status korrekt einordnen.",
+          "checkpoints": [
+            "Ab 2027 Veröffentlichungsorgan und Formvorgaben prüfen",
+            "Amtliche Fassung und Lesefassung unterscheiden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-367/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Richtlinie zur Förderung von „Alltagskompetenzen – Schule fürs Leben“ an kommunalen Schulen und privaten Ersatzschulen",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 362; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/4",
+          "published": "09.09.2026",
+          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
+          "summary": "Förderung von Projektwochen; kommunale Schulträger beantragen elektronisch bis 15. November bei der Regierung. Festbeträge, Ausschluss von Mehrfachförderung und Verwendungsbestätigung sind geregelt.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Ausschlussfrist 15. November beachten",
+            "Anträge möglichst je Schulträger bündeln",
+            "Doppelförderung ausschließen",
+            "Verwendungsbestätigung binnen sechs Monaten vorlegen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-362/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Alltagskompetenzen – Schule fürs Leben",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 361; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/3",
+          "published": "09.09.2026",
+          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
+          "summary": "Projektwochen stärken Ernährungs-, Gesundheits-, Verbraucher-, Finanz-, Lebensvorsorge-, Umwelt- und Digitalkompetenzen. Schulen erhalten Budgets; kommunale Träger beantragen Zuwendungen.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Projektwochen und Jahrgangsstufen festlegen",
+            "Budget nach Klassenanzahl berechnen",
+            "Externe Partner und Lernorte dokumentieren",
+            "Befristung bis 31.07.2027 beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-361/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Bekanntmachung über Gebundene Ganztagsangebote an Schulen",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 360; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.1/76",
+          "published": "09.09.2026",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "summary": "Bei begründeter Unterschreitung von acht Zeitstunden in Klassen 1 bis 4 ist grundsätzlich Elterneinvernehmen nötig, außer der Acht-Stunden-Rechtsanspruch wird bereits durch Beaufsichtigung nach § 22 BaySchO erfüllt.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Acht-Stunden-Umfang nachweisen",
+            "Ausnahme nach § 22 BaySchO dokumentieren",
+            "Sonst Einvernehmen aller betroffenen Eltern einholen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-360/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Ferienangebote unter Schulaufsicht für Grundschulkinder",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 358; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/327",
+          "published": "09.09.2026",
+          "effective": "01.10.2026; keine Rückwirkung",
+          "summary": "Freie Träger müssen bereits als Träger einer Mittagsbetreuung, Ganztags-Kooperationspartner oder Privatschulträger tätig sein; der BayEUG-Verweis wird aktualisiert.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Trägerqualifikation prüfen",
+            "Neuen Art. 60a BayEUG anwenden",
+            "Verfahren erst ab 01.10. umstellen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-358/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Bekanntmachung über Mittagsbetreuung und verlängerte Mittagsbetreuung",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 357; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/326",
+          "published": "09.09.2026",
+          "effective": "01.10.2026; keine Rückwirkung",
+          "summary": "Bei Antragstellung ist ein vom Träger mit der Schulleitung abgestimmtes pädagogisches Konzept vorzulegen; BayEUG-Verweise und weitere Verfahrensdetails werden aktualisiert.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Abgestimmtes pädagogisches Konzept beifügen",
+            "Aktualisierte BayEUG-Verweise nutzen",
+            "Stichtag 01.10.2026 beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-357/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Offenen Ganztagsangebote ab Jahrgangsstufe 5",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 356; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/68",
+          "published": "09.09.2026",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "summary": "Aktualisiert werden Personal-, Führungszeugnis-, Masernschutz-, Kooperations-, Sicherheits-, Textform- und Zählschülerregeln. Für kommunale Schulen ist vor Tätigkeitsbeginn grundsätzlich ein höchstens drei Monate altes erweitertes Führungszeugnis vorzulegen.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Führungszeugnis vor Tätigkeitsantritt prüfen",
+            "Dreijährige Wiederholung beachten",
+            "Masernschutz und Sicherheitsregeln dokumentieren",
+            "Neue Zählschülerfaktoren anwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-356/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Offenen Ganztagsangebote in Jahrgangsstufen 1 bis 4",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 355; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/67",
+          "published": "09.09.2026",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "summary": "Elterneinvernehmen für Abweichungen ist entbehrlich, wenn der achtstündige Rechtsanspruch bereits durch Beaufsichtigung nach § 22 Abs. 1 und 2 BaySchO erfüllt werden kann.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Acht-Stunden-Erfüllung konkret prüfen",
+            "Beaufsichtigungszeiten dokumentieren",
+            "Falls Ausnahme nicht greift, Elterneinvernehmen einholen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-355/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)",
           "kind": "Kommunale Satzung (Neufassung)",
@@ -145,8 +292,155 @@
     {
       "id": "important",
       "label": "Was ist wichtig?",
-      "intro": "Tagesprüfung 08.09.2026: Keine neue relevante Änderung. Die zuletzt aufgenommenen Regelungen und Prüfpunkte bleiben gültig.",
+      "intro": "Für kommunale Dienststellen besonders wichtig: Ganztagsplanung, Personalnachweise, pädagogische Konzepte und Förderausschlussfrist 15. November prüfen.",
       "changes": [
+        {
+          "title": "Kooperativer Ganztag",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 368; Bekanntmachung vom 28.08.2026, Az. StMAS-V1/6512.01-2/181",
+          "published": "09.09.2026",
+          "effective": "10.09.2026; keine Rückwirkung",
+          "summary": "Schule und BayKiBiG-geförderte Kombieinrichtung verzahnen ein mindestens achtstündiges Ganztagsangebot einschließlich Ferien, Planung, Finanzierung, Betriebserlaubnis, Raum- und Kooperationskonzept.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Zuständigkeiten schriftlich abgrenzen",
+            "Betriebserlaubnis und schulaufsichtliche Genehmigung prüfen",
+            "Finanzierung und KiBiG.web-Zuordnung prüfen",
+            "Bestehende Angebote gegebenenfalls schrittweise umwandeln"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-368/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Veröffentlichungsbekanntmachung",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 367; Bekanntmachung vom 01.09.2026, Az. B II 4 – G 48/13-10",
+          "published": "09.09.2026",
+          "effective": "01.01.2027; keine Rückwirkung",
+          "summary": "Regeln der Nr. 6 werden auf den Bayerischen Staatsanzeiger erstreckt; in Nr. 8.1 wird die entsprechende Anwendung von Art. 8 Abs. 1 Satz 8 und Abs. 3 BayRSG ergänzt.",
+          "administrationImpact": "Unmittelbar betroffen sind staatliche veröffentlichende Stellen; kommunale Stellen müssen bei Quellen- und Bekanntmachungsfragen den amtlichen Status korrekt einordnen.",
+          "checkpoints": [
+            "Ab 2027 Veröffentlichungsorgan und Formvorgaben prüfen",
+            "Amtliche Fassung und Lesefassung unterscheiden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-367/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Richtlinie zur Förderung von „Alltagskompetenzen – Schule fürs Leben“ an kommunalen Schulen und privaten Ersatzschulen",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 362; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/4",
+          "published": "09.09.2026",
+          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
+          "summary": "Förderung von Projektwochen; kommunale Schulträger beantragen elektronisch bis 15. November bei der Regierung. Festbeträge, Ausschluss von Mehrfachförderung und Verwendungsbestätigung sind geregelt.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Ausschlussfrist 15. November beachten",
+            "Anträge möglichst je Schulträger bündeln",
+            "Doppelförderung ausschließen",
+            "Verwendungsbestätigung binnen sechs Monaten vorlegen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-362/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Alltagskompetenzen – Schule fürs Leben",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 361; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/3",
+          "published": "09.09.2026",
+          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
+          "summary": "Projektwochen stärken Ernährungs-, Gesundheits-, Verbraucher-, Finanz-, Lebensvorsorge-, Umwelt- und Digitalkompetenzen. Schulen erhalten Budgets; kommunale Träger beantragen Zuwendungen.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Projektwochen und Jahrgangsstufen festlegen",
+            "Budget nach Klassenanzahl berechnen",
+            "Externe Partner und Lernorte dokumentieren",
+            "Befristung bis 31.07.2027 beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-361/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Bekanntmachung über Gebundene Ganztagsangebote an Schulen",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 360; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.1/76",
+          "published": "09.09.2026",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "summary": "Bei begründeter Unterschreitung von acht Zeitstunden in Klassen 1 bis 4 ist grundsätzlich Elterneinvernehmen nötig, außer der Acht-Stunden-Rechtsanspruch wird bereits durch Beaufsichtigung nach § 22 BaySchO erfüllt.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Acht-Stunden-Umfang nachweisen",
+            "Ausnahme nach § 22 BaySchO dokumentieren",
+            "Sonst Einvernehmen aller betroffenen Eltern einholen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-360/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Ferienangebote unter Schulaufsicht für Grundschulkinder",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 358; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/327",
+          "published": "09.09.2026",
+          "effective": "01.10.2026; keine Rückwirkung",
+          "summary": "Freie Träger müssen bereits als Träger einer Mittagsbetreuung, Ganztags-Kooperationspartner oder Privatschulträger tätig sein; der BayEUG-Verweis wird aktualisiert.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Trägerqualifikation prüfen",
+            "Neuen Art. 60a BayEUG anwenden",
+            "Verfahren erst ab 01.10. umstellen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-358/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Bekanntmachung über Mittagsbetreuung und verlängerte Mittagsbetreuung",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 357; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/326",
+          "published": "09.09.2026",
+          "effective": "01.10.2026; keine Rückwirkung",
+          "summary": "Bei Antragstellung ist ein vom Träger mit der Schulleitung abgestimmtes pädagogisches Konzept vorzulegen; BayEUG-Verweise und weitere Verfahrensdetails werden aktualisiert.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Abgestimmtes pädagogisches Konzept beifügen",
+            "Aktualisierte BayEUG-Verweise nutzen",
+            "Stichtag 01.10.2026 beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-357/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Offenen Ganztagsangebote ab Jahrgangsstufe 5",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 356; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/68",
+          "published": "09.09.2026",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "summary": "Aktualisiert werden Personal-, Führungszeugnis-, Masernschutz-, Kooperations-, Sicherheits-, Textform- und Zählschülerregeln. Für kommunale Schulen ist vor Tätigkeitsbeginn grundsätzlich ein höchstens drei Monate altes erweitertes Führungszeugnis vorzulegen.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Führungszeugnis vor Tätigkeitsantritt prüfen",
+            "Dreijährige Wiederholung beachten",
+            "Masernschutz und Sicherheitsregeln dokumentieren",
+            "Neue Zählschülerfaktoren anwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-356/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Offenen Ganztagsangebote in Jahrgangsstufen 1 bis 4",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 355; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/67",
+          "published": "09.09.2026",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "summary": "Elterneinvernehmen für Abweichungen ist entbehrlich, wenn der achtstündige Rechtsanspruch bereits durch Beaufsichtigung nach § 22 Abs. 1 und 2 BaySchO erfüllt werden kann.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Acht-Stunden-Erfüllung konkret prüfen",
+            "Beaufsichtigungszeiten dokumentieren",
+            "Falls Ausnahme nicht greift, Elterneinvernehmen einholen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-355/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)",
           "kind": "Kommunale Satzung (Neufassung)",
@@ -284,8 +578,155 @@
     {
       "id": "changes",
       "label": "Gesetzesänderungen anzeigen",
-      "intro": "Verifizierte Rechtsänderungen mit amtlichem Text, Inkrafttreten, Verwaltungsauswirkungen und Prüfpunkten. Quellenstand vom 08.09.2026.",
+      "intro": "Neun am 09.09.2026 veröffentlichte, verwaltungsrelevante Änderungen mit Inkrafttreten, Auswirkungen und Prüfpunkten.",
       "changes": [
+        {
+          "title": "Kooperativer Ganztag",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 368; Bekanntmachung vom 28.08.2026, Az. StMAS-V1/6512.01-2/181",
+          "published": "09.09.2026",
+          "effective": "10.09.2026; keine Rückwirkung",
+          "summary": "Schule und BayKiBiG-geförderte Kombieinrichtung verzahnen ein mindestens achtstündiges Ganztagsangebot einschließlich Ferien, Planung, Finanzierung, Betriebserlaubnis, Raum- und Kooperationskonzept.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Zuständigkeiten schriftlich abgrenzen",
+            "Betriebserlaubnis und schulaufsichtliche Genehmigung prüfen",
+            "Finanzierung und KiBiG.web-Zuordnung prüfen",
+            "Bestehende Angebote gegebenenfalls schrittweise umwandeln"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-368/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Veröffentlichungsbekanntmachung",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 367; Bekanntmachung vom 01.09.2026, Az. B II 4 – G 48/13-10",
+          "published": "09.09.2026",
+          "effective": "01.01.2027; keine Rückwirkung",
+          "summary": "Regeln der Nr. 6 werden auf den Bayerischen Staatsanzeiger erstreckt; in Nr. 8.1 wird die entsprechende Anwendung von Art. 8 Abs. 1 Satz 8 und Abs. 3 BayRSG ergänzt.",
+          "administrationImpact": "Unmittelbar betroffen sind staatliche veröffentlichende Stellen; kommunale Stellen müssen bei Quellen- und Bekanntmachungsfragen den amtlichen Status korrekt einordnen.",
+          "checkpoints": [
+            "Ab 2027 Veröffentlichungsorgan und Formvorgaben prüfen",
+            "Amtliche Fassung und Lesefassung unterscheiden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-367/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Richtlinie zur Förderung von „Alltagskompetenzen – Schule fürs Leben“ an kommunalen Schulen und privaten Ersatzschulen",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 362; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/4",
+          "published": "09.09.2026",
+          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
+          "summary": "Förderung von Projektwochen; kommunale Schulträger beantragen elektronisch bis 15. November bei der Regierung. Festbeträge, Ausschluss von Mehrfachförderung und Verwendungsbestätigung sind geregelt.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Ausschlussfrist 15. November beachten",
+            "Anträge möglichst je Schulträger bündeln",
+            "Doppelförderung ausschließen",
+            "Verwendungsbestätigung binnen sechs Monaten vorlegen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-362/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Alltagskompetenzen – Schule fürs Leben",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 361; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/3",
+          "published": "09.09.2026",
+          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
+          "summary": "Projektwochen stärken Ernährungs-, Gesundheits-, Verbraucher-, Finanz-, Lebensvorsorge-, Umwelt- und Digitalkompetenzen. Schulen erhalten Budgets; kommunale Träger beantragen Zuwendungen.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Projektwochen und Jahrgangsstufen festlegen",
+            "Budget nach Klassenanzahl berechnen",
+            "Externe Partner und Lernorte dokumentieren",
+            "Befristung bis 31.07.2027 beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-361/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Bekanntmachung über Gebundene Ganztagsangebote an Schulen",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 360; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.1/76",
+          "published": "09.09.2026",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "summary": "Bei begründeter Unterschreitung von acht Zeitstunden in Klassen 1 bis 4 ist grundsätzlich Elterneinvernehmen nötig, außer der Acht-Stunden-Rechtsanspruch wird bereits durch Beaufsichtigung nach § 22 BaySchO erfüllt.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Acht-Stunden-Umfang nachweisen",
+            "Ausnahme nach § 22 BaySchO dokumentieren",
+            "Sonst Einvernehmen aller betroffenen Eltern einholen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-360/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Ferienangebote unter Schulaufsicht für Grundschulkinder",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 358; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/327",
+          "published": "09.09.2026",
+          "effective": "01.10.2026; keine Rückwirkung",
+          "summary": "Freie Träger müssen bereits als Träger einer Mittagsbetreuung, Ganztags-Kooperationspartner oder Privatschulträger tätig sein; der BayEUG-Verweis wird aktualisiert.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Trägerqualifikation prüfen",
+            "Neuen Art. 60a BayEUG anwenden",
+            "Verfahren erst ab 01.10. umstellen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-358/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Bekanntmachung über Mittagsbetreuung und verlängerte Mittagsbetreuung",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 357; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/326",
+          "published": "09.09.2026",
+          "effective": "01.10.2026; keine Rückwirkung",
+          "summary": "Bei Antragstellung ist ein vom Träger mit der Schulleitung abgestimmtes pädagogisches Konzept vorzulegen; BayEUG-Verweise und weitere Verfahrensdetails werden aktualisiert.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Abgestimmtes pädagogisches Konzept beifügen",
+            "Aktualisierte BayEUG-Verweise nutzen",
+            "Stichtag 01.10.2026 beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-357/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Offenen Ganztagsangebote ab Jahrgangsstufe 5",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 356; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/68",
+          "published": "09.09.2026",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "summary": "Aktualisiert werden Personal-, Führungszeugnis-, Masernschutz-, Kooperations-, Sicherheits-, Textform- und Zählschülerregeln. Für kommunale Schulen ist vor Tätigkeitsbeginn grundsätzlich ein höchstens drei Monate altes erweitertes Führungszeugnis vorzulegen.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Führungszeugnis vor Tätigkeitsantritt prüfen",
+            "Dreijährige Wiederholung beachten",
+            "Masernschutz und Sicherheitsregeln dokumentieren",
+            "Neue Zählschülerfaktoren anwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-356/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Änderung der Offenen Ganztagsangebote in Jahrgangsstufen 1 bis 4",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 355; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/67",
+          "published": "09.09.2026",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "summary": "Elterneinvernehmen für Abweichungen ist entbehrlich, wenn der achtstündige Rechtsanspruch bereits durch Beaufsichtigung nach § 22 Abs. 1 und 2 BaySchO erfüllt werden kann.",
+          "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
+          "checkpoints": [
+            "Acht-Stunden-Erfüllung konkret prüfen",
+            "Beaufsichtigungszeiten dokumentieren",
+            "Falls Ausnahme nicht greift, Elterneinvernehmen einholen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-355/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)",
           "kind": "Kommunale Satzung (Neufassung)",
