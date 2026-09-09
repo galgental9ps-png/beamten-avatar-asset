@@ -1,11 +1,17 @@
 {
-  "runAt": "2026-09-08T06:04:16+02:00",
-  "targetSet": "BeamtenMonitorAvatar/Assets 7",
+  "runAt": "2026-09-09T08:08:05.493Z",
+  "targetSet": "Assets 7",
   "theme": "Bäckereitag",
-  "success": false,
-  "committedSha": null,
+  "success": true,
+  "committedSha": "205dc13d5a6c277bea25671a71e87d415cbdf48e",
   "buildSuccess": false,
-  "verifiedPaths": [],
-  "failedStep": "png-validation",
-  "message": "Spezifikation und vier Original-Referenzbilder wurden auf main geladen, materialisiert, technisch und visuell geprüft. Das nächste freie Ziel war Assets 7. Sowohl die neue Idle-Generierung als auch der anschließende Freistellungsversuch lieferten zwar 1024x1536-PNGs, aber nur im RGB-Modus ohne Alphakanal und mit fest eingezeichnetem Schachbrett. Kein Asset-Set und keine Teilmenge veröffentlicht; vorhandene Sets unverändert. Keine Build-Prüfung für ein Asset-Commit möglich, da kein Asset-Commit erstellt wurde."
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 7/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 7/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 7/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 7/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 7/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Asset-Set vollständig atomar committed und auf main rückverifiziert. Kein GitHub-Actions-Workflow im Repository vorhanden; daher buildSuccess=false."
 }
