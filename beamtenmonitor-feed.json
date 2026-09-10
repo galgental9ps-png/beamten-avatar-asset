@@ -1,13 +1,60 @@
 {
-  "updatedAt": "2026-09-09T05:57:57+02:00",
-  "checkedSources": "09.09.2026: BayMBl. bis Nr. 369 geprüft; neun kommunal bzw. verwaltungsrelevante Veröffentlichungen Nrn. 355–362 sowie 367–368 aufgenommen. GVBl. bis S. 574, Bayern.Recht, BVS-Jahrgangsunterlagen, Augsburger Amtsblatt/Stadtrecht und Regierungsamtsblatt Schwaben geprüft; keine BVS-Terminänderung.",
+  "updatedAt": "2026-09-10T06:01:51+02:00",
+  "checkedSources": "10.09.2026: BayMBl. bis Nr. 369 vom 09.09., GVBl. S. 574 vom 31.08., Augsburg Amtsblatt 35/36 vom 04.09., Stadtrecht; Schwaben Nr. 17 vom 08.09. Drei neu erfasste Veröffentlichungen; bei der KZVA-Neufassung sind Datierung und Änderungen gegenüber dem Vorgänger nicht abschließend geklärt. Bayern.Recht: BayBhV, ZustVSt und Kampfmittel gültig ab 01.09.2026. Keine gesonderten Lesefassungen der neuen regionalen Einträge nachgewiesen.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "id": "latest",
       "label": "Neueste Gesetzesänderungen",
-      "intro": "Tagesstand 09.09.2026: Neue Vorschriften zu Kooperativem Ganztag, Schulbetreuung, Alltagskompetenzen-Förderung und Veröffentlichungswesen.",
+      "intro": "Tagesprüfung 10.09.2026: drei regionale Veröffentlichungen neu erfasst; Kooperativer Ganztag ab heute in Kraft. Neufassung nicht pauschal als neue Einzeländerung behandeln.",
       "changes": [
+        {
+          "title": "Gebietsänderung Augsburg – Neusäß",
+          "kind": "Rechtsverordnung",
+          "reference": "Verordnung zur Änderung des Gebiets der Stadt Neusäß, Landkreis Augsburg und der kreisfreien Stadt Augsburg vom 06.08.2026; RABl. Schw. 2026 S. 191–195",
+          "published": "08.09.2026",
+          "effective": "01.10.2026; keine besondere Übergangs- oder Rückwirkungsregel im Text",
+          "summary": "6.053 m² wechseln von Augsburg nach Neusäß. Grundlage sind Art. 11 und 12 GO; § 2 bestimmt den Stichtag. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "administrationImpact": "Einordnung: Augsburg und Neusäß sollten die betroffenen Zuständigkeits-, Geodaten- und Grundstücksverfahren zum Stichtag abstimmen. Daraus folgt nicht automatisch eine bestimmte Änderung einzelner Abgabenbescheide.",
+          "checkpoints": [
+            "Grenzverlauf anhand der Anlage prüfen",
+            "Örtliche Zuständigkeit und Datenbestände zum 01.10. abstimmen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Krankenhauszweckverband Augsburg: Satzungsneufassung veröffentlicht",
+          "kind": "Verbandssatzung / Bekanntmachung der Neufassung",
+          "reference": "Bekanntmachung vom 18.08.2026, Gz. RvS-SG 12-1444-11/26; RABl. Schw. 2026 S. 196–203",
+          "published": "08.09.2026",
+          "effective": "§ 21 nennt 02.05.2026; rückbezogener Geltungsbeginn, widersprüchliche Datierungen im Abdruck klärungsbedürftig",
+          "summary": "Veröffentlichter Gesamttext mit Stadt und Landkreis als Mitgliedern, Verbandsorganen und Umlageregeln. Die Überschriften enthalten zugleich ältere Fassungsdaten. Nicht jede Vorschrift ist deshalb als neu geändert nachgewiesen. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "administrationImpact": "Einordnung: Rechtsamt, Beteiligungsverwaltung und Kämmerei sollten den veröffentlichten Gesamttext mit ihren Unterlagen und den zugrunde liegenden Änderungssatzungen abgleichen. Keine ungeprüfte rückwirkende Neuberechnung allein aufgrund dieses Monitors.",
+          "checkpoints": [
+            "Datierungswidersprüche und Änderungskette klären",
+            "Umlage- und Organunterlagen gegen den Gesamttext prüfen",
+            "Nicht mit dem Rettungszweckverband verwechseln"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Befristete Papierführung bestimmter Bußgeldakten",
+          "kind": "Behördenbezogene Organisationsanordnung",
+          "reference": "Anordnung zur elektronischen Bußgeldaktenführung vom 19.08.2026; RABl. Schw. 2026 S. 190–191",
+          "published": "08.09.2026",
+          "effective": "Behördenbezogene Anfangsdaten, überwiegend rückbezogen ab 01.01.2026; befristet bis 31.12.2026",
+          "summary": "Die Anordnung erlaubt den ausdrücklich aufgeführten Stellen Papierakten einschließlich der Papierweiterführung eingehender elektronischer Akten. Die Stadt Augsburg ist nicht aufgeführt. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "administrationImpact": "Einordnung: Betroffene Bußgeldstellen und IT müssen die konkrete Behördenliste, den jeweiligen Beginn und das Befristungsende beachten. Für Augsburg lässt sich daraus keine allgemeine Papierausnahme ableiten.",
+          "checkpoints": [
+            "Eigene Stelle und Anfangsdatum in der Liste prüfen",
+            "Aktenübergaben dokumentieren",
+            "Umstellung nach Befristungsende vorbereiten"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Kooperativer Ganztag",
           "kind": "Verwaltungsvorschrift",
@@ -292,8 +339,55 @@
     {
       "id": "important",
       "label": "Was ist wichtig?",
-      "intro": "Für kommunale Dienststellen besonders wichtig: Ganztagsplanung, Personalnachweise, pädagogische Konzepte und Förderausschlussfrist 15. November prüfen.",
+      "intro": "Tagesprüfung 10.09.2026: drei regionale Veröffentlichungen neu erfasst; Kooperativer Ganztag ab heute in Kraft. Neufassung nicht pauschal als neue Einzeländerung behandeln.",
       "changes": [
+        {
+          "title": "Gebietsänderung Augsburg – Neusäß",
+          "kind": "Rechtsverordnung",
+          "reference": "Verordnung zur Änderung des Gebiets der Stadt Neusäß, Landkreis Augsburg und der kreisfreien Stadt Augsburg vom 06.08.2026; RABl. Schw. 2026 S. 191–195",
+          "published": "08.09.2026",
+          "effective": "01.10.2026; keine besondere Übergangs- oder Rückwirkungsregel im Text",
+          "summary": "6.053 m² wechseln von Augsburg nach Neusäß. Grundlage sind Art. 11 und 12 GO; § 2 bestimmt den Stichtag. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "administrationImpact": "Einordnung: Augsburg und Neusäß sollten die betroffenen Zuständigkeits-, Geodaten- und Grundstücksverfahren zum Stichtag abstimmen. Daraus folgt nicht automatisch eine bestimmte Änderung einzelner Abgabenbescheide.",
+          "checkpoints": [
+            "Grenzverlauf anhand der Anlage prüfen",
+            "Örtliche Zuständigkeit und Datenbestände zum 01.10. abstimmen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Krankenhauszweckverband Augsburg: Satzungsneufassung veröffentlicht",
+          "kind": "Verbandssatzung / Bekanntmachung der Neufassung",
+          "reference": "Bekanntmachung vom 18.08.2026, Gz. RvS-SG 12-1444-11/26; RABl. Schw. 2026 S. 196–203",
+          "published": "08.09.2026",
+          "effective": "§ 21 nennt 02.05.2026; rückbezogener Geltungsbeginn, widersprüchliche Datierungen im Abdruck klärungsbedürftig",
+          "summary": "Veröffentlichter Gesamttext mit Stadt und Landkreis als Mitgliedern, Verbandsorganen und Umlageregeln. Die Überschriften enthalten zugleich ältere Fassungsdaten. Nicht jede Vorschrift ist deshalb als neu geändert nachgewiesen. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "administrationImpact": "Einordnung: Rechtsamt, Beteiligungsverwaltung und Kämmerei sollten den veröffentlichten Gesamttext mit ihren Unterlagen und den zugrunde liegenden Änderungssatzungen abgleichen. Keine ungeprüfte rückwirkende Neuberechnung allein aufgrund dieses Monitors.",
+          "checkpoints": [
+            "Datierungswidersprüche und Änderungskette klären",
+            "Umlage- und Organunterlagen gegen den Gesamttext prüfen",
+            "Nicht mit dem Rettungszweckverband verwechseln"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Befristete Papierführung bestimmter Bußgeldakten",
+          "kind": "Behördenbezogene Organisationsanordnung",
+          "reference": "Anordnung zur elektronischen Bußgeldaktenführung vom 19.08.2026; RABl. Schw. 2026 S. 190–191",
+          "published": "08.09.2026",
+          "effective": "Behördenbezogene Anfangsdaten, überwiegend rückbezogen ab 01.01.2026; befristet bis 31.12.2026",
+          "summary": "Die Anordnung erlaubt den ausdrücklich aufgeführten Stellen Papierakten einschließlich der Papierweiterführung eingehender elektronischer Akten. Die Stadt Augsburg ist nicht aufgeführt. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "administrationImpact": "Einordnung: Betroffene Bußgeldstellen und IT müssen die konkrete Behördenliste, den jeweiligen Beginn und das Befristungsende beachten. Für Augsburg lässt sich daraus keine allgemeine Papierausnahme ableiten.",
+          "checkpoints": [
+            "Eigene Stelle und Anfangsdatum in der Liste prüfen",
+            "Aktenübergaben dokumentieren",
+            "Umstellung nach Befristungsende vorbereiten"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Kooperativer Ganztag",
           "kind": "Verwaltungsvorschrift",
@@ -578,8 +672,55 @@
     {
       "id": "changes",
       "label": "Gesetzesänderungen anzeigen",
-      "intro": "Neun am 09.09.2026 veröffentlichte, verwaltungsrelevante Änderungen mit Inkrafttreten, Auswirkungen und Prüfpunkten.",
+      "intro": "Tagesprüfung 10.09.2026: drei regionale Veröffentlichungen neu erfasst; Kooperativer Ganztag ab heute in Kraft. Neufassung nicht pauschal als neue Einzeländerung behandeln.",
       "changes": [
+        {
+          "title": "Gebietsänderung Augsburg – Neusäß",
+          "kind": "Rechtsverordnung",
+          "reference": "Verordnung zur Änderung des Gebiets der Stadt Neusäß, Landkreis Augsburg und der kreisfreien Stadt Augsburg vom 06.08.2026; RABl. Schw. 2026 S. 191–195",
+          "published": "08.09.2026",
+          "effective": "01.10.2026; keine besondere Übergangs- oder Rückwirkungsregel im Text",
+          "summary": "6.053 m² wechseln von Augsburg nach Neusäß. Grundlage sind Art. 11 und 12 GO; § 2 bestimmt den Stichtag. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "administrationImpact": "Einordnung: Augsburg und Neusäß sollten die betroffenen Zuständigkeits-, Geodaten- und Grundstücksverfahren zum Stichtag abstimmen. Daraus folgt nicht automatisch eine bestimmte Änderung einzelner Abgabenbescheide.",
+          "checkpoints": [
+            "Grenzverlauf anhand der Anlage prüfen",
+            "Örtliche Zuständigkeit und Datenbestände zum 01.10. abstimmen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Krankenhauszweckverband Augsburg: Satzungsneufassung veröffentlicht",
+          "kind": "Verbandssatzung / Bekanntmachung der Neufassung",
+          "reference": "Bekanntmachung vom 18.08.2026, Gz. RvS-SG 12-1444-11/26; RABl. Schw. 2026 S. 196–203",
+          "published": "08.09.2026",
+          "effective": "§ 21 nennt 02.05.2026; rückbezogener Geltungsbeginn, widersprüchliche Datierungen im Abdruck klärungsbedürftig",
+          "summary": "Veröffentlichter Gesamttext mit Stadt und Landkreis als Mitgliedern, Verbandsorganen und Umlageregeln. Die Überschriften enthalten zugleich ältere Fassungsdaten. Nicht jede Vorschrift ist deshalb als neu geändert nachgewiesen. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "administrationImpact": "Einordnung: Rechtsamt, Beteiligungsverwaltung und Kämmerei sollten den veröffentlichten Gesamttext mit ihren Unterlagen und den zugrunde liegenden Änderungssatzungen abgleichen. Keine ungeprüfte rückwirkende Neuberechnung allein aufgrund dieses Monitors.",
+          "checkpoints": [
+            "Datierungswidersprüche und Änderungskette klären",
+            "Umlage- und Organunterlagen gegen den Gesamttext prüfen",
+            "Nicht mit dem Rettungszweckverband verwechseln"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Befristete Papierführung bestimmter Bußgeldakten",
+          "kind": "Behördenbezogene Organisationsanordnung",
+          "reference": "Anordnung zur elektronischen Bußgeldaktenführung vom 19.08.2026; RABl. Schw. 2026 S. 190–191",
+          "published": "08.09.2026",
+          "effective": "Behördenbezogene Anfangsdaten, überwiegend rückbezogen ab 01.01.2026; befristet bis 31.12.2026",
+          "summary": "Die Anordnung erlaubt den ausdrücklich aufgeführten Stellen Papierakten einschließlich der Papierweiterführung eingehender elektronischer Akten. Die Stadt Augsburg ist nicht aufgeführt. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "administrationImpact": "Einordnung: Betroffene Bußgeldstellen und IT müssen die konkrete Behördenliste, den jeweiligen Beginn und das Befristungsende beachten. Für Augsburg lässt sich daraus keine allgemeine Papierausnahme ableiten.",
+          "checkpoints": [
+            "Eigene Stelle und Anfangsdatum in der Liste prüfen",
+            "Aktenübergaben dokumentieren",
+            "Umstellung nach Befristungsende vorbereiten"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Kooperativer Ganztag",
           "kind": "Verwaltungsvorschrift",
