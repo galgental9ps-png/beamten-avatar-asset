@@ -1,11 +1,17 @@
 {
-  "runAt": "2026-09-10T08:19:11.144Z",
+  "runAt": "2026-09-10T08:30:09.492Z",
   "targetSet": "BeamtenMonitorAvatar/Assets 8",
   "theme": "Poststellentag",
-  "success": false,
-  "committedSha": null,
+  "success": true,
+  "committedSha": "2e653bb67b04748771a60b3d8a38d80254cc778f",
   "buildSuccess": false,
-  "verifiedPaths": [],
-  "failedStep": "png-validation",
-  "message": "Korrekturlauf auf Nutzerwunsch: aktueller main-Tree und AssetSetSpec.json gelesen; Assets 8 weiterhin frei; vier Originalreferenzen anhand Git-Blob-SHAs und visuell geprüft. Erneute Idle-Generierung und gezielte Hintergrundentfernung liefern beide PNG 1024x1536 RGB ohne Alphakanal, Schachbrett eingebrannt. Kein Teilset veröffentlicht. Technische Freistellung per Python als alternative Korrektur vorgeschlagen; dafür verlangt die Bildwerkzeug-Vorgabe eine ausdrückliche Nutzeranweisung."
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 8/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 8/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 8/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 8/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 8/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 8 vollständig in einem atomaren Git-Data-Commit veröffentlicht. Vier neu generierte PNGs nach ausdrücklicher Nutzerfreigabe per Python freigestellt: echte RGBA-Transparenz, exakte Spezifikationsmaße. Acht vollständige getrennte Posen; obere Reihe nach rechts orientiert, unterschiedliche Gehphasen mit identischer Bodenlinie. PNG-Dateien vollständig dekodiert und visuell geprüft; alle fünf GitHub-Pfade, Blob-SHAs und Größen auf main rückverifiziert; Spruch-JSON erneut geparst. Kein .github/workflows vorhanden und kein Actions-Lauf für den Asset-Commit, daher buildSuccess=false (kein Build eingerichtet)."
 }
