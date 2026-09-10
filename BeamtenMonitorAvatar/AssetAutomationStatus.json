@@ -1,17 +1,11 @@
 {
-  "runAt": "2026-09-09T08:08:05.493Z",
-  "targetSet": "Assets 7",
-  "theme": "Bäckereitag",
-  "success": true,
-  "committedSha": "205dc13d5a6c277bea25671a71e87d415cbdf48e",
+  "runAt": "2026-09-10T06:05:30+02:00",
+  "targetSet": "BeamtenMonitorAvatar/Assets 8",
+  "theme": "Poststellentag",
+  "success": false,
+  "committedSha": null,
   "buildSuccess": false,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 7/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 7/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 7/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 7/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 7/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Asset-Set vollständig atomar committed und auf main rückverifiziert. Kein GitHub-Actions-Workflow im Repository vorhanden; daher buildSuccess=false."
+  "verifiedPaths": [],
+  "failedStep": "png-validation",
+  "message": "Spezifikation und vier Original-Referenzbilder auf main geladen, materialisiert sowie technisch und visuell geprüft. Nächstes freies Ziel: Assets 8. Die neue Idle-Generierung ist zwar ein 1024x1536-PNG und inhaltlich vollständig, wurde jedoch als RGB ohne Alphakanal mit fest eingezeichnetem Schachbrett ausgegeben. Kein Asset-Set oder Teilset veröffentlicht; vorhandene Sets unverändert. Keine Build-Prüfung für ein Asset-Commit möglich, da kein Asset-Commit erstellt wurde."
 }
