@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-09-10T06:05:30+02:00",
+  "runAt": "2026-09-10T06:33:21.435Z",
   "targetSet": "BeamtenMonitorAvatar/Assets 8",
   "theme": "Poststellentag",
   "success": false,
@@ -7,5 +7,5 @@
   "buildSuccess": false,
   "verifiedPaths": [],
   "failedStep": "png-validation",
-  "message": "Spezifikation und vier Original-Referenzbilder auf main geladen, materialisiert sowie technisch und visuell geprüft. Nächstes freies Ziel: Assets 8. Die neue Idle-Generierung ist zwar ein 1024x1536-PNG und inhaltlich vollständig, wurde jedoch als RGB ohne Alphakanal mit fest eingezeichnetem Schachbrett ausgegeben. Kein Asset-Set oder Teilset veröffentlicht; vorhandene Sets unverändert. Keine Build-Prüfung für ein Asset-Commit möglich, da kein Asset-Commit erstellt wurde."
+  "message": "Erneuter manueller Lauf auf Nutzerwunsch. main enthält Assets 1 bis 7. AssetSetSpec.json geladen und geparst; vier lokale Originalreferenzen stimmen mit aktuellen GitHub-Blob-SHAs überein und wurden visuell geprüft. Neue Idle-Generierung und anschließende gezielte Hintergrundentfernung erzeugten jeweils PNG 1024x1536 im Modus RGB ohne Alphakanal mit eingezeichnetem Schachbrett. Kein Asset-Set oder Teilset veröffentlicht. Kein Asset-Commit und daher keine zugehörige Build-Prüfung."
 }
