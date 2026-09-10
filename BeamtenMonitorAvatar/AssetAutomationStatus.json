@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-09-10T06:33:21.435Z",
+  "runAt": "2026-09-10T08:19:11.144Z",
   "targetSet": "BeamtenMonitorAvatar/Assets 8",
   "theme": "Poststellentag",
   "success": false,
@@ -7,5 +7,5 @@
   "buildSuccess": false,
   "verifiedPaths": [],
   "failedStep": "png-validation",
-  "message": "Erneuter manueller Lauf auf Nutzerwunsch. main enthält Assets 1 bis 7. AssetSetSpec.json geladen und geparst; vier lokale Originalreferenzen stimmen mit aktuellen GitHub-Blob-SHAs überein und wurden visuell geprüft. Neue Idle-Generierung und anschließende gezielte Hintergrundentfernung erzeugten jeweils PNG 1024x1536 im Modus RGB ohne Alphakanal mit eingezeichnetem Schachbrett. Kein Asset-Set oder Teilset veröffentlicht. Kein Asset-Commit und daher keine zugehörige Build-Prüfung."
+  "message": "Korrekturlauf auf Nutzerwunsch: aktueller main-Tree und AssetSetSpec.json gelesen; Assets 8 weiterhin frei; vier Originalreferenzen anhand Git-Blob-SHAs und visuell geprüft. Erneute Idle-Generierung und gezielte Hintergrundentfernung liefern beide PNG 1024x1536 RGB ohne Alphakanal, Schachbrett eingebrannt. Kein Teilset veröffentlicht. Technische Freistellung per Python als alternative Korrektur vorgeschlagen; dafür verlangt die Bildwerkzeug-Vorgabe eine ausdrückliche Nutzeranweisung."
 }
