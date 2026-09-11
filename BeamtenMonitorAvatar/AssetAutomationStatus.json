@@ -1,17 +1,11 @@
 {
-  "runAt": "2026-09-10T08:30:09.492Z",
-  "targetSet": "BeamtenMonitorAvatar/Assets 8",
-  "theme": "Poststellentag",
-  "success": true,
-  "committedSha": "2e653bb67b04748771a60b3d8a38d80254cc778f",
+  "runAt": "2026-09-11T04:08:04.735Z",
+  "targetSet": "BeamtenMonitorAvatar/Assets 9",
+  "theme": "Herbsttag",
+  "success": false,
+  "committedSha": null,
   "buildSuccess": false,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 8/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 8/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 8/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 8/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 8/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 8 vollständig in einem atomaren Git-Data-Commit veröffentlicht. Vier neu generierte PNGs nach ausdrücklicher Nutzerfreigabe per Python freigestellt: echte RGBA-Transparenz, exakte Spezifikationsmaße. Acht vollständige getrennte Posen; obere Reihe nach rechts orientiert, unterschiedliche Gehphasen mit identischer Bodenlinie. PNG-Dateien vollständig dekodiert und visuell geprüft; alle fünf GitHub-Pfade, Blob-SHAs und Größen auf main rückverifiziert; Spruch-JSON erneut geparst. Kein .github/workflows vorhanden und kein Actions-Lauf für den Asset-Commit, daher buildSuccess=false (kein Build eingerichtet)."
+  "verifiedPaths": [],
+  "failedStep": "png-validation",
+  "message": "Spezifikation auf main geparst und vier Originalreferenzen aus GitHub materialisiert sowie visuell geprüft. Assets 1 bis 8 vorhanden. Zwei neue Idle-Bildversuche für Herbsttag ergaben PNG 1024x1536 im RGB-Modus ohne Alphakanal, mit eingebranntem Schachbrett. Erster Versuch zusätzlich mit zusätzlichem Arm; zweiter anatomisch korrigiert, jedoch weiterhin ohne Transparenz. Kein Teilset veröffentlicht und keine bestehenden Assets verändert. Kein Asset-Commit, daher keine nachgelagerte Build-Prüfung."
 }
