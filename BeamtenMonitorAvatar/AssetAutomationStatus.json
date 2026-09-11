@@ -1,11 +1,17 @@
 {
-  "runAt": "2026-09-11T04:08:04.735Z",
+  "runAt": "2026-09-11T19:03:39.412Z",
   "targetSet": "BeamtenMonitorAvatar/Assets 9",
   "theme": "Herbsttag",
-  "success": false,
-  "committedSha": null,
-  "buildSuccess": false,
-  "verifiedPaths": [],
-  "failedStep": "png-validation",
-  "message": "Spezifikation auf main geparst und vier Originalreferenzen aus GitHub materialisiert sowie visuell geprüft. Assets 1 bis 8 vorhanden. Zwei neue Idle-Bildversuche für Herbsttag ergaben PNG 1024x1536 im RGB-Modus ohne Alphakanal, mit eingebranntem Schachbrett. Erster Versuch zusätzlich mit zusätzlichem Arm; zweiter anatomisch korrigiert, jedoch weiterhin ohne Transparenz. Kein Teilset veröffentlicht und keine bestehenden Assets verändert. Kein Asset-Commit, daher keine nachgelagerte Build-Prüfung."
+  "success": true,
+  "committedSha": "bb318fd7d79775648ca6aa91582cc4c48d132fec",
+  "buildSuccess": null,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 9/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 9/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 9/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 9/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 9/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Vier PNGs mit echter Transparenz per genehmigter Python-Freistellung erstellt, vollständig dekodiert und geprüft. Acht getrennte Posen, beide Gehphasen nach rechts und Bodenlinie 494. Fünf Dateien atomar auf main veröffentlicht und GitHub-Binärdaten erneut geladen und geprüft, SHA und JSON validiert. Kein Build-Workflow im Repository vorhanden. Tägliche Aufgabe aktiv; Freistellung als Reparaturschritt hinterlegt, keine automatische Pause bei Bildfehlern."
 }

@@ -72,5 +72,12 @@
     "pngUploadEncoding": "base64",
     "verifyAllFilesFromMainAfterCommit": true,
     "successRequiresVerifiedFiles": true
+  },
+  "processingRules": {
+    "imageGeneration": "built-in image generation with visually inspected references",
+    "transparencyFallback": "Python/Pillow chroma-key extraction expressly authorized by user. If alpha missing or checkerboard baked in, generate motif on flat contrasting helper color, remove color and edge contamination while preserving motif. Check on light and dark backgrounds.",
+    "fileSave": "Write completed PNG bytes to temporary file, flush/fsync, then atomically rename. Reopen and fully decode final file before upload.",
+    "pauseOnImageFailure": false,
+    "qualityGate": "Never publish incomplete or invalid asset sets; record failure and retry on next scheduled run."
   }
 }
