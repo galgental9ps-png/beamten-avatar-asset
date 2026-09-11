@@ -636,22 +636,6 @@
           "consolidatedUrl": ""
         },
         {
-          "title": "Quellenstand vor Anwendung kontrollieren",
-          "kind": "Qualitätshinweis",
-          "reference": "Prüfstand 03.09.2026",
-          "published": "03.09.2026",
-          "effective": "laufend",
-          "summary": "03.09.2026: BayMBl. bis Nr. 352 vom 02.09.2026 geprüft: zwei geänderte Verwaltungsvorschriften (Kunst/Musik) und eine neue befristete Allgemeinverfügung (Lkw/Niedrigwasser). GVBl. weiterhin S. 574 vom 31.08.2026. Augsburg Amtsblatt 33/34 vom 21.08.; Schwaben Nr. 16 vom 18.08.2026. BVS-Jahrgangsseite, Zeitplan, Leistungsnachweise, Stoffgliederung und Hilfsmittelbestimmung sowie Stadtrecht/Ausbildung geprüft; keine neue BVS-Terminänderung festgestellt. Bayern.Recht: ZustVSt/BayBhV/Kampfmittel ab 01.09.2026, Museumsförderung ab 25.08.2026; Kunst/Musik noch ab 01.08.2023 mit altem Wortlaut.",
-          "administrationImpact": "Entscheidungen sollten auf der amtlichen Fundstelle und dem jeweils passenden Gültigkeitsstand der konsolidierten Fassung beruhen.",
-          "checkpoints": [
-            "Amtliche Fundstelle direkt öffnen.",
-            "Inkrafttreten und mögliche Rückwirkung prüfen.",
-            "Gültigkeitsdatum der konsolidierten Fassung kontrollieren."
-          ],
-          "sourceUrl": "https://www.verkuendung-bayern.de/",
-          "consolidatedUrl": ""
-        },
-        {
           "title": "Augsburger und schwäbische Bekanntmachungen weiter beobachten",
           "kind": "Kommunaler Prüfpunkt",
           "reference": "Stadt Augsburg / Regierung von Schwaben",
