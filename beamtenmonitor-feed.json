@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-11T05:57:55+02:00",
-  "checkedSources": "11.09.2026: Keine relevante Änderung; amtliche Quellen geprüft. BayMBl. bis Nr. 369 vom 09.09., GVBl. bis S. 574 vom 31.08., Augsburg Amtsblatt 35/36 vom 04.09. und Stadtrecht, Regierungsamtsblatt Schwaben Nr. 17 vom 08.09.; BVS-Jahrgangsseite samt zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung unverändert. Bayern.Recht: BayBhV, ZustVSt und Kampfmittelbekanntmachung jeweils mit Gültigkeitsstand ab 01.09.2026.",
+  "updatedAt": "2026-09-12T05:58:32+02:00",
+  "checkedSources": "12.09.2026: Keine relevante Änderung; amtliche Quellen geprüft. BayMBl. bis Nr. 369 vom 09.09., GVBl. bis S. 574 vom 31.08., Augsburg Amtsblatt 35/36 vom 04.09. und Stadtrecht, Regierungsamtsblatt Schwaben Nr. 17 vom 08.09.; BVS-Jahrgangsseite samt zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung unverändert. Bayern.Recht: BayBhV, ZustVSt und Kampfmittelbekanntmachung jeweils mit Gültigkeitsstand ab 01.09.2026.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "id": "latest",
       "label": "Neueste Gesetzesänderungen",
-      "intro": "Tagesprüfung 11.09.2026: keine neue relevante Änderung. Der letzte sachlich gültige Stand bleibt erhalten; Kooperativer Ganztag gilt seit 10.09.2026.",
+      "intro": "Tagesprüfung 12.09.2026: keine neue relevante Änderung. Der letzte sachlich gültige Stand bleibt erhalten; Kooperativer Ganztag gilt seit 10.09.2026.",
       "changes": [
         {
           "title": "Gebietsänderung Augsburg – Neusäß",
@@ -339,7 +339,7 @@
     {
       "id": "important",
       "label": "Was ist wichtig?",
-      "intro": "Tagesprüfung 11.09.2026: keine neue relevante Änderung. Der letzte sachlich gültige Stand bleibt erhalten; Kooperativer Ganztag gilt seit 10.09.2026.",
+      "intro": "Tagesprüfung 12.09.2026: keine neue relevante Änderung. Der letzte sachlich gültige Stand bleibt erhalten; Kooperativer Ganztag gilt seit 10.09.2026.",
       "changes": [
         {
           "title": "Gebietsänderung Augsburg – Neusäß",
@@ -656,7 +656,7 @@
     {
       "id": "changes",
       "label": "Gesetzesänderungen anzeigen",
-      "intro": "Tagesprüfung 11.09.2026: keine neue relevante Änderung. Der letzte sachlich gültige Stand bleibt erhalten; Kooperativer Ganztag gilt seit 10.09.2026.",
+      "intro": "Tagesprüfung 12.09.2026: keine neue relevante Änderung. Der letzte sachlich gültige Stand bleibt erhalten; Kooperativer Ganztag gilt seit 10.09.2026.",
       "changes": [
         {
           "title": "Gebietsänderung Augsburg – Neusäß",
