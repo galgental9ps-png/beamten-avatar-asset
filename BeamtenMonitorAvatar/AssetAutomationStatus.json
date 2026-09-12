@@ -1,17 +1,17 @@
 {
-  "runAt": "2026-09-11T19:03:39.412Z",
-  "targetSet": "BeamtenMonitorAvatar/Assets 9",
-  "theme": "Herbsttag",
+  "runAt": "2026-09-12T22:04:38.650Z",
+  "targetSet": "Assets 10",
+  "theme": "Museumstag",
   "success": true,
-  "committedSha": "bb318fd7d79775648ca6aa91582cc4c48d132fec",
+  "committedSha": "e3bad717b3bbc908954ffe7e88db42f545302d50",
   "buildSuccess": null,
   "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 9/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 9/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 9/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 9/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 9/Sprüche/Abschiedsspruch.json"
+    "BeamtenMonitorAvatar/Assets 10/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 10/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 10/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 10/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 10/Sprüche/Abschiedsspruch.json"
   ],
   "failedStep": "",
-  "message": "Vier PNGs mit echter Transparenz per genehmigter Python-Freistellung erstellt, vollständig dekodiert und geprüft. Acht getrennte Posen, beide Gehphasen nach rechts und Bodenlinie 494. Fünf Dateien atomar auf main veröffentlicht und GitHub-Binärdaten erneut geladen und geprüft, SHA und JSON validiert. Kein Build-Workflow im Repository vorhanden. Tägliche Aufgabe aktiv; Freistellung als Reparaturschritt hinterlegt, keine automatische Pause bei Bildfehlern."
+  "message": "Alle fünf Pflichtdateien atomar veröffentlicht und von GitHub binär zurückgelesen; PNG-Größen, echter Alphakanal, Prüfsummen und Spruch-JSON geprüft. Acht getrennte Posen, beide Gehframes nach rechts auf gleicher Bodenlinie. Kein Build-Workflow im Asset-Repository vorhanden."
 }
