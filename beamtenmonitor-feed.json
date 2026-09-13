@@ -1,67 +1,57 @@
 {
-  "updatedAt": "2026-09-12T05:58:32+02:00",
-  "checkedSources": "12.09.2026: Keine relevante Änderung; amtliche Quellen geprüft. BayMBl. bis Nr. 369 vom 09.09., GVBl. bis S. 574 vom 31.08., Augsburg Amtsblatt 35/36 vom 04.09. und Stadtrecht, Regierungsamtsblatt Schwaben Nr. 17 vom 08.09.; BVS-Jahrgangsseite samt zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung unverändert. Bayern.Recht: BayBhV, ZustVSt und Kampfmittelbekanntmachung jeweils mit Gültigkeitsstand ab 01.09.2026.",
+  "checkedSources": "13.09.2026: Keine neue relevante Verkündung; amtliche Quellen geprüft. BayMBl. bis Nr. 369 vom 09.09., GVBl. S. 574 vom 31.08., Augsburg Amtsblatt 35/36 vom 04.09. und Stadtrecht, Schwaben Nr. 17 vom 08.09.; BVS-Jahrgangsunterlagen ohne neue Terminänderung. Bayern.Recht: BayBhV, ZustVSt und Kampfmittel ab 01.09.2026. Kunst: Änderungswortlaut enthalten, angezeigtes Gültigkeitsdatum weiterhin 01.08.2023. Musik-Leselink derzeit nicht abrufbar; Museums-Lesefassung heute nicht erneut bestätigt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
-      "id": "latest",
-      "label": "Neueste Gesetzesänderungen",
-      "intro": "Tagesprüfung 12.09.2026: keine neue relevante Änderung. Der letzte sachlich gültige Stand bleibt erhalten; Kooperativer Ganztag gilt seit 10.09.2026.",
       "changes": [
         {
-          "title": "Gebietsänderung Augsburg – Neusäß",
-          "kind": "Rechtsverordnung",
-          "reference": "Verordnung zur Änderung des Gebiets der Stadt Neusäß, Landkreis Augsburg und der kreisfreien Stadt Augsburg vom 06.08.2026; RABl. Schw. 2026 S. 191–195",
-          "published": "08.09.2026",
-          "effective": "01.10.2026; keine besondere Übergangs- oder Rückwirkungsregel im Text",
-          "summary": "6.053 m² wechseln von Augsburg nach Neusäß. Grundlage sind Art. 11 und 12 GO; § 2 bestimmt den Stichtag. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
           "administrationImpact": "Einordnung: Augsburg und Neusäß sollten die betroffenen Zuständigkeits-, Geodaten- und Grundstücksverfahren zum Stichtag abstimmen. Daraus folgt nicht automatisch eine bestimmte Änderung einzelner Abgabenbescheide.",
           "checkpoints": [
             "Grenzverlauf anhand der Anlage prüfen",
             "Örtliche Zuständigkeit und Datenbestände zum 01.10. abstimmen"
           ],
+          "consolidatedUrl": "",
+          "effective": "01.10.2026; keine besondere Übergangs- oder Rückwirkungsregel im Text",
+          "kind": "Rechtsverordnung",
+          "published": "08.09.2026",
+          "reference": "Verordnung zur Änderung des Gebiets der Stadt Neusäß, Landkreis Augsburg und der kreisfreien Stadt Augsburg vom 06.08.2026; RABl. Schw. 2026 S. 191–195",
           "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
-          "consolidatedUrl": ""
+          "summary": "6.053 m² wechseln von Augsburg nach Neusäß. Grundlage sind Art. 11 und 12 GO; § 2 bestimmt den Stichtag. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "title": "Gebietsänderung Augsburg – Neusäß"
         },
         {
-          "title": "Krankenhauszweckverband Augsburg: Satzungsneufassung veröffentlicht",
-          "kind": "Verbandssatzung / Bekanntmachung der Neufassung",
-          "reference": "Bekanntmachung vom 18.08.2026, Gz. RvS-SG 12-1444-11/26; RABl. Schw. 2026 S. 196–203",
-          "published": "08.09.2026",
-          "effective": "§ 21 nennt 02.05.2026; rückbezogener Geltungsbeginn, widersprüchliche Datierungen im Abdruck klärungsbedürftig",
-          "summary": "Veröffentlichter Gesamttext mit Stadt und Landkreis als Mitgliedern, Verbandsorganen und Umlageregeln. Die Überschriften enthalten zugleich ältere Fassungsdaten. Nicht jede Vorschrift ist deshalb als neu geändert nachgewiesen. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
           "administrationImpact": "Einordnung: Rechtsamt, Beteiligungsverwaltung und Kämmerei sollten den veröffentlichten Gesamttext mit ihren Unterlagen und den zugrunde liegenden Änderungssatzungen abgleichen. Keine ungeprüfte rückwirkende Neuberechnung allein aufgrund dieses Monitors.",
           "checkpoints": [
             "Datierungswidersprüche und Änderungskette klären",
             "Umlage- und Organunterlagen gegen den Gesamttext prüfen",
             "Nicht mit dem Rettungszweckverband verwechseln"
           ],
+          "consolidatedUrl": "",
+          "effective": "§ 21 nennt 02.05.2026; rückbezogener Geltungsbeginn, widersprüchliche Datierungen im Abdruck klärungsbedürftig",
+          "kind": "Verbandssatzung / Bekanntmachung der Neufassung",
+          "published": "08.09.2026",
+          "reference": "Bekanntmachung vom 18.08.2026, Gz. RvS-SG 12-1444-11/26; RABl. Schw. 2026 S. 196–203",
           "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
-          "consolidatedUrl": ""
+          "summary": "Veröffentlichter Gesamttext mit Stadt und Landkreis als Mitgliedern, Verbandsorganen und Umlageregeln. Die Überschriften enthalten zugleich ältere Fassungsdaten. Nicht jede Vorschrift ist deshalb als neu geändert nachgewiesen. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "title": "Krankenhauszweckverband Augsburg: Satzungsneufassung veröffentlicht"
         },
         {
-          "title": "Befristete Papierführung bestimmter Bußgeldakten",
-          "kind": "Behördenbezogene Organisationsanordnung",
-          "reference": "Anordnung zur elektronischen Bußgeldaktenführung vom 19.08.2026; RABl. Schw. 2026 S. 190–191",
-          "published": "08.09.2026",
-          "effective": "Behördenbezogene Anfangsdaten, überwiegend rückbezogen ab 01.01.2026; befristet bis 31.12.2026",
-          "summary": "Die Anordnung erlaubt den ausdrücklich aufgeführten Stellen Papierakten einschließlich der Papierweiterführung eingehender elektronischer Akten. Die Stadt Augsburg ist nicht aufgeführt. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
           "administrationImpact": "Einordnung: Betroffene Bußgeldstellen und IT müssen die konkrete Behördenliste, den jeweiligen Beginn und das Befristungsende beachten. Für Augsburg lässt sich daraus keine allgemeine Papierausnahme ableiten.",
           "checkpoints": [
             "Eigene Stelle und Anfangsdatum in der Liste prüfen",
             "Aktenübergaben dokumentieren",
             "Umstellung nach Befristungsende vorbereiten"
           ],
+          "consolidatedUrl": "",
+          "effective": "Behördenbezogene Anfangsdaten, überwiegend rückbezogen ab 01.01.2026; befristet bis 31.12.2026",
+          "kind": "Behördenbezogene Organisationsanordnung",
+          "published": "08.09.2026",
+          "reference": "Anordnung zur elektronischen Bußgeldaktenführung vom 19.08.2026; RABl. Schw. 2026 S. 190–191",
           "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
-          "consolidatedUrl": ""
+          "summary": "Die Anordnung erlaubt den ausdrücklich aufgeführten Stellen Papierakten einschließlich der Papierweiterführung eingehender elektronischer Akten. Die Stadt Augsburg ist nicht aufgeführt. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "title": "Befristete Papierführung bestimmter Bußgeldakten"
         },
         {
-          "title": "Kooperativer Ganztag",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 368; Bekanntmachung vom 28.08.2026, Az. StMAS-V1/6512.01-2/181",
-          "published": "09.09.2026",
-          "effective": "10.09.2026; keine Rückwirkung",
-          "summary": "Schule und BayKiBiG-geförderte Kombieinrichtung verzahnen ein mindestens achtstündiges Ganztagsangebot einschließlich Ferien, Planung, Finanzierung, Betriebserlaubnis, Raum- und Kooperationskonzept.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Zuständigkeiten schriftlich abgrenzen",
@@ -69,31 +59,31 @@
             "Finanzierung und KiBiG.web-Zuordnung prüfen",
             "Bestehende Angebote gegebenenfalls schrittweise umwandeln"
           ],
+          "consolidatedUrl": "",
+          "effective": "10.09.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 368; Bekanntmachung vom 28.08.2026, Az. StMAS-V1/6512.01-2/181",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-368/",
-          "consolidatedUrl": ""
+          "summary": "Schule und BayKiBiG-geförderte Kombieinrichtung verzahnen ein mindestens achtstündiges Ganztagsangebot einschließlich Ferien, Planung, Finanzierung, Betriebserlaubnis, Raum- und Kooperationskonzept.",
+          "title": "Kooperativer Ganztag"
         },
         {
-          "title": "Änderung der Veröffentlichungsbekanntmachung",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 367; Bekanntmachung vom 01.09.2026, Az. B II 4 – G 48/13-10",
-          "published": "09.09.2026",
-          "effective": "01.01.2027; keine Rückwirkung",
-          "summary": "Regeln der Nr. 6 werden auf den Bayerischen Staatsanzeiger erstreckt; in Nr. 8.1 wird die entsprechende Anwendung von Art. 8 Abs. 1 Satz 8 und Abs. 3 BayRSG ergänzt.",
           "administrationImpact": "Unmittelbar betroffen sind staatliche veröffentlichende Stellen; kommunale Stellen müssen bei Quellen- und Bekanntmachungsfragen den amtlichen Status korrekt einordnen.",
           "checkpoints": [
             "Ab 2027 Veröffentlichungsorgan und Formvorgaben prüfen",
             "Amtliche Fassung und Lesefassung unterscheiden"
           ],
+          "consolidatedUrl": "",
+          "effective": "01.01.2027; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 367; Bekanntmachung vom 01.09.2026, Az. B II 4 – G 48/13-10",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-367/",
-          "consolidatedUrl": ""
+          "summary": "Regeln der Nr. 6 werden auf den Bayerischen Staatsanzeiger erstreckt; in Nr. 8.1 wird die entsprechende Anwendung von Art. 8 Abs. 1 Satz 8 und Abs. 3 BayRSG ergänzt.",
+          "title": "Änderung der Veröffentlichungsbekanntmachung"
         },
         {
-          "title": "Richtlinie zur Förderung von „Alltagskompetenzen – Schule fürs Leben“ an kommunalen Schulen und privaten Ersatzschulen",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 362; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/4",
-          "published": "09.09.2026",
-          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
-          "summary": "Förderung von Projektwochen; kommunale Schulträger beantragen elektronisch bis 15. November bei der Regierung. Festbeträge, Ausschluss von Mehrfachförderung und Verwendungsbestätigung sind geregelt.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Ausschlussfrist 15. November beachten",
@@ -101,16 +91,16 @@
             "Doppelförderung ausschließen",
             "Verwendungsbestätigung binnen sechs Monaten vorlegen"
           ],
+          "consolidatedUrl": "",
+          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 362; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/4",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-362/",
-          "consolidatedUrl": ""
+          "summary": "Förderung von Projektwochen; kommunale Schulträger beantragen elektronisch bis 15. November bei der Regierung. Festbeträge, Ausschluss von Mehrfachförderung und Verwendungsbestätigung sind geregelt.",
+          "title": "Richtlinie zur Förderung von „Alltagskompetenzen – Schule fürs Leben“ an kommunalen Schulen und privaten Ersatzschulen"
         },
         {
-          "title": "Alltagskompetenzen – Schule fürs Leben",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 361; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/3",
-          "published": "09.09.2026",
-          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
-          "summary": "Projektwochen stärken Ernährungs-, Gesundheits-, Verbraucher-, Finanz-, Lebensvorsorge-, Umwelt- und Digitalkompetenzen. Schulen erhalten Budgets; kommunale Träger beantragen Zuwendungen.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Projektwochen und Jahrgangsstufen festlegen",
@@ -118,64 +108,64 @@
             "Externe Partner und Lernorte dokumentieren",
             "Befristung bis 31.07.2027 beachten"
           ],
+          "consolidatedUrl": "",
+          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 361; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/3",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-361/",
-          "consolidatedUrl": ""
+          "summary": "Projektwochen stärken Ernährungs-, Gesundheits-, Verbraucher-, Finanz-, Lebensvorsorge-, Umwelt- und Digitalkompetenzen. Schulen erhalten Budgets; kommunale Träger beantragen Zuwendungen.",
+          "title": "Alltagskompetenzen – Schule fürs Leben"
         },
         {
-          "title": "Änderung der Bekanntmachung über Gebundene Ganztagsangebote an Schulen",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 360; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.1/76",
-          "published": "09.09.2026",
-          "effective": "09.09.2026; keine Rückwirkung",
-          "summary": "Bei begründeter Unterschreitung von acht Zeitstunden in Klassen 1 bis 4 ist grundsätzlich Elterneinvernehmen nötig, außer der Acht-Stunden-Rechtsanspruch wird bereits durch Beaufsichtigung nach § 22 BaySchO erfüllt.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Acht-Stunden-Umfang nachweisen",
             "Ausnahme nach § 22 BaySchO dokumentieren",
             "Sonst Einvernehmen aller betroffenen Eltern einholen"
           ],
+          "consolidatedUrl": "",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 360; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.1/76",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-360/",
-          "consolidatedUrl": ""
+          "summary": "Bei begründeter Unterschreitung von acht Zeitstunden in Klassen 1 bis 4 ist grundsätzlich Elterneinvernehmen nötig, außer der Acht-Stunden-Rechtsanspruch wird bereits durch Beaufsichtigung nach § 22 BaySchO erfüllt.",
+          "title": "Änderung der Bekanntmachung über Gebundene Ganztagsangebote an Schulen"
         },
         {
-          "title": "Änderung der Ferienangebote unter Schulaufsicht für Grundschulkinder",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 358; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/327",
-          "published": "09.09.2026",
-          "effective": "01.10.2026; keine Rückwirkung",
-          "summary": "Freie Träger müssen bereits als Träger einer Mittagsbetreuung, Ganztags-Kooperationspartner oder Privatschulträger tätig sein; der BayEUG-Verweis wird aktualisiert.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Trägerqualifikation prüfen",
             "Neuen Art. 60a BayEUG anwenden",
             "Verfahren erst ab 01.10. umstellen"
           ],
+          "consolidatedUrl": "",
+          "effective": "01.10.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 358; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/327",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-358/",
-          "consolidatedUrl": ""
+          "summary": "Freie Träger müssen bereits als Träger einer Mittagsbetreuung, Ganztags-Kooperationspartner oder Privatschulträger tätig sein; der BayEUG-Verweis wird aktualisiert.",
+          "title": "Änderung der Ferienangebote unter Schulaufsicht für Grundschulkinder"
         },
         {
-          "title": "Änderung der Bekanntmachung über Mittagsbetreuung und verlängerte Mittagsbetreuung",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 357; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/326",
-          "published": "09.09.2026",
-          "effective": "01.10.2026; keine Rückwirkung",
-          "summary": "Bei Antragstellung ist ein vom Träger mit der Schulleitung abgestimmtes pädagogisches Konzept vorzulegen; BayEUG-Verweise und weitere Verfahrensdetails werden aktualisiert.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Abgestimmtes pädagogisches Konzept beifügen",
             "Aktualisierte BayEUG-Verweise nutzen",
             "Stichtag 01.10.2026 beachten"
           ],
+          "consolidatedUrl": "",
+          "effective": "01.10.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 357; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/326",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-357/",
-          "consolidatedUrl": ""
+          "summary": "Bei Antragstellung ist ein vom Träger mit der Schulleitung abgestimmtes pädagogisches Konzept vorzulegen; BayEUG-Verweise und weitere Verfahrensdetails werden aktualisiert.",
+          "title": "Änderung der Bekanntmachung über Mittagsbetreuung und verlängerte Mittagsbetreuung"
         },
         {
-          "title": "Änderung der Offenen Ganztagsangebote ab Jahrgangsstufe 5",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 356; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/68",
-          "published": "09.09.2026",
-          "effective": "09.09.2026; keine Rückwirkung",
-          "summary": "Aktualisiert werden Personal-, Führungszeugnis-, Masernschutz-, Kooperations-, Sicherheits-, Textform- und Zählschülerregeln. Für kommunale Schulen ist vor Tätigkeitsbeginn grundsätzlich ein höchstens drei Monate altes erweitertes Führungszeugnis vorzulegen.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Führungszeugnis vor Tätigkeitsantritt prüfen",
@@ -183,32 +173,32 @@
             "Masernschutz und Sicherheitsregeln dokumentieren",
             "Neue Zählschülerfaktoren anwenden"
           ],
+          "consolidatedUrl": "",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 356; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/68",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-356/",
-          "consolidatedUrl": ""
+          "summary": "Aktualisiert werden Personal-, Führungszeugnis-, Masernschutz-, Kooperations-, Sicherheits-, Textform- und Zählschülerregeln. Für kommunale Schulen ist vor Tätigkeitsbeginn grundsätzlich ein höchstens drei Monate altes erweitertes Führungszeugnis vorzulegen.",
+          "title": "Änderung der Offenen Ganztagsangebote ab Jahrgangsstufe 5"
         },
         {
-          "title": "Änderung der Offenen Ganztagsangebote in Jahrgangsstufen 1 bis 4",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 355; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/67",
-          "published": "09.09.2026",
-          "effective": "09.09.2026; keine Rückwirkung",
-          "summary": "Elterneinvernehmen für Abweichungen ist entbehrlich, wenn der achtstündige Rechtsanspruch bereits durch Beaufsichtigung nach § 22 Abs. 1 und 2 BaySchO erfüllt werden kann.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Acht-Stunden-Erfüllung konkret prüfen",
             "Beaufsichtigungszeiten dokumentieren",
             "Falls Ausnahme nicht greift, Elterneinvernehmen einholen"
           ],
+          "consolidatedUrl": "",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 355; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/67",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-355/",
-          "consolidatedUrl": ""
+          "summary": "Elterneinvernehmen für Abweichungen ist entbehrlich, wenn der achtstündige Rechtsanspruch bereits durch Beaufsichtigung nach § 22 Abs. 1 und 2 BaySchO erfüllt werden kann.",
+          "title": "Änderung der Offenen Ganztagsangebote in Jahrgangsstufen 1 bis 4"
         },
         {
-          "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)",
-          "kind": "Kommunale Satzung (Neufassung)",
-          "reference": "Amtsblatt der Stadt Augsburg Nr. 35/36 vom 04.09.2026, S. 253–257",
-          "published": "04.09.2026",
-          "effective": "05.09.2026; keine Rückwirkung, keine besondere Übergangsregel",
-          "summary": "Die Neufassung regelt die Plärrer als öffentliche Einrichtung, Veranstaltungszeiten, schriftliche Zulassung und Standplatzvergabe, die Antragsfrist 15. Juli des Vorjahres, dokumentierte Auswahlkriterien, eine dreimonatige Entscheidungsfrist mit Zulassungsfiktion, Auflagen und Widerruf sowie Sicherheits-, Verhaltens- und Bußgeldbestimmungen. Sie ersetzt die Satzung vom 21.03.2013.",
           "administrationImpact": "Marktamt, Ordnungs-, Sicherheits-, Gewerbe-, Bau- und Brandschutzstellen müssen Zulassungs-, Auswahl-, Kontroll- und Widerrufsverfahren am neuen Satzungstext ausrichten. Auswahlentscheidungen und Abweichungen sind konsistent und nachvollziehbar zu dokumentieren.",
           "checkpoints": [
             "Für jeden Plärrer gesonderten, vollständigen Antrag und Ausschlussfrist 15. Juli des Vorjahres prüfen.",
@@ -217,8 +207,14 @@
             "Auflagen, Widerruf, Sicherheitsregeln und Ordnungswidrigkeitentatbestände in Bescheiden und Kontrollen berücksichtigen.",
             "Keine Rückwirkung oder Übergangsregel; alte Satzung seit 05.09.2026 außer Kraft."
           ],
+          "consolidatedUrl": "",
+          "effective": "05.09.2026; keine Rückwirkung, keine besondere Übergangsregel",
+          "kind": "Kommunale Satzung (Neufassung)",
+          "published": "04.09.2026",
+          "reference": "Amtsblatt der Stadt Augsburg Nr. 35/36 vom 04.09.2026, S. 253–257",
           "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-35-36_vom-04-09-2026_.pdf",
-          "consolidatedUrl": ""
+          "summary": "Die Neufassung regelt die Plärrer als öffentliche Einrichtung, Veranstaltungszeiten, schriftliche Zulassung und Standplatzvergabe, die Antragsfrist 15. Juli des Vorjahres, dokumentierte Auswahlkriterien, eine dreimonatige Entscheidungsfrist mit Zulassungsfiktion, Auflagen und Widerruf sowie Sicherheits-, Verhaltens- und Bußgeldbestimmungen. Sie ersetzt die Satzung vom 21.03.2013.",
+          "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)"
         },
         {
           "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen bei Auskünften und Kontrollen Transportzweck, Nachweise und Befristung unterscheiden. Keine pauschale Freigabe sämtlicher Lkw-Fahrten; andere Länder haben eigene Regelungen.",
@@ -242,7 +238,7 @@
           "checkpoints": [
             "Notennachweis zum Halbjahr statt Bindung an das Zwischenzeugnis prüfen.",
             "Rückwirkung auf 18.08.2026 beachten; keine besondere Übergangsregel im Änderungstext.",
-            "Bayern.Recht zeigt noch 01.08.2023 und den alten Wortlaut; bis zur Konsolidierung Änderungstext ergänzend anwenden."
+            "Prüfung 13.09.2026: Bayern.Recht enthält den neuen Halbjahres-Wortlaut und nennt BayMBl. Nr. 350; angezeigt wird weiterhin „Text gilt ab: 01.08.2023“. Rückwirkung ab 18.08.2026 deshalb aus dem Änderungstext bestimmen."
           ],
           "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2235_1_1_5_K_13894/true",
           "effective": "rückwirkend ab 18.08.2026",
@@ -258,9 +254,9 @@
           "checkpoints": [
             "Notennachweis zum Halbjahr bei Leistungsfachwahl berücksichtigen.",
             "Rückwirkung auf 18.08.2026 beachten; keine gesonderte Übergangsregel.",
-            "Bayern.Recht Nr. 1 zeigt noch 01.08.2023 und den alten Wortlaut; Änderungstext ergänzend verwenden."
+            "Prüfung 13.09.2026: bisheriger Bayern.Recht-Leselink nicht abrufbar (404); aktueller Wortlaut und Gültigkeitsdatum dort nicht bestätigt. Amtlichen Änderungstext verwenden."
           ],
-          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2235_1_1_5_K_13864-0",
+          "consolidatedUrl": "",
           "effective": "rückwirkend ab 18.08.2026",
           "kind": "Verwaltungsvorschrift",
           "published": "02.09.2026",
@@ -270,12 +266,6 @@
           "title": "Änderung der Bekanntmachung über das Leistungsfach Musik sowie Fächer des Zusatzangebots „Vokalensemble“ und „Instrumentalensemble“ in der Oberstufe des neunjährigen Gymnasiums"
         },
         {
-          "title": "Steuer-Zuständigkeitsverordnung geändert",
-          "kind": "Rechtsverordnung",
-          "reference": "GVBl. 2026 S. 574",
-          "published": "31.08.2026",
-          "effective": "§ 1 ab 01.09.2026; § 2 ab 01.10.2026; § 3 ab 01.11.2026; § 4 ab 01.12.2026",
-          "summary": "§ 5 Abs. 1 und Anlage 3 der Steuer-Zuständigkeitsverordnung werden geändert. Besondere Aufgaben der staatlichen Steuerverwaltung werden bestimmten Finanzämtern bezirksübergreifend zugewiesen; weitere örtliche Zuständigkeiten wechseln in drei Folgestufen.",
           "administrationImpact": "Unmittelbar betroffen sind Finanzämter und Verfahren der staatlichen Steuerverwaltung. Kommunale Stellen erhalten keine neuen Vollzugsaufgaben, müssen bei steuerbezogenen Schnittstellen aber die jeweils gültige Zuständigkeitsverteilung beachten.",
           "checkpoints": [
             "Ab dem jeweiligen Stichtag Anlage 3 auf die zuständige Finanzbehörde prüfen",
@@ -283,118 +273,118 @@
             "Bayern.Recht zeigt am 03.09.2026 den Gültigkeitsstand 01.09.2026; spätere Änderungsstufen getrennt beachten",
             "Keine Rückwirkung; die vier Inkrafttretensstufen getrennt anwenden"
           ],
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayZustVSt",
+          "effective": "§ 1 ab 01.09.2026; § 2 ab 01.10.2026; § 3 ab 01.11.2026; § 4 ab 01.12.2026",
+          "kind": "Rechtsverordnung",
+          "published": "31.08.2026",
+          "reference": "GVBl. 2026 S. 574",
           "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-574/",
-          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayZustVSt"
+          "summary": "§ 5 Abs. 1 und Anlage 3 der Steuer-Zuständigkeitsverordnung werden geändert. Besondere Aufgaben der staatlichen Steuerverwaltung werden bestimmten Finanzämtern bezirksübergreifend zugewiesen; weitere örtliche Zuständigkeiten wechseln in drei Folgestufen.",
+          "title": "Steuer-Zuständigkeitsverordnung geändert"
         },
         {
-          "title": "Gefahrenabwehr bei Kampfmitteln neu geregelt",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 345",
-          "published": "26.08.2026",
-          "effective": "01.09.2026",
-          "summary": "Die Bekanntmachung ordnet Zuständigkeiten und Abläufe bei Kampfmittelverdacht und -fund neu. Gemeinden handeln grundsätzlich als örtliche Sicherheitsbehörden; Fundmeldung, Absicherung, historische Recherche und die Berücksichtigung in Bauleitplanung und Baugenehmigung werden konkretisiert.",
           "administrationImpact": "Ordnungs-, Bau-, Planungs- und Katastrophenschutzstellen müssen Zuständigkeiten, Meldeketten, Dokumentation und Prüfschritte ab 1. September an der neuen Bekanntmachung ausrichten.",
           "checkpoints": [
             "Interne Melde- und Eskalationswege prüfen.",
             "Verdachtsflächen in Planung und Genehmigung frühzeitig berücksichtigen.",
             "Ab 01.09.2026 den neuen BayMBl.-Text zugrunde legen."
           ],
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2011_I_15792",
+          "effective": "01.09.2026",
+          "kind": "Verwaltungsvorschrift",
+          "published": "26.08.2026",
+          "reference": "BayMBl. 2026 Nr. 345",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-345/",
-          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2011_I_15792"
+          "summary": "Die Bekanntmachung ordnet Zuständigkeiten und Abläufe bei Kampfmittelverdacht und -fund neu. Gemeinden handeln grundsätzlich als örtliche Sicherheitsbehörden; Fundmeldung, Absicherung, historische Recherche und die Berücksichtigung in Bauleitplanung und Baugenehmigung werden konkretisiert.",
+          "title": "Gefahrenabwehr bei Kampfmitteln neu geregelt"
         },
         {
-          "title": "52. Jahreskrankenhausbauprogramm 2026",
-          "kind": "Bekanntmachung",
-          "reference": "BayMBl. 2026 Nr. 346",
-          "published": "26.08.2026",
-          "effective": "01.08.2026 rückwirkend",
-          "summary": "Das Krankenhausbauprogramm 2026 weist geförderte Vorhaben, Einzelmaßnahmen, Restförderungen, Kontingentmaßnahmen und Vorfestlegungen aus. Eine Programmaufnahme ist noch keine verbindliche Förderbewilligung.",
           "administrationImpact": "Betroffene Träger und Verwaltungsstellen müssen Projektstand, Förderverfahren, Haushaltsbezug und Auszahlungsunterlagen mit der aktuellen Programmbekanntmachung abgleichen.",
           "checkpoints": [
             "Programmaufnahme nicht mit Förderbewilligung gleichsetzen.",
             "Projekt- und Haushaltsunterlagen mit der aktuellen Programmliste abgleichen.",
             "Rückwirkenden Geltungsbeginn 01.08.2026 beachten."
           ],
+          "consolidatedUrl": "",
+          "effective": "01.08.2026 rückwirkend",
+          "kind": "Bekanntmachung",
+          "published": "26.08.2026",
+          "reference": "BayMBl. 2026 Nr. 346",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-346/",
-          "consolidatedUrl": ""
+          "summary": "Das Krankenhausbauprogramm 2026 weist geförderte Vorhaben, Einzelmaßnahmen, Restförderungen, Kontingentmaßnahmen und Vorfestlegungen aus. Eine Programmaufnahme ist noch keine verbindliche Förderbewilligung.",
+          "title": "52. Jahreskrankenhausbauprogramm 2026"
         },
         {
-          "title": "Augsburg ordnet Kita- und Ganztagsrecht neu",
-          "kind": "Kommunale Satzungsänderungen",
-          "reference": "Amtsblatt Augsburg Nr. 33/34 vom 21.08.2026",
-          "published": "21.08.2026",
-          "effective": "01.09.2026",
-          "summary": "Die Stadt Augsburg ändert Regelungen für Kindertageseinrichtungen und die kooperative Ganztagsbildung, einschließlich Benutzung, Aufnahme und Gebühren.",
           "administrationImpact": "Betroffene Fachstellen müssen Antrags-, Buchungs- und Gebührenabläufe ab 1. September an den neuen Satzungsstand anpassen.",
           "checkpoints": [
             "Aktuellen Satzungstext im Amtsblatt verwenden.",
             "Antrags- und Buchungsabläufe auf den neuen Stand prüfen.",
             "Gebührenregelungen ab 01.09.2026 korrekt anwenden."
           ],
+          "consolidatedUrl": "",
+          "effective": "01.09.2026",
+          "kind": "Kommunale Satzungsänderungen",
+          "published": "21.08.2026",
+          "reference": "Amtsblatt Augsburg Nr. 33/34 vom 21.08.2026",
           "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-33-34_vom-21-08-2026.pdf",
-          "consolidatedUrl": ""
+          "summary": "Die Stadt Augsburg ändert Regelungen für Kindertageseinrichtungen und die kooperative Ganztagsbildung, einschließlich Benutzung, Aufnahme und Gebühren.",
+          "title": "Augsburg ordnet Kita- und Ganztagsrecht neu"
         }
-      ]
+      ],
+      "id": "latest",
+      "intro": "Tagesprüfung 13.09.2026: keine neue relevante Änderung. Der letzte sachlich gültige Stand bleibt erhalten; Kooperativer Ganztag gilt seit 10.09.2026.",
+      "label": "Neueste Gesetzesänderungen"
     },
     {
-      "id": "important",
-      "label": "Was ist wichtig?",
-      "intro": "Tagesprüfung 12.09.2026: keine neue relevante Änderung. Der letzte sachlich gültige Stand bleibt erhalten; Kooperativer Ganztag gilt seit 10.09.2026.",
       "changes": [
         {
-          "title": "Gebietsänderung Augsburg – Neusäß",
-          "kind": "Rechtsverordnung",
-          "reference": "Verordnung zur Änderung des Gebiets der Stadt Neusäß, Landkreis Augsburg und der kreisfreien Stadt Augsburg vom 06.08.2026; RABl. Schw. 2026 S. 191–195",
-          "published": "08.09.2026",
-          "effective": "01.10.2026; keine besondere Übergangs- oder Rückwirkungsregel im Text",
-          "summary": "6.053 m² wechseln von Augsburg nach Neusäß. Grundlage sind Art. 11 und 12 GO; § 2 bestimmt den Stichtag. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
           "administrationImpact": "Einordnung: Augsburg und Neusäß sollten die betroffenen Zuständigkeits-, Geodaten- und Grundstücksverfahren zum Stichtag abstimmen. Daraus folgt nicht automatisch eine bestimmte Änderung einzelner Abgabenbescheide.",
           "checkpoints": [
             "Grenzverlauf anhand der Anlage prüfen",
             "Örtliche Zuständigkeit und Datenbestände zum 01.10. abstimmen"
           ],
+          "consolidatedUrl": "",
+          "effective": "01.10.2026; keine besondere Übergangs- oder Rückwirkungsregel im Text",
+          "kind": "Rechtsverordnung",
+          "published": "08.09.2026",
+          "reference": "Verordnung zur Änderung des Gebiets der Stadt Neusäß, Landkreis Augsburg und der kreisfreien Stadt Augsburg vom 06.08.2026; RABl. Schw. 2026 S. 191–195",
           "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
-          "consolidatedUrl": ""
+          "summary": "6.053 m² wechseln von Augsburg nach Neusäß. Grundlage sind Art. 11 und 12 GO; § 2 bestimmt den Stichtag. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "title": "Gebietsänderung Augsburg – Neusäß"
         },
         {
-          "title": "Krankenhauszweckverband Augsburg: Satzungsneufassung veröffentlicht",
-          "kind": "Verbandssatzung / Bekanntmachung der Neufassung",
-          "reference": "Bekanntmachung vom 18.08.2026, Gz. RvS-SG 12-1444-11/26; RABl. Schw. 2026 S. 196–203",
-          "published": "08.09.2026",
-          "effective": "§ 21 nennt 02.05.2026; rückbezogener Geltungsbeginn, widersprüchliche Datierungen im Abdruck klärungsbedürftig",
-          "summary": "Veröffentlichter Gesamttext mit Stadt und Landkreis als Mitgliedern, Verbandsorganen und Umlageregeln. Die Überschriften enthalten zugleich ältere Fassungsdaten. Nicht jede Vorschrift ist deshalb als neu geändert nachgewiesen. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
           "administrationImpact": "Einordnung: Rechtsamt, Beteiligungsverwaltung und Kämmerei sollten den veröffentlichten Gesamttext mit ihren Unterlagen und den zugrunde liegenden Änderungssatzungen abgleichen. Keine ungeprüfte rückwirkende Neuberechnung allein aufgrund dieses Monitors.",
           "checkpoints": [
             "Datierungswidersprüche und Änderungskette klären",
             "Umlage- und Organunterlagen gegen den Gesamttext prüfen",
             "Nicht mit dem Rettungszweckverband verwechseln"
           ],
+          "consolidatedUrl": "",
+          "effective": "§ 21 nennt 02.05.2026; rückbezogener Geltungsbeginn, widersprüchliche Datierungen im Abdruck klärungsbedürftig",
+          "kind": "Verbandssatzung / Bekanntmachung der Neufassung",
+          "published": "08.09.2026",
+          "reference": "Bekanntmachung vom 18.08.2026, Gz. RvS-SG 12-1444-11/26; RABl. Schw. 2026 S. 196–203",
           "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
-          "consolidatedUrl": ""
+          "summary": "Veröffentlichter Gesamttext mit Stadt und Landkreis als Mitgliedern, Verbandsorganen und Umlageregeln. Die Überschriften enthalten zugleich ältere Fassungsdaten. Nicht jede Vorschrift ist deshalb als neu geändert nachgewiesen. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "title": "Krankenhauszweckverband Augsburg: Satzungsneufassung veröffentlicht"
         },
         {
-          "title": "Befristete Papierführung bestimmter Bußgeldakten",
-          "kind": "Behördenbezogene Organisationsanordnung",
-          "reference": "Anordnung zur elektronischen Bußgeldaktenführung vom 19.08.2026; RABl. Schw. 2026 S. 190–191",
-          "published": "08.09.2026",
-          "effective": "Behördenbezogene Anfangsdaten, überwiegend rückbezogen ab 01.01.2026; befristet bis 31.12.2026",
-          "summary": "Die Anordnung erlaubt den ausdrücklich aufgeführten Stellen Papierakten einschließlich der Papierweiterführung eingehender elektronischer Akten. Die Stadt Augsburg ist nicht aufgeführt. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
           "administrationImpact": "Einordnung: Betroffene Bußgeldstellen und IT müssen die konkrete Behördenliste, den jeweiligen Beginn und das Befristungsende beachten. Für Augsburg lässt sich daraus keine allgemeine Papierausnahme ableiten.",
           "checkpoints": [
             "Eigene Stelle und Anfangsdatum in der Liste prüfen",
             "Aktenübergaben dokumentieren",
             "Umstellung nach Befristungsende vorbereiten"
           ],
+          "consolidatedUrl": "",
+          "effective": "Behördenbezogene Anfangsdaten, überwiegend rückbezogen ab 01.01.2026; befristet bis 31.12.2026",
+          "kind": "Behördenbezogene Organisationsanordnung",
+          "published": "08.09.2026",
+          "reference": "Anordnung zur elektronischen Bußgeldaktenführung vom 19.08.2026; RABl. Schw. 2026 S. 190–191",
           "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
-          "consolidatedUrl": ""
+          "summary": "Die Anordnung erlaubt den ausdrücklich aufgeführten Stellen Papierakten einschließlich der Papierweiterführung eingehender elektronischer Akten. Die Stadt Augsburg ist nicht aufgeführt. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "title": "Befristete Papierführung bestimmter Bußgeldakten"
         },
         {
-          "title": "Kooperativer Ganztag",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 368; Bekanntmachung vom 28.08.2026, Az. StMAS-V1/6512.01-2/181",
-          "published": "09.09.2026",
-          "effective": "10.09.2026; keine Rückwirkung",
-          "summary": "Schule und BayKiBiG-geförderte Kombieinrichtung verzahnen ein mindestens achtstündiges Ganztagsangebot einschließlich Ferien, Planung, Finanzierung, Betriebserlaubnis, Raum- und Kooperationskonzept.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Zuständigkeiten schriftlich abgrenzen",
@@ -402,31 +392,31 @@
             "Finanzierung und KiBiG.web-Zuordnung prüfen",
             "Bestehende Angebote gegebenenfalls schrittweise umwandeln"
           ],
+          "consolidatedUrl": "",
+          "effective": "10.09.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 368; Bekanntmachung vom 28.08.2026, Az. StMAS-V1/6512.01-2/181",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-368/",
-          "consolidatedUrl": ""
+          "summary": "Schule und BayKiBiG-geförderte Kombieinrichtung verzahnen ein mindestens achtstündiges Ganztagsangebot einschließlich Ferien, Planung, Finanzierung, Betriebserlaubnis, Raum- und Kooperationskonzept.",
+          "title": "Kooperativer Ganztag"
         },
         {
-          "title": "Änderung der Veröffentlichungsbekanntmachung",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 367; Bekanntmachung vom 01.09.2026, Az. B II 4 – G 48/13-10",
-          "published": "09.09.2026",
-          "effective": "01.01.2027; keine Rückwirkung",
-          "summary": "Regeln der Nr. 6 werden auf den Bayerischen Staatsanzeiger erstreckt; in Nr. 8.1 wird die entsprechende Anwendung von Art. 8 Abs. 1 Satz 8 und Abs. 3 BayRSG ergänzt.",
           "administrationImpact": "Unmittelbar betroffen sind staatliche veröffentlichende Stellen; kommunale Stellen müssen bei Quellen- und Bekanntmachungsfragen den amtlichen Status korrekt einordnen.",
           "checkpoints": [
             "Ab 2027 Veröffentlichungsorgan und Formvorgaben prüfen",
             "Amtliche Fassung und Lesefassung unterscheiden"
           ],
+          "consolidatedUrl": "",
+          "effective": "01.01.2027; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 367; Bekanntmachung vom 01.09.2026, Az. B II 4 – G 48/13-10",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-367/",
-          "consolidatedUrl": ""
+          "summary": "Regeln der Nr. 6 werden auf den Bayerischen Staatsanzeiger erstreckt; in Nr. 8.1 wird die entsprechende Anwendung von Art. 8 Abs. 1 Satz 8 und Abs. 3 BayRSG ergänzt.",
+          "title": "Änderung der Veröffentlichungsbekanntmachung"
         },
         {
-          "title": "Richtlinie zur Förderung von „Alltagskompetenzen – Schule fürs Leben“ an kommunalen Schulen und privaten Ersatzschulen",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 362; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/4",
-          "published": "09.09.2026",
-          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
-          "summary": "Förderung von Projektwochen; kommunale Schulträger beantragen elektronisch bis 15. November bei der Regierung. Festbeträge, Ausschluss von Mehrfachförderung und Verwendungsbestätigung sind geregelt.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Ausschlussfrist 15. November beachten",
@@ -434,16 +424,16 @@
             "Doppelförderung ausschließen",
             "Verwendungsbestätigung binnen sechs Monaten vorlegen"
           ],
+          "consolidatedUrl": "",
+          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 362; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/4",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-362/",
-          "consolidatedUrl": ""
+          "summary": "Förderung von Projektwochen; kommunale Schulträger beantragen elektronisch bis 15. November bei der Regierung. Festbeträge, Ausschluss von Mehrfachförderung und Verwendungsbestätigung sind geregelt.",
+          "title": "Richtlinie zur Förderung von „Alltagskompetenzen – Schule fürs Leben“ an kommunalen Schulen und privaten Ersatzschulen"
         },
         {
-          "title": "Alltagskompetenzen – Schule fürs Leben",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 361; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/3",
-          "published": "09.09.2026",
-          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
-          "summary": "Projektwochen stärken Ernährungs-, Gesundheits-, Verbraucher-, Finanz-, Lebensvorsorge-, Umwelt- und Digitalkompetenzen. Schulen erhalten Budgets; kommunale Träger beantragen Zuwendungen.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Projektwochen und Jahrgangsstufen festlegen",
@@ -451,64 +441,64 @@
             "Externe Partner und Lernorte dokumentieren",
             "Befristung bis 31.07.2027 beachten"
           ],
+          "consolidatedUrl": "",
+          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 361; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/3",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-361/",
-          "consolidatedUrl": ""
+          "summary": "Projektwochen stärken Ernährungs-, Gesundheits-, Verbraucher-, Finanz-, Lebensvorsorge-, Umwelt- und Digitalkompetenzen. Schulen erhalten Budgets; kommunale Träger beantragen Zuwendungen.",
+          "title": "Alltagskompetenzen – Schule fürs Leben"
         },
         {
-          "title": "Änderung der Bekanntmachung über Gebundene Ganztagsangebote an Schulen",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 360; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.1/76",
-          "published": "09.09.2026",
-          "effective": "09.09.2026; keine Rückwirkung",
-          "summary": "Bei begründeter Unterschreitung von acht Zeitstunden in Klassen 1 bis 4 ist grundsätzlich Elterneinvernehmen nötig, außer der Acht-Stunden-Rechtsanspruch wird bereits durch Beaufsichtigung nach § 22 BaySchO erfüllt.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Acht-Stunden-Umfang nachweisen",
             "Ausnahme nach § 22 BaySchO dokumentieren",
             "Sonst Einvernehmen aller betroffenen Eltern einholen"
           ],
+          "consolidatedUrl": "",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 360; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.1/76",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-360/",
-          "consolidatedUrl": ""
+          "summary": "Bei begründeter Unterschreitung von acht Zeitstunden in Klassen 1 bis 4 ist grundsätzlich Elterneinvernehmen nötig, außer der Acht-Stunden-Rechtsanspruch wird bereits durch Beaufsichtigung nach § 22 BaySchO erfüllt.",
+          "title": "Änderung der Bekanntmachung über Gebundene Ganztagsangebote an Schulen"
         },
         {
-          "title": "Änderung der Ferienangebote unter Schulaufsicht für Grundschulkinder",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 358; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/327",
-          "published": "09.09.2026",
-          "effective": "01.10.2026; keine Rückwirkung",
-          "summary": "Freie Träger müssen bereits als Träger einer Mittagsbetreuung, Ganztags-Kooperationspartner oder Privatschulträger tätig sein; der BayEUG-Verweis wird aktualisiert.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Trägerqualifikation prüfen",
             "Neuen Art. 60a BayEUG anwenden",
             "Verfahren erst ab 01.10. umstellen"
           ],
+          "consolidatedUrl": "",
+          "effective": "01.10.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 358; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/327",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-358/",
-          "consolidatedUrl": ""
+          "summary": "Freie Träger müssen bereits als Träger einer Mittagsbetreuung, Ganztags-Kooperationspartner oder Privatschulträger tätig sein; der BayEUG-Verweis wird aktualisiert.",
+          "title": "Änderung der Ferienangebote unter Schulaufsicht für Grundschulkinder"
         },
         {
-          "title": "Änderung der Bekanntmachung über Mittagsbetreuung und verlängerte Mittagsbetreuung",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 357; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/326",
-          "published": "09.09.2026",
-          "effective": "01.10.2026; keine Rückwirkung",
-          "summary": "Bei Antragstellung ist ein vom Träger mit der Schulleitung abgestimmtes pädagogisches Konzept vorzulegen; BayEUG-Verweise und weitere Verfahrensdetails werden aktualisiert.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Abgestimmtes pädagogisches Konzept beifügen",
             "Aktualisierte BayEUG-Verweise nutzen",
             "Stichtag 01.10.2026 beachten"
           ],
+          "consolidatedUrl": "",
+          "effective": "01.10.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 357; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/326",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-357/",
-          "consolidatedUrl": ""
+          "summary": "Bei Antragstellung ist ein vom Träger mit der Schulleitung abgestimmtes pädagogisches Konzept vorzulegen; BayEUG-Verweise und weitere Verfahrensdetails werden aktualisiert.",
+          "title": "Änderung der Bekanntmachung über Mittagsbetreuung und verlängerte Mittagsbetreuung"
         },
         {
-          "title": "Änderung der Offenen Ganztagsangebote ab Jahrgangsstufe 5",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 356; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/68",
-          "published": "09.09.2026",
-          "effective": "09.09.2026; keine Rückwirkung",
-          "summary": "Aktualisiert werden Personal-, Führungszeugnis-, Masernschutz-, Kooperations-, Sicherheits-, Textform- und Zählschülerregeln. Für kommunale Schulen ist vor Tätigkeitsbeginn grundsätzlich ein höchstens drei Monate altes erweitertes Führungszeugnis vorzulegen.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Führungszeugnis vor Tätigkeitsantritt prüfen",
@@ -516,32 +506,32 @@
             "Masernschutz und Sicherheitsregeln dokumentieren",
             "Neue Zählschülerfaktoren anwenden"
           ],
+          "consolidatedUrl": "",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 356; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/68",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-356/",
-          "consolidatedUrl": ""
+          "summary": "Aktualisiert werden Personal-, Führungszeugnis-, Masernschutz-, Kooperations-, Sicherheits-, Textform- und Zählschülerregeln. Für kommunale Schulen ist vor Tätigkeitsbeginn grundsätzlich ein höchstens drei Monate altes erweitertes Führungszeugnis vorzulegen.",
+          "title": "Änderung der Offenen Ganztagsangebote ab Jahrgangsstufe 5"
         },
         {
-          "title": "Änderung der Offenen Ganztagsangebote in Jahrgangsstufen 1 bis 4",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 355; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/67",
-          "published": "09.09.2026",
-          "effective": "09.09.2026; keine Rückwirkung",
-          "summary": "Elterneinvernehmen für Abweichungen ist entbehrlich, wenn der achtstündige Rechtsanspruch bereits durch Beaufsichtigung nach § 22 Abs. 1 und 2 BaySchO erfüllt werden kann.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Acht-Stunden-Erfüllung konkret prüfen",
             "Beaufsichtigungszeiten dokumentieren",
             "Falls Ausnahme nicht greift, Elterneinvernehmen einholen"
           ],
+          "consolidatedUrl": "",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 355; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/67",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-355/",
-          "consolidatedUrl": ""
+          "summary": "Elterneinvernehmen für Abweichungen ist entbehrlich, wenn der achtstündige Rechtsanspruch bereits durch Beaufsichtigung nach § 22 Abs. 1 und 2 BaySchO erfüllt werden kann.",
+          "title": "Änderung der Offenen Ganztagsangebote in Jahrgangsstufen 1 bis 4"
         },
         {
-          "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)",
-          "kind": "Kommunale Satzung (Neufassung)",
-          "reference": "Amtsblatt der Stadt Augsburg Nr. 35/36 vom 04.09.2026, S. 253–257",
-          "published": "04.09.2026",
-          "effective": "05.09.2026; keine Rückwirkung, keine besondere Übergangsregel",
-          "summary": "Die Neufassung regelt die Plärrer als öffentliche Einrichtung, Veranstaltungszeiten, schriftliche Zulassung und Standplatzvergabe, die Antragsfrist 15. Juli des Vorjahres, dokumentierte Auswahlkriterien, eine dreimonatige Entscheidungsfrist mit Zulassungsfiktion, Auflagen und Widerruf sowie Sicherheits-, Verhaltens- und Bußgeldbestimmungen. Sie ersetzt die Satzung vom 21.03.2013.",
           "administrationImpact": "Marktamt, Ordnungs-, Sicherheits-, Gewerbe-, Bau- und Brandschutzstellen müssen Zulassungs-, Auswahl-, Kontroll- und Widerrufsverfahren am neuen Satzungstext ausrichten. Auswahlentscheidungen und Abweichungen sind konsistent und nachvollziehbar zu dokumentieren.",
           "checkpoints": [
             "Für jeden Plärrer gesonderten, vollständigen Antrag und Ausschlussfrist 15. Juli des Vorjahres prüfen.",
@@ -550,8 +540,14 @@
             "Auflagen, Widerruf, Sicherheitsregeln und Ordnungswidrigkeitentatbestände in Bescheiden und Kontrollen berücksichtigen.",
             "Keine Rückwirkung oder Übergangsregel; alte Satzung seit 05.09.2026 außer Kraft."
           ],
+          "consolidatedUrl": "",
+          "effective": "05.09.2026; keine Rückwirkung, keine besondere Übergangsregel",
+          "kind": "Kommunale Satzung (Neufassung)",
+          "published": "04.09.2026",
+          "reference": "Amtsblatt der Stadt Augsburg Nr. 35/36 vom 04.09.2026, S. 253–257",
           "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-35-36_vom-04-09-2026_.pdf",
-          "consolidatedUrl": ""
+          "summary": "Die Neufassung regelt die Plärrer als öffentliche Einrichtung, Veranstaltungszeiten, schriftliche Zulassung und Standplatzvergabe, die Antragsfrist 15. Juli des Vorjahres, dokumentierte Auswahlkriterien, eine dreimonatige Entscheidungsfrist mit Zulassungsfiktion, Auflagen und Widerruf sowie Sicherheits-, Verhaltens- und Bußgeldbestimmungen. Sie ersetzt die Satzung vom 21.03.2013.",
+          "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)"
         },
         {
           "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen bei Auskünften und Kontrollen Transportzweck, Nachweise und Befristung unterscheiden. Keine pauschale Freigabe sämtlicher Lkw-Fahrten; andere Länder haben eigene Regelungen.",
@@ -575,7 +571,7 @@
           "checkpoints": [
             "Notennachweis zum Halbjahr statt Bindung an das Zwischenzeugnis prüfen.",
             "Rückwirkung auf 18.08.2026 beachten; keine besondere Übergangsregel im Änderungstext.",
-            "Bayern.Recht zeigt noch 01.08.2023 und den alten Wortlaut; bis zur Konsolidierung Änderungstext ergänzend anwenden."
+            "Prüfung 13.09.2026: Bayern.Recht enthält den neuen Halbjahres-Wortlaut und nennt BayMBl. Nr. 350; angezeigt wird weiterhin „Text gilt ab: 01.08.2023“. Rückwirkung ab 18.08.2026 deshalb aus dem Änderungstext bestimmen."
           ],
           "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2235_1_1_5_K_13894/true",
           "effective": "rückwirkend ab 18.08.2026",
@@ -591,9 +587,9 @@
           "checkpoints": [
             "Notennachweis zum Halbjahr bei Leistungsfachwahl berücksichtigen.",
             "Rückwirkung auf 18.08.2026 beachten; keine gesonderte Übergangsregel.",
-            "Bayern.Recht Nr. 1 zeigt noch 01.08.2023 und den alten Wortlaut; Änderungstext ergänzend verwenden."
+            "Prüfung 13.09.2026: bisheriger Bayern.Recht-Leselink nicht abrufbar (404); aktueller Wortlaut und Gültigkeitsdatum dort nicht bestätigt. Amtlichen Änderungstext verwenden."
           ],
-          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2235_1_1_5_K_13864-0",
+          "consolidatedUrl": "",
           "effective": "rückwirkend ab 18.08.2026",
           "kind": "Verwaltungsvorschrift",
           "published": "02.09.2026",
@@ -603,12 +599,6 @@
           "title": "Änderung der Bekanntmachung über das Leistungsfach Musik sowie Fächer des Zusatzangebots „Vokalensemble“ und „Instrumentalensemble“ in der Oberstufe des neunjährigen Gymnasiums"
         },
         {
-          "title": "Steuer-Zuständigkeitsverordnung geändert",
-          "kind": "Rechtsverordnung",
-          "reference": "GVBl. 2026 S. 574",
-          "published": "31.08.2026",
-          "effective": "§ 1 ab 01.09.2026; § 2 ab 01.10.2026; § 3 ab 01.11.2026; § 4 ab 01.12.2026",
-          "summary": "§ 5 Abs. 1 und Anlage 3 der Steuer-Zuständigkeitsverordnung werden geändert. Besondere Aufgaben der staatlichen Steuerverwaltung werden bestimmten Finanzämtern bezirksübergreifend zugewiesen; weitere örtliche Zuständigkeiten wechseln in drei Folgestufen.",
           "administrationImpact": "Unmittelbar betroffen sind Finanzämter und Verfahren der staatlichen Steuerverwaltung. Kommunale Stellen erhalten keine neuen Vollzugsaufgaben, müssen bei steuerbezogenen Schnittstellen aber die jeweils gültige Zuständigkeitsverteilung beachten.",
           "checkpoints": [
             "Ab dem jeweiligen Stichtag Anlage 3 auf die zuständige Finanzbehörde prüfen",
@@ -616,102 +606,102 @@
             "Bayern.Recht zeigt am 03.09.2026 den Gültigkeitsstand 01.09.2026; spätere Änderungsstufen getrennt beachten",
             "Keine Rückwirkung; die vier Inkrafttretensstufen getrennt anwenden"
           ],
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayZustVSt",
+          "effective": "§ 1 ab 01.09.2026; § 2 ab 01.10.2026; § 3 ab 01.11.2026; § 4 ab 01.12.2026",
+          "kind": "Rechtsverordnung",
+          "published": "31.08.2026",
+          "reference": "GVBl. 2026 S. 574",
           "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-574/",
-          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayZustVSt"
+          "summary": "§ 5 Abs. 1 und Anlage 3 der Steuer-Zuständigkeitsverordnung werden geändert. Besondere Aufgaben der staatlichen Steuerverwaltung werden bestimmten Finanzämtern bezirksübergreifend zugewiesen; weitere örtliche Zuständigkeiten wechseln in drei Folgestufen.",
+          "title": "Steuer-Zuständigkeitsverordnung geändert"
         },
         {
-          "title": "Seit 1. September geltende Vorschriften anwenden",
-          "kind": "Stichtagshinweis",
-          "reference": "Prüfstand 03.09.2026",
-          "published": "03.09.2026",
-          "effective": "01.09.2026",
-          "summary": "Seit 1. September sind unter anderem die neue Kampfmittel-Bekanntmachung, Augsburger Kita-/Ganztagsregelungen und wesentliche Änderungen der Bayerischen Beihilfeverordnung relevant.",
           "administrationImpact": "Dienststellen prüfen Arbeitsunterlagen und Verfahren auf die seit 01.09.2026 geltenden Fassungen.",
           "checkpoints": [
             "Stichtag 01.09.2026 in betroffenen Verfahren beachten.",
             "Änderungstext und konsolidierte Lesefassung getrennt prüfen.",
             "Interne Arbeitshilfen nicht ungeprüft aus dem alten Stand weiterverwenden."
           ],
+          "consolidatedUrl": "",
+          "effective": "01.09.2026",
+          "kind": "Stichtagshinweis",
+          "published": "03.09.2026",
+          "reference": "Prüfstand 03.09.2026",
           "sourceUrl": "https://www.verkuendung-bayern.de/",
-          "consolidatedUrl": ""
+          "summary": "Seit 1. September sind unter anderem die neue Kampfmittel-Bekanntmachung, Augsburger Kita-/Ganztagsregelungen und wesentliche Änderungen der Bayerischen Beihilfeverordnung relevant.",
+          "title": "Seit 1. September geltende Vorschriften anwenden"
         },
         {
-          "title": "Augsburger und schwäbische Bekanntmachungen weiter beobachten",
-          "kind": "Kommunaler Prüfpunkt",
-          "reference": "Stadt Augsburg / Regierung von Schwaben",
-          "published": "30.08.2026",
-          "effective": "je Bekanntmachung",
-          "summary": "Das Augsburger Amtsblatt 33/34 vom 21.08.2026 bleibt die jüngste gelistete Ausgabe. Für die ZRF-Verbandssatzung ist weiterhin die maßgebliche Bekanntmachung im Regierungsamtsblatt Schwaben zu beobachten.",
           "administrationImpact": "Kommunale Stellen müssen Inkrafttreten und Folgebekanntmachungen anhand der zuständigen amtlichen Veröffentlichungsorgane prüfen.",
           "checkpoints": [
             "Aktuelle Amtsblattausgabe der Stadt Augsburg prüfen.",
             "Regierungsamtsblatt Schwaben auf die maßgebliche ZRF-Bekanntmachung prüfen.",
             "Inkrafttreten nicht aus einem bloßen Abdruck ableiten."
           ],
+          "consolidatedUrl": "",
+          "effective": "je Bekanntmachung",
+          "kind": "Kommunaler Prüfpunkt",
+          "published": "30.08.2026",
+          "reference": "Stadt Augsburg / Regierung von Schwaben",
           "sourceUrl": "https://www.augsburg.de/amtliche-bekanntmachungen",
-          "consolidatedUrl": ""
+          "summary": "Das Augsburger Amtsblatt 33/34 vom 21.08.2026 bleibt die jüngste gelistete Ausgabe. Für die ZRF-Verbandssatzung ist weiterhin die maßgebliche Bekanntmachung im Regierungsamtsblatt Schwaben zu beobachten.",
+          "title": "Augsburger und schwäbische Bekanntmachungen weiter beobachten"
         }
-      ]
+      ],
+      "id": "important",
+      "intro": "Tagesprüfung 13.09.2026: keine neue relevante Änderung. Der letzte sachlich gültige Stand bleibt erhalten; Kooperativer Ganztag gilt seit 10.09.2026.",
+      "label": "Was ist wichtig?"
     },
     {
-      "id": "changes",
-      "label": "Gesetzesänderungen anzeigen",
-      "intro": "Tagesprüfung 12.09.2026: keine neue relevante Änderung. Der letzte sachlich gültige Stand bleibt erhalten; Kooperativer Ganztag gilt seit 10.09.2026.",
       "changes": [
         {
-          "title": "Gebietsänderung Augsburg – Neusäß",
-          "kind": "Rechtsverordnung",
-          "reference": "Verordnung zur Änderung des Gebiets der Stadt Neusäß, Landkreis Augsburg und der kreisfreien Stadt Augsburg vom 06.08.2026; RABl. Schw. 2026 S. 191–195",
-          "published": "08.09.2026",
-          "effective": "01.10.2026; keine besondere Übergangs- oder Rückwirkungsregel im Text",
-          "summary": "6.053 m² wechseln von Augsburg nach Neusäß. Grundlage sind Art. 11 und 12 GO; § 2 bestimmt den Stichtag. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
           "administrationImpact": "Einordnung: Augsburg und Neusäß sollten die betroffenen Zuständigkeits-, Geodaten- und Grundstücksverfahren zum Stichtag abstimmen. Daraus folgt nicht automatisch eine bestimmte Änderung einzelner Abgabenbescheide.",
           "checkpoints": [
             "Grenzverlauf anhand der Anlage prüfen",
             "Örtliche Zuständigkeit und Datenbestände zum 01.10. abstimmen"
           ],
+          "consolidatedUrl": "",
+          "effective": "01.10.2026; keine besondere Übergangs- oder Rückwirkungsregel im Text",
+          "kind": "Rechtsverordnung",
+          "published": "08.09.2026",
+          "reference": "Verordnung zur Änderung des Gebiets der Stadt Neusäß, Landkreis Augsburg und der kreisfreien Stadt Augsburg vom 06.08.2026; RABl. Schw. 2026 S. 191–195",
           "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
-          "consolidatedUrl": ""
+          "summary": "6.053 m² wechseln von Augsburg nach Neusäß. Grundlage sind Art. 11 und 12 GO; § 2 bestimmt den Stichtag. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "title": "Gebietsänderung Augsburg – Neusäß"
         },
         {
-          "title": "Krankenhauszweckverband Augsburg: Satzungsneufassung veröffentlicht",
-          "kind": "Verbandssatzung / Bekanntmachung der Neufassung",
-          "reference": "Bekanntmachung vom 18.08.2026, Gz. RvS-SG 12-1444-11/26; RABl. Schw. 2026 S. 196–203",
-          "published": "08.09.2026",
-          "effective": "§ 21 nennt 02.05.2026; rückbezogener Geltungsbeginn, widersprüchliche Datierungen im Abdruck klärungsbedürftig",
-          "summary": "Veröffentlichter Gesamttext mit Stadt und Landkreis als Mitgliedern, Verbandsorganen und Umlageregeln. Die Überschriften enthalten zugleich ältere Fassungsdaten. Nicht jede Vorschrift ist deshalb als neu geändert nachgewiesen. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
           "administrationImpact": "Einordnung: Rechtsamt, Beteiligungsverwaltung und Kämmerei sollten den veröffentlichten Gesamttext mit ihren Unterlagen und den zugrunde liegenden Änderungssatzungen abgleichen. Keine ungeprüfte rückwirkende Neuberechnung allein aufgrund dieses Monitors.",
           "checkpoints": [
             "Datierungswidersprüche und Änderungskette klären",
             "Umlage- und Organunterlagen gegen den Gesamttext prüfen",
             "Nicht mit dem Rettungszweckverband verwechseln"
           ],
+          "consolidatedUrl": "",
+          "effective": "§ 21 nennt 02.05.2026; rückbezogener Geltungsbeginn, widersprüchliche Datierungen im Abdruck klärungsbedürftig",
+          "kind": "Verbandssatzung / Bekanntmachung der Neufassung",
+          "published": "08.09.2026",
+          "reference": "Bekanntmachung vom 18.08.2026, Gz. RvS-SG 12-1444-11/26; RABl. Schw. 2026 S. 196–203",
           "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
-          "consolidatedUrl": ""
+          "summary": "Veröffentlichter Gesamttext mit Stadt und Landkreis als Mitgliedern, Verbandsorganen und Umlageregeln. Die Überschriften enthalten zugleich ältere Fassungsdaten. Nicht jede Vorschrift ist deshalb als neu geändert nachgewiesen. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "title": "Krankenhauszweckverband Augsburg: Satzungsneufassung veröffentlicht"
         },
         {
-          "title": "Befristete Papierführung bestimmter Bußgeldakten",
-          "kind": "Behördenbezogene Organisationsanordnung",
-          "reference": "Anordnung zur elektronischen Bußgeldaktenführung vom 19.08.2026; RABl. Schw. 2026 S. 190–191",
-          "published": "08.09.2026",
-          "effective": "Behördenbezogene Anfangsdaten, überwiegend rückbezogen ab 01.01.2026; befristet bis 31.12.2026",
-          "summary": "Die Anordnung erlaubt den ausdrücklich aufgeführten Stellen Papierakten einschließlich der Papierweiterführung eingehender elektronischer Akten. Die Stadt Augsburg ist nicht aufgeführt. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
           "administrationImpact": "Einordnung: Betroffene Bußgeldstellen und IT müssen die konkrete Behördenliste, den jeweiligen Beginn und das Befristungsende beachten. Für Augsburg lässt sich daraus keine allgemeine Papierausnahme ableiten.",
           "checkpoints": [
             "Eigene Stelle und Anfangsdatum in der Liste prüfen",
             "Aktenübergaben dokumentieren",
             "Umstellung nach Befristungsende vorbereiten"
           ],
+          "consolidatedUrl": "",
+          "effective": "Behördenbezogene Anfangsdaten, überwiegend rückbezogen ab 01.01.2026; befristet bis 31.12.2026",
+          "kind": "Behördenbezogene Organisationsanordnung",
+          "published": "08.09.2026",
+          "reference": "Anordnung zur elektronischen Bußgeldaktenführung vom 19.08.2026; RABl. Schw. 2026 S. 190–191",
           "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_17_-_bf.pdf",
-          "consolidatedUrl": ""
+          "summary": "Die Anordnung erlaubt den ausdrücklich aufgeführten Stellen Papierakten einschließlich der Papierweiterführung eingehender elektronischer Akten. Die Stadt Augsburg ist nicht aufgeführt. Quellenstatus: Regierungsamtsblatt: amtlich ist die Druckausgabe; die verlinkte Onlinefassung ist nachrichtlich. Keine gesonderte Bayern.Recht-Lesefassung nachgewiesen; ein dortiges Gültigkeitsdatum und ein vollständiger Vorgängerabgleich sind daher nicht bestätigt.",
+          "title": "Befristete Papierführung bestimmter Bußgeldakten"
         },
         {
-          "title": "Kooperativer Ganztag",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 368; Bekanntmachung vom 28.08.2026, Az. StMAS-V1/6512.01-2/181",
-          "published": "09.09.2026",
-          "effective": "10.09.2026; keine Rückwirkung",
-          "summary": "Schule und BayKiBiG-geförderte Kombieinrichtung verzahnen ein mindestens achtstündiges Ganztagsangebot einschließlich Ferien, Planung, Finanzierung, Betriebserlaubnis, Raum- und Kooperationskonzept.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Zuständigkeiten schriftlich abgrenzen",
@@ -719,31 +709,31 @@
             "Finanzierung und KiBiG.web-Zuordnung prüfen",
             "Bestehende Angebote gegebenenfalls schrittweise umwandeln"
           ],
+          "consolidatedUrl": "",
+          "effective": "10.09.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 368; Bekanntmachung vom 28.08.2026, Az. StMAS-V1/6512.01-2/181",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-368/",
-          "consolidatedUrl": ""
+          "summary": "Schule und BayKiBiG-geförderte Kombieinrichtung verzahnen ein mindestens achtstündiges Ganztagsangebot einschließlich Ferien, Planung, Finanzierung, Betriebserlaubnis, Raum- und Kooperationskonzept.",
+          "title": "Kooperativer Ganztag"
         },
         {
-          "title": "Änderung der Veröffentlichungsbekanntmachung",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 367; Bekanntmachung vom 01.09.2026, Az. B II 4 – G 48/13-10",
-          "published": "09.09.2026",
-          "effective": "01.01.2027; keine Rückwirkung",
-          "summary": "Regeln der Nr. 6 werden auf den Bayerischen Staatsanzeiger erstreckt; in Nr. 8.1 wird die entsprechende Anwendung von Art. 8 Abs. 1 Satz 8 und Abs. 3 BayRSG ergänzt.",
           "administrationImpact": "Unmittelbar betroffen sind staatliche veröffentlichende Stellen; kommunale Stellen müssen bei Quellen- und Bekanntmachungsfragen den amtlichen Status korrekt einordnen.",
           "checkpoints": [
             "Ab 2027 Veröffentlichungsorgan und Formvorgaben prüfen",
             "Amtliche Fassung und Lesefassung unterscheiden"
           ],
+          "consolidatedUrl": "",
+          "effective": "01.01.2027; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 367; Bekanntmachung vom 01.09.2026, Az. B II 4 – G 48/13-10",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-367/",
-          "consolidatedUrl": ""
+          "summary": "Regeln der Nr. 6 werden auf den Bayerischen Staatsanzeiger erstreckt; in Nr. 8.1 wird die entsprechende Anwendung von Art. 8 Abs. 1 Satz 8 und Abs. 3 BayRSG ergänzt.",
+          "title": "Änderung der Veröffentlichungsbekanntmachung"
         },
         {
-          "title": "Richtlinie zur Förderung von „Alltagskompetenzen – Schule fürs Leben“ an kommunalen Schulen und privaten Ersatzschulen",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 362; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/4",
-          "published": "09.09.2026",
-          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
-          "summary": "Förderung von Projektwochen; kommunale Schulträger beantragen elektronisch bis 15. November bei der Regierung. Festbeträge, Ausschluss von Mehrfachförderung und Verwendungsbestätigung sind geregelt.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Ausschlussfrist 15. November beachten",
@@ -751,16 +741,16 @@
             "Doppelförderung ausschließen",
             "Verwendungsbestätigung binnen sechs Monaten vorlegen"
           ],
+          "consolidatedUrl": "",
+          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 362; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/4",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-362/",
-          "consolidatedUrl": ""
+          "summary": "Förderung von Projektwochen; kommunale Schulträger beantragen elektronisch bis 15. November bei der Regierung. Festbeträge, Ausschluss von Mehrfachförderung und Verwendungsbestätigung sind geregelt.",
+          "title": "Richtlinie zur Förderung von „Alltagskompetenzen – Schule fürs Leben“ an kommunalen Schulen und privaten Ersatzschulen"
         },
         {
-          "title": "Alltagskompetenzen – Schule fürs Leben",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 361; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/3",
-          "published": "09.09.2026",
-          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
-          "summary": "Projektwochen stärken Ernährungs-, Gesundheits-, Verbraucher-, Finanz-, Lebensvorsorge-, Umwelt- und Digitalkompetenzen. Schulen erhalten Budgets; kommunale Träger beantragen Zuwendungen.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Projektwochen und Jahrgangsstufen festlegen",
@@ -768,64 +758,64 @@
             "Externe Partner und Lernorte dokumentieren",
             "Befristung bis 31.07.2027 beachten"
           ],
+          "consolidatedUrl": "",
+          "effective": "rückwirkend 01.08.2026 bis 31.07.2027",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 361; Bekanntmachung vom 25.08.2026, Az. VIII.3-BS4400.28/202/3",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-361/",
-          "consolidatedUrl": ""
+          "summary": "Projektwochen stärken Ernährungs-, Gesundheits-, Verbraucher-, Finanz-, Lebensvorsorge-, Umwelt- und Digitalkompetenzen. Schulen erhalten Budgets; kommunale Träger beantragen Zuwendungen.",
+          "title": "Alltagskompetenzen – Schule fürs Leben"
         },
         {
-          "title": "Änderung der Bekanntmachung über Gebundene Ganztagsangebote an Schulen",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 360; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.1/76",
-          "published": "09.09.2026",
-          "effective": "09.09.2026; keine Rückwirkung",
-          "summary": "Bei begründeter Unterschreitung von acht Zeitstunden in Klassen 1 bis 4 ist grundsätzlich Elterneinvernehmen nötig, außer der Acht-Stunden-Rechtsanspruch wird bereits durch Beaufsichtigung nach § 22 BaySchO erfüllt.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Acht-Stunden-Umfang nachweisen",
             "Ausnahme nach § 22 BaySchO dokumentieren",
             "Sonst Einvernehmen aller betroffenen Eltern einholen"
           ],
+          "consolidatedUrl": "",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 360; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.1/76",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-360/",
-          "consolidatedUrl": ""
+          "summary": "Bei begründeter Unterschreitung von acht Zeitstunden in Klassen 1 bis 4 ist grundsätzlich Elterneinvernehmen nötig, außer der Acht-Stunden-Rechtsanspruch wird bereits durch Beaufsichtigung nach § 22 BaySchO erfüllt.",
+          "title": "Änderung der Bekanntmachung über Gebundene Ganztagsangebote an Schulen"
         },
         {
-          "title": "Änderung der Ferienangebote unter Schulaufsicht für Grundschulkinder",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 358; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/327",
-          "published": "09.09.2026",
-          "effective": "01.10.2026; keine Rückwirkung",
-          "summary": "Freie Träger müssen bereits als Träger einer Mittagsbetreuung, Ganztags-Kooperationspartner oder Privatschulträger tätig sein; der BayEUG-Verweis wird aktualisiert.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Trägerqualifikation prüfen",
             "Neuen Art. 60a BayEUG anwenden",
             "Verfahren erst ab 01.10. umstellen"
           ],
+          "consolidatedUrl": "",
+          "effective": "01.10.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 358; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/327",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-358/",
-          "consolidatedUrl": ""
+          "summary": "Freie Träger müssen bereits als Träger einer Mittagsbetreuung, Ganztags-Kooperationspartner oder Privatschulträger tätig sein; der BayEUG-Verweis wird aktualisiert.",
+          "title": "Änderung der Ferienangebote unter Schulaufsicht für Grundschulkinder"
         },
         {
-          "title": "Änderung der Bekanntmachung über Mittagsbetreuung und verlängerte Mittagsbetreuung",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 357; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/326",
-          "published": "09.09.2026",
-          "effective": "01.10.2026; keine Rückwirkung",
-          "summary": "Bei Antragstellung ist ein vom Träger mit der Schulleitung abgestimmtes pädagogisches Konzept vorzulegen; BayEUG-Verweise und weitere Verfahrensdetails werden aktualisiert.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Abgestimmtes pädagogisches Konzept beifügen",
             "Aktualisierte BayEUG-Verweise nutzen",
             "Stichtag 01.10.2026 beachten"
           ],
+          "consolidatedUrl": "",
+          "effective": "01.10.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 357; Bekanntmachung vom 24.08.2026, Az. III.4-BS7369.0/326",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-357/",
-          "consolidatedUrl": ""
+          "summary": "Bei Antragstellung ist ein vom Träger mit der Schulleitung abgestimmtes pädagogisches Konzept vorzulegen; BayEUG-Verweise und weitere Verfahrensdetails werden aktualisiert.",
+          "title": "Änderung der Bekanntmachung über Mittagsbetreuung und verlängerte Mittagsbetreuung"
         },
         {
-          "title": "Änderung der Offenen Ganztagsangebote ab Jahrgangsstufe 5",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 356; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/68",
-          "published": "09.09.2026",
-          "effective": "09.09.2026; keine Rückwirkung",
-          "summary": "Aktualisiert werden Personal-, Führungszeugnis-, Masernschutz-, Kooperations-, Sicherheits-, Textform- und Zählschülerregeln. Für kommunale Schulen ist vor Tätigkeitsbeginn grundsätzlich ein höchstens drei Monate altes erweitertes Führungszeugnis vorzulegen.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Führungszeugnis vor Tätigkeitsantritt prüfen",
@@ -833,32 +823,32 @@
             "Masernschutz und Sicherheitsregeln dokumentieren",
             "Neue Zählschülerfaktoren anwenden"
           ],
+          "consolidatedUrl": "",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 356; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/68",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-356/",
-          "consolidatedUrl": ""
+          "summary": "Aktualisiert werden Personal-, Führungszeugnis-, Masernschutz-, Kooperations-, Sicherheits-, Textform- und Zählschülerregeln. Für kommunale Schulen ist vor Tätigkeitsbeginn grundsätzlich ein höchstens drei Monate altes erweitertes Führungszeugnis vorzulegen.",
+          "title": "Änderung der Offenen Ganztagsangebote ab Jahrgangsstufe 5"
         },
         {
-          "title": "Änderung der Offenen Ganztagsangebote in Jahrgangsstufen 1 bis 4",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 355; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/67",
-          "published": "09.09.2026",
-          "effective": "09.09.2026; keine Rückwirkung",
-          "summary": "Elterneinvernehmen für Abweichungen ist entbehrlich, wenn der achtstündige Rechtsanspruch bereits durch Beaufsichtigung nach § 22 Abs. 1 und 2 BaySchO erfüllt werden kann.",
           "administrationImpact": "Betroffen sind insbesondere kommunale Schulaufwandsträger, Schulverwaltungsstellen, Schulleitungen, Kooperationspartner und – je nach Angebot – Jugendhilfe, Betriebserlaubnis- und Förderstellen.",
           "checkpoints": [
             "Acht-Stunden-Erfüllung konkret prüfen",
             "Beaufsichtigungszeiten dokumentieren",
             "Falls Ausnahme nicht greift, Elterneinvernehmen einholen"
           ],
+          "consolidatedUrl": "",
+          "effective": "09.09.2026; keine Rückwirkung",
+          "kind": "Verwaltungsvorschrift",
+          "published": "09.09.2026",
+          "reference": "BayMBl. 2026 Nr. 355; Bekanntmachung vom 24.08.2026, Az. III.4-BO4207.6.2/67",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-355/",
-          "consolidatedUrl": ""
+          "summary": "Elterneinvernehmen für Abweichungen ist entbehrlich, wenn der achtstündige Rechtsanspruch bereits durch Beaufsichtigung nach § 22 Abs. 1 und 2 BaySchO erfüllt werden kann.",
+          "title": "Änderung der Offenen Ganztagsangebote in Jahrgangsstufen 1 bis 4"
         },
         {
-          "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)",
-          "kind": "Kommunale Satzung (Neufassung)",
-          "reference": "Amtsblatt der Stadt Augsburg Nr. 35/36 vom 04.09.2026, S. 253–257",
-          "published": "04.09.2026",
-          "effective": "05.09.2026; keine Rückwirkung, keine besondere Übergangsregel",
-          "summary": "Die Neufassung regelt die Plärrer als öffentliche Einrichtung, Veranstaltungszeiten, schriftliche Zulassung und Standplatzvergabe, die Antragsfrist 15. Juli des Vorjahres, dokumentierte Auswahlkriterien, eine dreimonatige Entscheidungsfrist mit Zulassungsfiktion, Auflagen und Widerruf sowie Sicherheits-, Verhaltens- und Bußgeldbestimmungen. Sie ersetzt die Satzung vom 21.03.2013.",
           "administrationImpact": "Marktamt, Ordnungs-, Sicherheits-, Gewerbe-, Bau- und Brandschutzstellen müssen Zulassungs-, Auswahl-, Kontroll- und Widerrufsverfahren am neuen Satzungstext ausrichten. Auswahlentscheidungen und Abweichungen sind konsistent und nachvollziehbar zu dokumentieren.",
           "checkpoints": [
             "Für jeden Plärrer gesonderten, vollständigen Antrag und Ausschlussfrist 15. Juli des Vorjahres prüfen.",
@@ -867,8 +857,14 @@
             "Auflagen, Widerruf, Sicherheitsregeln und Ordnungswidrigkeitentatbestände in Bescheiden und Kontrollen berücksichtigen.",
             "Keine Rückwirkung oder Übergangsregel; alte Satzung seit 05.09.2026 außer Kraft."
           ],
+          "consolidatedUrl": "",
+          "effective": "05.09.2026; keine Rückwirkung, keine besondere Übergangsregel",
+          "kind": "Kommunale Satzung (Neufassung)",
+          "published": "04.09.2026",
+          "reference": "Amtsblatt der Stadt Augsburg Nr. 35/36 vom 04.09.2026, S. 253–257",
           "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-35-36_vom-04-09-2026_.pdf",
-          "consolidatedUrl": ""
+          "summary": "Die Neufassung regelt die Plärrer als öffentliche Einrichtung, Veranstaltungszeiten, schriftliche Zulassung und Standplatzvergabe, die Antragsfrist 15. Juli des Vorjahres, dokumentierte Auswahlkriterien, eine dreimonatige Entscheidungsfrist mit Zulassungsfiktion, Auflagen und Widerruf sowie Sicherheits-, Verhaltens- und Bußgeldbestimmungen. Sie ersetzt die Satzung vom 21.03.2013.",
+          "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)"
         },
         {
           "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen bei Auskünften und Kontrollen Transportzweck, Nachweise und Befristung unterscheiden. Keine pauschale Freigabe sämtlicher Lkw-Fahrten; andere Länder haben eigene Regelungen.",
@@ -892,7 +888,7 @@
           "checkpoints": [
             "Notennachweis zum Halbjahr statt Bindung an das Zwischenzeugnis prüfen.",
             "Rückwirkung auf 18.08.2026 beachten; keine besondere Übergangsregel im Änderungstext.",
-            "Bayern.Recht zeigt noch 01.08.2023 und den alten Wortlaut; bis zur Konsolidierung Änderungstext ergänzend anwenden."
+            "Prüfung 13.09.2026: Bayern.Recht enthält den neuen Halbjahres-Wortlaut und nennt BayMBl. Nr. 350; angezeigt wird weiterhin „Text gilt ab: 01.08.2023“. Rückwirkung ab 18.08.2026 deshalb aus dem Änderungstext bestimmen."
           ],
           "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2235_1_1_5_K_13894/true",
           "effective": "rückwirkend ab 18.08.2026",
@@ -908,9 +904,9 @@
           "checkpoints": [
             "Notennachweis zum Halbjahr bei Leistungsfachwahl berücksichtigen.",
             "Rückwirkung auf 18.08.2026 beachten; keine gesonderte Übergangsregel.",
-            "Bayern.Recht Nr. 1 zeigt noch 01.08.2023 und den alten Wortlaut; Änderungstext ergänzend verwenden."
+            "Prüfung 13.09.2026: bisheriger Bayern.Recht-Leselink nicht abrufbar (404); aktueller Wortlaut und Gültigkeitsdatum dort nicht bestätigt. Amtlichen Änderungstext verwenden."
           ],
-          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2235_1_1_5_K_13864-0",
+          "consolidatedUrl": "",
           "effective": "rückwirkend ab 18.08.2026",
           "kind": "Verwaltungsvorschrift",
           "published": "02.09.2026",
@@ -920,12 +916,6 @@
           "title": "Änderung der Bekanntmachung über das Leistungsfach Musik sowie Fächer des Zusatzangebots „Vokalensemble“ und „Instrumentalensemble“ in der Oberstufe des neunjährigen Gymnasiums"
         },
         {
-          "title": "Steuer-Zuständigkeitsverordnung geändert",
-          "kind": "Rechtsverordnung",
-          "reference": "GVBl. 2026 S. 574",
-          "published": "31.08.2026",
-          "effective": "§ 1 ab 01.09.2026; § 2 ab 01.10.2026; § 3 ab 01.11.2026; § 4 ab 01.12.2026",
-          "summary": "§ 5 Abs. 1 und Anlage 3 der Steuer-Zuständigkeitsverordnung werden geändert. Besondere Aufgaben der staatlichen Steuerverwaltung werden bestimmten Finanzämtern bezirksübergreifend zugewiesen; weitere örtliche Zuständigkeiten wechseln in drei Folgestufen.",
           "administrationImpact": "Unmittelbar betroffen sind Finanzämter und Verfahren der staatlichen Steuerverwaltung. Kommunale Stellen erhalten keine neuen Vollzugsaufgaben, müssen bei steuerbezogenen Schnittstellen aber die jeweils gültige Zuständigkeitsverteilung beachten.",
           "checkpoints": [
             "Ab dem jeweiligen Stichtag Anlage 3 auf die zuständige Finanzbehörde prüfen",
@@ -933,90 +923,100 @@
             "Bayern.Recht zeigt am 03.09.2026 den Gültigkeitsstand 01.09.2026; spätere Änderungsstufen getrennt beachten",
             "Keine Rückwirkung; die vier Inkrafttretensstufen getrennt anwenden"
           ],
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayZustVSt",
+          "effective": "§ 1 ab 01.09.2026; § 2 ab 01.10.2026; § 3 ab 01.11.2026; § 4 ab 01.12.2026",
+          "kind": "Rechtsverordnung",
+          "published": "31.08.2026",
+          "reference": "GVBl. 2026 S. 574",
           "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-574/",
-          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayZustVSt"
+          "summary": "§ 5 Abs. 1 und Anlage 3 der Steuer-Zuständigkeitsverordnung werden geändert. Besondere Aufgaben der staatlichen Steuerverwaltung werden bestimmten Finanzämtern bezirksübergreifend zugewiesen; weitere örtliche Zuständigkeiten wechseln in drei Folgestufen.",
+          "title": "Steuer-Zuständigkeitsverordnung geändert"
         },
         {
-          "title": "Gefahrenabwehr bei Kampfmitteln neu geregelt",
-          "kind": "Verwaltungsvorschrift",
-          "reference": "BayMBl. 2026 Nr. 345",
-          "published": "26.08.2026",
-          "effective": "01.09.2026",
-          "summary": "Zuständigkeiten und Abläufe bei Kampfmittelverdacht und -fund werden neu geordnet.",
           "administrationImpact": "Ordnungs-, Bau-, Planungs- und Katastrophenschutzstellen müssen den neuen Ablauf ab 01.09. anwenden.",
           "checkpoints": [
             "Zuständigkeit und Meldewege prüfen.",
             "Verdachtsflächen frühzeitig berücksichtigen.",
             "Neuen amtlichen Text ab 01.09. verwenden."
           ],
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2011_I_15792",
+          "effective": "01.09.2026",
+          "kind": "Verwaltungsvorschrift",
+          "published": "26.08.2026",
+          "reference": "BayMBl. 2026 Nr. 345",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-345/",
-          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_2011_I_15792"
+          "summary": "Zuständigkeiten und Abläufe bei Kampfmittelverdacht und -fund werden neu geordnet.",
+          "title": "Gefahrenabwehr bei Kampfmitteln neu geregelt"
         },
         {
-          "title": "52. Jahreskrankenhausbauprogramm 2026",
-          "kind": "Bekanntmachung",
-          "reference": "BayMBl. 2026 Nr. 346",
-          "published": "26.08.2026",
-          "effective": "01.08.2026 rückwirkend",
-          "summary": "Das aktuelle Krankenhausbauprogramm ordnet geförderte Vorhaben und Programmkategorien für 2026.",
           "administrationImpact": "Projekt-, Förder- und Haushaltsunterlagen sind mit der aktuellen Bekanntmachung abzugleichen.",
           "checkpoints": [
             "Programmstatus richtig einordnen.",
             "Förder- und Haushaltsunterlagen abgleichen.",
             "Rückwirkenden Geltungsbeginn beachten."
           ],
+          "consolidatedUrl": "",
+          "effective": "01.08.2026 rückwirkend",
+          "kind": "Bekanntmachung",
+          "published": "26.08.2026",
+          "reference": "BayMBl. 2026 Nr. 346",
           "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-346/",
-          "consolidatedUrl": ""
+          "summary": "Das aktuelle Krankenhausbauprogramm ordnet geförderte Vorhaben und Programmkategorien für 2026.",
+          "title": "52. Jahreskrankenhausbauprogramm 2026"
         },
         {
-          "title": "Augsburg ordnet Kita- und Ganztagsrecht neu",
-          "kind": "Kommunale Satzungsänderungen",
-          "reference": "Amtsblatt Augsburg Nr. 33/34 vom 21.08.2026",
-          "published": "21.08.2026",
-          "effective": "01.09.2026",
-          "summary": "Benutzung, Aufnahme und Gebühren im Kita- und Ganztagsbereich werden zum 1. September neu geordnet.",
           "administrationImpact": "Fachstellen müssen Antrags-, Buchungs- und Gebührenabläufe anpassen.",
           "checkpoints": [
             "Aktuellen Satzungstext verwenden.",
             "Gebührenstand zum 01.09. prüfen.",
             "Formulare und Abläufe abgleichen."
           ],
+          "consolidatedUrl": "",
+          "effective": "01.09.2026",
+          "kind": "Kommunale Satzungsänderungen",
+          "published": "21.08.2026",
+          "reference": "Amtsblatt Augsburg Nr. 33/34 vom 21.08.2026",
           "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-33-34_vom-21-08-2026.pdf",
-          "consolidatedUrl": ""
+          "summary": "Benutzung, Aufnahme und Gebühren im Kita- und Ganztagsbereich werden zum 1. September neu geordnet.",
+          "title": "Augsburg ordnet Kita- und Ganztagsrecht neu"
         },
         {
-          "title": "ZRF-Verbandssatzung modernisiert",
-          "kind": "Zweckverbandssatzung",
-          "reference": "Amtsblatt Augsburg Nr. 33/34; Wirksamkeit noch zu verifizieren",
-          "published": "21.08.2026",
-          "effective": "nach maßgeblicher Bekanntmachung im Regierungsamtsblatt Schwaben",
-          "summary": "Elektronische Einberufung der Verbandsversammlung sowie Fristen und Adressatenkreis werden neu gefasst.",
           "administrationImpact": "Für die praktische Anwendung ist das tatsächliche Inkrafttreten anhand der zuständigen Bekanntmachung zu prüfen.",
           "checkpoints": [
             "Regierungsamtsblatt Schwaben weiter beobachten.",
             "Wirksamkeit nicht allein aus dem Augsburger Abdruck ableiten.",
             "Einladungs- und Verfahrensregeln erst nach geklärtem Inkrafttreten anwenden."
           ],
+          "consolidatedUrl": "",
+          "effective": "nach maßgeblicher Bekanntmachung im Regierungsamtsblatt Schwaben",
+          "kind": "Zweckverbandssatzung",
+          "published": "21.08.2026",
+          "reference": "Amtsblatt Augsburg Nr. 33/34; Wirksamkeit noch zu verifizieren",
           "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-33-34_vom-21-08-2026.pdf",
-          "consolidatedUrl": ""
+          "summary": "Elektronische Einberufung der Verbandsversammlung sowie Fristen und Adressatenkreis werden neu gefasst.",
+          "title": "ZRF-Verbandssatzung modernisiert"
         },
         {
-          "title": "Bayerische Beihilfeverordnung geändert",
-          "kind": "Rechtsverordnung",
-          "reference": "GVBl. 2026 S. 495",
-          "published": "30.07.2026",
-          "effective": "Hauptpaket ab 01.09.2026; einzelne Übergangsregelungen abweichend",
-          "summary": "Geändert werden unter anderem Heilbehandlungen, Hilfsmittel, Pflegeleistungen und Teile der Psychotherapie.",
           "administrationImpact": "Beihilfestellen müssen neue Prüfregeln und Übergangsbestimmungen nach dem jeweils maßgeblichen Leistungsdatum anwenden.",
           "checkpoints": [
             "Leistungsdatum und Übergangsregeln prüfen.",
             "Arbeits- und Informationsunterlagen aktualisieren.",
             "Konsolidierte Fassung mit passendem Gültigkeitsdatum verwenden."
           ],
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBhV",
+          "effective": "Hauptpaket ab 01.09.2026; einzelne Übergangsregelungen abweichend",
+          "kind": "Rechtsverordnung",
+          "published": "30.07.2026",
+          "reference": "GVBl. 2026 S. 495",
           "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-495/",
-          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBhV"
+          "summary": "Geändert werden unter anderem Heilbehandlungen, Hilfsmittel, Pflegeleistungen und Teile der Psychotherapie.",
+          "title": "Bayerische Beihilfeverordnung geändert"
         }
-      ]
+      ],
+      "id": "changes",
+      "intro": "Tagesprüfung 13.09.2026: keine neue relevante Änderung. Der letzte sachlich gültige Stand bleibt erhalten; Kooperativer Ganztag gilt seit 10.09.2026.",
+      "label": "Gesetzesänderungen anzeigen"
     }
-  ]
+  ],
+  "updatedAt": "2026-09-13T06:02:02+02:00"
 }
