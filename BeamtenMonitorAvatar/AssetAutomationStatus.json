@@ -1,17 +1,17 @@
 {
-  "runAt": "2026-09-14T04:11:10.730Z",
-  "targetSet": "Assets 12",
-  "theme": "Regentag",
+  "runAt": "2026-09-15T06:12:54+02:00",
+  "targetSet": "Assets 13",
+  "theme": "Musiktag",
   "success": true,
-  "committedSha": "e9d84fb8c9bab50a216f76311ff7a59c68afd091",
+  "committedSha": "30a604f8c65eae6ae440b46622b79a8ba6b3e1f2",
   "buildSuccess": null,
   "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 12/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 12/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 12/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 12/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 12/Sprüche/Abschiedsspruch.json"
+    "BeamtenMonitorAvatar/Assets 13/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 13/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 13/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 13/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 13/Sprüche/Abschiedsspruch.json"
   ],
   "failedStep": "",
-  "message": "Alle fünf Pflichtdateien atomar veröffentlicht und von GitHub binär zurückgelesen. PNG-Abmessungen, echte Transparenz, Prüfsummen und Spruch-JSON geprüft. Acht getrennte vollständige Posen, beide Gehframes nach rechts und gleiche Bodenlinie. Kein Build-Workflow im Asset-Repository vorhanden."
+  "message": "Alle fünf Pflichtdateien atomar veröffentlicht und von GitHub binär zurückgelesen; PNG-Größen, echter Alphakanal, Prüfsummen und Spruch-JSON geprüft. Acht getrennte Posen, beide Gehframes nach rechts auf gleicher Bodenlinie. Kein Build-Workflow im Asset-Repository vorhanden."
 }
