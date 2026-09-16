@@ -1,9 +1,169 @@
 {
-  "checkedSources": "Tagesprüfung 15.09.2026: BVS-Jahrgang 2026/2028 einschließlich Zeitplan, Leistungsnachweisen, Stoffgliederung und Hilfsmitteln; BayMBl. bis Nr. 369; GVBl. bis S. 585; Bayern.Recht; Augsburger Stadtrecht/Amtsblatt 35/36; Regierungsamtsblatt Schwaben Nr. 17; Augsburger Ausbildungsinformationen. Zwei neue relevante GVBl.-Veröffentlichungen wurden eingeordnet.",
+  "checkedSources": "Tagesprüfung 16.09.2026: BVS-Jahrgang 2026/2028 einschließlich Zeitplan, Leistungsnachweisen, Stoffgliederung und Hilfsmitteln; BayMBl. bis Nr. 390; GVBl. bis S. 585; Bayern.Recht; Augsburger Stadtrecht/Amtsblatt 35/36; Regierungsamtsblatt Schwaben Nr. 17; Augsburger Ausbildungsinformationen. Zehn neue verwaltungsrelevante BayMBl.-Veröffentlichungen wurden eingeordnet.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Förderung der Bahnhofsmissionen",
+          "kind": "Verwaltungsvorschrift / Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 386; 2179-A",
+          "published": "2026-09-16",
+          "effective": "2026-09-01 (rückwirkend); Teilbefristung 31.12.2028, im Übrigen bis 31.12.2029",
+          "summary": "Neue Förderung für Ehrenamtskoordination, Landesverbände und einen einmaligen Bahnhofsmissions-Booster. Booster-Anträge sind bis 31.10.2026 zu stellen; ZBFS ist Bewilligungsbehörde.",
+          "administrationImpact": "Kommunale Sozialstellen und freie Träger sollten Förderfähigkeit, Eigenanteil, Zweckbindung und örtliche Abstimmung prüfen; die Stadt ist nicht Bewilligungsbehörde.",
+          "checkpoints": [
+            "Booster-Frist 31.10.2026 vormerken",
+            "10 Prozent Eigenanteil und Mindestförderung prüfen",
+            "Rückwirkung auf 01.09.2026 und gestaffeltes Außerkrafttreten dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-386/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Beratungs- und Integrationsrichtlinie (BIR)",
+          "kind": "Verwaltungsvorschrift / Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 382; 2176-I",
+          "published": "2026-09-16",
+          "effective": "2027-01-01 bis 2029-12-31",
+          "summary": "Neue Förderregeln für Migrationsberatung, kommunale Integrationslotsen und besondere Integrationsmaßnahmen mit Berichts- und Nachweispflichten.",
+          "administrationImpact": "Kreisfreie Städte wie Augsburg können für Integrationslotsen antragsberechtigt sein und müssen Förderkalender, Kennzahlen und Nachweise organisieren.",
+          "checkpoints": [
+            "Regelantrag bis 15.11. des Vorjahres",
+            "Änderungsanträge bis 15.03. prüfen",
+            "Verwendungsnachweis grundsätzlich bis 31.05. des Folgejahres"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-382/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "ESF+-Förderung zur Erschließung von Bildungspotenzialen",
+          "kind": "Änderungsbekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 381; 2230.7-K",
+          "published": "2026-09-16",
+          "effective": "2026-09-01 (rückwirkend)",
+          "summary": "Anpassung an VV zu Art. 44 BayHO und ANBest-P sowie neue Detailvorgaben zu Personalkosten, Restkostenpauschale, Teilnehmendenerklärungen und schulischen Anlagen.",
+          "administrationImpact": "Kommunale Schulträger und Projektstellen müssen Kalkulationen, Pauschalen und Teilnehmendennachweise für betroffene Maßnahmen abgleichen.",
+          "checkpoints": [
+            "Laufende Fälle ab 01.09.2026 prüfen",
+            "Anlagen für Deutschklassen-Ganztag, Praxisklassen und BVJ-Neustart verwenden",
+            "Keine alte Kostenlogik fortschreiben"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-381/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "RLuS 2023, Fassung 2025",
+          "kind": "Technische Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 380; 913-B",
+          "published": "2026-09-16",
+          "effective": "2026-09-16 (ab sofort)",
+          "summary": "Aktualisierte Richtlinie zur Ermittlung der Luftqualität an Straßen; die jeweils eingeführte HBEFA-Version ist zu verwenden.",
+          "administrationImpact": "Bei Schnittstellen zu staatlichen Straßenprojekten müssen Planungs- und Umweltstellen den aktuellen Methoden- und Datenstand dokumentieren.",
+          "checkpoints": [
+            "Anwendbaren Straßentyp bestimmen",
+            "RLuS-Fassung und HBEFA-Version aktenkundig machen",
+            "Alte Einführung nicht weiterverwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-380/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Aufhebung älterer Verwaltungsvorschriften",
+          "kind": "Aufhebungsbekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 379; 2230.2-A / 7157.2-A",
+          "published": "2026-09-16",
+          "effective": "2026-10-01",
+          "summary": "Aufgehoben werden ältere Vorgaben zu Schule/Berufsberatung, Ausschussentschädigung im Jugendarbeitsschutz und Zulassung von FSJ-Trägern.",
+          "administrationImpact": "Schul-, Jugend- und Personalstellen müssen interne Verweise und Arbeitshilfen bereinigen und aktuelle Rechtsgrundlagen bestimmen.",
+          "checkpoints": [
+            "Altzitate ab 01.10.2026 sperren",
+            "Betroffene Vorlagen und Prozesse identifizieren",
+            "Keine Rückwirkung annehmen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-379/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Medaillen der Staatskanzlei für besondere Verdienste",
+          "kind": "Änderungsbekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 377; 1132-S",
+          "published": "2026-09-16",
+          "effective": "2026-10-01",
+          "summary": "Die Europamedaille wird in die gemeinsame Medaillenbekanntmachung aufgenommen; die eigenständige Europamedaille-Bekanntmachung wird aufgehoben.",
+          "administrationImpact": "Kommunale Stellen können bei Vorschlägen oder Zuarbeiten betroffen sein, erhalten aber keine neue allgemeine Aufgabe.",
+          "checkpoints": [
+            "Ab 01.10.2026 nur zusammengeführte Bekanntmachung zitieren",
+            "Höchstens acht Europamedaillen pro Jahr beachten",
+            "Keine Rückwirkung"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-377/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Fachrichtungen an der Hochschule für den öffentlichen Dienst",
+          "kind": "Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 376; 2030.10-F",
+          "published": "2026-09-16",
+          "effective": "2026-10-01",
+          "summary": "Amtliche Fachrichtungsbezeichnungen werden aktualisiert und unter anderem um Verwaltungsinformatik sowie Polizeivollzugsdienst präzisiert.",
+          "administrationImpact": "Personal- und Ausbildungsstellen sollten HföD-Bezeichnungen aktualisieren; der BVS-Ausbildungsgang der 2. QE wird nicht geändert.",
+          "checkpoints": [
+            "HföD und BVS sachlich trennen",
+            "Bezeichnungen ab 01.10.2026 aktualisieren",
+            "Keine BVS-Terminänderung ableiten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-376/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Militärische Infrastruktur und Zivilschutz im Straßenbau",
+          "kind": "Technische Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 375; 913-B",
+          "published": "2026-09-16",
+          "effective": "2026-09-16",
+          "summary": "Neue Regeln für Brücken, militärische Lasten, Schwerlaststrecken und Zivilschutz; kommunalen Straßenbaubehörden wird die Anwendung empfohlen.",
+          "administrationImpact": "Tiefbau, Verkehrsplanung, Vergabe und Katastrophenschutz müssen Berührungen früh erkennen; bei bestimmten kommunalen Brücken ist die Bundeswehr zu unterrichten.",
+          "checkpoints": [
+            "Melde- und Beteiligungspflichten prüfen",
+            "Alte Erlasse seit Ablauf 15.09.2026 nicht weiterverwenden",
+            "Anwendungsentscheidung dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-375/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "RE-ING, Ausgabe 2025/12",
+          "kind": "Technische Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 372; 912-B",
+          "published": "2026-09-16",
+          "effective": "2026-09-16",
+          "summary": "Aktualisierte Entwurfsrichtlinien für Ingenieurbauten, unter anderem Tunnel, Geh-/Radwegbrücken und Verkehrszeichenbrücken.",
+          "administrationImpact": "Kommunale Tiefbau- und Vergabestellen sollten eigene Standards und Leistungsverzeichnisse für neue Projekte prüfen.",
+          "checkpoints": [
+            "Fassung 2025/12 bei neuen Projekten festlegen",
+            "Vertragsstand laufender Vorhaben prüfen",
+            "Ersetzte Einführungen nicht weiterverwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-372/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "TL/TP-ING, Ausgabe Januar 2026",
+          "kind": "Technische Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 371; 913-B",
+          "published": "2026-09-16",
+          "effective": "2026-09-16",
+          "summary": "Neue technische Liefer- und Prüfvorschriften, insbesondere für Brückenabdichtungen und Korrosionsschutz von Seilen.",
+          "administrationImpact": "Bau- und Vergabestellen sollten neue Ausschreibungen aktualisieren; laufende Verträge behalten grundsätzlich die vereinbarte Fassung.",
+          "checkpoints": [
+            "Vertraglich einbezogene Fassung bei laufenden Verträgen beibehalten",
+            "Neue Ausschreibungen aktualisieren",
+            "Alte Fassungen revisionssicher archivieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-371/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Ehrenzeichenstatut erweitert",
           "kind": "Statut zur Änderung einer Rechtsvorschrift",
@@ -367,11 +527,171 @@
         }
       ],
       "id": "latest",
-      "intro": "Tagesprüfung 15.09.2026: Zwei neue GVBl.-Veröffentlichungen wurden amtlich geprüft und eingeordnet.",
+      "intro": "Tagesprüfung 16.09.2026: Zehn neue verwaltungsrelevante BayMBl.-Veröffentlichungen wurden amtlich geprüft und eingeordnet.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Förderung der Bahnhofsmissionen",
+          "kind": "Verwaltungsvorschrift / Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 386; 2179-A",
+          "published": "2026-09-16",
+          "effective": "2026-09-01 (rückwirkend); Teilbefristung 31.12.2028, im Übrigen bis 31.12.2029",
+          "summary": "Neue Förderung für Ehrenamtskoordination, Landesverbände und einen einmaligen Bahnhofsmissions-Booster. Booster-Anträge sind bis 31.10.2026 zu stellen; ZBFS ist Bewilligungsbehörde.",
+          "administrationImpact": "Kommunale Sozialstellen und freie Träger sollten Förderfähigkeit, Eigenanteil, Zweckbindung und örtliche Abstimmung prüfen; die Stadt ist nicht Bewilligungsbehörde.",
+          "checkpoints": [
+            "Booster-Frist 31.10.2026 vormerken",
+            "10 Prozent Eigenanteil und Mindestförderung prüfen",
+            "Rückwirkung auf 01.09.2026 und gestaffeltes Außerkrafttreten dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-386/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Beratungs- und Integrationsrichtlinie (BIR)",
+          "kind": "Verwaltungsvorschrift / Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 382; 2176-I",
+          "published": "2026-09-16",
+          "effective": "2027-01-01 bis 2029-12-31",
+          "summary": "Neue Förderregeln für Migrationsberatung, kommunale Integrationslotsen und besondere Integrationsmaßnahmen mit Berichts- und Nachweispflichten.",
+          "administrationImpact": "Kreisfreie Städte wie Augsburg können für Integrationslotsen antragsberechtigt sein und müssen Förderkalender, Kennzahlen und Nachweise organisieren.",
+          "checkpoints": [
+            "Regelantrag bis 15.11. des Vorjahres",
+            "Änderungsanträge bis 15.03. prüfen",
+            "Verwendungsnachweis grundsätzlich bis 31.05. des Folgejahres"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-382/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "ESF+-Förderung zur Erschließung von Bildungspotenzialen",
+          "kind": "Änderungsbekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 381; 2230.7-K",
+          "published": "2026-09-16",
+          "effective": "2026-09-01 (rückwirkend)",
+          "summary": "Anpassung an VV zu Art. 44 BayHO und ANBest-P sowie neue Detailvorgaben zu Personalkosten, Restkostenpauschale, Teilnehmendenerklärungen und schulischen Anlagen.",
+          "administrationImpact": "Kommunale Schulträger und Projektstellen müssen Kalkulationen, Pauschalen und Teilnehmendennachweise für betroffene Maßnahmen abgleichen.",
+          "checkpoints": [
+            "Laufende Fälle ab 01.09.2026 prüfen",
+            "Anlagen für Deutschklassen-Ganztag, Praxisklassen und BVJ-Neustart verwenden",
+            "Keine alte Kostenlogik fortschreiben"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-381/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "RLuS 2023, Fassung 2025",
+          "kind": "Technische Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 380; 913-B",
+          "published": "2026-09-16",
+          "effective": "2026-09-16 (ab sofort)",
+          "summary": "Aktualisierte Richtlinie zur Ermittlung der Luftqualität an Straßen; die jeweils eingeführte HBEFA-Version ist zu verwenden.",
+          "administrationImpact": "Bei Schnittstellen zu staatlichen Straßenprojekten müssen Planungs- und Umweltstellen den aktuellen Methoden- und Datenstand dokumentieren.",
+          "checkpoints": [
+            "Anwendbaren Straßentyp bestimmen",
+            "RLuS-Fassung und HBEFA-Version aktenkundig machen",
+            "Alte Einführung nicht weiterverwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-380/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Aufhebung älterer Verwaltungsvorschriften",
+          "kind": "Aufhebungsbekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 379; 2230.2-A / 7157.2-A",
+          "published": "2026-09-16",
+          "effective": "2026-10-01",
+          "summary": "Aufgehoben werden ältere Vorgaben zu Schule/Berufsberatung, Ausschussentschädigung im Jugendarbeitsschutz und Zulassung von FSJ-Trägern.",
+          "administrationImpact": "Schul-, Jugend- und Personalstellen müssen interne Verweise und Arbeitshilfen bereinigen und aktuelle Rechtsgrundlagen bestimmen.",
+          "checkpoints": [
+            "Altzitate ab 01.10.2026 sperren",
+            "Betroffene Vorlagen und Prozesse identifizieren",
+            "Keine Rückwirkung annehmen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-379/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Medaillen der Staatskanzlei für besondere Verdienste",
+          "kind": "Änderungsbekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 377; 1132-S",
+          "published": "2026-09-16",
+          "effective": "2026-10-01",
+          "summary": "Die Europamedaille wird in die gemeinsame Medaillenbekanntmachung aufgenommen; die eigenständige Europamedaille-Bekanntmachung wird aufgehoben.",
+          "administrationImpact": "Kommunale Stellen können bei Vorschlägen oder Zuarbeiten betroffen sein, erhalten aber keine neue allgemeine Aufgabe.",
+          "checkpoints": [
+            "Ab 01.10.2026 nur zusammengeführte Bekanntmachung zitieren",
+            "Höchstens acht Europamedaillen pro Jahr beachten",
+            "Keine Rückwirkung"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-377/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Fachrichtungen an der Hochschule für den öffentlichen Dienst",
+          "kind": "Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 376; 2030.10-F",
+          "published": "2026-09-16",
+          "effective": "2026-10-01",
+          "summary": "Amtliche Fachrichtungsbezeichnungen werden aktualisiert und unter anderem um Verwaltungsinformatik sowie Polizeivollzugsdienst präzisiert.",
+          "administrationImpact": "Personal- und Ausbildungsstellen sollten HföD-Bezeichnungen aktualisieren; der BVS-Ausbildungsgang der 2. QE wird nicht geändert.",
+          "checkpoints": [
+            "HföD und BVS sachlich trennen",
+            "Bezeichnungen ab 01.10.2026 aktualisieren",
+            "Keine BVS-Terminänderung ableiten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-376/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Militärische Infrastruktur und Zivilschutz im Straßenbau",
+          "kind": "Technische Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 375; 913-B",
+          "published": "2026-09-16",
+          "effective": "2026-09-16",
+          "summary": "Neue Regeln für Brücken, militärische Lasten, Schwerlaststrecken und Zivilschutz; kommunalen Straßenbaubehörden wird die Anwendung empfohlen.",
+          "administrationImpact": "Tiefbau, Verkehrsplanung, Vergabe und Katastrophenschutz müssen Berührungen früh erkennen; bei bestimmten kommunalen Brücken ist die Bundeswehr zu unterrichten.",
+          "checkpoints": [
+            "Melde- und Beteiligungspflichten prüfen",
+            "Alte Erlasse seit Ablauf 15.09.2026 nicht weiterverwenden",
+            "Anwendungsentscheidung dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-375/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "RE-ING, Ausgabe 2025/12",
+          "kind": "Technische Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 372; 912-B",
+          "published": "2026-09-16",
+          "effective": "2026-09-16",
+          "summary": "Aktualisierte Entwurfsrichtlinien für Ingenieurbauten, unter anderem Tunnel, Geh-/Radwegbrücken und Verkehrszeichenbrücken.",
+          "administrationImpact": "Kommunale Tiefbau- und Vergabestellen sollten eigene Standards und Leistungsverzeichnisse für neue Projekte prüfen.",
+          "checkpoints": [
+            "Fassung 2025/12 bei neuen Projekten festlegen",
+            "Vertragsstand laufender Vorhaben prüfen",
+            "Ersetzte Einführungen nicht weiterverwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-372/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "TL/TP-ING, Ausgabe Januar 2026",
+          "kind": "Technische Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 371; 913-B",
+          "published": "2026-09-16",
+          "effective": "2026-09-16",
+          "summary": "Neue technische Liefer- und Prüfvorschriften, insbesondere für Brückenabdichtungen und Korrosionsschutz von Seilen.",
+          "administrationImpact": "Bau- und Vergabestellen sollten neue Ausschreibungen aktualisieren; laufende Verträge behalten grundsätzlich die vereinbarte Fassung.",
+          "checkpoints": [
+            "Vertraglich einbezogene Fassung bei laufenden Verträgen beibehalten",
+            "Neue Ausschreibungen aktualisieren",
+            "Alte Fassungen revisionssicher archivieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-371/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Ehrenzeichenstatut erweitert",
           "kind": "Statut zur Änderung einer Rechtsvorschrift",
@@ -719,11 +1039,171 @@
         }
       ],
       "id": "important",
-      "intro": "Neu wichtig: Dokumentationsanforderungen im Ehrenzeichenverfahren ab 01.10.2026 sowie Inkrafttretens- und Satzungsprüfung beim Staatsvertrag über tierische Nebenprodukte.",
+      "intro": "Neu wichtig: Förderfristen und Rückwirkung bei Bahnhofsmissionen und ESF+, kommunale Integrationsförderung ab 2027 sowie neue technische Regeln im Straßen- und Ingenieurbau.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Förderung der Bahnhofsmissionen",
+          "kind": "Verwaltungsvorschrift / Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 386; 2179-A",
+          "published": "2026-09-16",
+          "effective": "2026-09-01 (rückwirkend); Teilbefristung 31.12.2028, im Übrigen bis 31.12.2029",
+          "summary": "Neue Förderung für Ehrenamtskoordination, Landesverbände und einen einmaligen Bahnhofsmissions-Booster. Booster-Anträge sind bis 31.10.2026 zu stellen; ZBFS ist Bewilligungsbehörde.",
+          "administrationImpact": "Kommunale Sozialstellen und freie Träger sollten Förderfähigkeit, Eigenanteil, Zweckbindung und örtliche Abstimmung prüfen; die Stadt ist nicht Bewilligungsbehörde.",
+          "checkpoints": [
+            "Booster-Frist 31.10.2026 vormerken",
+            "10 Prozent Eigenanteil und Mindestförderung prüfen",
+            "Rückwirkung auf 01.09.2026 und gestaffeltes Außerkrafttreten dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-386/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Beratungs- und Integrationsrichtlinie (BIR)",
+          "kind": "Verwaltungsvorschrift / Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 382; 2176-I",
+          "published": "2026-09-16",
+          "effective": "2027-01-01 bis 2029-12-31",
+          "summary": "Neue Förderregeln für Migrationsberatung, kommunale Integrationslotsen und besondere Integrationsmaßnahmen mit Berichts- und Nachweispflichten.",
+          "administrationImpact": "Kreisfreie Städte wie Augsburg können für Integrationslotsen antragsberechtigt sein und müssen Förderkalender, Kennzahlen und Nachweise organisieren.",
+          "checkpoints": [
+            "Regelantrag bis 15.11. des Vorjahres",
+            "Änderungsanträge bis 15.03. prüfen",
+            "Verwendungsnachweis grundsätzlich bis 31.05. des Folgejahres"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-382/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "ESF+-Förderung zur Erschließung von Bildungspotenzialen",
+          "kind": "Änderungsbekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 381; 2230.7-K",
+          "published": "2026-09-16",
+          "effective": "2026-09-01 (rückwirkend)",
+          "summary": "Anpassung an VV zu Art. 44 BayHO und ANBest-P sowie neue Detailvorgaben zu Personalkosten, Restkostenpauschale, Teilnehmendenerklärungen und schulischen Anlagen.",
+          "administrationImpact": "Kommunale Schulträger und Projektstellen müssen Kalkulationen, Pauschalen und Teilnehmendennachweise für betroffene Maßnahmen abgleichen.",
+          "checkpoints": [
+            "Laufende Fälle ab 01.09.2026 prüfen",
+            "Anlagen für Deutschklassen-Ganztag, Praxisklassen und BVJ-Neustart verwenden",
+            "Keine alte Kostenlogik fortschreiben"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-381/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "RLuS 2023, Fassung 2025",
+          "kind": "Technische Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 380; 913-B",
+          "published": "2026-09-16",
+          "effective": "2026-09-16 (ab sofort)",
+          "summary": "Aktualisierte Richtlinie zur Ermittlung der Luftqualität an Straßen; die jeweils eingeführte HBEFA-Version ist zu verwenden.",
+          "administrationImpact": "Bei Schnittstellen zu staatlichen Straßenprojekten müssen Planungs- und Umweltstellen den aktuellen Methoden- und Datenstand dokumentieren.",
+          "checkpoints": [
+            "Anwendbaren Straßentyp bestimmen",
+            "RLuS-Fassung und HBEFA-Version aktenkundig machen",
+            "Alte Einführung nicht weiterverwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-380/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Aufhebung älterer Verwaltungsvorschriften",
+          "kind": "Aufhebungsbekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 379; 2230.2-A / 7157.2-A",
+          "published": "2026-09-16",
+          "effective": "2026-10-01",
+          "summary": "Aufgehoben werden ältere Vorgaben zu Schule/Berufsberatung, Ausschussentschädigung im Jugendarbeitsschutz und Zulassung von FSJ-Trägern.",
+          "administrationImpact": "Schul-, Jugend- und Personalstellen müssen interne Verweise und Arbeitshilfen bereinigen und aktuelle Rechtsgrundlagen bestimmen.",
+          "checkpoints": [
+            "Altzitate ab 01.10.2026 sperren",
+            "Betroffene Vorlagen und Prozesse identifizieren",
+            "Keine Rückwirkung annehmen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-379/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Medaillen der Staatskanzlei für besondere Verdienste",
+          "kind": "Änderungsbekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 377; 1132-S",
+          "published": "2026-09-16",
+          "effective": "2026-10-01",
+          "summary": "Die Europamedaille wird in die gemeinsame Medaillenbekanntmachung aufgenommen; die eigenständige Europamedaille-Bekanntmachung wird aufgehoben.",
+          "administrationImpact": "Kommunale Stellen können bei Vorschlägen oder Zuarbeiten betroffen sein, erhalten aber keine neue allgemeine Aufgabe.",
+          "checkpoints": [
+            "Ab 01.10.2026 nur zusammengeführte Bekanntmachung zitieren",
+            "Höchstens acht Europamedaillen pro Jahr beachten",
+            "Keine Rückwirkung"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-377/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Fachrichtungen an der Hochschule für den öffentlichen Dienst",
+          "kind": "Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 376; 2030.10-F",
+          "published": "2026-09-16",
+          "effective": "2026-10-01",
+          "summary": "Amtliche Fachrichtungsbezeichnungen werden aktualisiert und unter anderem um Verwaltungsinformatik sowie Polizeivollzugsdienst präzisiert.",
+          "administrationImpact": "Personal- und Ausbildungsstellen sollten HföD-Bezeichnungen aktualisieren; der BVS-Ausbildungsgang der 2. QE wird nicht geändert.",
+          "checkpoints": [
+            "HföD und BVS sachlich trennen",
+            "Bezeichnungen ab 01.10.2026 aktualisieren",
+            "Keine BVS-Terminänderung ableiten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-376/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Militärische Infrastruktur und Zivilschutz im Straßenbau",
+          "kind": "Technische Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 375; 913-B",
+          "published": "2026-09-16",
+          "effective": "2026-09-16",
+          "summary": "Neue Regeln für Brücken, militärische Lasten, Schwerlaststrecken und Zivilschutz; kommunalen Straßenbaubehörden wird die Anwendung empfohlen.",
+          "administrationImpact": "Tiefbau, Verkehrsplanung, Vergabe und Katastrophenschutz müssen Berührungen früh erkennen; bei bestimmten kommunalen Brücken ist die Bundeswehr zu unterrichten.",
+          "checkpoints": [
+            "Melde- und Beteiligungspflichten prüfen",
+            "Alte Erlasse seit Ablauf 15.09.2026 nicht weiterverwenden",
+            "Anwendungsentscheidung dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-375/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "RE-ING, Ausgabe 2025/12",
+          "kind": "Technische Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 372; 912-B",
+          "published": "2026-09-16",
+          "effective": "2026-09-16",
+          "summary": "Aktualisierte Entwurfsrichtlinien für Ingenieurbauten, unter anderem Tunnel, Geh-/Radwegbrücken und Verkehrszeichenbrücken.",
+          "administrationImpact": "Kommunale Tiefbau- und Vergabestellen sollten eigene Standards und Leistungsverzeichnisse für neue Projekte prüfen.",
+          "checkpoints": [
+            "Fassung 2025/12 bei neuen Projekten festlegen",
+            "Vertragsstand laufender Vorhaben prüfen",
+            "Ersetzte Einführungen nicht weiterverwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-372/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "TL/TP-ING, Ausgabe Januar 2026",
+          "kind": "Technische Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 371; 913-B",
+          "published": "2026-09-16",
+          "effective": "2026-09-16",
+          "summary": "Neue technische Liefer- und Prüfvorschriften, insbesondere für Brückenabdichtungen und Korrosionsschutz von Seilen.",
+          "administrationImpact": "Bau- und Vergabestellen sollten neue Ausschreibungen aktualisieren; laufende Verträge behalten grundsätzlich die vereinbarte Fassung.",
+          "checkpoints": [
+            "Vertraglich einbezogene Fassung bei laufenden Verträgen beibehalten",
+            "Neue Ausschreibungen aktualisieren",
+            "Alte Fassungen revisionssicher archivieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-371/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Ehrenzeichenstatut erweitert",
           "kind": "Statut zur Änderung einer Rechtsvorschrift",
@@ -1119,9 +1599,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Gesetzes- und Veröffentlichungsstand 15.09.2026 einschließlich GVBl. S. 582 und S. 585.",
+      "intro": "Rechts- und Veröffentlichungsstand 16.09.2026 einschließlich BayMBl. Nr. 371, 372, 375, 376, 377, 379, 380, 381, 382 und 386.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-09-15T06:10:00+02:00"
+  "updatedAt": "2026-09-16T06:00:47+02:00"
 }
