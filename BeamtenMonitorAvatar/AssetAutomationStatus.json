@@ -1,15 +1,15 @@
 {
-  "runAt": "2026-09-18T10:25:00+02:00",
+  "runAt": "2026-09-18T10:18:20+02:00",
   "targetDate": "2026-09-18",
   "targetSet": "Assets 15",
   "theme": "Herbsttag",
   "success": false,
-  "state": "running",
+  "state": "failed",
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
   "failedStep": "github-upload",
-  "message": "Nachhollauf: vier PNG-Dateien und Spruch-JSON lokal erzeugt und technisch geprüft; Actions-Zellen haben Sicherheitsränder und wurden visuell geprüft. Atomarer GitHub-Upload steht an.",
+  "message": "Assets 15 wurde lokal vollständig erzeugt und technisch geprüft (Idle 1024x1536, Actions 1536x1024 mit acht Zellen und Sicherheitsrändern, MonitorScene 1672x941, MonitorBell 1254x1254; Alpha/Transparenz vorhanden; PNG load/verify erfolgreich; Spruch-JSON gültig). Der atomare Binär-Upload konnte in diesem Lauf nicht abgeschlossen werden, weil der verfügbare GitHub-create_blob-Aufruf Binärinhalt nur als inline Base64-String akzeptiert und keine lokale Containerdatei/File-Referenz übernimmt; die vorhandenen PNG-Dateien können daher nicht zuverlässig als vollständige Blob-Payload an den Connector übergeben werden. Auf main wurde kein partielles Assets-15-Set angelegt.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-16T06:09:42+02:00",
     "targetSet": "Assets 14",
