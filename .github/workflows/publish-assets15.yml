@@ -85,7 +85,7 @@ jobs:
               cx=190; head_y=125
               body_top=190; body_bot=345
               shift_y=0
-              if pose=="jump": shift_y=-55
+              if pose=="jump": shift_y=-15
               if pose=="land": shift_y=-8
               head_y += shift_y; body_top+=shift_y; body_bot+=shift_y
               # legs pose
