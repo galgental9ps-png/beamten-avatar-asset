@@ -1,0 +1,280 @@
+name: Publish Beamten Avatar Assets 15
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/publish-assets15.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Pillow
+        run: python -m pip install --disable-pip-version-check pillow
+
+      - name: Generate and validate Assets 15
+        shell: bash
+        run: |
+          python - <<'PY'
+          from PIL import Image, ImageDraw
+          from pathlib import Path
+          import json
+
+          ROOT = Path("BeamtenMonitorAvatar/Assets 15")
+          for d in ["Avatar","MonitorScene","Klingel","Sprüche"]:
+              (ROOT/d).mkdir(parents=True, exist_ok=True)
+
+          NAVY=(24,38,62,255)
+          NAVY2=(35,54,82,255)
+          BROWN=(102,59,33,255)
+          HAIR=(82,48,30,255)
+          SKIN=(238,184,139,255)
+          SKIN_D=(214,145,106,255)
+          SCARF=(174,89,42,255)
+          GOLD=(218,160,46,255)
+          GOLD2=(245,203,82,255)
+          WHITE=(246,243,232,255)
+          BLACK=(24,25,28,255)
+
+          def ell(d,box,fill,outline=None,w=1):
+              d.ellipse(tuple(map(int,box)), fill=fill, outline=outline, width=w)
+          def rec(d,box,fill,outline=None,w=1,r=0):
+              box=tuple(map(int,box))
+              if r: d.rounded_rectangle(box,radius=int(r),fill=fill,outline=outline,width=w)
+              else: d.rectangle(box,fill=fill,outline=outline,width=w)
+          def poly(d,pts,fill,outline=None):
+              d.polygon([(int(x),int(y)) for x,y in pts],fill=fill)
+              if outline: d.line([(int(x),int(y)) for x,y in pts]+[(int(pts[0][0]),int(pts[0][1]))],fill=outline,width=2)
+
+          def draw_face(img, cx, cy, s=1.0, face_right=True):
+              d=ImageDraw.Draw(img)
+              # pointy ears
+              poly(d,[(cx-49*s,cy-2*s),(cx-88*s,cy-18*s),(cx-48*s,cy+25*s)],SKIN,SKIN_D)
+              poly(d,[(cx+49*s,cy-2*s),(cx+88*s,cy-18*s),(cx+48*s,cy+25*s)],SKIN,SKIN_D)
+              ell(d,(cx-52*s,cy-58*s,cx+52*s,cy+56*s),SKIN,SKIN_D,2)
+              # hair cap + tufts
+              ell(d,(cx-54*s,cy-68*s,cx+55*s,cy-12*s),HAIR)
+              for dx,dy in [(-42,-62),(-20,-75),(4,-76),(28,-70),(45,-55)]:
+                  poly(d,[(cx+dx*s,cy+dy*s),(cx+(dx+17)*s,cy+(dy-18)*s),(cx+(dx+26)*s,cy+(dy+3)*s)],HAIR)
+              eye_shift=5*s if face_right else 0
+              for ex in (-21,21):
+                  ell(d,(cx+(ex-7)*s+eye_shift,cy-13*s,cx+(ex+7)*s+eye_shift,cy+2*s),WHITE)
+                  ell(d,(cx+(ex-1)*s+eye_shift,cy-7*s,cx+(ex+5)*s+eye_shift,cy),BLACK)
+              # nose, smile
+              poly(d,[(cx+2*s,cy-2*s),(cx+13*s,cy+13*s),(cx+1*s,cy+14*s)],SKIN_D)
+              d.arc((cx-26*s,cy+7*s,cx+29*s,cy+36*s),0,180,fill=(105,48,32,255),width=max(1,int(3*s)))
+
+          def limb(d, pts, fill, width):
+              d.line([(int(x),int(y)) for x,y in pts],fill=fill,width=max(1,int(width)),joint="curve")
+
+          def draw_sprite(pose):
+              im=Image.new("RGBA",(384,512),(0,0,0,0)); d=ImageDraw.Draw(im)
+              cx=190; head_y=125
+              body_top=190; body_bot=345
+              shift_y=0
+              if pose=="jump": shift_y=-55
+              if pose=="land": shift_y=-8
+              head_y += shift_y; body_top+=shift_y; body_bot+=shift_y
+              # legs pose
+              if pose=="walk1":
+                  legs=[((165,340),(132,418),(104,470)),((214,340),(244,417),(291,466))]
+              elif pose=="walk2":
+                  legs=[((165,340),(122,409),(79,456)),((214,340),(237,420),(270,474))]
+              elif pose=="run":
+                  legs=[((165,340),(116,390),(62,435)),((214,340),(259,383),(330,425))]
+              elif pose=="jump":
+                  legs=[((165,285),(130,345),(86,382)),((214,285),(251,344),(301,372))]
+              elif pose=="land":
+                  legs=[((165,332),(121,386),(82,458)),((214,332),(243,404),(273,469))]
+              else:
+                  legs=[((165,340),(158,410),(149,471)),((214,340),(221,411),(235,471))]
+              for pts in legs:
+                  limb(d,pts,NAVY2,30)
+                  ex,ey=pts[-1]
+                  rec(d,(ex-18,ey-7,ex+28,ey+10),BROWN,r=6)
+              # torso
+              rec(d,(135,body_top,243,body_bot),NAVY,r=18)
+              poly(d,[(135,body_top+8),(178,body_top+45),(151,body_bot-10)],NAVY2)
+              poly(d,[(243,body_top+8),(201,body_top+45),(229,body_bot-10)],NAVY2)
+              # white shirt + tie
+              poly(d,[(174,body_top+8),(205,body_top+8),(191,body_top+78)],WHITE)
+              poly(d,[(189,body_top+24),(199,body_top+24),(194,body_top+95)],(48,55,70,255))
+              # scarf
+              rec(d,(133,body_top-11,246,body_top+22),SCARF,r=13)
+              rec(d,(212,body_top+7,234,body_top+112),SCARF,r=7)
+              # arms
+              if pose=="walk1":
+                  armL=[(145,225+shift_y),(108,282+shift_y),(86,331+shift_y)]
+                  armR=[(233,225+shift_y),(264,270+shift_y),(282,302+shift_y)]
+              elif pose=="walk2":
+                  armL=[(145,225+shift_y),(117,269+shift_y),(102,301+shift_y)]
+                  armR=[(233,225+shift_y),(276,287+shift_y),(300,322+shift_y)]
+              elif pose=="run":
+                  armL=[(145,225+shift_y),(111,259+shift_y),(86,293+shift_y)]
+                  armR=[(233,225+shift_y),(270,245+shift_y),(298,219+shift_y)]
+              elif pose=="jump":
+                  armL=[(145,170),(100,110),(83,64)]
+                  armR=[(233,170),(278,109),(301,59)]
+              elif pose=="land":
+                  armL=[(145,217),(100,246),(72,277)]
+                  armR=[(233,217),(274,202),(311,178)]
+              elif pose=="present":
+                  armL=[(145,225),(114,282),(116,321)]
+                  armR=[(233,225),(277,261),(306,275)]
+              elif pose=="read":
+                  armL=[(145,225),(134,285),(155,310)]
+                  armR=[(233,225),(246,285),(223,312)]
+              else:
+                  armL=[(145,225),(118,286),(110,320)]
+                  armR=[(233,225),(248,279),(236,315)]
+              limb(d,armL,NAVY2,25); limb(d,armR,NAVY2,25)
+              for ex,ey in (armL[-1],armR[-1]): ell(d,(ex-10,ey-10,ex+10,ey+10),SKIN)
+              # face
+              draw_face(im,cx,head_y,0.78,True)
+              # leather satchel/folder
+              if pose in ("idle","walk1","walk2","run","jump","land"):
+                  rec(d,(91,281+shift_y,132,339+shift_y),BROWN,outline=(58,34,23,255),w=2,r=6)
+                  d.line((108,282+shift_y,151,215+shift_y),fill=(66,39,26,255),width=5)
+              # paper for presenting / reading
+              if pose=="present":
+                  poly(d,[(291,246),(344,237),(348,305),(301,310)],WHITE,(150,145,133,255))
+                  d.line((306,258,334,254),fill=(160,150,136,255),width=2)
+                  d.line((307,269,337,266),fill=(160,150,136,255),width=2)
+              if pose=="read":
+                  poly(d,[(154,281),(190,272),(194,326),(158,332)],WHITE,(150,145,133,255))
+                  poly(d,[(194,272),(233,282),(229,332),(194,326)],WHITE,(150,145,133,255))
+              return im
+
+          # Actions sheet
+          actions=Image.new("RGBA",(1536,1024),(0,0,0,0))
+          poses=["idle","walk1","walk2","run","jump","land","present","read"]
+          for i,p in enumerate(poses):
+              sp=draw_sprite(p)
+              actions.alpha_composite(sp,((i%4)*384,(i//4)*512))
+          actions.save(ROOT/"Avatar/Actions.png",optimize=True)
+
+          # Idle from same sprite, enlarged
+          sp=draw_sprite("idle")
+          bb=sp.getchannel("A").getbbox()
+          sp=sp.crop(bb)
+          scale=min(870/sp.width,1320/sp.height)
+          sp=sp.resize((round(sp.width*scale),round(sp.height*scale)),Image.Resampling.LANCZOS)
+          idle=Image.new("RGBA",(1024,1536),(0,0,0,0))
+          idle.alpha_composite(sp,((1024-sp.width)//2,1536-sp.height-70))
+          idle.save(ROOT/"Avatar/Idle.png",optimize=True)
+
+          # Monitor scene
+          scene=Image.new("RGBA",(1672,941),(0,0,0,0)); d=ImageDraw.Draw(scene)
+          # ground
+          rec(d,(0,820,1672,882),(111,99,83,255))
+          d.line((0,819,1672,819),fill=(74,67,58,255),width=5)
+          # left doorway
+          rec(d,(32,270,286,820),(205,188,158,255),outline=(111,94,73,255),w=6,r=3)
+          rec(d,(76,330,248,818),(93,55,34,255),outline=(57,37,25,255),w=6,r=4)
+          rec(d,(94,352,230,795),(122,71,39,255),outline=(67,43,28,255),w=3,r=3)
+          ell(d,(211,567,228,584),GOLD)
+          # awning/leaves top left
+          for x,y,c in [(46,270,(201,92,34,255)),(74,253,(229,132,39,255)),(106,265,(162,69,31,255)),(144,250,(216,105,35,255)),(183,263,(226,143,46,255)),(225,252,(177,78,30,255))]:
+              ell(d,(x-16,y-9,x+16,y+9),c)
+          # lantern
+          d.line((272,400,272,520),fill=(49,48,45,255),width=8)
+          poly(d,[(244,430),(300,430),(292,492),(252,492)],(56,55,51,255))
+          poly(d,[(254,441),(290,441),(284,480),(260,480)],(255,193,82,210))
+          # steps
+          rec(d,(12,795,316,835),(151,143,132,255)); rec(d,(0,833,338,862),(129,122,113,255))
+          # right crate + apples
+          rec(d,(1370,750,1482,829),(116,71,36,255),outline=(72,44,26,255),w=4,r=4)
+          for x,y in [(1388,738),(1414,731),(1440,739),(1462,730)]:
+              ell(d,(x-14,y-14,x+14,y+14),(186,55,31,255)); d.line((x,y-15,x+3,y-25),fill=(74,64,31,255),width=3)
+          # binders
+          for k,c in enumerate([(42,60,78,255),(71,82,91,255),(42,60,78,255)]):
+              rec(d,(1496,759+k*26,1578,780+k*26),c,outline=(23,29,36,255),w=2,r=3)
+              ell(d,(1507,765+k*26,1516,774+k*26),GOLD2)
+          # potted autumn tree
+          rec(d,(1601,789,1649,840),(107,59,34,255),r=4)
+          d.line((1625,789,1625,675),fill=(89,54,31,255),width=9)
+          for x,y,c in [(1587,690,(197,79,31,255)),(1610,661,(228,133,37,255)),(1640,670,(169,70,29,255)),(1655,708,(219,105,31,255)),(1608,716,(235,150,48,255))]:
+              ell(d,(x-34,y-24,x+34,y+24),c)
+          # scattered leaves
+          for x,y,c in [(346,843,(215,111,32,255)),(411,831,(158,67,28,255)),(1311,846,(226,139,37,255)),(1336,832,(179,70,28,255)),(1640,858,(222,123,31,255))]:
+              poly(d,[(x,y-9),(x+10,y),(x,y+8),(x-10,y)],c)
+          scene.save(ROOT/"MonitorScene/MonitorScene.png",optimize=True)
+
+          # Bell
+          bell=Image.new("RGBA",(1254,1254),(0,0,0,0)); d=ImageDraw.Draw(bell)
+          # base shadow/base
+          ell(d,(235,840,1019,1080),(31,44,66,255))
+          ell(d,(280,805,974,1030),(48,63,82,255))
+          # dome
+          ell(d,(292,330,962,1005),GOLD,outline=(139,90,20,255),w=10)
+          # cover lower half to make bell silhouette
+          rec(d,(250,680,1004,985),GOLD,outline=(139,90,20,255),w=10,r=80)
+          # highlights
+          ell(d,(390,420,520,730),(255,228,143,170))
+          # plunger
+          rec(d,(555,250,699,405),GOLD,outline=(139,90,20,255),w=8,r=20)
+          ell(d,(505,205,749,318),GOLD2,outline=(139,90,20,255),w=9)
+          # leaf motif
+          poly(d,[(626,624),(657,569),(671,614),(727,580),(703,642),(758,654),(700,676),(717,729),(667,696),(638,751),(629,694),(577,710),(602,665),(558,632),(611,638)],(207,83,31,255),outline=(119,51,23,255))
+          d.line((629,694,683,749),fill=(105,55,28,255),width=8)
+          # tiny folder badge
+          rec(d,(740,646,863,748),BROWN,outline=(57,36,25,255),w=4,r=10)
+          poly(d,[(740,646),(790,646),(806,623),(863,623),(863,657),(740,657)],(132,78,39,255))
+          ell(d,(795,681,811,697),GOLD2)
+          bell.save(ROOT/"Klingel/MonitorBell.png",optimize=True)
+
+          # Spruch
+          (ROOT/"Sprüche/Abschiedsspruch.json").write_text(
+              json.dumps({"theme":"Herbsttag","line":"Die Akte ist im Trockenen – ich sammle noch ein paar Blätter und bin dann wieder da."},ensure_ascii=False,separators=(",",":")),
+              encoding="utf-8"
+          )
+
+          # technical validation
+          required={
+              ROOT/"Avatar/Idle.png":(1024,1536),
+              ROOT/"Avatar/Actions.png":(1536,1024),
+              ROOT/"MonitorScene/MonitorScene.png":(1672,941),
+              ROOT/"Klingel/MonitorBell.png":(1254,1254),
+          }
+          for p,sz in required.items():
+              im=Image.open(p); im.load()
+              assert im.size==sz and im.mode=="RGBA"
+              assert im.getchannel("A").getextrema()[0]==0
+              with Image.open(p) as v: v.verify()
+          a=Image.open(ROOT/"Avatar/Actions.png").getchannel("A")
+          for r in range(2):
+              for c in range(4):
+                  bb=a.crop((c*384,r*512,(c+1)*384,(r+1)*512)).getbbox()
+                  assert bb is not None
+                  margins=(bb[0],bb[1],384-bb[2],512-bb[3])
+                  assert min(margins)>=20, (r,c,bb,margins)
+          obj=json.loads((ROOT/"Sprüche/Abschiedsspruch.json").read_text(encoding="utf-8"))
+          assert list(obj)==["theme","line"] and len(obj["line"])<=180
+          print("Assets 15 generated and validated")
+          PY
+
+      - name: Commit Assets 15
+        shell: bash
+        run: |
+          git config user.name "Beamten Avatar Automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add "BeamtenMonitorAvatar/Assets 15"
+          if git diff --cached --quiet; then
+            echo "No asset changes to commit"
+            exit 0
+          fi
+          git commit -m "Assets 15: Herbsttag Asset-Set"
+          git push origin HEAD:main
