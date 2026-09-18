@@ -278,3 +278,47 @@ jobs:
           fi
           git commit -m "Assets 15: Herbsttag Asset-Set"
           git push origin HEAD:main
+
+
+      - name: Verify published main
+        shell: bash
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+          python - <<'PY'
+          from PIL import Image
+          from pathlib import Path
+          import json, hashlib, subprocess
+
+          ROOT=Path("BeamtenMonitorAvatar/Assets 15")
+          required={
+              ROOT/"Avatar/Idle.png":(1024,1536),
+              ROOT/"Avatar/Actions.png":(1536,1024),
+              ROOT/"MonitorScene/MonitorScene.png":(1672,941),
+              ROOT/"Klingel/MonitorBell.png":(1254,1254),
+          }
+          verified=[]
+          for p,sz in required.items():
+              im=Image.open(p); im.load()
+              assert im.size==sz and im.mode=="RGBA", (p, im.size, im.mode)
+              alpha=im.getchannel("A")
+              assert alpha.getextrema()[0]==0 and alpha.getbbox() is not None
+              with Image.open(p) as v: v.verify()
+              verified.append((str(p),p.stat().st_size,hashlib.sha256(p.read_bytes()).hexdigest()))
+          a=Image.open(ROOT/"Avatar/Actions.png").getchannel("A")
+          margins=[]
+          for r in range(2):
+              for c in range(4):
+                  bb=a.crop((c*384,r*512,(c+1)*384,(r+1)*512)).getbbox()
+                  assert bb is not None
+                  m=(bb[0],bb[1],384-bb[2],512-bb[3])
+                  assert min(m)>=20, (r,c,bb,m)
+                  margins.append((r,c,m))
+          obj=json.loads((ROOT/"Sprüche/Abschiedsspruch.json").read_text(encoding="utf-8"))
+          assert list(obj)==["theme","line"] and obj["theme"]=="Herbsttag" and len(obj["line"])<=180
+          head=subprocess.check_output(["git","rev-parse","HEAD"],text=True).strip()
+          print("POST-PUSH MAIN VERIFIED",head)
+          print("FILES",verified)
+          print("CELL_MARGINS",margins)
+          print("JSON",obj)
+          PY
