@@ -1,17 +1,19 @@
 {
-  "runAt": "2026-09-16T06:09:42+02:00",
-  "targetSet": "Assets 14",
-  "theme": "Fototag",
-  "success": true,
-  "committedSha": "86f3adb57ede0241a1273bf76294e7c38be59193",
+  "runAt": "2026-09-18T10:08:00+02:00",
+  "targetDate": "2026-09-18",
+  "targetSet": "Assets 15",
+  "theme": "Herbsttag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
   "buildSuccess": null,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 14/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 14/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 14/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 14/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 14/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Alle fünf Pflichtdateien atomar veröffentlicht und von GitHub binär zurückgelesen; PNG-Größen, echter Alphakanal, Prüfsummen und Spruch-JSON geprüft. Acht getrennte Posen, beide Gehframes nach rechts auf gleicher Bodenlinie. Kein Build-Workflow im Asset-Repository vorhanden."
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "Nachhollauf 18.09.2026 gestartet; Spezifikation geprüft, nächstes freies Set Assets 15. Bildgenerierung und anschließende Validierung stehen aus.",
+  "lastSuccessfulRun": {
+    "runAt": "2026-09-16T06:09:42+02:00",
+    "targetSet": "Assets 14",
+    "theme": "Fototag",
+    "committedSha": "86f3adb57ede0241a1273bf76294e7c38be59193"
+  }
 }
