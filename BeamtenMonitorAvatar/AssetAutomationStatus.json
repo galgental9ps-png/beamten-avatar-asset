@@ -1,19 +1,33 @@
 {
-  "runAt": "2026-09-18T10:18:20+02:00",
+  "runAt": "2026-09-18T10:29:55+02:00",
   "targetDate": "2026-09-18",
   "targetSet": "Assets 15",
   "theme": "Herbsttag",
-  "success": false,
-  "state": "failed",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-upload",
-  "message": "Assets 15 wurde lokal vollständig erzeugt und technisch geprüft (Idle 1024x1536, Actions 1536x1024 mit acht Zellen und Sicherheitsrändern, MonitorScene 1672x941, MonitorBell 1254x1254; Alpha/Transparenz vorhanden; PNG load/verify erfolgreich; Spruch-JSON gültig). Der atomare Binär-Upload konnte in diesem Lauf nicht abgeschlossen werden, weil der verfügbare GitHub-create_blob-Aufruf Binärinhalt nur als inline Base64-String akzeptiert und keine lokale Containerdatei/File-Referenz übernimmt; die vorhandenen PNG-Dateien können daher nicht zuverlässig als vollständige Blob-Payload an den Connector übergeben werden. Auf main wurde kein partielles Assets-15-Set angelegt.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "504461bcd5be6b87c5d71947f283a17391f2d983",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 15/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 15/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 15/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 15/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 15/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Nachhollauf abgeschlossen: Assets 15 (Herbsttag) auf main veröffentlicht. GitHub Actions Run 35324642110 hat den veröffentlichten main-Stand nach dem Push erneut geprüft: PNG load/verify, exakte Maße, RGBA/Transparenz, acht Actions-Zellränder und Spruch-JSON erfolgreich. Alle fünf Zielpfade sind auf main vorhanden.",
   "lastSuccessfulRun": {
-    "runAt": "2026-09-16T06:09:42+02:00",
-    "targetSet": "Assets 14",
-    "theme": "Fototag",
-    "committedSha": "86f3adb57ede0241a1273bf76294e7c38be59193"
+    "runAt": "2026-09-18T10:29:55+02:00",
+    "targetSet": "Assets 15",
+    "theme": "Herbsttag",
+    "committedSha": "504461bcd5be6b87c5d71947f283a17391f2d983"
+  },
+  "verificationWorkflowRunId": 35324642110,
+  "verificationMainSha": "be7114374d76df00d5ac85157a61bc7474a39ede",
+  "sha256": {
+    "Avatar/Idle.png": "e851f1def94c61039abc30328195969e99ff850d6d44ab96aeb0b261fa141594",
+    "Avatar/Actions.png": "b1a6a00a6ffce9eb4e06f0dcf38b6021a6e09ccb19addb2330101bbf9cfe0ac3",
+    "MonitorScene/MonitorScene.png": "01eafbbe811befd6e044897f3d59914f66df3ba1b43ce66a3c9d239ed6637c00",
+    "Klingel/MonitorBell.png": "b01baf028763203e3f5d102b2cf7de2d5323c7e5e91b20de1ea31779fc65f4f9"
   }
 }
