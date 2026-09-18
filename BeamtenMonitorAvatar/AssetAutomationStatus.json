@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-09-18T10:08:00+02:00",
+  "runAt": "2026-09-18T10:25:00+02:00",
   "targetDate": "2026-09-18",
   "targetSet": "Assets 15",
   "theme": "Herbsttag",
@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Nachhollauf 18.09.2026 gestartet; Spezifikation geprüft, nächstes freies Set Assets 15. Bildgenerierung und anschließende Validierung stehen aus.",
+  "failedStep": "github-upload",
+  "message": "Nachhollauf: vier PNG-Dateien und Spruch-JSON lokal erzeugt und technisch geprüft; Actions-Zellen haben Sicherheitsränder und wurden visuell geprüft. Atomarer GitHub-Upload steht an.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-16T06:09:42+02:00",
     "targetSet": "Assets 14",
