@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "sprite-cell-bounds",
-  "message": "Vier Bildausgaben liegen lokal vor. Vollständige Figuren werden ohne Anschnitt mit Sicherheitsrändern gesetzt; PNG- und Transparenzprüfung läuft.",
+  "failedStep": "github-upload",
+  "message": "Lokale PNG-load/verify-Prüfung, exakte Maße, echte Transparenz, Sprite-Zellränder und visuelle Kontrolle bestanden. Atomarer Upload wird vorbereitet.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-18T10:29:55+02:00",
     "targetSet": "Assets 15",
