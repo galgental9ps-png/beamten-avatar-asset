@@ -1,9 +1,41 @@
 {
-  "checkedSources": "Tagesprüfung 16.09.2026: BVS-Jahrgang 2026/2028 einschließlich Zeitplan, Leistungsnachweisen, Stoffgliederung und Hilfsmitteln; BayMBl. bis Nr. 390; GVBl. bis S. 585; Bayern.Recht; Augsburger Stadtrecht/Amtsblatt 35/36; Regierungsamtsblatt Schwaben Nr. 17; Augsburger Ausbildungsinformationen. Zehn neue verwaltungsrelevante BayMBl.-Veröffentlichungen wurden eingeordnet.",
+  "checkedSources": "Prüfstand 20.09.2026 (Europe/Berlin): BayMBl. bis Nr. 390 vom 16.09.2026, GVBl. bis S. 585 vom 15.09.2026, Bayern.Recht, BVS-Jahrgang 2026/2028, Augsburger Stadtrecht/Ausbildungsinformationen, Augsburger Amtsblatt Nr. 37/38 vom 18.09.2026 und Regierungsamtsblatt Schwaben Nr. 17 geprüft. Zwei relevante neue amtliche Augsburger Bekanntmachungen eingeordnet; keine neue BVS-Terminänderung.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Herbstdult 2026: Dauer und Betriebszeiten",
+          "kind": "Allgemeinverfügung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 37/38, S. 261; § 3 Abs. 1 und 4 Dult- und Christkindlesmarktsatzung",
+          "published": "2026-09-18",
+          "effective": "2026-09-19; Veranstaltung 2026-10-03 bis 2026-10-11, täglich 10:00–19:00",
+          "summary": "Die Stadt Augsburg setzt Zeitraum und tägliche Betriebszeiten der Michaelidult 2026 verbindlich fest. Die Verfügung wurde am 18.09.2026 bekannt gemacht und trat am Folgetag in Kraft.",
+          "administrationImpact": "Marktverwaltung, Ordnungsbehörden und Einsatzdienste richten Genehmigungen, Kontrollen und Einsatzplanung an den festgesetzten Zeiten aus. Für Ausbildung und Beamtenstatus entsteht keine unmittelbare Änderung.",
+          "checkpoints": [
+            "Bekanntgabe und Inkrafttreten am Folgetag unterscheiden",
+            "Veranstaltungszeitraum 03.–11.10.2026 und tägliche Betriebszeit 10:00–19:00 beachten",
+            "Klagefrist und Rechtsbehelfsbelehrung am Originaltext prüfen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-37-38_vom-18-09-2026.pdf",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Ulmer Straße / Kriegshaberstraße: Beteiligung zur Bauleitplanung",
+          "kind": "Amtliche Bekanntmachung / Öffentlichkeitsbeteiligung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 37/38, S. 262–268; § 3 Abs. 2 BauGB; FNP-Änderung 1995-208 und Bebauungsplan Nr. 304",
+          "published": "2026-09-18",
+          "effective": "Veröffentlichungs- und Beteiligungsfrist 2026-09-21 bis 2026-10-23; noch kein Inkrafttreten des Bebauungsplans",
+          "summary": "Die Entwürfe für die Einzelhandelsentwicklung südwestlich der Ulmer Straße/Kriegshaberstraße werden veröffentlicht. Öffentlichkeit und Behörden können bis 23.10.2026 Stellung nehmen; Umweltunterlagen sind Teil des Verfahrens.",
+          "administrationImpact": "Stadtplanung und Fachstellen müssen Stellungnahmen erfassen, Umweltbelange prüfen und die Abwägung rechtssicher dokumentieren. Die Bekanntmachung setzt noch keinen neuen Bebauungsplan in Kraft.",
+          "checkpoints": [
+            "Beteiligungsfrist 21.09.–23.10.2026 einhalten",
+            "Verfahrensbekanntmachung nicht mit Satzungsbeschluss oder Inkrafttreten verwechseln",
+            "Abstimmung mit Stadtbergen und Umweltunterlagen im Verfahren berücksichtigen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-37-38_vom-18-09-2026.pdf",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Förderung der Bahnhofsmissionen",
           "kind": "Verwaltungsvorschrift / Förderrichtlinie",
@@ -533,6 +565,38 @@
     {
       "changes": [
         {
+          "title": "Herbstdult 2026: Dauer und Betriebszeiten",
+          "kind": "Allgemeinverfügung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 37/38, S. 261; § 3 Abs. 1 und 4 Dult- und Christkindlesmarktsatzung",
+          "published": "2026-09-18",
+          "effective": "2026-09-19; Veranstaltung 2026-10-03 bis 2026-10-11, täglich 10:00–19:00",
+          "summary": "Die Stadt Augsburg setzt Zeitraum und tägliche Betriebszeiten der Michaelidult 2026 verbindlich fest. Die Verfügung wurde am 18.09.2026 bekannt gemacht und trat am Folgetag in Kraft.",
+          "administrationImpact": "Marktverwaltung, Ordnungsbehörden und Einsatzdienste richten Genehmigungen, Kontrollen und Einsatzplanung an den festgesetzten Zeiten aus. Für Ausbildung und Beamtenstatus entsteht keine unmittelbare Änderung.",
+          "checkpoints": [
+            "Bekanntgabe und Inkrafttreten am Folgetag unterscheiden",
+            "Veranstaltungszeitraum 03.–11.10.2026 und tägliche Betriebszeit 10:00–19:00 beachten",
+            "Klagefrist und Rechtsbehelfsbelehrung am Originaltext prüfen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-37-38_vom-18-09-2026.pdf",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Ulmer Straße / Kriegshaberstraße: Beteiligung zur Bauleitplanung",
+          "kind": "Amtliche Bekanntmachung / Öffentlichkeitsbeteiligung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 37/38, S. 262–268; § 3 Abs. 2 BauGB; FNP-Änderung 1995-208 und Bebauungsplan Nr. 304",
+          "published": "2026-09-18",
+          "effective": "Veröffentlichungs- und Beteiligungsfrist 2026-09-21 bis 2026-10-23; noch kein Inkrafttreten des Bebauungsplans",
+          "summary": "Die Entwürfe für die Einzelhandelsentwicklung südwestlich der Ulmer Straße/Kriegshaberstraße werden veröffentlicht. Öffentlichkeit und Behörden können bis 23.10.2026 Stellung nehmen; Umweltunterlagen sind Teil des Verfahrens.",
+          "administrationImpact": "Stadtplanung und Fachstellen müssen Stellungnahmen erfassen, Umweltbelange prüfen und die Abwägung rechtssicher dokumentieren. Die Bekanntmachung setzt noch keinen neuen Bebauungsplan in Kraft.",
+          "checkpoints": [
+            "Beteiligungsfrist 21.09.–23.10.2026 einhalten",
+            "Verfahrensbekanntmachung nicht mit Satzungsbeschluss oder Inkrafttreten verwechseln",
+            "Abstimmung mit Stadtbergen und Umweltunterlagen im Verfahren berücksichtigen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-37-38_vom-18-09-2026.pdf",
+          "consolidatedUrl": ""
+        },
+        {
           "title": "Förderung der Bahnhofsmissionen",
           "kind": "Verwaltungsvorschrift / Förderrichtlinie",
           "reference": "BayMBl. 2026 Nr. 386; 2179-A",
@@ -1044,6 +1108,38 @@
     },
     {
       "changes": [
+        {
+          "title": "Herbstdult 2026: Dauer und Betriebszeiten",
+          "kind": "Allgemeinverfügung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 37/38, S. 261; § 3 Abs. 1 und 4 Dult- und Christkindlesmarktsatzung",
+          "published": "2026-09-18",
+          "effective": "2026-09-19; Veranstaltung 2026-10-03 bis 2026-10-11, täglich 10:00–19:00",
+          "summary": "Die Stadt Augsburg setzt Zeitraum und tägliche Betriebszeiten der Michaelidult 2026 verbindlich fest. Die Verfügung wurde am 18.09.2026 bekannt gemacht und trat am Folgetag in Kraft.",
+          "administrationImpact": "Marktverwaltung, Ordnungsbehörden und Einsatzdienste richten Genehmigungen, Kontrollen und Einsatzplanung an den festgesetzten Zeiten aus. Für Ausbildung und Beamtenstatus entsteht keine unmittelbare Änderung.",
+          "checkpoints": [
+            "Bekanntgabe und Inkrafttreten am Folgetag unterscheiden",
+            "Veranstaltungszeitraum 03.–11.10.2026 und tägliche Betriebszeit 10:00–19:00 beachten",
+            "Klagefrist und Rechtsbehelfsbelehrung am Originaltext prüfen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-37-38_vom-18-09-2026.pdf",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Ulmer Straße / Kriegshaberstraße: Beteiligung zur Bauleitplanung",
+          "kind": "Amtliche Bekanntmachung / Öffentlichkeitsbeteiligung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 37/38, S. 262–268; § 3 Abs. 2 BauGB; FNP-Änderung 1995-208 und Bebauungsplan Nr. 304",
+          "published": "2026-09-18",
+          "effective": "Veröffentlichungs- und Beteiligungsfrist 2026-09-21 bis 2026-10-23; noch kein Inkrafttreten des Bebauungsplans",
+          "summary": "Die Entwürfe für die Einzelhandelsentwicklung südwestlich der Ulmer Straße/Kriegshaberstraße werden veröffentlicht. Öffentlichkeit und Behörden können bis 23.10.2026 Stellung nehmen; Umweltunterlagen sind Teil des Verfahrens.",
+          "administrationImpact": "Stadtplanung und Fachstellen müssen Stellungnahmen erfassen, Umweltbelange prüfen und die Abwägung rechtssicher dokumentieren. Die Bekanntmachung setzt noch keinen neuen Bebauungsplan in Kraft.",
+          "checkpoints": [
+            "Beteiligungsfrist 21.09.–23.10.2026 einhalten",
+            "Verfahrensbekanntmachung nicht mit Satzungsbeschluss oder Inkrafttreten verwechseln",
+            "Abstimmung mit Stadtbergen und Umweltunterlagen im Verfahren berücksichtigen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-37-38_vom-18-09-2026.pdf",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Förderung der Bahnhofsmissionen",
           "kind": "Verwaltungsvorschrift / Förderrichtlinie",
@@ -1603,5 +1699,5 @@
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-09-16T06:00:47+02:00"
+  "updatedAt": "2026-09-20T05:58:32+02:00"
 }
