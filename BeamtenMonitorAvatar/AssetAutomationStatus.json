@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Referenzen und Spezifikation geprüft; vier neue Motive für Kaffeetag werden erzeugt und technisch geprüft.",
+  "failedStep": "sprite-cell-bounds",
+  "message": "Vier Bildausgaben liegen lokal vor. Vollständige Figuren werden ohne Anschnitt mit Sicherheitsrändern gesetzt; PNG- und Transparenzprüfung läuft.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-18T10:29:55+02:00",
     "targetSet": "Assets 15",
