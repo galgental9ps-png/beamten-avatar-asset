@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Spezifikation und Nummerierung geprüft; Bildreferenzen werden geladen und das neue Markttag-Set erzeugt.",
+  "failedStep": "sprite-cell-bounds",
+  "message": "Vier Markttag-Bilder erzeugt; Sprite-Zellen werden mit Sicherheitsrändern normalisiert und alle PNGs technisch geprüft.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-20T06:00:00+02:00",
     "targetDate": "2026-09-20",
