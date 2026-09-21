@@ -1,27 +1,20 @@
 {
-  "runAt": "2026-09-20T06:00:00+02:00",
-  "targetDate": "2026-09-20",
-  "targetSet": "Assets 16",
-  "theme": "Kaffeetag",
-  "success": true,
-  "state": "completed",
-  "committedSha": "2fc7cc32d5bf81b53ab0161d6409daa2e0264e0a",
+  "runAt": "2026-09-21T06:01:32+02:00",
+  "targetDate": "2026-09-21",
+  "targetSet": "Assets 17",
+  "theme": "Markttag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
   "buildSuccess": null,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 16/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 16/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 16/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 16/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 16/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 16 – Kaffeetag in einem atomaren Asset-Commit auf main veröffentlicht. Alle fünf Dateien nach Git-Fetch aus origin/main binär rückgelesen und mit lokalen Originalen verglichen; PNG load/verify, Maße, echte RGBA-Transparenz, alle acht Sprite-Zellränder (mindestens 24 px), identische Geh-Bodenlinie und Spruch-JSON bestanden. GitHub-Pfade, Blob-SHAs und Größen zusätzlich geprüft. Kein Build-Workflow im Repository vorhanden; buildSuccess daher null.",
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "Spezifikation und Nummerierung geprüft; Bildreferenzen werden geladen und das neue Markttag-Set erzeugt.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-20T06:00:00+02:00",
     "targetDate": "2026-09-20",
     "targetSet": "Assets 16",
     "theme": "Kaffeetag",
     "committedSha": "2fc7cc32d5bf81b53ab0161d6409daa2e0264e0a"
-  },
-  "verificationMainSha": "36354f0dd9bee5c20fc4f16667ce59afa72971d9"
+  }
 }
