@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "sprite-cell-bounds",
-  "message": "Vier Markttag-Bilder erzeugt; Sprite-Zellen werden mit Sicherheitsrändern normalisiert und alle PNGs technisch geprüft.",
+  "failedStep": "github-upload",
+  "message": "Lokale PNG-load/verify-, Maß-, Transparenz- und Sprite-Zellprüfung bestanden. Atomarer Upload der fünf Markttag-Dateien wird vorbereitet.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-20T06:00:00+02:00",
     "targetDate": "2026-09-20",
