@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "sprite-cell-bounds",
-  "message": "Vier Kinotag-Bilder erzeugt; Sprite-Zellen werden mit Sicherheitsrändern normalisiert und alle PNGs technisch geprüft.",
+  "failedStep": "github-upload",
+  "message": "Lokale PNG-load/verify-, Maß-, Transparenz- und Sprite-Zellprüfung bestanden. Atomarer Upload der fünf Kinotag-Dateien wird vorbereitet.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-21T06:01:32+02:00",
     "targetDate": "2026-09-21",
