@@ -3,18 +3,25 @@
   "targetDate": "2026-09-22",
   "targetSet": "Assets 18",
   "theme": "Kinotag",
-  "success": false,
-  "state": "running",
+  "success": true,
+  "state": "completed",
   "committedSha": "69ab14790f0d3f6d3fe36e64b6ca8550151f8f11",
   "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-verification",
-  "message": "Fünf Kinotag-Dateien atomar veröffentlicht; binäre Rückprüfung aus origin/main läuft.",
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 18/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 18/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 18/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 18/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 18/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 18 – Kinotag in einem atomaren Asset-Commit auf main veröffentlicht. Alle fünf Dateien nach Git-Fetch aus origin/main binär rückgelesen und bitgenau verglichen; PNG load/verify, exakte Maße, echte RGBA-Transparenz, alle acht Sprite-Zellränder (mindestens 24 px), identische Geh-Bodenlinie und Spruch-JSON bestanden. GitHub-Pfade, Blob-SHAs und Größen zusätzlich geprüft. Kein Build-Workflow im Repository vorhanden; buildSuccess daher null.",
   "lastSuccessfulRun": {
-    "runAt": "2026-09-21T06:01:32+02:00",
-    "targetDate": "2026-09-21",
-    "targetSet": "Assets 17",
-    "theme": "Markttag",
-    "committedSha": "74ee79dd8565a7d2358271382f727bed378a31c1"
-  }
+    "runAt": "2026-09-22T06:01:47+02:00",
+    "targetDate": "2026-09-22",
+    "targetSet": "Assets 18",
+    "theme": "Kinotag",
+    "committedSha": "69ab14790f0d3f6d3fe36e64b6ca8550151f8f11"
+  },
+  "verificationMainSha": "5581b55aea2ee4078546384ca8bd14f6e54632ba"
 }
