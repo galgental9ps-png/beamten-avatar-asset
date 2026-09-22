@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Spezifikation und Nummerierung geprüft; Referenzbilder werden geladen und das neue Kinotag-Set erzeugt.",
+  "failedStep": "sprite-cell-bounds",
+  "message": "Vier Kinotag-Bilder erzeugt; Sprite-Zellen werden mit Sicherheitsrändern normalisiert und alle PNGs technisch geprüft.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-21T06:01:32+02:00",
     "targetDate": "2026-09-21",
