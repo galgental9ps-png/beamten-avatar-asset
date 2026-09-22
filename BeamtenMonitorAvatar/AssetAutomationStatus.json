@@ -1,27 +1,20 @@
 {
-  "runAt": "2026-09-21T06:01:32+02:00",
-  "targetDate": "2026-09-21",
-  "targetSet": "Assets 17",
-  "theme": "Markttag",
-  "success": true,
-  "state": "completed",
-  "committedSha": "74ee79dd8565a7d2358271382f727bed378a31c1",
+  "runAt": "2026-09-22T06:01:47+02:00",
+  "targetDate": "2026-09-22",
+  "targetSet": "Assets 18",
+  "theme": "Kinotag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
   "buildSuccess": null,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 17/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 17/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 17/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 17/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 17/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 17 – Markttag in einem atomaren Asset-Commit auf main veröffentlicht. Alle fünf Dateien nach Git-Fetch aus origin/main binär rückgelesen und bitgenau verglichen; PNG load/verify, exakte Maße, echte RGBA-Transparenz, alle acht Sprite-Zellränder (mindestens 23 px), identische Geh-Bodenlinie und Spruch-JSON bestanden. GitHub-Pfade, Blob-SHAs und Größen zusätzlich geprüft. Kein Build-Workflow im Repository vorhanden; buildSuccess daher null.",
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "Spezifikation und Nummerierung geprüft; Referenzbilder werden geladen und das neue Kinotag-Set erzeugt.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-21T06:01:32+02:00",
     "targetDate": "2026-09-21",
     "targetSet": "Assets 17",
     "theme": "Markttag",
     "committedSha": "74ee79dd8565a7d2358271382f727bed378a31c1"
-  },
-  "verificationMainSha": "520edc408f9ad6f2520ba249039bb23952a9b562"
+  }
 }
