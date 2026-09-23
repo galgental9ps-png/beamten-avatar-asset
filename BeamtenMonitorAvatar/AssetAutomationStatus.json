@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "github-upload",
-  "message": "Lokale Prüfung bestanden: vier PNGs load/verify, exakte Maße, echte RGBA-Transparenz; acht Sprite-Zellen mit mindestens 25 px Rand und identischer Geh-Bodenlinie; JSON valide. Atomarer Git-Data-Upload läuft.",
+  "failedStep": "github-publish-fallback",
+  "message": "Direkter Git-Data-Transfer der drei PNGs über 1 MB lieferte abweichende Blob-SHAs; keine dieser Blobs wurde referenziert. Temporärer GitHub-Actions-Publisher wird eingerichtet.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-22T06:01:47+02:00",
     "targetDate": "2026-09-22",
