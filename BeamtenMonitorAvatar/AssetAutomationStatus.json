@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "sprite-cell-bounds",
-  "message": "Vier Apothekentag-PNG-Quellen mit echtem Alphakanal erzeugt; technische Freistellung, Größenanpassung und Sprite-Zellprüfung laufen.",
+  "failedStep": "github-upload",
+  "message": "Lokale Prüfung bestanden: vier PNGs load/verify, exakte Maße, echte RGBA-Transparenz; acht Sprite-Zellen mit mindestens 25 px Rand und identischer Geh-Bodenlinie; JSON valide. Atomarer Git-Data-Upload läuft.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-22T06:01:47+02:00",
     "targetDate": "2026-09-22",
