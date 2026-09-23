@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Assets 19 – Apothekentag gestartet. Spezifikation, Nummerierung und Referenzpfade geprüft; Bildgenerierung steht aus.",
+  "failedStep": "sprite-cell-bounds",
+  "message": "Vier Apothekentag-PNG-Quellen mit echtem Alphakanal erzeugt; technische Freistellung, Größenanpassung und Sprite-Zellprüfung laufen.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-22T06:01:47+02:00",
     "targetDate": "2026-09-22",
