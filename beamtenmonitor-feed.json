@@ -1,9 +1,121 @@
 {
-  "checkedSources": "Prüfstand 22.09.2026 (Europe/Berlin): BayMBl. bis Nr. 390 vom 16.09.2026, GVBl. bis S. 585 vom 15.09.2026, Bayern.Recht, BVS-Jahrgang 2026/2028, Augsburger Stadtrecht/Ausbildungsinformationen, Augsburger Amtsblatt Nr. 37/38 vom 18.09.2026 und Regierungsamtsblatt Schwaben Nr. 17 vom 08.09.2026 geprüft. Keine neue relevante fachliche Änderung und keine BVS-Terminänderung.",
+  "checkedSources": "Prüfstand 23.09.2026 (Europe/Berlin): BayMBl. bis Nr. 399 vom 23.09.2026, GVBl. bis S. 585 vom 15.09.2026, Bayern.Recht, BVS-Jahrgang 2026/2028, Augsburger Stadtrecht/Ausbildungsinformationen, Augsburger Amtsblatt Nr. 37/38 vom 18.09.2026 und Regierungsamtsblatt Schwaben Nr. 17 vom 08.09.2026 geprüft. Sieben neue verwaltungsrelevante Regelungen eingeordnet; keine BVS-Terminänderung.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "TL Bitumen-StB 25 eingeführt",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 391; Az. 49-43415-4-7-2",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Aktualisierte Anforderungen an Straßenbaubitumen und polymermodifizierte Bitumen ersetzen die bisher eingeführten TL Bitumen-StB 07/13.",
+          "administrationImpact": "Für Bundes-, Staats- und staatlich verwaltete Kreisstraßen verbindlich; Landkreisen, Städten und Gemeinden zur einheitlichen Anwendung empfohlen. Kommunale Vergabe- und Vertragsunterlagen prüfen.",
+          "checkpoints": [
+            "Vorgängerbekanntmachung BayMBl. 2020 Nr. 359 seit 23.09.2026 abgelöst",
+            "Geltungsbereich und kommunale Übernahme dokumentieren",
+            "Material- und Vertragsverweise auf TL Bitumen-StB 25 aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-391/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-391/"
+        },
+        {
+          "title": "ZTV Asphalt-StB 26 Teil 1 – Neubau",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 392; Az. 49-43415-3-3-6",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Neue technische Vertragsbedingungen für Asphaltneubau und Schichten in gleichmäßiger Dicke mit bayerischen Ergänzungen, Nachweisen und Kontrollen.",
+          "administrationImpact": "Bei kommunaler Übernahme müssen Tiefbau und Vergabe Teil 1 sowie gegebenenfalls Teil 2 in Leistungsbeschreibung, Bauvertrag und Qualitätskontrolle berücksichtigen.",
+          "checkpoints": [
+            "Vorgängerbekanntmachung BayMBl. 2020 Nr. 361 abgelöst",
+            "Vertragsbestandteil ausdrücklich einbeziehen",
+            "Verdichtungskontrolle, Thermoscan und Datenübergabe prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-392/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-392/"
+        },
+        {
+          "title": "ZTV Asphalt-StB 26 Teil 2 – Bauen im Bestand",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 393; Az. 49-43415-3-3-9",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Eigenständiges aktuelles Regelwerk für Fräsen, Instandhaltung, Instandsetzung, Erneuerung und Asphaltschichten in ungleichmäßiger Dicke.",
+          "administrationImpact": "Kommunale Erhaltungsmaßnahmen und Ausschreibungen sind auf die neue Zweiteilung und die erforderliche gemeinsame Anwendung mit Teil 1 zu prüfen.",
+          "checkpoints": [
+            "ZTV BEA-StB 09/13 seit 23.09.2026 abgelöst",
+            "Stichtag laufender Vergaben dokumentieren",
+            "Bauüberwachung, Abnahme und Abrechnung anpassen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-393/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-393/"
+        },
+        {
+          "title": "TL Asphalt-StB 26 – Asphaltmischgut",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 394; Az. 49-43415-4-8-3",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Neue Lieferbedingungen für Asphaltmischgut regeln Materialanforderungen, Asphaltgranulat, Rejuvenatoren, Erstprüfungen und Nachweise.",
+          "administrationImpact": "Beschaffung, Bauüberwachung und Rechnungsprüfung müssen bei kommunaler Übernahme die neue Ausgabe und bayerischen Ergänzungen berücksichtigen.",
+          "checkpoints": [
+            "Vorgängerbekanntmachung BayMBl. 2020 Nr. 360 abgelöst",
+            "Recyclinganteile und Rejuvenator-Nachweise prüfen",
+            "Erstprüfungsberichte und Leistungsverzeichnisse aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-394/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-394/"
+        },
+        {
+          "title": "Ausgleichsregelung Große Beutegreifer geändert",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 395; Gl.-Nr. 7912.4-U",
+          "published": "2026-09-23",
+          "effective": "2026-10-01",
+          "summary": "Die Anlage mit den Wolfsgebieten im Sinne des Schadensausgleichs wird vollständig neu gefasst.",
+          "administrationImpact": "Umwelt-, Veterinär- und Beratungsstellen müssen für Schadensmeldungen ab 1. Oktober die neue Gebietskulisse und den Ereigniszeitpunkt beachten.",
+          "checkpoints": [
+            "Keine Rückwirkung; neue Anlage ab 01.10.2026",
+            "Ereignisort und Schadensdatum festhalten",
+            "Zuständige Ausgleichsstelle korrekt benennen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-395/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-395/"
+        },
+        {
+          "title": "TL Gestein-StB 04/23 neu eingeführt und ergänzt",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 397; Az. 49-43415-4-3-9",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Aktualisierte bayerische Anhänge und Qualitätsanforderungen für Gesteinskörnungen im Straßenbau ersetzen die Einführungen von 2023 und 2024.",
+          "administrationImpact": "Bei kommunalen Straßenbaumaßnahmen sind empfohlene neue Prüfanforderungen und Anhänge in Ausschreibung, Materialnachweis und Güteüberwachung zu prüfen.",
+          "checkpoints": [
+            "BayMBl. 2023 Nr. 403 und 2024 Nr. 136 abgelöst",
+            "Neue Anhänge E, F und G verwenden",
+            "Prüfzeugnisse und Vertragsverweise aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-397/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-397/"
+        },
+        {
+          "title": "BayProTier 2025/27 neu bekannt gemacht",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 398; Gl.-Nr. 787-L",
+          "published": "2026-09-23",
+          "effective": "2026-09-04 bis 2028-06-30",
+          "summary": "Tierwohlförderung für Schweine und Rinder mit Antragsnachweisen, Bagatellgrenze, Förderhöchstzahlen, Kontrollen, Rückforderung und Aufzeichnungspflichten.",
+          "administrationImpact": "Bewilligungsbehörde ist die Staatliche Führungsakademie. Kommunale Fachstellen können bei Beratung, Tierschutzfeststellungen und Zuständigkeitsverweisen berührt sein.",
+          "checkpoints": [
+            "Rückwirkendes Inkrafttreten 04.09.2026 beachten",
+            "Art. 23 und 44 BayHO sowie Art. 43, 48, 49, 49a BayVwVfG prüfen",
+            "Verpflichtungszeitraum, Mehrfachförderungsverbot und Kontrollnachweise dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-398/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-398/"
+        },
         {
           "title": "Herbstdult 2026: Dauer und Betriebszeiten",
           "kind": "Allgemeinverfügung",
@@ -559,11 +671,123 @@
         }
       ],
       "id": "latest",
-      "intro": "Tagesprüfung 16.09.2026: Zehn neue verwaltungsrelevante BayMBl.-Veröffentlichungen wurden amtlich geprüft und eingeordnet.",
+      "intro": "Tagesprüfung 23.09.2026: Sieben neue verwaltungsrelevante BayMBl.-Regelungen wurden amtlich geprüft und eingeordnet.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "TL Bitumen-StB 25 eingeführt",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 391; Az. 49-43415-4-7-2",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Aktualisierte Anforderungen an Straßenbaubitumen und polymermodifizierte Bitumen ersetzen die bisher eingeführten TL Bitumen-StB 07/13.",
+          "administrationImpact": "Für Bundes-, Staats- und staatlich verwaltete Kreisstraßen verbindlich; Landkreisen, Städten und Gemeinden zur einheitlichen Anwendung empfohlen. Kommunale Vergabe- und Vertragsunterlagen prüfen.",
+          "checkpoints": [
+            "Vorgängerbekanntmachung BayMBl. 2020 Nr. 359 seit 23.09.2026 abgelöst",
+            "Geltungsbereich und kommunale Übernahme dokumentieren",
+            "Material- und Vertragsverweise auf TL Bitumen-StB 25 aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-391/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-391/"
+        },
+        {
+          "title": "ZTV Asphalt-StB 26 Teil 1 – Neubau",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 392; Az. 49-43415-3-3-6",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Neue technische Vertragsbedingungen für Asphaltneubau und Schichten in gleichmäßiger Dicke mit bayerischen Ergänzungen, Nachweisen und Kontrollen.",
+          "administrationImpact": "Bei kommunaler Übernahme müssen Tiefbau und Vergabe Teil 1 sowie gegebenenfalls Teil 2 in Leistungsbeschreibung, Bauvertrag und Qualitätskontrolle berücksichtigen.",
+          "checkpoints": [
+            "Vorgängerbekanntmachung BayMBl. 2020 Nr. 361 abgelöst",
+            "Vertragsbestandteil ausdrücklich einbeziehen",
+            "Verdichtungskontrolle, Thermoscan und Datenübergabe prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-392/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-392/"
+        },
+        {
+          "title": "ZTV Asphalt-StB 26 Teil 2 – Bauen im Bestand",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 393; Az. 49-43415-3-3-9",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Eigenständiges aktuelles Regelwerk für Fräsen, Instandhaltung, Instandsetzung, Erneuerung und Asphaltschichten in ungleichmäßiger Dicke.",
+          "administrationImpact": "Kommunale Erhaltungsmaßnahmen und Ausschreibungen sind auf die neue Zweiteilung und die erforderliche gemeinsame Anwendung mit Teil 1 zu prüfen.",
+          "checkpoints": [
+            "ZTV BEA-StB 09/13 seit 23.09.2026 abgelöst",
+            "Stichtag laufender Vergaben dokumentieren",
+            "Bauüberwachung, Abnahme und Abrechnung anpassen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-393/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-393/"
+        },
+        {
+          "title": "TL Asphalt-StB 26 – Asphaltmischgut",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 394; Az. 49-43415-4-8-3",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Neue Lieferbedingungen für Asphaltmischgut regeln Materialanforderungen, Asphaltgranulat, Rejuvenatoren, Erstprüfungen und Nachweise.",
+          "administrationImpact": "Beschaffung, Bauüberwachung und Rechnungsprüfung müssen bei kommunaler Übernahme die neue Ausgabe und bayerischen Ergänzungen berücksichtigen.",
+          "checkpoints": [
+            "Vorgängerbekanntmachung BayMBl. 2020 Nr. 360 abgelöst",
+            "Recyclinganteile und Rejuvenator-Nachweise prüfen",
+            "Erstprüfungsberichte und Leistungsverzeichnisse aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-394/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-394/"
+        },
+        {
+          "title": "Ausgleichsregelung Große Beutegreifer geändert",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 395; Gl.-Nr. 7912.4-U",
+          "published": "2026-09-23",
+          "effective": "2026-10-01",
+          "summary": "Die Anlage mit den Wolfsgebieten im Sinne des Schadensausgleichs wird vollständig neu gefasst.",
+          "administrationImpact": "Umwelt-, Veterinär- und Beratungsstellen müssen für Schadensmeldungen ab 1. Oktober die neue Gebietskulisse und den Ereigniszeitpunkt beachten.",
+          "checkpoints": [
+            "Keine Rückwirkung; neue Anlage ab 01.10.2026",
+            "Ereignisort und Schadensdatum festhalten",
+            "Zuständige Ausgleichsstelle korrekt benennen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-395/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-395/"
+        },
+        {
+          "title": "TL Gestein-StB 04/23 neu eingeführt und ergänzt",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 397; Az. 49-43415-4-3-9",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Aktualisierte bayerische Anhänge und Qualitätsanforderungen für Gesteinskörnungen im Straßenbau ersetzen die Einführungen von 2023 und 2024.",
+          "administrationImpact": "Bei kommunalen Straßenbaumaßnahmen sind empfohlene neue Prüfanforderungen und Anhänge in Ausschreibung, Materialnachweis und Güteüberwachung zu prüfen.",
+          "checkpoints": [
+            "BayMBl. 2023 Nr. 403 und 2024 Nr. 136 abgelöst",
+            "Neue Anhänge E, F und G verwenden",
+            "Prüfzeugnisse und Vertragsverweise aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-397/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-397/"
+        },
+        {
+          "title": "BayProTier 2025/27 neu bekannt gemacht",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 398; Gl.-Nr. 787-L",
+          "published": "2026-09-23",
+          "effective": "2026-09-04 bis 2028-06-30",
+          "summary": "Tierwohlförderung für Schweine und Rinder mit Antragsnachweisen, Bagatellgrenze, Förderhöchstzahlen, Kontrollen, Rückforderung und Aufzeichnungspflichten.",
+          "administrationImpact": "Bewilligungsbehörde ist die Staatliche Führungsakademie. Kommunale Fachstellen können bei Beratung, Tierschutzfeststellungen und Zuständigkeitsverweisen berührt sein.",
+          "checkpoints": [
+            "Rückwirkendes Inkrafttreten 04.09.2026 beachten",
+            "Art. 23 und 44 BayHO sowie Art. 43, 48, 49, 49a BayVwVfG prüfen",
+            "Verpflichtungszeitraum, Mehrfachförderungsverbot und Kontrollnachweise dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-398/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-398/"
+        },
         {
           "title": "Herbstdult 2026: Dauer und Betriebszeiten",
           "kind": "Allgemeinverfügung",
@@ -1103,11 +1327,123 @@
         }
       ],
       "id": "important",
-      "intro": "Neu wichtig: Förderfristen und Rückwirkung bei Bahnhofsmissionen und ESF+, kommunale Integrationsförderung ab 2027 sowie neue technische Regeln im Straßen- und Ingenieurbau.",
+      "intro": "Heute wichtig: Fünf neue Straßenbau-Regelwerke gelten seit 23.09.2026; neue Wolfsgebietskulisse ab 01.10.2026; BayProTier rückwirkend ab 04.09.2026.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "TL Bitumen-StB 25 eingeführt",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 391; Az. 49-43415-4-7-2",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Aktualisierte Anforderungen an Straßenbaubitumen und polymermodifizierte Bitumen ersetzen die bisher eingeführten TL Bitumen-StB 07/13.",
+          "administrationImpact": "Für Bundes-, Staats- und staatlich verwaltete Kreisstraßen verbindlich; Landkreisen, Städten und Gemeinden zur einheitlichen Anwendung empfohlen. Kommunale Vergabe- und Vertragsunterlagen prüfen.",
+          "checkpoints": [
+            "Vorgängerbekanntmachung BayMBl. 2020 Nr. 359 seit 23.09.2026 abgelöst",
+            "Geltungsbereich und kommunale Übernahme dokumentieren",
+            "Material- und Vertragsverweise auf TL Bitumen-StB 25 aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-391/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-391/"
+        },
+        {
+          "title": "ZTV Asphalt-StB 26 Teil 1 – Neubau",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 392; Az. 49-43415-3-3-6",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Neue technische Vertragsbedingungen für Asphaltneubau und Schichten in gleichmäßiger Dicke mit bayerischen Ergänzungen, Nachweisen und Kontrollen.",
+          "administrationImpact": "Bei kommunaler Übernahme müssen Tiefbau und Vergabe Teil 1 sowie gegebenenfalls Teil 2 in Leistungsbeschreibung, Bauvertrag und Qualitätskontrolle berücksichtigen.",
+          "checkpoints": [
+            "Vorgängerbekanntmachung BayMBl. 2020 Nr. 361 abgelöst",
+            "Vertragsbestandteil ausdrücklich einbeziehen",
+            "Verdichtungskontrolle, Thermoscan und Datenübergabe prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-392/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-392/"
+        },
+        {
+          "title": "ZTV Asphalt-StB 26 Teil 2 – Bauen im Bestand",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 393; Az. 49-43415-3-3-9",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Eigenständiges aktuelles Regelwerk für Fräsen, Instandhaltung, Instandsetzung, Erneuerung und Asphaltschichten in ungleichmäßiger Dicke.",
+          "administrationImpact": "Kommunale Erhaltungsmaßnahmen und Ausschreibungen sind auf die neue Zweiteilung und die erforderliche gemeinsame Anwendung mit Teil 1 zu prüfen.",
+          "checkpoints": [
+            "ZTV BEA-StB 09/13 seit 23.09.2026 abgelöst",
+            "Stichtag laufender Vergaben dokumentieren",
+            "Bauüberwachung, Abnahme und Abrechnung anpassen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-393/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-393/"
+        },
+        {
+          "title": "TL Asphalt-StB 26 – Asphaltmischgut",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 394; Az. 49-43415-4-8-3",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Neue Lieferbedingungen für Asphaltmischgut regeln Materialanforderungen, Asphaltgranulat, Rejuvenatoren, Erstprüfungen und Nachweise.",
+          "administrationImpact": "Beschaffung, Bauüberwachung und Rechnungsprüfung müssen bei kommunaler Übernahme die neue Ausgabe und bayerischen Ergänzungen berücksichtigen.",
+          "checkpoints": [
+            "Vorgängerbekanntmachung BayMBl. 2020 Nr. 360 abgelöst",
+            "Recyclinganteile und Rejuvenator-Nachweise prüfen",
+            "Erstprüfungsberichte und Leistungsverzeichnisse aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-394/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-394/"
+        },
+        {
+          "title": "Ausgleichsregelung Große Beutegreifer geändert",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 395; Gl.-Nr. 7912.4-U",
+          "published": "2026-09-23",
+          "effective": "2026-10-01",
+          "summary": "Die Anlage mit den Wolfsgebieten im Sinne des Schadensausgleichs wird vollständig neu gefasst.",
+          "administrationImpact": "Umwelt-, Veterinär- und Beratungsstellen müssen für Schadensmeldungen ab 1. Oktober die neue Gebietskulisse und den Ereigniszeitpunkt beachten.",
+          "checkpoints": [
+            "Keine Rückwirkung; neue Anlage ab 01.10.2026",
+            "Ereignisort und Schadensdatum festhalten",
+            "Zuständige Ausgleichsstelle korrekt benennen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-395/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-395/"
+        },
+        {
+          "title": "TL Gestein-StB 04/23 neu eingeführt und ergänzt",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 397; Az. 49-43415-4-3-9",
+          "published": "2026-09-23",
+          "effective": "2026-09-23",
+          "summary": "Aktualisierte bayerische Anhänge und Qualitätsanforderungen für Gesteinskörnungen im Straßenbau ersetzen die Einführungen von 2023 und 2024.",
+          "administrationImpact": "Bei kommunalen Straßenbaumaßnahmen sind empfohlene neue Prüfanforderungen und Anhänge in Ausschreibung, Materialnachweis und Güteüberwachung zu prüfen.",
+          "checkpoints": [
+            "BayMBl. 2023 Nr. 403 und 2024 Nr. 136 abgelöst",
+            "Neue Anhänge E, F und G verwenden",
+            "Prüfzeugnisse und Vertragsverweise aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-397/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-397/"
+        },
+        {
+          "title": "BayProTier 2025/27 neu bekannt gemacht",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 398; Gl.-Nr. 787-L",
+          "published": "2026-09-23",
+          "effective": "2026-09-04 bis 2028-06-30",
+          "summary": "Tierwohlförderung für Schweine und Rinder mit Antragsnachweisen, Bagatellgrenze, Förderhöchstzahlen, Kontrollen, Rückforderung und Aufzeichnungspflichten.",
+          "administrationImpact": "Bewilligungsbehörde ist die Staatliche Führungsakademie. Kommunale Fachstellen können bei Beratung, Tierschutzfeststellungen und Zuständigkeitsverweisen berührt sein.",
+          "checkpoints": [
+            "Rückwirkendes Inkrafttreten 04.09.2026 beachten",
+            "Art. 23 und 44 BayHO sowie Art. 43, 48, 49, 49a BayVwVfG prüfen",
+            "Verpflichtungszeitraum, Mehrfachförderungsverbot und Kontrollnachweise dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-398/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-398/"
+        },
         {
           "title": "Herbstdult 2026: Dauer und Betriebszeiten",
           "kind": "Allgemeinverfügung",
@@ -1695,9 +2031,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Rechts- und Veröffentlichungsstand 16.09.2026 einschließlich BayMBl. Nr. 371, 372, 375, 376, 377, 379, 380, 381, 382 und 386.",
+      "intro": "Rechts- und Veröffentlichungsstand 23.09.2026 einschließlich BayMBl. Nr. 391 bis 395, 397 und 398.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-09-22T06:00:36+02:00"
+  "updatedAt": "2026-09-23T06:07:47+02:00"
 }
