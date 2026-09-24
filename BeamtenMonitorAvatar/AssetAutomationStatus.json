@@ -3,18 +3,26 @@
   "targetDate": "2026-09-24",
   "targetSet": "Assets 20",
   "theme": "Museumstag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Die vier Museumstag-PNGs sind lokal vollständig validiert. Wegen der bekannten Größenbegrenzung des direkten Binär-Connectors veröffentlicht ein einmaliger GitHub-Actions-Publisher die fünf Dateien atomar und prüft origin/main nach dem Push erneut.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "3c67d81f6813177d46fe4698c017e2fcbadf896b",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 20/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 20/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 20/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 20/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 20/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 20 – Museumstag veröffentlicht. Der einmalige GitHub-Actions-Publisher prüfte alle vier PNGs und acht Sprite-Zellen vor dem atomaren Fünf-Dateien-Commit und nach erneutem Fetch/Reset von origin/main. Die veröffentlichten PNG-Bytes wurden zusätzlich aus main zurückgelesen, bitgenau verglichen und mit Pillow load/verify, exakten Maßen, echter RGBA-Transparenz, Zellrändern ab 26 px, identischer Geh-Bodenlinie und erneut geparstem JSON bestätigt. Der temporäre Publisher wurde entfernt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-09-23T06:00:18+02:00",
-    "targetDate": "2026-09-23",
-    "targetSet": "Assets 19",
-    "theme": "Apothekentag",
-    "committedSha": "7263d6d92a59811fe4fbab7592b8f0999f0f272e"
-  }
+    "runAt": "2026-09-24T06:00:24+02:00",
+    "targetDate": "2026-09-24",
+    "targetSet": "Assets 20",
+    "theme": "Museumstag",
+    "committedSha": "3c67d81f6813177d46fe4698c017e2fcbadf896b"
+  },
+  "verificationWorkflowRunId": 35954524459,
+  "verificationMainSha": "3c67d81f6813177d46fe4698c017e2fcbadf896b"
 }
