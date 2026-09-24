@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Prüfstand 23.09.2026 (Europe/Berlin): BayMBl. bis Nr. 399 vom 23.09.2026, GVBl. bis S. 585 vom 15.09.2026, Bayern.Recht, BVS-Jahrgang 2026/2028, Augsburger Stadtrecht/Ausbildungsinformationen, Augsburger Amtsblatt Nr. 37/38 vom 18.09.2026 und Regierungsamtsblatt Schwaben Nr. 17 vom 08.09.2026 geprüft. Sieben neue verwaltungsrelevante Regelungen eingeordnet; keine BVS-Terminänderung.",
+  "checkedSources": "Prüfstand 24.09.2026 (Europe/Berlin): BayMBl. bis Nr. 399 vom 23.09.2026, GVBl. bis S. 585 vom 15.09.2026, Bayern.Recht, BVS-Jahrgang 2026/2028, Augsburger Stadtrecht/Ausbildungsinformationen, Augsburger Amtsblatt Nr. 37/38 vom 18.09.2026 und Regierungsamtsblatt Schwaben Nr. 17 vom 08.09.2026 geprüft. Keine relevante fachliche Änderung; keine BVS-Terminänderung.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -671,7 +671,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Tagesprüfung 23.09.2026: Sieben neue verwaltungsrelevante BayMBl.-Regelungen wurden amtlich geprüft und eingeordnet.",
+      "intro": "Tagesprüfung 24.09.2026: Keine relevante fachliche Änderung; amtliche Quellen geprüft.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -1327,7 +1327,7 @@
         }
       ],
       "id": "important",
-      "intro": "Heute wichtig: Fünf neue Straßenbau-Regelwerke gelten seit 23.09.2026; neue Wolfsgebietskulisse ab 01.10.2026; BayProTier rückwirkend ab 04.09.2026.",
+      "intro": "Heute wichtig: Keine neue fachliche Änderung. Die am 23.09.2026 veröffentlichten Straßenbau-Regelwerke, die Wolfsgebietskulisse und BayProTier bleiben aktuell.",
       "label": "Was ist wichtig?"
     },
     {
@@ -2031,9 +2031,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Rechts- und Veröffentlichungsstand 23.09.2026 einschließlich BayMBl. Nr. 391 bis 395, 397 und 398.",
+      "intro": "Rechts- und Veröffentlichungsstand 24.09.2026; BayMBl. weiterhin bis Nr. 399 vom 23.09.2026.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-09-23T06:07:47+02:00"
+  "updatedAt": "2026-09-24T06:08:00+02:00"
 }
