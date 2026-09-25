@@ -3,18 +3,26 @@
   "targetDate": "2026-09-25",
   "targetSet": "Assets 21",
   "theme": "Picknicktag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Die vier Picknicktag-PNGs sind vollständig validiert. Wegen der Größenbegrenzung des direkten Binär-Connectors veröffentlicht ein einmaliger GitHub-Actions-Publisher die fünf Dateien atomar und prüft origin/main nach dem Push erneut.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "2791f00590b73370f645f03f1b1b4b1bd7d7ce84",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 21/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 21/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 21/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 21/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 21/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 21 – Picknicktag veröffentlicht. Der einmalige GitHub-Actions-Publisher prüfte alle vier PNGs und acht Sprite-Zellen vor dem atomaren Fünf-Dateien-Commit und nach erneutem Fetch/Reset von origin/main. Die veröffentlichten PNG-Bytes wurden zusätzlich aus main zurückgelesen, bitgenau verglichen und mit Pillow load/verify, exakten Maßen, echter RGBA-Transparenz, Zellrändern ab 25 px, identischer Geh-Bodenlinie und erneut geparstem JSON bestätigt. Der temporäre Publisher wurde entfernt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-09-24T06:00:24+02:00",
-    "targetDate": "2026-09-24",
-    "targetSet": "Assets 20",
-    "theme": "Museumstag",
-    "committedSha": "3c67d81f6813177d46fe4698c017e2fcbadf896b"
-  }
+    "runAt": "2026-09-25T06:00:23+02:00",
+    "targetDate": "2026-09-25",
+    "targetSet": "Assets 21",
+    "theme": "Picknicktag",
+    "committedSha": "2791f00590b73370f645f03f1b1b4b1bd7d7ce84"
+  },
+  "verificationWorkflowRunId": 36093383778,
+  "verificationMainSha": "2791f00590b73370f645f03f1b1b4b1bd7d7ce84"
 }
