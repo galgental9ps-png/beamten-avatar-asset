@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Assets 21 – Picknicktag wird erzeugt. Spezifikation, fortlaufende Nummerierung und Themenliste wurden geprüft; Bildgenerierung und technische Validierung laufen.",
+  "failedStep": "sprite-cell-bounds",
+  "message": "Die vier Picknicktag-Motive sind materialisiert. PNG-Integrität, echte Transparenz, acht Sprite-Zellen, Sicherheitsränder und Geh-Bodenlinie werden jetzt technisch und visuell geprüft.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-24T06:00:24+02:00",
     "targetDate": "2026-09-24",
