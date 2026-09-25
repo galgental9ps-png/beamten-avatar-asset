@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "sprite-cell-bounds",
-  "message": "Die vier Picknicktag-Motive sind materialisiert. PNG-Integrität, echte Transparenz, acht Sprite-Zellen, Sicherheitsränder und Geh-Bodenlinie werden jetzt technisch und visuell geprüft.",
+  "failedStep": "github-publish-fallback",
+  "message": "Die vier Picknicktag-PNGs sind vollständig validiert. Wegen der Größenbegrenzung des direkten Binär-Connectors veröffentlicht ein einmaliger GitHub-Actions-Publisher die fünf Dateien atomar und prüft origin/main nach dem Push erneut.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-24T06:00:24+02:00",
     "targetDate": "2026-09-24",
