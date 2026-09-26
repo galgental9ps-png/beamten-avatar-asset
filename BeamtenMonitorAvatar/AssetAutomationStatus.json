@@ -3,18 +3,26 @@
   "targetDate": "2026-09-26",
   "targetSet": "Assets 22",
   "theme": "Schachtag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Die vier Schachtag-PNGs und die Spruchdatei sind lokal vollständig geprüft. Der einmalige GitHub-Actions-Publisher übernimmt nun den atomaren Upload und die verpflichtende Post-Push-Rückprüfung.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "8a373cc42c1b07ef9d14a197e578dca4a249353d",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 22/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 22/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 22/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 22/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 22/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 22 – Schachtag wurde atomar veröffentlicht und post-push verifiziert. Vier PNGs: Pillow load/verify, exakte Maße, RGBA und echte Transparenz bestanden; acht Sprite-Zellen haben mindestens 25 px Rand, beide Gehframes enden auf Bodenlinie 486 und zeigen nach rechts. Spruch-JSON ist gültig. Binärdateien stimmen bytegenau mit den lokal geprüften Dateien überein; der temporäre Publisher wurde entfernt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-09-25T06:00:23+02:00",
-    "targetDate": "2026-09-25",
-    "targetSet": "Assets 21",
-    "theme": "Picknicktag",
-    "committedSha": "2791f00590b73370f645f03f1b1b4b1bd7d7ce84"
-  }
+    "runAt": "2026-09-26T06:01:17+02:00",
+    "targetDate": "2026-09-26",
+    "targetSet": "Assets 22",
+    "theme": "Schachtag",
+    "committedSha": "8a373cc42c1b07ef9d14a197e578dca4a249353d"
+  },
+  "verificationWorkflowRunId": 36217245691,
+  "verificationMainSha": "8a373cc42c1b07ef9d14a197e578dca4a249353d"
 }
