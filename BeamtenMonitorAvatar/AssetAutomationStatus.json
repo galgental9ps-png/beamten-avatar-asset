@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Assets 22 – Schachtag wird erzeugt. Spezifikation, fortlaufende Nummerierung und Themenauswahl wurden geprüft; Bildgenerierung und technische Validierung laufen.",
+  "failedStep": "sprite-cell-bounds",
+  "message": "Die vier Schachtag-Motive sind materialisiert. PNG-Integrität, echte Transparenz, acht Sprite-Zellen, Sicherheitsränder und Geh-Bodenlinie werden jetzt technisch und visuell geprüft.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-25T06:00:23+02:00",
     "targetDate": "2026-09-25",
