@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "sprite-cell-bounds",
-  "message": "Die vier Schachtag-Motive sind materialisiert. PNG-Integrität, echte Transparenz, acht Sprite-Zellen, Sicherheitsränder und Geh-Bodenlinie werden jetzt technisch und visuell geprüft.",
+  "failedStep": "github-publish-fallback",
+  "message": "Die vier Schachtag-PNGs und die Spruchdatei sind lokal vollständig geprüft. Der einmalige GitHub-Actions-Publisher übernimmt nun den atomaren Upload und die verpflichtende Post-Push-Rückprüfung.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-25T06:00:23+02:00",
     "targetDate": "2026-09-25",
