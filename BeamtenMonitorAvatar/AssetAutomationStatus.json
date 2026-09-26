@@ -1,28 +1,20 @@
 {
-  "runAt": "2026-09-25T06:00:23+02:00",
-  "targetDate": "2026-09-25",
-  "targetSet": "Assets 21",
-  "theme": "Picknicktag",
-  "success": true,
-  "state": "completed",
-  "committedSha": "2791f00590b73370f645f03f1b1b4b1bd7d7ce84",
-  "buildSuccess": true,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 21/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 21/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 21/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 21/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 21/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 21 – Picknicktag veröffentlicht. Der einmalige GitHub-Actions-Publisher prüfte alle vier PNGs und acht Sprite-Zellen vor dem atomaren Fünf-Dateien-Commit und nach erneutem Fetch/Reset von origin/main. Die veröffentlichten PNG-Bytes wurden zusätzlich aus main zurückgelesen, bitgenau verglichen und mit Pillow load/verify, exakten Maßen, echter RGBA-Transparenz, Zellrändern ab 25 px, identischer Geh-Bodenlinie und erneut geparstem JSON bestätigt. Der temporäre Publisher wurde entfernt.",
+  "runAt": "2026-09-26T06:01:17+02:00",
+  "targetDate": "2026-09-26",
+  "targetSet": "Assets 22",
+  "theme": "Schachtag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
+  "buildSuccess": null,
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "Assets 22 – Schachtag wird erzeugt. Spezifikation, fortlaufende Nummerierung und Themenauswahl wurden geprüft; Bildgenerierung und technische Validierung laufen.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-25T06:00:23+02:00",
     "targetDate": "2026-09-25",
     "targetSet": "Assets 21",
     "theme": "Picknicktag",
     "committedSha": "2791f00590b73370f645f03f1b1b4b1bd7d7ce84"
-  },
-  "verificationWorkflowRunId": 36093383778,
-  "verificationMainSha": "2791f00590b73370f645f03f1b1b4b1bd7d7ce84"
+  }
 }
