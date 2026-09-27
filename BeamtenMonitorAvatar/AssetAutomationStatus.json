@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Assets 23 – Sternwartentag wird neu erzeugt. Originalreferenzen und das letzte funktionierende Set werden vor der Bildgenerierung visuell geprüft.",
+  "failedStep": "github-publish-fallback",
+  "message": "Vier Sternwartentag-PNGs und die Spruchdatei sind lokal vollständig geprüft. Der einmalige GitHub-Actions-Publisher übernimmt nun den atomaren Upload sowie die verpflichtende Post-Push-Rückprüfung.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-26T06:01:17+02:00",
     "targetDate": "2026-09-26",
