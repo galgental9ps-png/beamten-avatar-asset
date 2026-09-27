@@ -1,28 +1,20 @@
 {
-  "runAt": "2026-09-26T06:01:17+02:00",
-  "targetDate": "2026-09-26",
-  "targetSet": "Assets 22",
-  "theme": "Schachtag",
-  "success": true,
-  "state": "completed",
-  "committedSha": "8a373cc42c1b07ef9d14a197e578dca4a249353d",
-  "buildSuccess": true,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 22/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 22/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 22/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 22/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 22/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 22 – Schachtag wurde atomar veröffentlicht und post-push verifiziert. Vier PNGs: Pillow load/verify, exakte Maße, RGBA und echte Transparenz bestanden; acht Sprite-Zellen haben mindestens 25 px Rand, beide Gehframes enden auf Bodenlinie 486 und zeigen nach rechts. Spruch-JSON ist gültig. Binärdateien stimmen bytegenau mit den lokal geprüften Dateien überein; der temporäre Publisher wurde entfernt.",
+  "runAt": "2026-09-27T06:01:47+02:00",
+  "targetDate": "2026-09-27",
+  "targetSet": "Assets 23",
+  "theme": "Sternwartentag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
+  "buildSuccess": null,
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "Assets 23 – Sternwartentag wird neu erzeugt. Originalreferenzen und das letzte funktionierende Set werden vor der Bildgenerierung visuell geprüft.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-26T06:01:17+02:00",
     "targetDate": "2026-09-26",
     "targetSet": "Assets 22",
     "theme": "Schachtag",
     "committedSha": "8a373cc42c1b07ef9d14a197e578dca4a249353d"
-  },
-  "verificationWorkflowRunId": 36217245691,
-  "verificationMainSha": "8a373cc42c1b07ef9d14a197e578dca4a249353d"
+  }
 }
