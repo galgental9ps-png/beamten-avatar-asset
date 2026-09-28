@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Assets 24 – Werkstatttag wird neu erzeugt. Originalreferenzen und das letzte funktionierende Set werden vor der Bildgenerierung visuell geprüft.",
+  "failedStep": "github-publish-fallback",
+  "message": "Die vier PNGs und die Spruchdatei für Assets 24 – Werkstatttag wurden lokal vollständig geprüft. Da der GitHub-Connector die großen Binärdateien nicht zuverlässig direkt übertragen kann, wird jetzt der einmalige GitHub-Actions-Publisher für atomaren Upload und Post-Push-Verifikation verwendet.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-27T06:01:47+02:00",
     "targetDate": "2026-09-27",
