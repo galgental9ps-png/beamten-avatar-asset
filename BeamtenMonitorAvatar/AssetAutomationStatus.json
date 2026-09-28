@@ -3,18 +3,26 @@
   "targetDate": "2026-09-28",
   "targetSet": "Assets 24",
   "theme": "Werkstatttag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Die vier PNGs und die Spruchdatei für Assets 24 – Werkstatttag wurden lokal vollständig geprüft. Da der GitHub-Connector die großen Binärdateien nicht zuverlässig direkt übertragen kann, wird jetzt der einmalige GitHub-Actions-Publisher für atomaren Upload und Post-Push-Verifikation verwendet.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "35fb2ec055fb1271bda646d7d7b53e98bd6e0603",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 24/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 24/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 24/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 24/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 24/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 24 – Werkstatttag wurde atomar veröffentlicht und post-push verifiziert. Vier PNGs: Pillow load/verify, exakte Maße, RGBA und echte Transparenz bestanden; acht Sprite-Zellen haben mindestens 25 px Rand, beide Gehframes enden auf Bodenlinie 486 und zeigen nach rechts. Spruch-JSON ist gültig. Binärdateien stimmen bytegenau mit den lokal geprüften Dateien überein; der temporäre Publisher wurde entfernt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-09-27T06:01:47+02:00",
-    "targetDate": "2026-09-27",
-    "targetSet": "Assets 23",
-    "theme": "Sternwartentag",
-    "committedSha": "1acdd708d6e09555cd91ba1cbb20d941f5c75f83"
-  }
+    "runAt": "2026-09-28T06:01:01+02:00",
+    "targetDate": "2026-09-28",
+    "targetSet": "Assets 24",
+    "theme": "Werkstatttag",
+    "committedSha": "35fb2ec055fb1271bda646d7d7b53e98bd6e0603"
+  },
+  "verificationWorkflowRunId": 36376548422,
+  "verificationMainSha": "35fb2ec055fb1271bda646d7d7b53e98bd6e0603"
 }
