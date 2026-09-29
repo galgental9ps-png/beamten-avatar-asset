@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Assets 25 – Imkertag wurde gestartet. Spezifikation und Nummerierung sind geprüft; als Nächstes werden Originalreferenzen und letztes erfolgreiches Set visuell geprüft und danach vier neue Bildassets erzeugt.",
+  "failedStep": "github-publish-fallback",
+  "message": "Die vier PNGs und die Spruchdatei für Assets 25 – Imkertag wurden lokal vollständig geprüft. Da der GitHub-Connector die großen Binärdateien nicht zuverlässig direkt übertragen kann, wird jetzt der einmalige GitHub-Actions-Publisher für atomaren Upload und Post-Push-Verifikation verwendet.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-28T06:01:01+02:00",
     "targetDate": "2026-09-28",
