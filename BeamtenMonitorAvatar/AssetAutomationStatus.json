@@ -3,18 +3,26 @@
   "targetDate": "2026-09-30",
   "targetSet": "Assets 26",
   "theme": "Malertag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Alle vier neuen PNGs und die Spruchdatei wurden lokal vollständig geprüft: exakte Maße, RGBA mit echter Transparenz, PNG load()/verify(), acht getrennte Sprite-Zellen mit mindestens 25 px Sicherheitsrand sowie zwei unterschiedliche Gehphasen nach rechts auf identischer Bodenlinie. Wegen der unzuverlässigen lokalen Binär-Bridge wird jetzt der einmalige GitHub-Actions-Publisher mit Post-Push-Prüfung verwendet.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "6e88519ee91b9376f6f5df4588ef830884baf072",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 26/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 26/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 26/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 26/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 26/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 26 – Malertag wurde veröffentlicht und von origin/main rückverifiziert: vier PNGs bestanden Signatur, Pillow load()/verify(), exakte Maße, RGBA und echte Transparenz; Actions enthält acht getrennte Zellen mit mindestens 25 px Sicherheitsrand, zwei unterschiedliche Gehphasen nach rechts und identischer Bodenlinie 486. Die fünf Dateien stimmen bytegenau mit den lokal geprüften Dateien überein, die JSON-Datei wurde erneut geparst und der einmalige Publisher entfernt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-09-29T05:59:32+02:00",
-    "targetDate": "2026-09-29",
-    "targetSet": "Assets 25",
-    "theme": "Imkertag",
-    "committedSha": "477eb28c1018e179f5d6d5122cf2608e6b815a14"
-  }
+    "runAt": "2026-09-30T05:58:44+02:00",
+    "targetDate": "2026-09-30",
+    "targetSet": "Assets 26",
+    "theme": "Malertag",
+    "committedSha": "6e88519ee91b9376f6f5df4588ef830884baf072"
+  },
+  "verificationWorkflowRunId": 36667850009,
+  "verificationMainSha": "6e88519ee91b9376f6f5df4588ef830884baf072"
 }
