@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Assets 26 – Malertag wurde gestartet. Spezifikation und Nummerierung sind geprüft; als Nächstes werden Originalreferenzen und letztes erfolgreiches Set visuell geprüft und danach vier neue Bildassets erzeugt.",
+  "failedStep": "github-publish-fallback",
+  "message": "Alle vier neuen PNGs und die Spruchdatei wurden lokal vollständig geprüft: exakte Maße, RGBA mit echter Transparenz, PNG load()/verify(), acht getrennte Sprite-Zellen mit mindestens 25 px Sicherheitsrand sowie zwei unterschiedliche Gehphasen nach rechts auf identischer Bodenlinie. Wegen der unzuverlässigen lokalen Binär-Bridge wird jetzt der einmalige GitHub-Actions-Publisher mit Post-Push-Prüfung verwendet.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-29T05:59:32+02:00",
     "targetDate": "2026-09-29",
