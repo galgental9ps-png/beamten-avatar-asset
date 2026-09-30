@@ -1,28 +1,20 @@
 {
-  "runAt": "2026-09-29T05:59:32+02:00",
-  "targetDate": "2026-09-29",
-  "targetSet": "Assets 25",
-  "theme": "Imkertag",
-  "success": true,
-  "state": "completed",
-  "committedSha": "477eb28c1018e179f5d6d5122cf2608e6b815a14",
-  "buildSuccess": true,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 25/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 25/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 25/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 25/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 25/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 25 – Imkertag wurde atomar veröffentlicht und post-push verifiziert. Vier PNGs: Pillow load/verify, exakte Maße, RGBA und echte Transparenz bestanden; acht Sprite-Zellen haben mindestens 25 px Rand, beide Gehframes enden auf Bodenlinie 486 und zeigen nach rechts. Die Gehphasen sind deutlich verschieden. Spruch-JSON ist gültig. Binärdateien stimmen bytegenau mit den lokal geprüften Dateien überein; der temporäre Publisher wurde entfernt.",
+  "runAt": "2026-09-30T05:58:44+02:00",
+  "targetDate": "2026-09-30",
+  "targetSet": "Assets 26",
+  "theme": "Malertag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
+  "buildSuccess": null,
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "Assets 26 – Malertag wurde gestartet. Spezifikation und Nummerierung sind geprüft; als Nächstes werden Originalreferenzen und letztes erfolgreiches Set visuell geprüft und danach vier neue Bildassets erzeugt.",
   "lastSuccessfulRun": {
     "runAt": "2026-09-29T05:59:32+02:00",
     "targetDate": "2026-09-29",
     "targetSet": "Assets 25",
     "theme": "Imkertag",
     "committedSha": "477eb28c1018e179f5d6d5122cf2608e6b815a14"
-  },
-  "verificationWorkflowRunId": 36520547831,
-  "verificationMainSha": "477eb28c1018e179f5d6d5122cf2608e6b815a14"
+  }
 }
