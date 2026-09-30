@@ -1,9 +1,169 @@
 {
-  "checkedSources": "Tagesprüfung 29.09.2026: BayMBl. bis Nr. 399 vom 23.09.2026, GVBl. bis S. 585 vom 15.09.2026, Augsburger Amtsblatt Nr. 37/38 vom 18.09.2026, Regierungsamtsblatt Schwaben Nr. 17 vom 08.09.2026 sowie BVS-Jahrgangsunterlagen 2026/2028, Bayern.Recht, Stadtrecht und Ausbildungsinformationen geprüft; keine relevante fachliche Änderung.",
+  "checkedSources": "Tagesprüfung 30.09.2026: GVBl. Nr. 18 bis S. 606 und BayMBl. bis Nr. 413 ausgewertet; zehn verwaltungsrelevante Änderungen eingeordnet. Augsburger Amtsblatt Nr. 37/38, Regierungsamtsblatt Schwaben Nr. 17, BVS-Jahrgangsunterlagen 2026/2028, Bayern.Recht, Stadtrecht und Ausbildungsinformationen ebenfalls geprüft.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "FinÖPNVV 2026: Mittel für Augsburg neu festgesetzt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 600; BayRS 922-3-B",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Die Anlage mit Hilfen für den Ausbildungsverkehr und ÖPNV-Zuweisungen für 2026 wurde vollständig neu gefasst. Für die Stadt Augsburg sind 4.202.127,80 Euro Ausbildungsverkehrshilfen und 6.394.070,86 Euro ÖPNV-Zuweisungen ausgewiesen.",
+          "administrationImpact": "Kämmerei, Mobilitätsverwaltung und Aufgabenträger müssen Haushaltsansätze, Mittelabruf und Verwendungsnachweise mit den amtlichen Beträgen abgleichen.",
+          "checkpoints": [
+            "Anlage 2026 in die Haushalts- und Förderakten übernehmen",
+            "Mittelabruf und Verwendungsnachweise abgleichen",
+            "Inkrafttreten am 1. Oktober 2026 beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-600/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-600/"
+        },
+        {
+          "title": "Gerichtliche Zuständigkeiten: Amtsgericht Augsburg als Hinterlegungsstelle",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 591; BayRS 300-3-1-J",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Das Amtsgericht Augsburg wird Hinterlegungsstelle für die Landgerichtsbezirke Augsburg, Ingolstadt, Kempten und Memmingen. Am 30. September 2026 bereits anhängige Verfahren bleiben beim bisherigen Gericht.",
+          "administrationImpact": "Kommunale Stellen müssen Verweise, Zuständigkeitsauskünfte und Rechtsbehelfsinformationen für neue Hinterlegungssachen ab dem Stichtag anpassen.",
+          "checkpoints": [
+            "Neufälle ab 1. Oktober dem Amtsgericht Augsburg zuordnen",
+            "Übergangsregel für Altverfahren beachten",
+            "Interne Verzeichnisse und Vorlagen aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-591/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-591/"
+        },
+        {
+          "title": "Asylgerichtliche Zuständigkeiten neu gebündelt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 606; BayRS 2015-1-1-V",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Das Verwaltungsgericht Augsburg wird bayernweit für Asylstreitigkeiten zu Gambia, Jemen und Nigeria zuständig. Türkei- und Syrienfälle aus dem Augsburger Bezirk werden grundsätzlich dem VG Ansbach zugewiesen; für Syrien gelten bis 31. März 2027 zusätzliche Übergangszuweisungen.",
+          "administrationImpact": "Ausländer- und Rechtsämter müssen vor Rechtsbehelfsbelehrungen Herkunftsstaat, Eingangsdatum und neue Gerichtszuweisung prüfen.",
+          "checkpoints": [
+            "Herkunftsstaat vor Zuständigkeitsangabe prüfen",
+            "Übergangsregel für Syrien bis 31. März 2027 beachten",
+            "Rechtsbehelfsbelehrungen aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-606/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-606/"
+        },
+        {
+          "title": "Neue amtliche Muster im Vollzug der Bestattungsverordnung",
+          "kind": "Amtliche Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 408",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Neue Muster gelten für Todesbescheinigung, vorläufige Todesbescheinigung, Obduktionsschein, Bescheinigung über die zweite Leichenschau und Leichenpass.",
+          "administrationImpact": "Gesundheits- und Friedhofsverwaltung müssen Papierbestände, digitale Vorlagen und Hinweise an Bestattungsunternehmen beziehungsweise medizinische Stellen umstellen.",
+          "checkpoints": [
+            "Neue Formulare ab 1. Oktober verwenden",
+            "Alte Vorlagen aus produktiven Beständen entfernen",
+            "Schnittstellen und Merkblätter aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-408/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-408/"
+        },
+        {
+          "title": "Digitale Bauantragsverordnung um Dinkelsbühl ergänzt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 590; BayRS 2132-1-24-B",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Stadt Dinkelsbühl wird in § 1 Abs. 3 DBauV aufgenommen; die nachfolgenden Nummern werden verschoben.",
+          "administrationImpact": "Für Augsburg entsteht kein unmittelbarer Zuständigkeitswechsel. Die Erweiterung ist als Fortentwicklung des digitalen Bauantragsverfahrens zu dokumentieren.",
+          "checkpoints": [
+            "Keine lokale Zuständigkeitsänderung für Augsburg",
+            "Nummerierungsverschiebung bei Zitaten beachten",
+            "Konsolidierte Fassung nach Inkrafttreten prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-590/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-590/"
+        },
+        {
+          "title": "Elektronischer Vergütungsantrag in Betreuungssachen",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 596; BayRS 404-2-J",
+          "published": "2026-09-30",
+          "effective": "2027-01-01",
+          "summary": "Für Vergütungsanträge in Betreuungssachen wird ein amtliches elektronisches Formular eingeführt. Abrechnungszeiträume, die ganz oder teilweise vor 2026 liegen, sind ausgenommen.",
+          "administrationImpact": "Betreuungsstellen und Beratungsangebote sollten auf die elektronische Einreichung und die Ausnahme für ältere Abrechnungszeiträume hinweisen.",
+          "checkpoints": [
+            "Digitale Formularpflicht ab 1. Januar 2027 vormerken",
+            "Ausnahme für Altzeiträume prüfen",
+            "Informationsmaterial aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-596/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-596/"
+        },
+        {
+          "title": "Kurtaxen in bayerischen Staatsbädern neu festgesetzt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 593; BayRS 2013-4-1-F",
+          "published": "2026-09-30",
+          "effective": "2027-01-01",
+          "summary": "Die Anlage 2 der Kurtax-Verordnung wird mit neuen, nach Gästegruppen gestaffelten Sätzen für bayerische Staatsbäder neu gefasst.",
+          "administrationImpact": "Keine unmittelbare Zuständigkeit der Stadt Augsburg; relevant für landesweite Gebühren- und Kostenrechtskenntnisse.",
+          "checkpoints": [
+            "Neue Sätze ab 1. Januar 2027 beachten",
+            "Keine lokale Umsetzung in Augsburg erforderlich",
+            "Konsolidierte Fassung zum Stichtag prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-593/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-593/"
+        },
+        {
+          "title": "Justiz-Prüfervergütungen erhöht",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 595; BayRS 2032-2-42-J",
+          "published": "2026-09-30",
+          "effective": "2027-01-01",
+          "summary": "Vergütungssätze für Professorinnen und Professoren bei Prüfungen im Bereich der Justizverwaltung steigen unter anderem von 13,84 Euro auf 20 Euro sowie von 83,04 Euro auf 120 Euro.",
+          "administrationImpact": "Keine unmittelbare Wirkung auf die kommunale QE2-Ausbildung; als besoldungs- und prüfungsrechtliche Änderung zu kennen.",
+          "checkpoints": [
+            "Neue Sätze ab 1. Januar 2027 beachten",
+            "Nicht auf BVS-Leistungsnachweise übertragen",
+            "Konsolidierte Fassung prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-595/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-595/"
+        },
+        {
+          "title": "TL AG-StB 26 und TL VBit-StB 22 eingeführt",
+          "kind": "Technische Verwaltungsvorschriften",
+          "reference": "BayMBl. 2026 Nr. 400 und 401",
+          "published": "2026-09-30",
+          "effective": "2026-09-30",
+          "summary": "Neue technische Lieferbedingungen für Asphaltgranulat und für gebrauchsfertige viskositätsveränderte Bitumen werden für staatliche Straßenbauvorhaben eingeführt.",
+          "administrationImpact": "Bei kommunalen Straßenbauvergaben ist zu prüfen, ob die Regelwerke vertraglich übernommen werden und Leistungsverzeichnisse anzupassen sind.",
+          "checkpoints": [
+            "Vergabeunterlagen auf aktuelle Regelwerksbezüge prüfen",
+            "Technische Dienststellen informieren",
+            "Übergangs- und Vertragsbezug projektbezogen dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-400/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-401/"
+        },
+        {
+          "title": "365-Euro-Ticket MVV bis 30. Juni 2028 abgesichert",
+          "kind": "Allgemeinverfügung",
+          "reference": "BayMBl. 2026 Nr. 413",
+          "published": "2026-09-30",
+          "effective": "2023-12-10",
+          "summary": "Das 365-Euro-Ticket MVV bleibt als Höchsttarif festgesetzt; Ausgleichsleistungen erfassen Verkäufe bis 1. Juli 2027 und die Verfügung tritt am 30. Juni 2028 außer Kraft.",
+          "administrationImpact": "Augsburg liegt außerhalb des MVV und ist nicht unmittelbar betroffen. Die Regelung ist für ÖPNV-Finanzierungsmodelle und Ausbildungsverkehr vergleichend relevant.",
+          "checkpoints": [
+            "Keine unmittelbare lokale Umsetzung",
+            "MVV-Geltungsbereich nicht mit AVV verwechseln",
+            "Befristung bis 30. Juni 2028 beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-413/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-413/"
+        },
         {
           "title": "TL Bitumen-StB 25 eingeführt",
           "kind": "Verwaltungsvorschrift",
@@ -671,11 +831,107 @@
         }
       ],
       "id": "latest",
-      "intro": "Tagesprüfung 29.09.2026: Keine relevante fachliche Änderung; amtliche Quellen geprüft.",
+      "intro": "Tagesprüfung 30.09.2026: Zehn neue verwaltungsrelevante Veröffentlichungen aus GVBl. Nr. 18 und BayMBl. eingeordnet.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "FinÖPNVV 2026: Mittel für Augsburg neu festgesetzt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 600; BayRS 922-3-B",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Die Anlage mit Hilfen für den Ausbildungsverkehr und ÖPNV-Zuweisungen für 2026 wurde vollständig neu gefasst. Für die Stadt Augsburg sind 4.202.127,80 Euro Ausbildungsverkehrshilfen und 6.394.070,86 Euro ÖPNV-Zuweisungen ausgewiesen.",
+          "administrationImpact": "Kämmerei, Mobilitätsverwaltung und Aufgabenträger müssen Haushaltsansätze, Mittelabruf und Verwendungsnachweise mit den amtlichen Beträgen abgleichen.",
+          "checkpoints": [
+            "Anlage 2026 in die Haushalts- und Förderakten übernehmen",
+            "Mittelabruf und Verwendungsnachweise abgleichen",
+            "Inkrafttreten am 1. Oktober 2026 beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-600/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-600/"
+        },
+        {
+          "title": "Gerichtliche Zuständigkeiten: Amtsgericht Augsburg als Hinterlegungsstelle",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 591; BayRS 300-3-1-J",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Das Amtsgericht Augsburg wird Hinterlegungsstelle für die Landgerichtsbezirke Augsburg, Ingolstadt, Kempten und Memmingen. Am 30. September 2026 bereits anhängige Verfahren bleiben beim bisherigen Gericht.",
+          "administrationImpact": "Kommunale Stellen müssen Verweise, Zuständigkeitsauskünfte und Rechtsbehelfsinformationen für neue Hinterlegungssachen ab dem Stichtag anpassen.",
+          "checkpoints": [
+            "Neufälle ab 1. Oktober dem Amtsgericht Augsburg zuordnen",
+            "Übergangsregel für Altverfahren beachten",
+            "Interne Verzeichnisse und Vorlagen aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-591/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-591/"
+        },
+        {
+          "title": "Asylgerichtliche Zuständigkeiten neu gebündelt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 606; BayRS 2015-1-1-V",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Das Verwaltungsgericht Augsburg wird bayernweit für Asylstreitigkeiten zu Gambia, Jemen und Nigeria zuständig. Türkei- und Syrienfälle aus dem Augsburger Bezirk werden grundsätzlich dem VG Ansbach zugewiesen; für Syrien gelten bis 31. März 2027 zusätzliche Übergangszuweisungen.",
+          "administrationImpact": "Ausländer- und Rechtsämter müssen vor Rechtsbehelfsbelehrungen Herkunftsstaat, Eingangsdatum und neue Gerichtszuweisung prüfen.",
+          "checkpoints": [
+            "Herkunftsstaat vor Zuständigkeitsangabe prüfen",
+            "Übergangsregel für Syrien bis 31. März 2027 beachten",
+            "Rechtsbehelfsbelehrungen aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-606/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-606/"
+        },
+        {
+          "title": "Neue amtliche Muster im Vollzug der Bestattungsverordnung",
+          "kind": "Amtliche Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 408",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Neue Muster gelten für Todesbescheinigung, vorläufige Todesbescheinigung, Obduktionsschein, Bescheinigung über die zweite Leichenschau und Leichenpass.",
+          "administrationImpact": "Gesundheits- und Friedhofsverwaltung müssen Papierbestände, digitale Vorlagen und Hinweise an Bestattungsunternehmen beziehungsweise medizinische Stellen umstellen.",
+          "checkpoints": [
+            "Neue Formulare ab 1. Oktober verwenden",
+            "Alte Vorlagen aus produktiven Beständen entfernen",
+            "Schnittstellen und Merkblätter aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-408/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-408/"
+        },
+        {
+          "title": "Digitale Bauantragsverordnung um Dinkelsbühl ergänzt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 590; BayRS 2132-1-24-B",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Stadt Dinkelsbühl wird in § 1 Abs. 3 DBauV aufgenommen; die nachfolgenden Nummern werden verschoben.",
+          "administrationImpact": "Für Augsburg entsteht kein unmittelbarer Zuständigkeitswechsel. Die Erweiterung ist als Fortentwicklung des digitalen Bauantragsverfahrens zu dokumentieren.",
+          "checkpoints": [
+            "Keine lokale Zuständigkeitsänderung für Augsburg",
+            "Nummerierungsverschiebung bei Zitaten beachten",
+            "Konsolidierte Fassung nach Inkrafttreten prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-590/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-590/"
+        },
+        {
+          "title": "Elektronischer Vergütungsantrag in Betreuungssachen",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 596; BayRS 404-2-J",
+          "published": "2026-09-30",
+          "effective": "2027-01-01",
+          "summary": "Für Vergütungsanträge in Betreuungssachen wird ein amtliches elektronisches Formular eingeführt. Abrechnungszeiträume, die ganz oder teilweise vor 2026 liegen, sind ausgenommen.",
+          "administrationImpact": "Betreuungsstellen und Beratungsangebote sollten auf die elektronische Einreichung und die Ausnahme für ältere Abrechnungszeiträume hinweisen.",
+          "checkpoints": [
+            "Digitale Formularpflicht ab 1. Januar 2027 vormerken",
+            "Ausnahme für Altzeiträume prüfen",
+            "Informationsmaterial aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-596/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-596/"
+        },
         {
           "title": "TL Bitumen-StB 25 eingeführt",
           "kind": "Verwaltungsvorschrift",
@@ -1327,11 +1583,171 @@
         }
       ],
       "id": "important",
-      "intro": "Heute wichtig: Keine neue fachliche Änderung. Die am 23.09.2026 veröffentlichten Straßenbau-Regelwerke, die Wolfsgebietskulisse und BayProTier bleiben aktuell.",
+      "intro": "Heute besonders wichtig für Augsburg: ÖPNV-Zuweisungen 2026, neue Hinterlegungs- und Asylgerichtszuständigkeiten sowie neue Bestattungsformulare.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "FinÖPNVV 2026: Mittel für Augsburg neu festgesetzt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 600; BayRS 922-3-B",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Die Anlage mit Hilfen für den Ausbildungsverkehr und ÖPNV-Zuweisungen für 2026 wurde vollständig neu gefasst. Für die Stadt Augsburg sind 4.202.127,80 Euro Ausbildungsverkehrshilfen und 6.394.070,86 Euro ÖPNV-Zuweisungen ausgewiesen.",
+          "administrationImpact": "Kämmerei, Mobilitätsverwaltung und Aufgabenträger müssen Haushaltsansätze, Mittelabruf und Verwendungsnachweise mit den amtlichen Beträgen abgleichen.",
+          "checkpoints": [
+            "Anlage 2026 in die Haushalts- und Förderakten übernehmen",
+            "Mittelabruf und Verwendungsnachweise abgleichen",
+            "Inkrafttreten am 1. Oktober 2026 beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-600/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-600/"
+        },
+        {
+          "title": "Gerichtliche Zuständigkeiten: Amtsgericht Augsburg als Hinterlegungsstelle",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 591; BayRS 300-3-1-J",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Das Amtsgericht Augsburg wird Hinterlegungsstelle für die Landgerichtsbezirke Augsburg, Ingolstadt, Kempten und Memmingen. Am 30. September 2026 bereits anhängige Verfahren bleiben beim bisherigen Gericht.",
+          "administrationImpact": "Kommunale Stellen müssen Verweise, Zuständigkeitsauskünfte und Rechtsbehelfsinformationen für neue Hinterlegungssachen ab dem Stichtag anpassen.",
+          "checkpoints": [
+            "Neufälle ab 1. Oktober dem Amtsgericht Augsburg zuordnen",
+            "Übergangsregel für Altverfahren beachten",
+            "Interne Verzeichnisse und Vorlagen aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-591/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-591/"
+        },
+        {
+          "title": "Asylgerichtliche Zuständigkeiten neu gebündelt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 606; BayRS 2015-1-1-V",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Das Verwaltungsgericht Augsburg wird bayernweit für Asylstreitigkeiten zu Gambia, Jemen und Nigeria zuständig. Türkei- und Syrienfälle aus dem Augsburger Bezirk werden grundsätzlich dem VG Ansbach zugewiesen; für Syrien gelten bis 31. März 2027 zusätzliche Übergangszuweisungen.",
+          "administrationImpact": "Ausländer- und Rechtsämter müssen vor Rechtsbehelfsbelehrungen Herkunftsstaat, Eingangsdatum und neue Gerichtszuweisung prüfen.",
+          "checkpoints": [
+            "Herkunftsstaat vor Zuständigkeitsangabe prüfen",
+            "Übergangsregel für Syrien bis 31. März 2027 beachten",
+            "Rechtsbehelfsbelehrungen aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-606/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-606/"
+        },
+        {
+          "title": "Neue amtliche Muster im Vollzug der Bestattungsverordnung",
+          "kind": "Amtliche Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 408",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Neue Muster gelten für Todesbescheinigung, vorläufige Todesbescheinigung, Obduktionsschein, Bescheinigung über die zweite Leichenschau und Leichenpass.",
+          "administrationImpact": "Gesundheits- und Friedhofsverwaltung müssen Papierbestände, digitale Vorlagen und Hinweise an Bestattungsunternehmen beziehungsweise medizinische Stellen umstellen.",
+          "checkpoints": [
+            "Neue Formulare ab 1. Oktober verwenden",
+            "Alte Vorlagen aus produktiven Beständen entfernen",
+            "Schnittstellen und Merkblätter aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-408/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-408/"
+        },
+        {
+          "title": "Digitale Bauantragsverordnung um Dinkelsbühl ergänzt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 590; BayRS 2132-1-24-B",
+          "published": "2026-09-30",
+          "effective": "2026-10-01",
+          "summary": "Stadt Dinkelsbühl wird in § 1 Abs. 3 DBauV aufgenommen; die nachfolgenden Nummern werden verschoben.",
+          "administrationImpact": "Für Augsburg entsteht kein unmittelbarer Zuständigkeitswechsel. Die Erweiterung ist als Fortentwicklung des digitalen Bauantragsverfahrens zu dokumentieren.",
+          "checkpoints": [
+            "Keine lokale Zuständigkeitsänderung für Augsburg",
+            "Nummerierungsverschiebung bei Zitaten beachten",
+            "Konsolidierte Fassung nach Inkrafttreten prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-590/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-590/"
+        },
+        {
+          "title": "Elektronischer Vergütungsantrag in Betreuungssachen",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 596; BayRS 404-2-J",
+          "published": "2026-09-30",
+          "effective": "2027-01-01",
+          "summary": "Für Vergütungsanträge in Betreuungssachen wird ein amtliches elektronisches Formular eingeführt. Abrechnungszeiträume, die ganz oder teilweise vor 2026 liegen, sind ausgenommen.",
+          "administrationImpact": "Betreuungsstellen und Beratungsangebote sollten auf die elektronische Einreichung und die Ausnahme für ältere Abrechnungszeiträume hinweisen.",
+          "checkpoints": [
+            "Digitale Formularpflicht ab 1. Januar 2027 vormerken",
+            "Ausnahme für Altzeiträume prüfen",
+            "Informationsmaterial aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-596/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-596/"
+        },
+        {
+          "title": "Kurtaxen in bayerischen Staatsbädern neu festgesetzt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 593; BayRS 2013-4-1-F",
+          "published": "2026-09-30",
+          "effective": "2027-01-01",
+          "summary": "Die Anlage 2 der Kurtax-Verordnung wird mit neuen, nach Gästegruppen gestaffelten Sätzen für bayerische Staatsbäder neu gefasst.",
+          "administrationImpact": "Keine unmittelbare Zuständigkeit der Stadt Augsburg; relevant für landesweite Gebühren- und Kostenrechtskenntnisse.",
+          "checkpoints": [
+            "Neue Sätze ab 1. Januar 2027 beachten",
+            "Keine lokale Umsetzung in Augsburg erforderlich",
+            "Konsolidierte Fassung zum Stichtag prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-593/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-593/"
+        },
+        {
+          "title": "Justiz-Prüfervergütungen erhöht",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 595; BayRS 2032-2-42-J",
+          "published": "2026-09-30",
+          "effective": "2027-01-01",
+          "summary": "Vergütungssätze für Professorinnen und Professoren bei Prüfungen im Bereich der Justizverwaltung steigen unter anderem von 13,84 Euro auf 20 Euro sowie von 83,04 Euro auf 120 Euro.",
+          "administrationImpact": "Keine unmittelbare Wirkung auf die kommunale QE2-Ausbildung; als besoldungs- und prüfungsrechtliche Änderung zu kennen.",
+          "checkpoints": [
+            "Neue Sätze ab 1. Januar 2027 beachten",
+            "Nicht auf BVS-Leistungsnachweise übertragen",
+            "Konsolidierte Fassung prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-595/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/gvbl/2026-595/"
+        },
+        {
+          "title": "TL AG-StB 26 und TL VBit-StB 22 eingeführt",
+          "kind": "Technische Verwaltungsvorschriften",
+          "reference": "BayMBl. 2026 Nr. 400 und 401",
+          "published": "2026-09-30",
+          "effective": "2026-09-30",
+          "summary": "Neue technische Lieferbedingungen für Asphaltgranulat und für gebrauchsfertige viskositätsveränderte Bitumen werden für staatliche Straßenbauvorhaben eingeführt.",
+          "administrationImpact": "Bei kommunalen Straßenbauvergaben ist zu prüfen, ob die Regelwerke vertraglich übernommen werden und Leistungsverzeichnisse anzupassen sind.",
+          "checkpoints": [
+            "Vergabeunterlagen auf aktuelle Regelwerksbezüge prüfen",
+            "Technische Dienststellen informieren",
+            "Übergangs- und Vertragsbezug projektbezogen dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-400/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-401/"
+        },
+        {
+          "title": "365-Euro-Ticket MVV bis 30. Juni 2028 abgesichert",
+          "kind": "Allgemeinverfügung",
+          "reference": "BayMBl. 2026 Nr. 413",
+          "published": "2026-09-30",
+          "effective": "2023-12-10",
+          "summary": "Das 365-Euro-Ticket MVV bleibt als Höchsttarif festgesetzt; Ausgleichsleistungen erfassen Verkäufe bis 1. Juli 2027 und die Verfügung tritt am 30. Juni 2028 außer Kraft.",
+          "administrationImpact": "Augsburg liegt außerhalb des MVV und ist nicht unmittelbar betroffen. Die Regelung ist für ÖPNV-Finanzierungsmodelle und Ausbildungsverkehr vergleichend relevant.",
+          "checkpoints": [
+            "Keine unmittelbare lokale Umsetzung",
+            "MVV-Geltungsbereich nicht mit AVV verwechseln",
+            "Befristung bis 30. Juni 2028 beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-413/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-413/"
+        },
         {
           "title": "TL Bitumen-StB 25 eingeführt",
           "kind": "Verwaltungsvorschrift",
@@ -2031,9 +2447,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Rechts- und Veröffentlichungsstand 29.09.2026; BayMBl. weiterhin bis Nr. 399 vom 23.09.2026.",
+      "intro": "Rechts- und Veröffentlichungsstand 30.09.2026; GVBl. bis S. 606 und BayMBl. bis Nr. 413.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-09-29T06:00:40+02:00"
+  "updatedAt": "2026-09-30T06:03:19+02:00"
 }
