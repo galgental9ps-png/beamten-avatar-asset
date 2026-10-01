@@ -1,9 +1,60 @@
 {
-  "checkedSources": "Tagesprüfung 30.09.2026: GVBl. Nr. 18 bis S. 606 und BayMBl. bis Nr. 413 ausgewertet; zehn verwaltungsrelevante Änderungen eingeordnet. Augsburger Amtsblatt Nr. 37/38, Regierungsamtsblatt Schwaben Nr. 17, BVS-Jahrgangsunterlagen 2026/2028, Bayern.Recht, Stadtrecht und Ausbildungsinformationen ebenfalls geprüft.",
+  "checkedSources": "Tagesprüfung 01.10.2026: Regierungsamtsblatt Schwaben Nr. 18 vom 29.09.2026 neu ausgewertet; drei relevante Veröffentlichungen nachgetragen. BayMBl. weiterhin bis Nr. 413, GVBl. bis S. 606, Augsburger Amtsblatt Nr. 37/38 sowie BVS-Jahrgangsunterlagen 2026/2028, Bayern.Recht, Stadtrecht und Ausbildungsinformationen geprüft; keine neue Veröffentlichung vom 01.10.2026.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Straßenbahnbetriebshof Augsburg: Gleiserweiterung UVP-pflichtig",
+          "kind": "Amtliche Bekanntmachung / UVPG-Feststellung",
+          "reference": "RABl. Schw. 2026 S. 216; Gz. 23-3623.2-29/2",
+          "published": "2026-09-29",
+          "effective": "Feststellung vom 29.09.2026; im weiteren Genehmigungsverfahren zu beachten",
+          "summary": "Die Regierung von Schwaben stellte nach § 7 Abs. 1 UVPG fest, dass die geplante Gleiserweiterung am Straßenbahnbetriebshof Baumgartnerstraße einer Umweltverträglichkeitsprüfung bedarf. Ohne detaillierte Altlastenuntersuchung können erhebliche Auswirkungen auf Wasserwirtschaft und Abfallrecht nicht ausgeschlossen werden.",
+          "administrationImpact": "Die Stadtwerke Augsburg Verkehrs GmbH muss vertiefte Umwelt- und Altlastenunterlagen vorlegen; Genehmigungsverfahren und Projektterminplan sind darauf auszurichten.",
+          "checkpoints": [
+            "Altlastenuntersuchung vervollständigen",
+            "Wasser- und Abfallbehörden frühzeitig einbinden",
+            "UVP-Unterlagen und Projektterminplan synchronisieren",
+            "Feststellung ist nicht selbständig anfechtbar"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_18_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-im-internet.de/uvpg/"
+        },
+        {
+          "title": "ZRF Augsburg: elektronische Einberufung und neue Sitzungsregeln",
+          "kind": "Satzungsänderung / kommunale Zusammenarbeit",
+          "reference": "RABl. Schw. 2026 S. 218; Änderung der Verbandssatzung",
+          "published": "2026-09-29",
+          "effective": "2026-09-30",
+          "summary": "§ 8 Abs. 1 erlaubt nun die schriftliche oder elektronische Einberufung der Verbandsversammlung. Einladung und Beratungsgegenstände müssen grundsätzlich eine Woche vorher zugehen, in dringenden Fällen mindestens 24 Stunden vorher; § 8 Abs. 3 ordnet den einzuladenden Beteiligtenkreis neu.",
+          "administrationImpact": "Zweckverband, städtische Vertretungen und Berufsfeuerwehr Augsburg müssen elektronische Zustellung, Fristen und Verteiler verlässlich dokumentieren.",
+          "checkpoints": [
+            "Einladungsvorlagen auf elektronische Form umstellen",
+            "Wochenfrist und 24-Stunden-Ausnahme im Kalender abbilden",
+            "Verteiler nach § 8 Abs. 3 prüfen",
+            "Zustellnachweise revisionssicher führen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_18_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKommZG"
+        },
+        {
+          "title": "Kehrbezirk Kempten 4 aufgelöst und neu verteilt",
+          "kind": "Allgemeinverfügung / Schornsteinfegerrecht",
+          "reference": "RABl. Schw. 2026 S. 214; Gz. RvS-SG21-2206.2-1/232/3",
+          "published": "2026-09-29",
+          "effective": "2026-09-30",
+          "summary": "Der Kehrbezirk Kempten 4 wird wegen sinkender Zahl überwachungspflichtiger Feuerstätten infolge des Fernwärmeausbaus aufgelöst und auf Kempten 1, Kempten 2, Kempten 5, Buchenberg und Waltenhofen verteilt.",
+          "administrationImpact": "Keine unmittelbare Zuständigkeitsänderung für Augsburg; die Verfügung ist ein praxisnahes Beispiel für Organisations-Allgemeinverfügung, öffentliche Bekanntgabe und Neuzuschnitt von Vollzugsbezirken.",
+          "checkpoints": [
+            "Bekanntgabefiktion und Wirksamkeit unterscheiden",
+            "Kartenanlage als Teil der Verfügung behandeln",
+            "Klagefrist zum VG Augsburg dokumentieren",
+            "Ermessensbegründung zu Betriebs- und Brandsicherheit prüfen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_18_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-im-internet.de/schfhwg/"
+        },
         {
           "title": "FinÖPNVV 2026: Mittel für Augsburg neu festgesetzt",
           "kind": "Rechtsverordnung",
@@ -831,11 +882,45 @@
         }
       ],
       "id": "latest",
-      "intro": "Tagesprüfung 30.09.2026: Zehn neue verwaltungsrelevante Veröffentlichungen aus GVBl. Nr. 18 und BayMBl. eingeordnet.",
+      "intro": "Tagesprüfung 01.10.2026: Drei relevante Veröffentlichungen aus dem Regierungsamtsblatt Schwaben Nr. 18 nachgetragen; keine neue Veröffentlichung vom 01.10.2026.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Straßenbahnbetriebshof Augsburg: Gleiserweiterung UVP-pflichtig",
+          "kind": "Amtliche Bekanntmachung / UVPG-Feststellung",
+          "reference": "RABl. Schw. 2026 S. 216; Gz. 23-3623.2-29/2",
+          "published": "2026-09-29",
+          "effective": "Feststellung vom 29.09.2026; im weiteren Genehmigungsverfahren zu beachten",
+          "summary": "Die Regierung von Schwaben stellte nach § 7 Abs. 1 UVPG fest, dass die geplante Gleiserweiterung am Straßenbahnbetriebshof Baumgartnerstraße einer Umweltverträglichkeitsprüfung bedarf. Ohne detaillierte Altlastenuntersuchung können erhebliche Auswirkungen auf Wasserwirtschaft und Abfallrecht nicht ausgeschlossen werden.",
+          "administrationImpact": "Die Stadtwerke Augsburg Verkehrs GmbH muss vertiefte Umwelt- und Altlastenunterlagen vorlegen; Genehmigungsverfahren und Projektterminplan sind darauf auszurichten.",
+          "checkpoints": [
+            "Altlastenuntersuchung vervollständigen",
+            "Wasser- und Abfallbehörden frühzeitig einbinden",
+            "UVP-Unterlagen und Projektterminplan synchronisieren",
+            "Feststellung ist nicht selbständig anfechtbar"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_18_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-im-internet.de/uvpg/"
+        },
+        {
+          "title": "ZRF Augsburg: elektronische Einberufung und neue Sitzungsregeln",
+          "kind": "Satzungsänderung / kommunale Zusammenarbeit",
+          "reference": "RABl. Schw. 2026 S. 218; Änderung der Verbandssatzung",
+          "published": "2026-09-29",
+          "effective": "2026-09-30",
+          "summary": "§ 8 Abs. 1 erlaubt nun die schriftliche oder elektronische Einberufung der Verbandsversammlung. Einladung und Beratungsgegenstände müssen grundsätzlich eine Woche vorher zugehen, in dringenden Fällen mindestens 24 Stunden vorher; § 8 Abs. 3 ordnet den einzuladenden Beteiligtenkreis neu.",
+          "administrationImpact": "Zweckverband, städtische Vertretungen und Berufsfeuerwehr Augsburg müssen elektronische Zustellung, Fristen und Verteiler verlässlich dokumentieren.",
+          "checkpoints": [
+            "Einladungsvorlagen auf elektronische Form umstellen",
+            "Wochenfrist und 24-Stunden-Ausnahme im Kalender abbilden",
+            "Verteiler nach § 8 Abs. 3 prüfen",
+            "Zustellnachweise revisionssicher führen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_18_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKommZG"
+        },
         {
           "title": "FinÖPNVV 2026: Mittel für Augsburg neu festgesetzt",
           "kind": "Rechtsverordnung",
@@ -1583,11 +1668,62 @@
         }
       ],
       "id": "important",
-      "intro": "Heute besonders wichtig für Augsburg: ÖPNV-Zuweisungen 2026, neue Hinterlegungs- und Asylgerichtszuständigkeiten sowie neue Bestattungsformulare.",
+      "intro": "Heute besonders wichtig für Augsburg: UVP-Pflicht am Straßenbahnbetriebshof und neue digitale Einladungs- und Fristenregeln im Rettungsdienst-/Feuerwehralarmierungszweckverband.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Straßenbahnbetriebshof Augsburg: Gleiserweiterung UVP-pflichtig",
+          "kind": "Amtliche Bekanntmachung / UVPG-Feststellung",
+          "reference": "RABl. Schw. 2026 S. 216; Gz. 23-3623.2-29/2",
+          "published": "2026-09-29",
+          "effective": "Feststellung vom 29.09.2026; im weiteren Genehmigungsverfahren zu beachten",
+          "summary": "Die Regierung von Schwaben stellte nach § 7 Abs. 1 UVPG fest, dass die geplante Gleiserweiterung am Straßenbahnbetriebshof Baumgartnerstraße einer Umweltverträglichkeitsprüfung bedarf. Ohne detaillierte Altlastenuntersuchung können erhebliche Auswirkungen auf Wasserwirtschaft und Abfallrecht nicht ausgeschlossen werden.",
+          "administrationImpact": "Die Stadtwerke Augsburg Verkehrs GmbH muss vertiefte Umwelt- und Altlastenunterlagen vorlegen; Genehmigungsverfahren und Projektterminplan sind darauf auszurichten.",
+          "checkpoints": [
+            "Altlastenuntersuchung vervollständigen",
+            "Wasser- und Abfallbehörden frühzeitig einbinden",
+            "UVP-Unterlagen und Projektterminplan synchronisieren",
+            "Feststellung ist nicht selbständig anfechtbar"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_18_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-im-internet.de/uvpg/"
+        },
+        {
+          "title": "ZRF Augsburg: elektronische Einberufung und neue Sitzungsregeln",
+          "kind": "Satzungsänderung / kommunale Zusammenarbeit",
+          "reference": "RABl. Schw. 2026 S. 218; Änderung der Verbandssatzung",
+          "published": "2026-09-29",
+          "effective": "2026-09-30",
+          "summary": "§ 8 Abs. 1 erlaubt nun die schriftliche oder elektronische Einberufung der Verbandsversammlung. Einladung und Beratungsgegenstände müssen grundsätzlich eine Woche vorher zugehen, in dringenden Fällen mindestens 24 Stunden vorher; § 8 Abs. 3 ordnet den einzuladenden Beteiligtenkreis neu.",
+          "administrationImpact": "Zweckverband, städtische Vertretungen und Berufsfeuerwehr Augsburg müssen elektronische Zustellung, Fristen und Verteiler verlässlich dokumentieren.",
+          "checkpoints": [
+            "Einladungsvorlagen auf elektronische Form umstellen",
+            "Wochenfrist und 24-Stunden-Ausnahme im Kalender abbilden",
+            "Verteiler nach § 8 Abs. 3 prüfen",
+            "Zustellnachweise revisionssicher führen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_18_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKommZG"
+        },
+        {
+          "title": "Kehrbezirk Kempten 4 aufgelöst und neu verteilt",
+          "kind": "Allgemeinverfügung / Schornsteinfegerrecht",
+          "reference": "RABl. Schw. 2026 S. 214; Gz. RvS-SG21-2206.2-1/232/3",
+          "published": "2026-09-29",
+          "effective": "2026-09-30",
+          "summary": "Der Kehrbezirk Kempten 4 wird wegen sinkender Zahl überwachungspflichtiger Feuerstätten infolge des Fernwärmeausbaus aufgelöst und auf Kempten 1, Kempten 2, Kempten 5, Buchenberg und Waltenhofen verteilt.",
+          "administrationImpact": "Keine unmittelbare Zuständigkeitsänderung für Augsburg; die Verfügung ist ein praxisnahes Beispiel für Organisations-Allgemeinverfügung, öffentliche Bekanntgabe und Neuzuschnitt von Vollzugsbezirken.",
+          "checkpoints": [
+            "Bekanntgabefiktion und Wirksamkeit unterscheiden",
+            "Kartenanlage als Teil der Verfügung behandeln",
+            "Klagefrist zum VG Augsburg dokumentieren",
+            "Ermessensbegründung zu Betriebs- und Brandsicherheit prüfen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_18_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-im-internet.de/schfhwg/"
+        },
         {
           "title": "FinÖPNVV 2026: Mittel für Augsburg neu festgesetzt",
           "kind": "Rechtsverordnung",
@@ -2447,9 +2583,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Rechts- und Veröffentlichungsstand 30.09.2026; GVBl. bis S. 606 und BayMBl. bis Nr. 413.",
+      "intro": "Rechts- und Veröffentlichungsstand 01.10.2026; BayMBl. bis Nr. 413, GVBl. bis S. 606, RABl. Schwaben bis Nr. 18.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-09-30T06:03:19+02:00"
+  "updatedAt": "2026-10-01T06:00:00+02:00"
 }
