@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Assets 28 – Leuchtturmtag: Referenzen und Spezifikation werden geprüft; anschließend werden vier neue transparente PNGs erzeugt und vor der Veröffentlichung technisch validiert.",
+  "failedStep": "github-upload",
+  "message": "Assets 28 – Leuchtturmtag: vier PNGs lokal mit Pillow load()/verify(), exakten Maßen, RGBA und echter Transparenz validiert; Actions enthält acht getrennte Posen mit mindestens 25 px Zellrand und gemeinsamer Geh-Bodenlinie 486. Atomarer Git-Data-Upload wird vorbereitet.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-01T06:00:34+02:00",
     "targetDate": "2026-10-01",
