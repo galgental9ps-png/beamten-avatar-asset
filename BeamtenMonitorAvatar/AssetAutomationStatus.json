@@ -1,28 +1,20 @@
 {
-  "runAt": "2026-10-01T06:00:34+02:00",
-  "targetDate": "2026-10-01",
-  "targetSet": "Assets 27",
-  "theme": "Eisenbahntag",
-  "success": true,
-  "state": "completed",
-  "committedSha": "475d5e3ba74d9ca7c23fc1b146d473aa4af0ea3c",
-  "buildSuccess": true,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 27/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 27/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 27/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 27/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 27/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 27 – Eisenbahntag wurde veröffentlicht und von origin/main rückverifiziert: vier PNGs bestanden Signatur, Pillow load()/verify(), exakte Maße, RGBA und echte Transparenz; Actions enthält acht getrennte Zellen mit mindestens 25 px Sicherheitsrand, zwei unterschiedliche Gehphasen nach rechts und identischer Bodenlinie 486. Die fünf Dateien stimmen bytegenau mit den lokal geprüften Dateien überein, die JSON-Datei wurde erneut geparst und der einmalige Publisher entfernt.",
+  "runAt": "2026-10-02T06:04:27+02:00",
+  "targetDate": "2026-10-02",
+  "targetSet": "Assets 28",
+  "theme": "Leuchtturmtag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
+  "buildSuccess": null,
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "Assets 28 – Leuchtturmtag: Referenzen und Spezifikation werden geprüft; anschließend werden vier neue transparente PNGs erzeugt und vor der Veröffentlichung technisch validiert.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-01T06:00:34+02:00",
     "targetDate": "2026-10-01",
     "targetSet": "Assets 27",
     "theme": "Eisenbahntag",
     "committedSha": "475d5e3ba74d9ca7c23fc1b146d473aa4af0ea3c"
-  },
-  "verificationWorkflowRunId": 36813929740,
-  "verificationMainSha": "475d5e3ba74d9ca7c23fc1b146d473aa4af0ea3c"
+  }
 }
