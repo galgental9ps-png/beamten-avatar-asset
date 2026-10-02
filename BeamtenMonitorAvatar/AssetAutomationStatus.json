@@ -3,18 +3,25 @@
   "targetDate": "2026-10-02",
   "targetSet": "Assets 28",
   "theme": "Leuchtturmtag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
+  "success": true,
+  "state": "completed",
+  "committedSha": "4fdc5db13708e14880cf1406413d0f5e27341cd3",
   "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-upload",
-  "message": "Assets 28 – Leuchtturmtag: vier PNGs lokal mit Pillow load()/verify(), exakten Maßen, RGBA und echter Transparenz validiert; Actions enthält acht getrennte Posen mit mindestens 25 px Zellrand und gemeinsamer Geh-Bodenlinie 486. Atomarer Git-Data-Upload wird vorbereitet.",
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 28/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 28/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 28/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 28/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 28/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 28 – Leuchtturmtag wurde atomar veröffentlicht und von main rückverifiziert: vier PNGs bestanden Signatur, Pillow load()/verify(), exakte Maße, RGBA und echte Transparenz; Actions enthält acht getrennte Zellen mit mindestens 25 px Sicherheitsrand, zwei unterschiedliche Gehphasen nach rechts und identischer Bodenlinie 486. Blob-SHAs und SHA-256-Prüfsummen stimmen mit den lokal geprüften Dateien überein; die JSON-Datei wurde erneut geparst. Für den Asset-Commit ist kein Build-Workflow konfiguriert.",
   "lastSuccessfulRun": {
-    "runAt": "2026-10-01T06:00:34+02:00",
-    "targetDate": "2026-10-01",
-    "targetSet": "Assets 27",
-    "theme": "Eisenbahntag",
-    "committedSha": "475d5e3ba74d9ca7c23fc1b146d473aa4af0ea3c"
-  }
+    "runAt": "2026-10-02T06:04:27+02:00",
+    "targetDate": "2026-10-02",
+    "targetSet": "Assets 28",
+    "theme": "Leuchtturmtag",
+    "committedSha": "4fdc5db13708e14880cf1406413d0f5e27341cd3"
+  },
+  "verificationMainSha": "4fdc5db13708e14880cf1406413d0f5e27341cd3"
 }
