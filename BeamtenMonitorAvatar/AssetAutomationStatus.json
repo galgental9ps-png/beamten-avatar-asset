@@ -3,18 +3,26 @@
   "targetDate": "2026-10-02",
   "targetSet": "Assets 28",
   "theme": "Leuchtturmtag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Der direkte Git-Data-Binärtransfer hat alle vier PNG-Uploads bei 786444 Bytes abgeschnitten; die Rückprüfung hat den Fehler erkannt. Assets 28 wird jetzt über einen einmaligen GitHub-Actions-Publisher aus vollständigen Base64-Textsegmenten atomar korrigiert und nach dem Push erneut geprüft.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "643e95dca9704e64e0dc8200807bcb13c179d2a6",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 28/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 28/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 28/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 28/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 28/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 28 – Leuchtturmtag wurde nach erkanntem Base64-Truncation-Fehler über den GitHub-Actions-Fallback vollständig veröffentlicht und von origin/main rückverifiziert: vier PNGs bestanden SHA-256, Signatur, Pillow load()/verify(), exakte Maße, RGBA und echte Transparenz; Actions enthält acht getrennte Zellen mit mindestens 25 px Sicherheitsrand, zwei unterschiedliche Gehphasen nach rechts und identischer Bodenlinie 486. Die JSON-Datei wurde erneut geparst. Der einmalige Publisher wurde entfernt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-10-01T06:00:34+02:00",
-    "targetDate": "2026-10-01",
-    "targetSet": "Assets 27",
-    "theme": "Eisenbahntag",
-    "committedSha": "475d5e3ba74d9ca7c23fc1b146d473aa4af0ea3c"
-  }
+    "runAt": "2026-10-02T06:04:27+02:00",
+    "targetDate": "2026-10-02",
+    "targetSet": "Assets 28",
+    "theme": "Leuchtturmtag",
+    "committedSha": "643e95dca9704e64e0dc8200807bcb13c179d2a6"
+  },
+  "verificationWorkflowRunId": 36963953893,
+  "verificationMainSha": "643e95dca9704e64e0dc8200807bcb13c179d2a6"
 }
