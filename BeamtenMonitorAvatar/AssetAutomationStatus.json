@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Assets 29 – Kanutag: Spezifikation und Referenzbilder werden geprüft; anschließend werden vier neue transparente PNGs erzeugt und vor der Veröffentlichung technisch validiert.",
+  "failedStep": "github-publish-fallback",
+  "message": "Assets 29 – Kanutag: Vier PNGs und die Spruchdatei sind lokal vollständig geprüft. Wegen der bekannten Größenbegrenzung der direkten Binärbrücke wird das Set nun über einen einmaligen GitHub-Actions-Publisher atomar veröffentlicht und danach von origin/main erneut validiert.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-02T06:04:27+02:00",
     "targetDate": "2026-10-02",
