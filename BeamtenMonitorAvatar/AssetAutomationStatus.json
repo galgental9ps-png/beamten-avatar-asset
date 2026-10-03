@@ -3,18 +3,26 @@
   "targetDate": "2026-10-03",
   "targetSet": "Assets 29",
   "theme": "Kanutag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Assets 29 – Kanutag: Vier PNGs und die Spruchdatei sind lokal vollständig geprüft. Wegen der bekannten Größenbegrenzung der direkten Binärbrücke wird das Set nun über einen einmaligen GitHub-Actions-Publisher atomar veröffentlicht und danach von origin/main erneut validiert.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "71553addab881112532399018d22ecf9b1f4b368",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 29/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 29/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 29/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 29/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 29/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 29 – Kanutag wurde atomar veröffentlicht. GitHub Actions und eine zusätzliche Prüfung des bereinigten main-Stands bestätigten PNG-Signaturen, vollständiges load()/verify(), exakte Maße, RGBA mit echten transparenten Pixeln, unveränderte SHA-256-Werte, acht Sprite-Zellen mit mindestens 25 px Rand, gemeinsame Geh-Bodenlinie 486 und gültiges JSON. Der einmalige Publisher wurde entfernt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-10-02T06:04:27+02:00",
-    "targetDate": "2026-10-02",
-    "targetSet": "Assets 28",
-    "theme": "Leuchtturmtag",
-    "committedSha": "643e95dca9704e64e0dc8200807bcb13c179d2a6"
-  }
+    "runAt": "2026-10-03T05:57:21+02:00",
+    "targetDate": "2026-10-03",
+    "targetSet": "Assets 29",
+    "theme": "Kanutag",
+    "committedSha": "71553addab881112532399018d22ecf9b1f4b368"
+  },
+  "verificationWorkflowRunId": 37095624210,
+  "verificationMainSha": "71553addab881112532399018d22ecf9b1f4b368"
 }
