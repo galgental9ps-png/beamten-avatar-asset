@@ -1,9 +1,58 @@
 {
-  "checkedSources": "Tagesprüfung 02.10.2026: Keine relevante fachliche Änderung; amtliche Primärquellen geprüft. BayMBl. weiterhin bis Nr. 413, GVBl. bis S. 606, Augsburger Amtsblatt Nr. 37/38, Regierungsamtsblatt Schwaben Nr. 18 sowie BVS-Jahrgangsunterlagen 2026/2028, Bayern.Recht, Stadtrecht und Ausbildungsinformationen unverändert.",
+  "checkedSources": "Tagesprüfung 05.10.2026: Amtliche Primärquellen geprüft. Neu seit dem letzten Lauf ist das Augsburger Amtsblatt Nr. 39/40 vom 02.10.2026; daraus wurden drei verwaltungsrelevante Bekanntmachungen übernommen. BayMBl. weiterhin bis Nr. 413 vom 30.09.2026, GVBl. 2026 Nr. 18 bis S. 606 vom 30.09.2026, Regierungsamtsblatt Schwaben bis Nr. 18 vom 29.09.2026. BVS-Jahrgangsunterlagen 2026/2028 und Bayern.Recht ohne neue unmittelbar ausbildungsrelevante Änderung.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Christkindlesmarkt 2026: Betriebszeiten amtlich festgesetzt",
+          "kind": "Allgemeinverfügung",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 39/40 vom 02.10.2026, S. 270; § 3 Abs. 2 und 4 Dult- und Christkindlesmarktsatzung",
+          "published": "02.10.2026",
+          "effective": "03.10.2026",
+          "summary": "Der Augsburger Christkindlesmarkt findet vom 23.11. bis 24.12.2026 statt. Die Stadt hat die täglichen Betriebszeiten verbindlich festgesetzt; die Allgemeinverfügung tritt am Tag nach ihrer Bekanntmachung in Kraft.",
+          "administrationImpact": "Marktverwaltung und betroffene Marktteilnehmer müssen die festgesetzten Betriebszeiten beachten. Für die Ausbildung ist die Veröffentlichung ein anschauliches Beispiel für Allgemeinverfügung, Bekanntgabe, Inkrafttreten und verwaltungsgerichtlichen Rechtsschutz.",
+          "checkpoints": [
+            "Veröffentlichung am 02.10.2026 und Inkrafttreten am 03.10.2026 unterscheiden",
+            "Betriebszeiten und Veranstaltungszeitraum bei Vollzug und Auskünften verwenden",
+            "Rechtsschutz: Klage zum VG Augsburg; kein Widerspruchsverfahren vorgesehen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-39-40_vom-02-10-2026_.pdf",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Augsburg: Bürgerversammlungen am 14.10. und 10.11.2026",
+          "kind": "Amtliche Bekanntmachung / Kommunalrecht",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 39/40 vom 02.10.2026, S. 272–273; Art. 18 Abs. 3 GO",
+          "published": "02.10.2026",
+          "effective": "Termine: 14.10.2026 (Gesamtstadt) und 10.11.2026 (Göggingen)",
+          "summary": "Die Stadt Augsburg hat die Bürgerversammlung für die Gesamtstadt am 14.10.2026 und für Göggingen am 10.11.2026 bekannt gemacht. Anliegen können vorab per E-Mail mitgeteilt werden; eine Antragstellung setzt persönliche Anwesenheit voraus.",
+          "administrationImpact": "Hauptamt und beteiligte Dienststellen müssen die kommunalrechtliche Bürgerbeteiligung organisatorisch unterstützen. Für die QE2 ist besonders der ausdrückliche Hinweis auf Art. 18 Abs. 3 GO prüfungsrelevant.",
+          "checkpoints": [
+            "Gesamtstädtischen Termin 14.10.2026 beachten",
+            "Gögginger Termin 10.11.2026 beachten",
+            "Für Anträge persönliche Anwesenheit erforderlich",
+            "Art. 18 Abs. 3 GO: grundsätzlich Wortrecht für Gemeindeangehörige; Ausnahmen durch Beschluss der Bürgerversammlung"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-39-40_vom-02-10-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayGO-18"
+        },
+        {
+          "title": "Hallstraße: Teilabschnitt wird zum Geh- und Radweg abgestuft",
+          "kind": "Straßenrechtliche Abstufungsverfügung",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 39/40 vom 02.10.2026, S. 273–274; Art. 7 Abs. 1 BayStrWG",
+          "published": "02.10.2026",
+          "effective": "07.11.2026",
+          "summary": "Ein Teilabschnitt der Ortsstraße Hallstraße im Bereich des Holbein-Gymnasiums wird aus überwiegenden Gründen des öffentlichen Wohls zum Geh- und Radweg abgestuft.",
+          "administrationImpact": "Mobilitäts- und Tiefbauverwaltung muss die neue straßenrechtliche Einstufung ab dem Wirksamkeitstag berücksichtigen. Der Vorgang eignet sich als Praxisbeispiel für Widmung/Umstufung, Bekanntgabe und Rechtsschutz im Straßenrecht.",
+          "checkpoints": [
+            "Wirksamkeit erst ab 07.11.2026 beachten",
+            "Rechtsgrundlage Art. 7 Abs. 1 BayStrWG zuordnen",
+            "Einmonatsfrist für Klage nach Bekanntgabe beachten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-39-40_vom-02-10-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayStrWG-7"
+        },
         {
           "title": "Straßenbahnbetriebshof Augsburg: Gleiserweiterung UVP-pflichtig",
           "kind": "Amtliche Bekanntmachung / UVPG-Feststellung",
@@ -882,11 +931,60 @@
         }
       ],
       "id": "latest",
-      "intro": "Tagesprüfung 02.10.2026: Keine relevante fachliche Änderung; amtliche Primärquellen geprüft.",
+      "intro": "Tagesprüfung 05.10.2026: Drei neue verwaltungsrelevante Bekanntmachungen aus dem Augsburger Amtsblatt Nr. 39/40 wurden aufgenommen.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Christkindlesmarkt 2026: Betriebszeiten amtlich festgesetzt",
+          "kind": "Allgemeinverfügung",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 39/40 vom 02.10.2026, S. 270; § 3 Abs. 2 und 4 Dult- und Christkindlesmarktsatzung",
+          "published": "02.10.2026",
+          "effective": "03.10.2026",
+          "summary": "Der Augsburger Christkindlesmarkt findet vom 23.11. bis 24.12.2026 statt. Die Stadt hat die täglichen Betriebszeiten verbindlich festgesetzt; die Allgemeinverfügung tritt am Tag nach ihrer Bekanntmachung in Kraft.",
+          "administrationImpact": "Marktverwaltung und betroffene Marktteilnehmer müssen die festgesetzten Betriebszeiten beachten. Für die Ausbildung ist die Veröffentlichung ein anschauliches Beispiel für Allgemeinverfügung, Bekanntgabe, Inkrafttreten und verwaltungsgerichtlichen Rechtsschutz.",
+          "checkpoints": [
+            "Veröffentlichung am 02.10.2026 und Inkrafttreten am 03.10.2026 unterscheiden",
+            "Betriebszeiten und Veranstaltungszeitraum bei Vollzug und Auskünften verwenden",
+            "Rechtsschutz: Klage zum VG Augsburg; kein Widerspruchsverfahren vorgesehen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-39-40_vom-02-10-2026_.pdf",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Augsburg: Bürgerversammlungen am 14.10. und 10.11.2026",
+          "kind": "Amtliche Bekanntmachung / Kommunalrecht",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 39/40 vom 02.10.2026, S. 272–273; Art. 18 Abs. 3 GO",
+          "published": "02.10.2026",
+          "effective": "Termine: 14.10.2026 (Gesamtstadt) und 10.11.2026 (Göggingen)",
+          "summary": "Die Stadt Augsburg hat die Bürgerversammlung für die Gesamtstadt am 14.10.2026 und für Göggingen am 10.11.2026 bekannt gemacht. Anliegen können vorab per E-Mail mitgeteilt werden; eine Antragstellung setzt persönliche Anwesenheit voraus.",
+          "administrationImpact": "Hauptamt und beteiligte Dienststellen müssen die kommunalrechtliche Bürgerbeteiligung organisatorisch unterstützen. Für die QE2 ist besonders der ausdrückliche Hinweis auf Art. 18 Abs. 3 GO prüfungsrelevant.",
+          "checkpoints": [
+            "Gesamtstädtischen Termin 14.10.2026 beachten",
+            "Gögginger Termin 10.11.2026 beachten",
+            "Für Anträge persönliche Anwesenheit erforderlich",
+            "Art. 18 Abs. 3 GO: grundsätzlich Wortrecht für Gemeindeangehörige; Ausnahmen durch Beschluss der Bürgerversammlung"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-39-40_vom-02-10-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayGO-18"
+        },
+        {
+          "title": "Hallstraße: Teilabschnitt wird zum Geh- und Radweg abgestuft",
+          "kind": "Straßenrechtliche Abstufungsverfügung",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 39/40 vom 02.10.2026, S. 273–274; Art. 7 Abs. 1 BayStrWG",
+          "published": "02.10.2026",
+          "effective": "07.11.2026",
+          "summary": "Ein Teilabschnitt der Ortsstraße Hallstraße im Bereich des Holbein-Gymnasiums wird aus überwiegenden Gründen des öffentlichen Wohls zum Geh- und Radweg abgestuft.",
+          "administrationImpact": "Mobilitäts- und Tiefbauverwaltung muss die neue straßenrechtliche Einstufung ab dem Wirksamkeitstag berücksichtigen. Der Vorgang eignet sich als Praxisbeispiel für Widmung/Umstufung, Bekanntgabe und Rechtsschutz im Straßenrecht.",
+          "checkpoints": [
+            "Wirksamkeit erst ab 07.11.2026 beachten",
+            "Rechtsgrundlage Art. 7 Abs. 1 BayStrWG zuordnen",
+            "Einmonatsfrist für Klage nach Bekanntgabe beachten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-39-40_vom-02-10-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayStrWG-7"
+        },
         {
           "title": "Straßenbahnbetriebshof Augsburg: Gleiserweiterung UVP-pflichtig",
           "kind": "Amtliche Bekanntmachung / UVPG-Feststellung",
@@ -1668,11 +1766,60 @@
         }
       ],
       "id": "important",
-      "intro": "Aktuell besonders wichtig für Augsburg bleiben die UVP-Pflicht am Straßenbahnbetriebshof und die neuen digitalen Einladungs- und Fristenregeln im Rettungsdienst-/Feuerwehralarmierungszweckverband.",
+      "intro": "Für Augsburg neu wichtig: Christkindlesmarkt-Allgemeinverfügung, Bürgerversammlungen nach Art. 18 GO und die straßenrechtliche Abstufung eines Teilabschnitts der Hallstraße.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Christkindlesmarkt 2026: Betriebszeiten amtlich festgesetzt",
+          "kind": "Allgemeinverfügung",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 39/40 vom 02.10.2026, S. 270; § 3 Abs. 2 und 4 Dult- und Christkindlesmarktsatzung",
+          "published": "02.10.2026",
+          "effective": "03.10.2026",
+          "summary": "Der Augsburger Christkindlesmarkt findet vom 23.11. bis 24.12.2026 statt. Die Stadt hat die täglichen Betriebszeiten verbindlich festgesetzt; die Allgemeinverfügung tritt am Tag nach ihrer Bekanntmachung in Kraft.",
+          "administrationImpact": "Marktverwaltung und betroffene Marktteilnehmer müssen die festgesetzten Betriebszeiten beachten. Für die Ausbildung ist die Veröffentlichung ein anschauliches Beispiel für Allgemeinverfügung, Bekanntgabe, Inkrafttreten und verwaltungsgerichtlichen Rechtsschutz.",
+          "checkpoints": [
+            "Veröffentlichung am 02.10.2026 und Inkrafttreten am 03.10.2026 unterscheiden",
+            "Betriebszeiten und Veranstaltungszeitraum bei Vollzug und Auskünften verwenden",
+            "Rechtsschutz: Klage zum VG Augsburg; kein Widerspruchsverfahren vorgesehen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-39-40_vom-02-10-2026_.pdf",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Augsburg: Bürgerversammlungen am 14.10. und 10.11.2026",
+          "kind": "Amtliche Bekanntmachung / Kommunalrecht",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 39/40 vom 02.10.2026, S. 272–273; Art. 18 Abs. 3 GO",
+          "published": "02.10.2026",
+          "effective": "Termine: 14.10.2026 (Gesamtstadt) und 10.11.2026 (Göggingen)",
+          "summary": "Die Stadt Augsburg hat die Bürgerversammlung für die Gesamtstadt am 14.10.2026 und für Göggingen am 10.11.2026 bekannt gemacht. Anliegen können vorab per E-Mail mitgeteilt werden; eine Antragstellung setzt persönliche Anwesenheit voraus.",
+          "administrationImpact": "Hauptamt und beteiligte Dienststellen müssen die kommunalrechtliche Bürgerbeteiligung organisatorisch unterstützen. Für die QE2 ist besonders der ausdrückliche Hinweis auf Art. 18 Abs. 3 GO prüfungsrelevant.",
+          "checkpoints": [
+            "Gesamtstädtischen Termin 14.10.2026 beachten",
+            "Gögginger Termin 10.11.2026 beachten",
+            "Für Anträge persönliche Anwesenheit erforderlich",
+            "Art. 18 Abs. 3 GO: grundsätzlich Wortrecht für Gemeindeangehörige; Ausnahmen durch Beschluss der Bürgerversammlung"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-39-40_vom-02-10-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayGO-18"
+        },
+        {
+          "title": "Hallstraße: Teilabschnitt wird zum Geh- und Radweg abgestuft",
+          "kind": "Straßenrechtliche Abstufungsverfügung",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 39/40 vom 02.10.2026, S. 273–274; Art. 7 Abs. 1 BayStrWG",
+          "published": "02.10.2026",
+          "effective": "07.11.2026",
+          "summary": "Ein Teilabschnitt der Ortsstraße Hallstraße im Bereich des Holbein-Gymnasiums wird aus überwiegenden Gründen des öffentlichen Wohls zum Geh- und Radweg abgestuft.",
+          "administrationImpact": "Mobilitäts- und Tiefbauverwaltung muss die neue straßenrechtliche Einstufung ab dem Wirksamkeitstag berücksichtigen. Der Vorgang eignet sich als Praxisbeispiel für Widmung/Umstufung, Bekanntgabe und Rechtsschutz im Straßenrecht.",
+          "checkpoints": [
+            "Wirksamkeit erst ab 07.11.2026 beachten",
+            "Rechtsgrundlage Art. 7 Abs. 1 BayStrWG zuordnen",
+            "Einmonatsfrist für Klage nach Bekanntgabe beachten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-39-40_vom-02-10-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayStrWG-7"
+        },
         {
           "title": "Straßenbahnbetriebshof Augsburg: Gleiserweiterung UVP-pflichtig",
           "kind": "Amtliche Bekanntmachung / UVPG-Feststellung",
@@ -2583,9 +2730,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Rechts- und Veröffentlichungsstand 02.10.2026; BayMBl. bis Nr. 413, GVBl. bis S. 606, RABl. Schwaben bis Nr. 18, Augsburger Amtsblatt bis Nr. 37/38.",
+      "intro": "Rechts- und Veröffentlichungsstand 05.10.2026; BayMBl. bis Nr. 413, GVBl. 2026 Nr. 18 bis S. 606, RABl. Schwaben bis Nr. 18, Augsburger Amtsblatt bis Nr. 39/40.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-02T06:00:28+02:00"
+  "updatedAt": "2026-10-05T10:52:00+02:00"
 }
