@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Assets 31 – Apfeltag: Spezifikation und Referenzbilder werden geprüft; anschließend werden vier neue transparente PNGs erzeugt und vor der Veröffentlichung technisch validiert.",
+  "failedStep": "github-publish-fallback",
+  "message": "Assets 31 – Apfeltag: Alle vier PNGs und die Spruchdatei sind lokal vollständig geprüft. Veröffentlichung und Post-Push-Rückprüfung laufen über den temporären GitHub-Actions-Publisher.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-04T05:58:48+02:00",
     "targetDate": "2026-10-04",
