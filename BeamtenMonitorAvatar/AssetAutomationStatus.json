@@ -1,28 +1,20 @@
 {
-  "runAt": "2026-10-04T05:58:48+02:00",
-  "targetDate": "2026-10-04",
-  "targetSet": "Assets 30",
-  "theme": "Drachentag",
-  "success": true,
-  "state": "completed",
-  "committedSha": "fa08bc47e7734b8320921bd7f93a7ccbd02ad585",
-  "buildSuccess": true,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 30/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 30/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 30/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 30/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 30/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 30 – Drachentag wurde atomar veröffentlicht. GitHub Actions und eine zusätzliche Prüfung des bereinigten main-Stands bestätigten PNG-Signaturen, vollständiges load()/verify(), exakte Maße, RGBA mit echten transparenten Pixeln, unveränderte SHA-256-Werte, acht Sprite-Zellen mit mindestens 25 px Rand, gemeinsame Geh-Bodenlinie 486 und gültiges JSON. Der einmalige Publisher wurde entfernt.",
+  "runAt": "2026-10-05T05:58:50+02:00",
+  "targetDate": "2026-10-05",
+  "targetSet": "Assets 31",
+  "theme": "Apfeltag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
+  "buildSuccess": null,
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "Assets 31 – Apfeltag: Spezifikation und Referenzbilder werden geprüft; anschließend werden vier neue transparente PNGs erzeugt und vor der Veröffentlichung technisch validiert.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-04T05:58:48+02:00",
     "targetDate": "2026-10-04",
     "targetSet": "Assets 30",
     "theme": "Drachentag",
     "committedSha": "fa08bc47e7734b8320921bd7f93a7ccbd02ad585"
-  },
-  "verificationWorkflowRunId": 37176098735,
-  "verificationMainSha": "fa08bc47e7734b8320921bd7f93a7ccbd02ad585"
+  }
 }
