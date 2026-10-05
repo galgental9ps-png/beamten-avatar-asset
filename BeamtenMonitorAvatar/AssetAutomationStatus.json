@@ -3,18 +3,27 @@
   "targetDate": "2026-10-05",
   "targetSet": "Assets 31",
   "theme": "Apfeltag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Assets 31 – Apfeltag: Alle vier PNGs und die Spruchdatei sind lokal vollständig geprüft. Veröffentlichung und Post-Push-Rückprüfung laufen über den temporären GitHub-Actions-Publisher.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "d70096e3dd8b545fb02aa3b1b7b3e1bd4f72d33e",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 31/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 31/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 31/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 31/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 31/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 31 – Apfeltag wurde als vollständiges Fünf-Dateien-Set atomar veröffentlicht. Der GitHub-Actions-Lauf prüfte die erzeugten Dateien vor dem Commit und nach dem Push erneut von origin/main; anschließend wurden alle fünf Pfade und Blob-Größen nochmals auf dem bereinigten main-Stand bestätigt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-10-04T05:58:48+02:00",
-    "targetDate": "2026-10-04",
-    "targetSet": "Assets 30",
-    "theme": "Drachentag",
-    "committedSha": "fa08bc47e7734b8320921bd7f93a7ccbd02ad585"
-  }
+    "runAt": "2026-10-05T05:58:50+02:00",
+    "targetDate": "2026-10-05",
+    "targetSet": "Assets 31",
+    "theme": "Apfeltag",
+    "committedSha": "d70096e3dd8b545fb02aa3b1b7b3e1bd4f72d33e"
+  },
+  "verificationWorkflowRunId": 37262309510,
+  "verificationMainSha": "d70096e3dd8b545fb02aa3b1b7b3e1bd4f72d33e",
+  "publisherCleanupSha": "042a6b9e86d18e9142ca3692addf80698868d5e7"
 }
