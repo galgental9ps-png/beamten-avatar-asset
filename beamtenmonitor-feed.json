@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Tagesprüfung 05.10.2026: Amtliche Primärquellen geprüft. Neu seit dem letzten Lauf ist das Augsburger Amtsblatt Nr. 39/40 vom 02.10.2026; daraus wurden drei verwaltungsrelevante Bekanntmachungen übernommen. BayMBl. weiterhin bis Nr. 413 vom 30.09.2026, GVBl. 2026 Nr. 18 bis S. 606 vom 30.09.2026, Regierungsamtsblatt Schwaben bis Nr. 18 vom 29.09.2026. BVS-Jahrgangsunterlagen 2026/2028 und Bayern.Recht ohne neue unmittelbar ausbildungsrelevante Änderung.",
+  "checkedSources": "Tagesprüfung 06.10.2026: Keine neue relevante Veröffentlichung in den geprüften amtlichen Quellen gefunden. BayMBl. bis Nr. 413 und GVBl. Nr. 18 bis S. 606 vom 30.09.2026; Augsburger Amtsblatt Nr. 39/40 vom 02.10.2026; Regierungsamtsblatt Schwaben Nr. 18 vom 29.09.2026. BVS-Jahrgangsseite samt Stoffgliederungsplan, zeitlicher Gliederung, Leistungsnachweisen und Hilfsmittelbestimmung sowie Augsburger Stadtrecht und Nachwuchsinformationen geprüft. Prüflücke: Bayern.Recht-Lesefassungen heute nicht abrufbar (u. a. HTTP 503); Konsolidierungsstand nicht erneut bestätigt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -931,7 +931,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Tagesprüfung 05.10.2026: Drei neue verwaltungsrelevante Bekanntmachungen aus dem Augsburger Amtsblatt Nr. 39/40 wurden aufgenommen.",
+      "intro": "Prüfstand 06.10.2026: keine neue relevante Änderung festgestellt; gültige Meldungen bleiben erhalten. Bayern.Recht heute nicht erneut abrufbar.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -1766,7 +1766,7 @@
         }
       ],
       "id": "important",
-      "intro": "Für Augsburg neu wichtig: Christkindlesmarkt-Allgemeinverfügung, Bürgerversammlungen nach Art. 18 GO und die straßenrechtliche Abstufung eines Teilabschnitts der Hallstraße.",
+      "intro": "Prüfstand 06.10.2026: keine neue relevante Änderung festgestellt; gültige Meldungen bleiben erhalten. Bayern.Recht heute nicht erneut abrufbar.",
       "label": "Was ist wichtig?"
     },
     {
@@ -2730,9 +2730,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Rechts- und Veröffentlichungsstand 05.10.2026; BayMBl. bis Nr. 413, GVBl. 2026 Nr. 18 bis S. 606, RABl. Schwaben bis Nr. 18, Augsburger Amtsblatt bis Nr. 39/40.",
+      "intro": "Prüfstand 06.10.2026: keine neue relevante Änderung festgestellt; gültige Meldungen bleiben erhalten. Bayern.Recht heute nicht erneut abrufbar.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-05T12:04:00+02:00"
+  "updatedAt": "2026-10-06T06:00:00+02:00"
 }
