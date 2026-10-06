@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Assets 32 – Uhrmachertag: Spezifikation, Originalreferenzen und das letzte erfolgreiche Set sind geprüft. Vier neue transparente PNGs werden erzeugt und vor der Veröffentlichung technisch validiert.",
+  "failedStep": "github-publish-fallback",
+  "message": "Assets 32 – Uhrmachertag: Vier PNGs und die Spruchdatei sind lokal vollständig geprüft. Die atomare Veröffentlichung und Post-Push-Rückprüfung laufen über einen temporären GitHub-Actions-Publisher.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-05T05:58:50+02:00",
     "targetDate": "2026-10-05",
