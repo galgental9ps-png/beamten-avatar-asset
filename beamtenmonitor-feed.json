@@ -1,9 +1,26 @@
 {
-  "checkedSources": "Tagesprüfung 06.10.2026: Keine neue relevante Veröffentlichung in den geprüften amtlichen Quellen gefunden. BayMBl. bis Nr. 413 und GVBl. Nr. 18 bis S. 606 vom 30.09.2026; Augsburger Amtsblatt Nr. 39/40 vom 02.10.2026; Regierungsamtsblatt Schwaben Nr. 18 vom 29.09.2026. BVS-Jahrgangsseite samt Stoffgliederungsplan, zeitlicher Gliederung, Leistungsnachweisen und Hilfsmittelbestimmung sowie Augsburger Stadtrecht und Nachwuchsinformationen geprüft. Prüflücke: Bayern.Recht-Lesefassungen heute nicht abrufbar (u. a. HTTP 503); Konsolidierungsstand nicht erneut bestätigt.",
+  "checkedSources": "Tagesprüfung 07.10.2026: Neu veröffentlicht wurde BayMBl. 2026 Nr. 421 zur befristeten Aussetzung des Sonn- und Feiertagsfahrverbots für nachweislich niedrigwasserbedingte Gütertransporte vom 11. bis 25.10.2026. BayMBl. bis Nr. 421 vom 07.10.2026; GVBl. Nr. 18 bis S. 606 vom 30.09.2026; Augsburger Amtsblatt Nr. 39/40 vom 02.10.2026; Regierungsamtsblatt Schwaben Nr. 18 vom 29.09.2026. BVS-Jahrgangsseite samt Stoffgliederungsplan, zeitlicher Gliederung, Leistungsnachweisen und Hilfsmittelbestimmung sowie Augsburger Stadtrecht und Nachwuchsinformationen geprüft. Prüflücke: Bayern.Recht-Lesefassungen heute nicht abrufbar; Konsolidierungsstand nicht erneut bestätigt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Aussetzung des Sonn- und Feiertagsfahrverbots wegen Niedrigwassers verlängert",
+          "kind": "Allgemeinverfügung – befristete Ausnahme von § 30 Abs. 3 Satz 1 StVO",
+          "reference": "BayMBl. 2026 Nr. 421; Bekanntmachung vom 06.10.2026, Az. C14-3612-21-220",
+          "published": "07.10.2026",
+          "effective": "11.10.2026 bis einschließlich 25.10.2026; keine Rückwirkung",
+          "summary": "In Bayern dürfen gewerbliche Gütertransporte mit Lastkraftwagen über 7,5 t sowie Anhänger hinter Lastkraftwagen sonntags und feiertags fahren, wenn der Transport nachweislich unmittelbar oder mittelbar der Bewältigung der Niedrigwasserfolgen auf deutschen Binnenschifffahrtsstraßen dient. Erfasst sind auch direkt und nachweisbar zusammenhängende Leerfahrten. Die Verfügung ist sofort vollziehbar, darf aber nur im erforderlichen Umfang und unter Beachtung von Sicherheit, Verkehrslage, Wohnbevölkerung, Umwelt und Feiertagsruhe genutzt werden.",
+          "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen ab 11.10.2026 den konkreten Niedrigwasserbezug, die Nachweise und die Befristung bis 25.10.2026 prüfen. Es handelt sich nicht um eine allgemeine Freigabe aller Lkw-Fahrten. Für Anwärter ist die Bekanntmachung ein aktuelles Beispiel für Allgemeinverfügung, sofortige Vollziehbarkeit und Befristung.",
+          "checkpoints": [
+            "Geltung erst vom 11.10. bis einschließlich 25.10.2026; keine Rückwirkung.",
+            "Transport muss nachweislich unmittelbar oder mittelbar mit Niedrigwasserfolgen zusammenhängen.",
+            "Leerfahrten sind nur bei direktem und nachweisbarem Zusammenhang erfasst.",
+            "Sofortige Vollziehbarkeit und materieller Geltungszeitraum getrennt prüfen."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-421/",
+          "consolidatedUrl": "https://www.gesetze-im-internet.de/stvo_2013/__30.html"
+        },
         {
           "title": "Christkindlesmarkt 2026: Betriebszeiten amtlich festgesetzt",
           "kind": "Allgemeinverfügung",
@@ -814,23 +831,6 @@
           "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-35-36_vom-04-09-2026_.pdf",
           "summary": "Die Neufassung regelt die Plärrer als öffentliche Einrichtung, Veranstaltungszeiten, schriftliche Zulassung und Standplatzvergabe, die Antragsfrist 15. Juli des Vorjahres, dokumentierte Auswahlkriterien, eine dreimonatige Entscheidungsfrist mit Zulassungsfiktion, Auflagen und Widerruf sowie Sicherheits-, Verhaltens- und Bußgeldbestimmungen. Sie ersetzt die Satzung vom 21.03.2013.",
           "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)"
-        },
-        {
-          "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen bei Auskünften und Kontrollen Transportzweck, Nachweise und Befristung unterscheiden. Keine pauschale Freigabe sämtlicher Lkw-Fahrten; andere Länder haben eigene Regelungen.",
-          "checkpoints": [
-            "Geltungszeitraum 06.09.–04.10.2026 prüfen; nicht schon am Veröffentlichungstag anwenden.",
-            "Nachweis des Niedrigwasserbezugs und Zusammenhang von Leerfahrten prüfen.",
-            "Sofortige Vollziehbarkeit nicht mit früherem Geltungsbeginn verwechseln.",
-            "Keine gesonderte konsolidierte Bayern.Recht-Fassung nachgewiesen; Verfügung direkt verwenden."
-          ],
-          "consolidatedUrl": "",
-          "effective": "06.09.2026 bis einschließlich 04.10.2026; keine Rückwirkung",
-          "kind": "Allgemeinverfügung – keine Änderung der StVO",
-          "published": "02.09.2026",
-          "reference": "BayMBl. 2026 Nr. 352; Bekanntmachung vom 26.08.2026, Az. C14-3612-21-220",
-          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-352/",
-          "summary": "In Bayern dürfen gewerbliche Gütertransporte mit Lkw über 7,5 t und Lkw mit Anhängern ausnahmsweise sonntags und feiertags fahren, wenn der Zusammenhang mit Niedrigwasserfolgen nachweisbar ist. Zugehörige Leerfahrten benötigen einen direkten, nachweisbaren Zusammenhang. Nur erforderlicher Umfang; Sicherheit, Verkehrslage und Feiertagsruhe beachten. Sofortige Vollziehbarkeit ist angeordnet. Amtlich ist das BayMBl.-PDF/A.",
-          "title": "Aussetzung des Sonn- und Feiertagsfahrverbots nach § 30 Abs. 3 Satz 1 StVO in Bayern zur Bewältigung der Auswirkungen des Niedrigwassers in den deutschen Binnenschifffahrtsstraßen"
         },
         {
           "administrationImpact": "Betroffene Gymnasien, Oberstufenkoordination und Schulaufsicht müssen Formulare und Beratung zur Leistungsfachwahl anpassen; bei kommunalen Gymnasien auch die entsprechenden städtischen Schulstellen. Keine neue allgemeine kommunale Aufgabe.",
@@ -931,11 +931,28 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 06.10.2026: keine neue relevante Änderung festgestellt; gültige Meldungen bleiben erhalten. Bayern.Recht heute nicht erneut abrufbar.",
+      "intro": "Prüfstand 07.10.2026: eine neue relevante BayMBl.-Allgemeinverfügung erfasst; übrige gültige Meldungen bleiben erhalten. Bayern.Recht heute nicht erneut abrufbar.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Aussetzung des Sonn- und Feiertagsfahrverbots wegen Niedrigwassers verlängert",
+          "kind": "Allgemeinverfügung – befristete Ausnahme von § 30 Abs. 3 Satz 1 StVO",
+          "reference": "BayMBl. 2026 Nr. 421; Bekanntmachung vom 06.10.2026, Az. C14-3612-21-220",
+          "published": "07.10.2026",
+          "effective": "11.10.2026 bis einschließlich 25.10.2026; keine Rückwirkung",
+          "summary": "In Bayern dürfen gewerbliche Gütertransporte mit Lastkraftwagen über 7,5 t sowie Anhänger hinter Lastkraftwagen sonntags und feiertags fahren, wenn der Transport nachweislich unmittelbar oder mittelbar der Bewältigung der Niedrigwasserfolgen auf deutschen Binnenschifffahrtsstraßen dient. Erfasst sind auch direkt und nachweisbar zusammenhängende Leerfahrten. Die Verfügung ist sofort vollziehbar, darf aber nur im erforderlichen Umfang und unter Beachtung von Sicherheit, Verkehrslage, Wohnbevölkerung, Umwelt und Feiertagsruhe genutzt werden.",
+          "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen ab 11.10.2026 den konkreten Niedrigwasserbezug, die Nachweise und die Befristung bis 25.10.2026 prüfen. Es handelt sich nicht um eine allgemeine Freigabe aller Lkw-Fahrten. Für Anwärter ist die Bekanntmachung ein aktuelles Beispiel für Allgemeinverfügung, sofortige Vollziehbarkeit und Befristung.",
+          "checkpoints": [
+            "Geltung erst vom 11.10. bis einschließlich 25.10.2026; keine Rückwirkung.",
+            "Transport muss nachweislich unmittelbar oder mittelbar mit Niedrigwasserfolgen zusammenhängen.",
+            "Leerfahrten sind nur bei direktem und nachweisbarem Zusammenhang erfasst.",
+            "Sofortige Vollziehbarkeit und materieller Geltungszeitraum getrennt prüfen."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-421/",
+          "consolidatedUrl": "https://www.gesetze-im-internet.de/stvo_2013/__30.html"
+        },
         {
           "title": "Christkindlesmarkt 2026: Betriebszeiten amtlich festgesetzt",
           "kind": "Allgemeinverfügung",
@@ -1667,23 +1684,6 @@
           "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)"
         },
         {
-          "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen bei Auskünften und Kontrollen Transportzweck, Nachweise und Befristung unterscheiden. Keine pauschale Freigabe sämtlicher Lkw-Fahrten; andere Länder haben eigene Regelungen.",
-          "checkpoints": [
-            "Geltungszeitraum 06.09.–04.10.2026 prüfen; nicht schon am Veröffentlichungstag anwenden.",
-            "Nachweis des Niedrigwasserbezugs und Zusammenhang von Leerfahrten prüfen.",
-            "Sofortige Vollziehbarkeit nicht mit früherem Geltungsbeginn verwechseln.",
-            "Keine gesonderte konsolidierte Bayern.Recht-Fassung nachgewiesen; Verfügung direkt verwenden."
-          ],
-          "consolidatedUrl": "",
-          "effective": "06.09.2026 bis einschließlich 04.10.2026; keine Rückwirkung",
-          "kind": "Allgemeinverfügung – keine Änderung der StVO",
-          "published": "02.09.2026",
-          "reference": "BayMBl. 2026 Nr. 352; Bekanntmachung vom 26.08.2026, Az. C14-3612-21-220",
-          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-352/",
-          "summary": "In Bayern dürfen gewerbliche Gütertransporte mit Lkw über 7,5 t und Lkw mit Anhängern ausnahmsweise sonntags und feiertags fahren, wenn der Zusammenhang mit Niedrigwasserfolgen nachweisbar ist. Zugehörige Leerfahrten benötigen einen direkten, nachweisbaren Zusammenhang. Nur erforderlicher Umfang; Sicherheit, Verkehrslage und Feiertagsruhe beachten. Sofortige Vollziehbarkeit ist angeordnet. Amtlich ist das BayMBl.-PDF/A.",
-          "title": "Aussetzung des Sonn- und Feiertagsfahrverbots nach § 30 Abs. 3 Satz 1 StVO in Bayern zur Bewältigung der Auswirkungen des Niedrigwassers in den deutschen Binnenschifffahrtsstraßen"
-        },
-        {
           "administrationImpact": "Betroffene Gymnasien, Oberstufenkoordination und Schulaufsicht müssen Formulare und Beratung zur Leistungsfachwahl anpassen; bei kommunalen Gymnasien auch die entsprechenden städtischen Schulstellen. Keine neue allgemeine kommunale Aufgabe.",
           "checkpoints": [
             "Notennachweis zum Halbjahr statt Bindung an das Zwischenzeugnis prüfen.",
@@ -1766,11 +1766,28 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 06.10.2026: keine neue relevante Änderung festgestellt; gültige Meldungen bleiben erhalten. Bayern.Recht heute nicht erneut abrufbar.",
+      "intro": "Prüfstand 07.10.2026: eine neue relevante BayMBl.-Allgemeinverfügung erfasst; übrige gültige Meldungen bleiben erhalten. Bayern.Recht heute nicht erneut abrufbar.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Aussetzung des Sonn- und Feiertagsfahrverbots wegen Niedrigwassers verlängert",
+          "kind": "Allgemeinverfügung – befristete Ausnahme von § 30 Abs. 3 Satz 1 StVO",
+          "reference": "BayMBl. 2026 Nr. 421; Bekanntmachung vom 06.10.2026, Az. C14-3612-21-220",
+          "published": "07.10.2026",
+          "effective": "11.10.2026 bis einschließlich 25.10.2026; keine Rückwirkung",
+          "summary": "In Bayern dürfen gewerbliche Gütertransporte mit Lastkraftwagen über 7,5 t sowie Anhänger hinter Lastkraftwagen sonntags und feiertags fahren, wenn der Transport nachweislich unmittelbar oder mittelbar der Bewältigung der Niedrigwasserfolgen auf deutschen Binnenschifffahrtsstraßen dient. Erfasst sind auch direkt und nachweisbar zusammenhängende Leerfahrten. Die Verfügung ist sofort vollziehbar, darf aber nur im erforderlichen Umfang und unter Beachtung von Sicherheit, Verkehrslage, Wohnbevölkerung, Umwelt und Feiertagsruhe genutzt werden.",
+          "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen ab 11.10.2026 den konkreten Niedrigwasserbezug, die Nachweise und die Befristung bis 25.10.2026 prüfen. Es handelt sich nicht um eine allgemeine Freigabe aller Lkw-Fahrten. Für Anwärter ist die Bekanntmachung ein aktuelles Beispiel für Allgemeinverfügung, sofortige Vollziehbarkeit und Befristung.",
+          "checkpoints": [
+            "Geltung erst vom 11.10. bis einschließlich 25.10.2026; keine Rückwirkung.",
+            "Transport muss nachweislich unmittelbar oder mittelbar mit Niedrigwasserfolgen zusammenhängen.",
+            "Leerfahrten sind nur bei direktem und nachweisbarem Zusammenhang erfasst.",
+            "Sofortige Vollziehbarkeit und materieller Geltungszeitraum getrennt prüfen."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-421/",
+          "consolidatedUrl": "https://www.gesetze-im-internet.de/stvo_2013/__30.html"
+        },
         {
           "title": "Christkindlesmarkt 2026: Betriebszeiten amtlich festgesetzt",
           "kind": "Allgemeinverfügung",
@@ -2581,23 +2598,6 @@
           "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-35-36_vom-04-09-2026_.pdf",
           "summary": "Die Neufassung regelt die Plärrer als öffentliche Einrichtung, Veranstaltungszeiten, schriftliche Zulassung und Standplatzvergabe, die Antragsfrist 15. Juli des Vorjahres, dokumentierte Auswahlkriterien, eine dreimonatige Entscheidungsfrist mit Zulassungsfiktion, Auflagen und Widerruf sowie Sicherheits-, Verhaltens- und Bußgeldbestimmungen. Sie ersetzt die Satzung vom 21.03.2013.",
           "title": "Satzung der Stadt Augsburg über die Frühjahrs- und Herbstplärrer (BSPlärrer)"
-        },
-        {
-          "administrationImpact": "Straßenverkehrsbehörden und Polizei müssen bei Auskünften und Kontrollen Transportzweck, Nachweise und Befristung unterscheiden. Keine pauschale Freigabe sämtlicher Lkw-Fahrten; andere Länder haben eigene Regelungen.",
-          "checkpoints": [
-            "Geltungszeitraum 06.09.–04.10.2026 prüfen; nicht schon am Veröffentlichungstag anwenden.",
-            "Nachweis des Niedrigwasserbezugs und Zusammenhang von Leerfahrten prüfen.",
-            "Sofortige Vollziehbarkeit nicht mit früherem Geltungsbeginn verwechseln.",
-            "Keine gesonderte konsolidierte Bayern.Recht-Fassung nachgewiesen; Verfügung direkt verwenden."
-          ],
-          "consolidatedUrl": "",
-          "effective": "06.09.2026 bis einschließlich 04.10.2026; keine Rückwirkung",
-          "kind": "Allgemeinverfügung – keine Änderung der StVO",
-          "published": "02.09.2026",
-          "reference": "BayMBl. 2026 Nr. 352; Bekanntmachung vom 26.08.2026, Az. C14-3612-21-220",
-          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-352/",
-          "summary": "In Bayern dürfen gewerbliche Gütertransporte mit Lkw über 7,5 t und Lkw mit Anhängern ausnahmsweise sonntags und feiertags fahren, wenn der Zusammenhang mit Niedrigwasserfolgen nachweisbar ist. Zugehörige Leerfahrten benötigen einen direkten, nachweisbaren Zusammenhang. Nur erforderlicher Umfang; Sicherheit, Verkehrslage und Feiertagsruhe beachten. Sofortige Vollziehbarkeit ist angeordnet. Amtlich ist das BayMBl.-PDF/A.",
-          "title": "Aussetzung des Sonn- und Feiertagsfahrverbots nach § 30 Abs. 3 Satz 1 StVO in Bayern zur Bewältigung der Auswirkungen des Niedrigwassers in den deutschen Binnenschifffahrtsstraßen"
         },
         {
           "administrationImpact": "Betroffene Gymnasien, Oberstufenkoordination und Schulaufsicht müssen Formulare und Beratung zur Leistungsfachwahl anpassen; bei kommunalen Gymnasien auch die entsprechenden städtischen Schulstellen. Keine neue allgemeine kommunale Aufgabe.",
@@ -2730,9 +2730,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 06.10.2026: keine neue relevante Änderung festgestellt; gültige Meldungen bleiben erhalten. Bayern.Recht heute nicht erneut abrufbar.",
+      "intro": "Prüfstand 07.10.2026: eine neue relevante BayMBl.-Allgemeinverfügung erfasst; übrige gültige Meldungen bleiben erhalten. Bayern.Recht heute nicht erneut abrufbar.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-06T06:00:00+02:00"
+  "updatedAt": "2026-10-07T06:00:00+02:00"
 }
