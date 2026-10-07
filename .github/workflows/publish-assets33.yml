@@ -4,8 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - ".asset-publisher/33/**"
-      - ".github/workflows/publish-assets33.yml"
+      - ".asset-publisher/33/ready"
 
 permissions:
   contents: write
