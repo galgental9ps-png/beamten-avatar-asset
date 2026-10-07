@@ -112,7 +112,7 @@ def publish() -> None:
     verify_all()
     asset_paths = [str(Path(MANIFEST["target"]) / rel) for rel in [*EXPECTED, JSON_REL]]
     subprocess.check_call(["git", "add", "--", *asset_paths], cwd=REPO)
-    staged = run("git", "diff", "--cached", "--name-only").splitlines()
+    staged = run("git", "-c", "core.quotepath=false", "diff", "--cached", "--name-only").splitlines()
     if sorted(staged) != sorted(asset_paths):
         raise RuntimeError(f"atomic commit path mismatch: {staged}")
     subprocess.check_call(["git", "commit", "-m", "Assets 33: Schneidertag Asset-Set"], cwd=REPO)
