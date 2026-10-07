@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Referenzen und Spezifikation wurden geladen und visuell geprüft. Die vier PNGs für Assets 33 – Schneidertag werden nun als neues, eigenständiges Set erzeugt.",
+  "failedStep": "github-publish-fallback",
+  "message": "Alle vier PNGs und die Spruchdatei sind lokal vollständig validiert und visuell auf hellen und dunklen Hintergründen geprüft. Der einmalige GitHub-Actions-Publisher wird vorbereitet, weil der Connector lokale Binärdateien nicht zuverlässig direkt als vollständige Git-Blobs übertragen kann.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-06T06:04:44+02:00",
     "targetDate": "2026-10-06",
