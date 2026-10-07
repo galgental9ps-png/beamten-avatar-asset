@@ -1,0 +1,47 @@
+{
+  "target": "BeamtenMonitorAvatar/Assets 33",
+  "theme": "Schneidertag",
+  "assets": {
+    "Avatar/Idle.png": {
+      "size": 968041,
+      "sha256": "d5d9a15aaa5cb37ad095a00126f6adee422162f1227bb90cee135e138a5435a7",
+      "chunks": [
+        "idle.000.b64",
+        "idle.001.b64",
+        "idle.002.b64"
+      ]
+    },
+    "Avatar/Actions.png": {
+      "size": 1114345,
+      "sha256": "09d36c8ecae5b44aae7517fc3e8233b693c6ff80d3aecc53c5f82a66f3b68d06",
+      "chunks": [
+        "actions.000.b64",
+        "actions.001.b64",
+        "actions.002.b64"
+      ]
+    },
+    "MonitorScene/MonitorScene.png": {
+      "size": 1115831,
+      "sha256": "120f48fa8521949176a3d497acc7885b4d451c1c6f241848e997dcda6523fcfb",
+      "chunks": [
+        "scene.000.b64",
+        "scene.001.b64",
+        "scene.002.b64"
+      ]
+    },
+    "Klingel/MonitorBell.png": {
+      "size": 1245441,
+      "sha256": "01f0f29f1560e11efa764daf005d3f7ebfa9ab17ef87d50fe3713f6c18a545d2",
+      "chunks": [
+        "bell.000.b64",
+        "bell.001.b64",
+        "bell.002.b64",
+        "bell.003.b64"
+      ]
+    }
+  },
+  "farewell": {
+    "theme": "Schneidertag",
+    "line": "Ich geh dann mal zurück – der Feierabend ist schließlich auch nach Maß gefertigt!"
+  }
+}
