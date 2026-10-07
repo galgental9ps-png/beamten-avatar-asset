@@ -12,12 +12,13 @@
       ]
     },
     "Avatar/Actions.png": {
-      "size": 1114345,
-      "sha256": "09d36c8ecae5b44aae7517fc3e8233b693c6ff80d3aecc53c5f82a66f3b68d06",
+      "size": 1248550,
+      "sha256": "6f84f91ba638b6f5ea3e5519f50d5aa9ccbfe6a9a3c04bcd91afaada4f964d21",
       "chunks": [
-        "actions.000.b64",
-        "actions.001.b64",
-        "actions.002.b64"
+        "actions2.000.b64",
+        "actions2.001.b64",
+        "actions2.002.b64",
+        "actions2.003.b64"
       ]
     },
     "MonitorScene/MonitorScene.png": {
@@ -30,13 +31,14 @@
       ]
     },
     "Klingel/MonitorBell.png": {
-      "size": 1245441,
-      "sha256": "01f0f29f1560e11efa764daf005d3f7ebfa9ab17ef87d50fe3713f6c18a545d2",
+      "size": 1523882,
+      "sha256": "b54f1df1222dc9e13d62b12b25dfd4d755db90091f56c778473d3698360489be",
       "chunks": [
-        "bell.000.b64",
-        "bell.001.b64",
-        "bell.002.b64",
-        "bell.003.b64"
+        "bell2.000.b64",
+        "bell2.001.b64",
+        "bell2.002.b64",
+        "bell2.003.b64",
+        "bell2.004.b64"
       ]
     }
   },
