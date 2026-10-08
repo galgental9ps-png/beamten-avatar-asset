@@ -1,0 +1,30 @@
+name: Publish Assets 34 Aquariumstag
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .asset-publisher/34/ready
+
+permissions:
+  contents: write
+
+jobs:
+  publish-and-verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Pillow
+        run: python -m pip install --disable-pip-version-check pillow
+      - name: Configure commit identity
+        run: |
+          git config user.name "beamten-asset-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Reconstruct publish and post-push verify
+        run: python .asset-publisher/34/publish.py
