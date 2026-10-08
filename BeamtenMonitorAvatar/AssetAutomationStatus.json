@@ -3,18 +3,27 @@
   "targetDate": "2026-10-08",
   "targetSet": "Assets 34",
   "theme": "Aquariumstag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Lokale PNG- und Sprite-Prüfung bestanden. Veröffentlichung und Post-Push-Rückprüfung laufen über den einmaligen GitHub-Actions-Publisher.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "f4a632940cbac9c4d8c95dd6d13a30970deb4649",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 34/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 34/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 34/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 34/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 34/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 34 wurde atomar veröffentlicht. Der erfolgreiche GitHub-Actions-Lauf hat den gepushten origin/main-Stand vollständig nachgeprüft; alle fünf Pflichtpfade wurden anschließend auf dem bereinigten main erneut bestätigt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-10-07T05:55:20+02:00",
-    "targetDate": "2026-10-07",
-    "targetSet": "Assets 33",
-    "theme": "Schneidertag",
-    "committedSha": "d9cb25d62d37f3b218d233f2d9c400fe8097edd5"
-  }
+    "runAt": "2026-10-08T06:04:24+02:00",
+    "targetDate": "2026-10-08",
+    "targetSet": "Assets 34",
+    "theme": "Aquariumstag",
+    "committedSha": "f4a632940cbac9c4d8c95dd6d13a30970deb4649"
+  },
+  "verificationWorkflowRunId": 37726652920,
+  "verificationMainSha": "f4a632940cbac9c4d8c95dd6d13a30970deb4649",
+  "publisherCleanupSha": "efd63e80cb0ef0ca3b4d07606fb6f64ac5f9d022"
 }
