@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Spezifikation und Bildreferenzen wurden geprüft. Die vier Aquariumstag-PNGs werden erzeugt und anschließend technisch sowie visuell validiert.",
+  "failedStep": "github-publish-fallback",
+  "message": "Lokale PNG- und Sprite-Prüfung bestanden. Veröffentlichung und Post-Push-Rückprüfung laufen über den einmaligen GitHub-Actions-Publisher.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-07T05:55:20+02:00",
     "targetDate": "2026-10-07",
