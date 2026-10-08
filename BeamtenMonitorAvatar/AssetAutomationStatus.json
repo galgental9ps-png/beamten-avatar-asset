@@ -1,29 +1,20 @@
 {
-  "runAt": "2026-10-07T05:55:20+02:00",
-  "targetDate": "2026-10-07",
-  "targetSet": "Assets 33",
-  "theme": "Schneidertag",
-  "success": true,
-  "state": "completed",
-  "committedSha": "d9cb25d62d37f3b218d233f2d9c400fe8097edd5",
-  "buildSuccess": true,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 33/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 33/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 33/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 33/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 33/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 33 – Schneidertag wurde als vollständiges Fünf-Dateien-Set atomar veröffentlicht. Der erfolgreiche GitHub-Actions-Lauf prüfte PNG-Decodierung, Maße, RGBA/Transparenz, alle acht Sprite-Zellränder, unterschiedliche nach rechts gerichtete Gehphasen auf gemeinsamer Bodenlinie und JSON vor dem Commit sowie nach dem Push erneut von origin/main. Alle fünf Pfade und Blob-Größen wurden anschließend auf dem bereinigten main-Stand unabhängig bestätigt.",
+  "runAt": "2026-10-08T06:04:24+02:00",
+  "targetDate": "2026-10-08",
+  "targetSet": "Assets 34",
+  "theme": "Aquariumstag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
+  "buildSuccess": null,
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "Spezifikation und Bildreferenzen wurden geprüft. Die vier Aquariumstag-PNGs werden erzeugt und anschließend technisch sowie visuell validiert.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-07T05:55:20+02:00",
     "targetDate": "2026-10-07",
     "targetSet": "Assets 33",
     "theme": "Schneidertag",
     "committedSha": "d9cb25d62d37f3b218d233f2d9c400fe8097edd5"
-  },
-  "verificationWorkflowRunId": 37570455531,
-  "verificationMainSha": "d9cb25d62d37f3b218d233f2d9c400fe8097edd5",
-  "publisherCleanupSha": "52e932c45e983c156fb28054fee85b6444739a90"
+  }
 }
