@@ -64,7 +64,7 @@ def main():
     ]
     run('git','add','--',*files)
     staged=run('git','-c','core.quotepath=false','diff','--cached','--name-only').splitlines()
-    if staged!=files: raise ValueError(f'atomic asset path mismatch: {staged}')
+    if sorted(staged)!=sorted(files): raise ValueError(f'atomic asset path mismatch: {staged}')
     run('git','commit','-m','Assets 34: Aquariumstag Asset-Set')
     run('git','push','origin','HEAD:main')
     asset_sha=run('git','rev-parse','HEAD')
