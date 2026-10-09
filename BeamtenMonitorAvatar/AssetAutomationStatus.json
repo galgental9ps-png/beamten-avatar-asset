@@ -3,18 +3,27 @@
   "targetDate": "2026-10-09",
   "targetSet": "Assets 35",
   "theme": "Teetag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Lokale PNG-, Transparenz- und Sprite-Prüfung bestanden. Veröffentlichung und Post-Push-Rückprüfung laufen über den einmaligen GitHub-Actions-Publisher.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "a1573b896cb510feccb0ab7538963e626dd635fc",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 35/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 35/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 35/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 35/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 35/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 35 wurde atomar veröffentlicht. Der erfolgreiche GitHub-Actions-Lauf hat den gepushten origin/main-Stand vollständig nachgeprüft; alle fünf Pflichtpfade wurden anschließend auf dem bereinigten main erneut bestätigt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-10-08T06:04:24+02:00",
-    "targetDate": "2026-10-08",
-    "targetSet": "Assets 34",
-    "theme": "Aquariumstag",
-    "committedSha": "f4a632940cbac9c4d8c95dd6d13a30970deb4649"
-  }
+    "runAt": "2026-10-09T06:00:58+02:00",
+    "targetDate": "2026-10-09",
+    "targetSet": "Assets 35",
+    "theme": "Teetag",
+    "committedSha": "a1573b896cb510feccb0ab7538963e626dd635fc"
+  },
+  "verificationWorkflowRunId": 37882527173,
+  "verificationMainSha": "a1573b896cb510feccb0ab7538963e626dd635fc",
+  "publisherCleanupSha": "0ba9c81755420959c070e04bd5ed7298205047b1"
 }
