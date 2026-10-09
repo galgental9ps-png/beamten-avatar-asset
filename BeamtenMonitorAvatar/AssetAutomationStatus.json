@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Spezifikation, Nummerierung und Bildreferenzen wurden geprüft. Die vier Teetag-PNGs werden erzeugt und anschließend technisch sowie visuell validiert.",
+  "failedStep": "github-publish-fallback",
+  "message": "Lokale PNG-, Transparenz- und Sprite-Prüfung bestanden. Veröffentlichung und Post-Push-Rückprüfung laufen über den einmaligen GitHub-Actions-Publisher.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-08T06:04:24+02:00",
     "targetDate": "2026-10-08",
