@@ -3,18 +3,27 @@
   "targetDate": "2026-10-10",
   "targetSet": "Assets 36",
   "theme": "Puzzletag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Alle vier PNGs und die Spruchdatei sind lokal technisch und visuell geprüft. Der einmalige GitHub-Actions-Publisher überträgt das Set atomar und führt die Post-Push-Prüfung von origin/main aus.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "8c0619e662697827f467fab4487666a664c5c2b5",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 36/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 36/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 36/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 36/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 36/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 36 wurde atomar veröffentlicht. Der erfolgreiche GitHub-Actions-Lauf hat den gepushten origin/main-Stand vollständig nachgeprüft; alle fünf Pflichtpfade wurden anschließend auf dem bereinigten main erneut bestätigt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-10-09T06:00:58+02:00",
-    "targetDate": "2026-10-09",
-    "targetSet": "Assets 35",
-    "theme": "Teetag",
-    "committedSha": "a1573b896cb510feccb0ab7538963e626dd635fc"
-  }
+    "runAt": "2026-10-10T05:56:39+02:00",
+    "targetDate": "2026-10-10",
+    "targetSet": "Assets 36",
+    "theme": "Puzzletag",
+    "committedSha": "8c0619e662697827f467fab4487666a664c5c2b5"
+  },
+  "verificationWorkflowRunId": 38022941125,
+  "verificationMainSha": "8c0619e662697827f467fab4487666a664c5c2b5",
+  "publisherCleanupSha": "90c975c8542f898f7b00403698536620c333081d"
 }
