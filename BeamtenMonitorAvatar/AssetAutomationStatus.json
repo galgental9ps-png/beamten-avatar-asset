@@ -1,29 +1,20 @@
 {
-  "runAt": "2026-10-09T06:00:58+02:00",
-  "targetDate": "2026-10-09",
-  "targetSet": "Assets 35",
-  "theme": "Teetag",
-  "success": true,
-  "state": "completed",
-  "committedSha": "a1573b896cb510feccb0ab7538963e626dd635fc",
-  "buildSuccess": true,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 35/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 35/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 35/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 35/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 35/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 35 wurde atomar veröffentlicht. Der erfolgreiche GitHub-Actions-Lauf hat den gepushten origin/main-Stand vollständig nachgeprüft; alle fünf Pflichtpfade wurden anschließend auf dem bereinigten main erneut bestätigt.",
+  "runAt": "2026-10-10T05:56:39+02:00",
+  "targetDate": "2026-10-10",
+  "targetSet": "Assets 36",
+  "theme": "Puzzletag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
+  "buildSuccess": null,
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "AssetSetSpec und Bildreferenzen wurden geladen und visuell geprüft. Die vier transparenten PNGs für Assets 36 werden jetzt erzeugt.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-09T06:00:58+02:00",
     "targetDate": "2026-10-09",
     "targetSet": "Assets 35",
     "theme": "Teetag",
     "committedSha": "a1573b896cb510feccb0ab7538963e626dd635fc"
-  },
-  "verificationWorkflowRunId": 37882527173,
-  "verificationMainSha": "a1573b896cb510feccb0ab7538963e626dd635fc",
-  "publisherCleanupSha": "0ba9c81755420959c070e04bd5ed7298205047b1"
+  }
 }
