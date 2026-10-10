@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "AssetSetSpec und Bildreferenzen wurden geladen und visuell geprüft. Die vier transparenten PNGs für Assets 36 werden jetzt erzeugt.",
+  "failedStep": "github-publish-fallback",
+  "message": "Alle vier PNGs und die Spruchdatei sind lokal technisch und visuell geprüft. Der einmalige GitHub-Actions-Publisher überträgt das Set atomar und führt die Post-Push-Prüfung von origin/main aus.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-09T06:00:58+02:00",
     "targetDate": "2026-10-09",
