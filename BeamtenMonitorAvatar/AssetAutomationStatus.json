@@ -3,18 +3,27 @@
   "targetDate": "2026-10-11",
   "targetSet": "Assets 37",
   "theme": "Kochkurs",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Alle vier PNGs und die Spruchdatei sind lokal technisch und visuell geprüft. Der einmalige GitHub-Actions-Publisher überträgt das Set atomar und führt die Post-Push-Prüfung von origin/main aus.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "a7f91fdf7e586d2157e167b07d58c51f074e81cc",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 37/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 37/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 37/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 37/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 37/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 37 wurde atomar veröffentlicht. Der erfolgreiche GitHub-Actions-Lauf hat den gepushten origin/main-Stand vollständig nachgeprüft; alle fünf Pflichtpfade wurden anschließend auf dem bereinigten main erneut bestätigt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-10-10T05:56:39+02:00",
-    "targetDate": "2026-10-10",
-    "targetSet": "Assets 36",
-    "theme": "Puzzletag",
-    "committedSha": "8c0619e662697827f467fab4487666a664c5c2b5"
-  }
+    "runAt": "2026-10-11T05:57:21+02:00",
+    "targetDate": "2026-10-11",
+    "targetSet": "Assets 37",
+    "theme": "Kochkurs",
+    "committedSha": "a7f91fdf7e586d2157e167b07d58c51f074e81cc"
+  },
+  "verificationWorkflowRunId": 38110447410,
+  "verificationMainSha": "a7f91fdf7e586d2157e167b07d58c51f074e81cc",
+  "publisherCleanupSha": "5e2dcb0571cd2f7f384faa005869def079173d43"
 }
