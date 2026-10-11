@@ -1,0 +1,43 @@
+{
+  "pngs": {
+    "BeamtenMonitorAvatar/Assets 37/Avatar/Idle.png": {
+      "size": 844680,
+      "sha256": "6fbc59701ab2e44a556572a719439ac4159c04da502a10912496a4b6d826a233",
+      "chunks": [
+        "idle.000.b64",
+        "idle.001.b64",
+        "idle.002.b64"
+      ]
+    },
+    "BeamtenMonitorAvatar/Assets 37/Avatar/Actions.png": {
+      "size": 1205473,
+      "sha256": "24c32b0a90ff0fd8023e80119b0c8f8ac082204105aa280193e8fd85a22c8a16",
+      "chunks": [
+        "actions.000.b64",
+        "actions.001.b64",
+        "actions.002.b64",
+        "actions.003.b64"
+      ]
+    },
+    "BeamtenMonitorAvatar/Assets 37/MonitorScene/MonitorScene.png": {
+      "size": 1006275,
+      "sha256": "cfc7c12b761714fb5831b8eac70255fe01425339af1c4c0489271458f8810432",
+      "chunks": [
+        "scene.000.b64",
+        "scene.001.b64",
+        "scene.002.b64"
+      ]
+    },
+    "BeamtenMonitorAvatar/Assets 37/Klingel/MonitorBell.png": {
+      "size": 1554127,
+      "sha256": "308255875da506ac3a388eb39411db5360fd930eb3d323c2861e28a05a72a56c",
+      "chunks": [
+        "bell.000.b64",
+        "bell.001.b64",
+        "bell.002.b64",
+        "bell.003.b64",
+        "bell.004.b64"
+      ]
+    }
+  }
+}
