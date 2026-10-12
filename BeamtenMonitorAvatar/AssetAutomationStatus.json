@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "github-upload",
-  "message": "Vier PNGs und die Spruchdatei wurden lokal vollständig geprüft; alle acht Sprite-Zellen haben mindestens 28 px Sicherheitsrand. Der atomare Git-Data-Upload beginnt.",
+  "failedStep": "github-publish-fallback",
+  "message": "Der direkte Git-Data-Binärtransfer wurde als unzuverlässig erkannt (alle vier unterschiedlich großen PNGs erschienen auf main mit derselben gekappten Größe). Der verpflichtende GitHub-Actions-Publisher rekonstruiert und ersetzt nun alle fünf Pflichtdateien atomar und prüft origin/main nach dem Push.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-11T05:57:21+02:00",
     "targetDate": "2026-10-11",
