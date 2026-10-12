@@ -3,18 +3,27 @@
   "targetDate": "2026-10-12",
   "targetSet": "Assets 38",
   "theme": "Kürbistag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Der direkte Git-Data-Binärtransfer wurde als unzuverlässig erkannt (alle vier unterschiedlich großen PNGs erschienen auf main mit derselben gekappten Größe). Der verpflichtende GitHub-Actions-Publisher rekonstruiert und ersetzt nun alle fünf Pflichtdateien atomar und prüft origin/main nach dem Push.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "48a2b704a6fba5ae356a1644a360fb6520e8ad77",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 38/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 38/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 38/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 38/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 38/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 38 wurde atomar veröffentlicht. Der erfolgreiche GitHub-Actions-Lauf hat den gepushten origin/main-Stand vollständig nachgeprüft; alle fünf Pflichtpfade wurden anschließend auf dem bereinigten main erneut bestätigt.",
   "lastSuccessfulRun": {
-    "runAt": "2026-10-11T05:57:21+02:00",
-    "targetDate": "2026-10-11",
-    "targetSet": "Assets 37",
-    "theme": "Kochkurs",
-    "committedSha": "a7f91fdf7e586d2157e167b07d58c51f074e81cc"
-  }
+    "runAt": "2026-10-12T06:00:33+02:00",
+    "targetDate": "2026-10-12",
+    "targetSet": "Assets 38",
+    "theme": "Kürbistag",
+    "committedSha": "48a2b704a6fba5ae356a1644a360fb6520e8ad77"
+  },
+  "verificationWorkflowRunId": 38202834920,
+  "verificationMainSha": "48a2b704a6fba5ae356a1644a360fb6520e8ad77",
+  "publisherCleanupSha": "aeb41999bb75092a9629c11187311d56e9d4cafe"
 }
