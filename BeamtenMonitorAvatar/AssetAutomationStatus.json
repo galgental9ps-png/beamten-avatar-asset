@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "AssetSetSpec sowie die ursprünglichen Referenzen und Assets 37 wurden von main geladen und visuell geprüft. Die Bildgenerierung für Assets 38 (Kürbistag) beginnt.",
+  "failedStep": "github-upload",
+  "message": "Vier PNGs und die Spruchdatei wurden lokal vollständig geprüft; alle acht Sprite-Zellen haben mindestens 28 px Sicherheitsrand. Der atomare Git-Data-Upload beginnt.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-11T05:57:21+02:00",
     "targetDate": "2026-10-11",
