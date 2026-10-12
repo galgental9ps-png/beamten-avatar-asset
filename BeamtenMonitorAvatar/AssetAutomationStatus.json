@@ -1,29 +1,20 @@
 {
-  "runAt": "2026-10-11T05:57:21+02:00",
-  "targetDate": "2026-10-11",
-  "targetSet": "Assets 37",
-  "theme": "Kochkurs",
-  "success": true,
-  "state": "completed",
-  "committedSha": "a7f91fdf7e586d2157e167b07d58c51f074e81cc",
-  "buildSuccess": true,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 37/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 37/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 37/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 37/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 37/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 37 wurde atomar veröffentlicht. Der erfolgreiche GitHub-Actions-Lauf hat den gepushten origin/main-Stand vollständig nachgeprüft; alle fünf Pflichtpfade wurden anschließend auf dem bereinigten main erneut bestätigt.",
+  "runAt": "2026-10-12T06:00:33+02:00",
+  "targetDate": "2026-10-12",
+  "targetSet": "Assets 38",
+  "theme": "Kürbistag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
+  "buildSuccess": null,
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "AssetSetSpec sowie die ursprünglichen Referenzen und Assets 37 wurden von main geladen und visuell geprüft. Die Bildgenerierung für Assets 38 (Kürbistag) beginnt.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-11T05:57:21+02:00",
     "targetDate": "2026-10-11",
     "targetSet": "Assets 37",
     "theme": "Kochkurs",
     "committedSha": "a7f91fdf7e586d2157e167b07d58c51f074e81cc"
-  },
-  "verificationWorkflowRunId": 38110447410,
-  "verificationMainSha": "a7f91fdf7e586d2157e167b07d58c51f074e81cc",
-  "publisherCleanupSha": "5e2dcb0571cd2f7f384faa005869def079173d43"
+  }
 }
