@@ -1,29 +1,20 @@
 {
-  "runAt": "2026-10-12T06:00:33+02:00",
-  "targetDate": "2026-10-12",
-  "targetSet": "Assets 38",
-  "theme": "Kürbistag",
-  "success": true,
-  "state": "completed",
-  "committedSha": "48a2b704a6fba5ae356a1644a360fb6520e8ad77",
-  "buildSuccess": true,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 38/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 38/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 38/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 38/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 38/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 38 wurde atomar veröffentlicht. Der erfolgreiche GitHub-Actions-Lauf hat den gepushten origin/main-Stand vollständig nachgeprüft; alle fünf Pflichtpfade wurden anschließend auf dem bereinigten main erneut bestätigt.",
+  "runAt": "2026-10-13T06:04:27+02:00",
+  "targetDate": "2026-10-13",
+  "targetSet": "Assets 39",
+  "theme": "Laternentag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
+  "buildSuccess": null,
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "AssetSetSpec sowie die ursprünglichen Referenzen und Assets 38 wurden von main geladen und visuell geprüft. Die Bildgenerierung für Assets 39 (Laternentag) beginnt.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-12T06:00:33+02:00",
     "targetDate": "2026-10-12",
     "targetSet": "Assets 38",
     "theme": "Kürbistag",
     "committedSha": "48a2b704a6fba5ae356a1644a360fb6520e8ad77"
-  },
-  "verificationWorkflowRunId": 38202834920,
-  "verificationMainSha": "48a2b704a6fba5ae356a1644a360fb6520e8ad77",
-  "publisherCleanupSha": "aeb41999bb75092a9629c11187311d56e9d4cafe"
+  }
 }
