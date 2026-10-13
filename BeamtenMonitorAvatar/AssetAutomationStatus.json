@@ -3,18 +3,27 @@
   "targetDate": "2026-10-13",
   "targetSet": "Assets 39",
   "theme": "Laternentag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Vier PNGs und die Spruchdatei wurden lokal vollständig geprüft; alle acht Sprite-Zellen haben mindestens 28 px Sicherheitsrand. Da der direkte Binär-Bridge-Transfer im letzten Lauf nachweislich gekappt wurde, startet der verpflichtende GitHub-Actions-Publisher.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "53a83d31b27bff0593f8b5cf6c72fd926555dbd1",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 39/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 39/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 39/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 39/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 39/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 39 (Laternentag) wurde als atomarer Fünf-Dateien-Commit veröffentlicht. GitHub Actions und ein zusätzlicher frischer main-Clone bestätigten PNG-Integrität, exakte Maße, RGBA-Transparenz, acht Sprite-Zellränder von mindestens 28 px, gleiche Geh-Bodenlinie, verschiedene Gehphasen und gültiges JSON. Der Einmal-Publisher wurde anschließend entfernt und der bereinigte main-Stand erneut geprüft.",
   "lastSuccessfulRun": {
-    "runAt": "2026-10-12T06:00:33+02:00",
-    "targetDate": "2026-10-12",
-    "targetSet": "Assets 38",
-    "theme": "Kürbistag",
-    "committedSha": "48a2b704a6fba5ae356a1644a360fb6520e8ad77"
-  }
+    "runAt": "2026-10-13T06:04:27+02:00",
+    "targetDate": "2026-10-13",
+    "targetSet": "Assets 39",
+    "theme": "Laternentag",
+    "committedSha": "53a83d31b27bff0593f8b5cf6c72fd926555dbd1"
+  },
+  "verificationWorkflowRunId": 38345578193,
+  "verificationMainSha": "53a83d31b27bff0593f8b5cf6c72fd926555dbd1",
+  "publisherCleanupSha": "f489559bf2b426c1d7edce5ed3b469af387101c5"
 }
