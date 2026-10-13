@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "AssetSetSpec sowie die ursprünglichen Referenzen und Assets 38 wurden von main geladen und visuell geprüft. Die Bildgenerierung für Assets 39 (Laternentag) beginnt.",
+  "failedStep": "github-publish-fallback",
+  "message": "Vier PNGs und die Spruchdatei wurden lokal vollständig geprüft; alle acht Sprite-Zellen haben mindestens 28 px Sicherheitsrand. Da der direkte Binär-Bridge-Transfer im letzten Lauf nachweislich gekappt wurde, startet der verpflichtende GitHub-Actions-Publisher.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-12T06:00:33+02:00",
     "targetDate": "2026-10-12",
