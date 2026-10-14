@@ -3,18 +3,27 @@
   "targetDate": "2026-10-14",
   "targetSet": "Assets 40",
   "theme": "Buchbindertag",
-  "success": false,
-  "state": "running",
-  "committedSha": "",
-  "buildSuccess": null,
-  "verifiedPaths": [],
-  "failedStep": "github-publish-fallback",
-  "message": "Vier PNGs und die Spruchdatei wurden lokal vollständig geprüft; alle acht Sprite-Zellen haben mindestens 28 px Sicherheitsrand. Da der direkte Binär-Bridge-Transfer nachweislich unzuverlässig ist, startet der verpflichtende GitHub-Actions-Publisher.",
+  "success": true,
+  "state": "completed",
+  "committedSha": "c0743e4a38d4b176c421df0fa20af871797f10db",
+  "buildSuccess": true,
+  "verifiedPaths": [
+    "BeamtenMonitorAvatar/Assets 40/Avatar/Idle.png",
+    "BeamtenMonitorAvatar/Assets 40/Avatar/Actions.png",
+    "BeamtenMonitorAvatar/Assets 40/MonitorScene/MonitorScene.png",
+    "BeamtenMonitorAvatar/Assets 40/Klingel/MonitorBell.png",
+    "BeamtenMonitorAvatar/Assets 40/Sprüche/Abschiedsspruch.json"
+  ],
+  "failedStep": "",
+  "message": "Assets 40 (Buchbindertag) wurde als atomarer Fünf-Dateien-Commit veröffentlicht. Nach Korrektur einer ausschließlich Git-bedingten Umlaut-Pfadmaskierung bestätigten GitHub Actions und zusätzliche frische main-Clones PNG-Integrität, exakte Maße, RGBA-Transparenz, acht Sprite-Zellränder von mindestens 28 px, gleiche Geh-Bodenlinie, verschiedene Gehphasen und gültiges JSON. Der Einmal-Publisher wurde entfernt und der bereinigte main-Stand erneut geprüft.",
   "lastSuccessfulRun": {
-    "runAt": "2026-10-13T06:04:27+02:00",
-    "targetDate": "2026-10-13",
-    "targetSet": "Assets 39",
-    "theme": "Laternentag",
-    "committedSha": "53a83d31b27bff0593f8b5cf6c72fd926555dbd1"
-  }
+    "runAt": "2026-10-14T05:55:40+02:00",
+    "targetDate": "2026-10-14",
+    "targetSet": "Assets 40",
+    "theme": "Buchbindertag",
+    "committedSha": "c0743e4a38d4b176c421df0fa20af871797f10db"
+  },
+  "verificationWorkflowRunId": 38512342264,
+  "verificationMainSha": "c0743e4a38d4b176c421df0fa20af871797f10db",
+  "publisherCleanupSha": "add59dfcf318141149321c7ea01ec7f9f51a1742"
 }
