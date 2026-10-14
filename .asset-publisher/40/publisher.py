@@ -49,7 +49,7 @@ def main():
     paths=[str(OUT/rel) for rel in ['Avatar/Idle.png','Avatar/Actions.png','MonitorScene/MonitorScene.png','Klingel/MonitorBell.png','Sprüche/Abschiedsspruch.json']]
     run('git','config','user.name','github-actions[bot]'); run('git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com')
     run('git','add','--',*paths)
-    staged=subprocess.check_output(['git','diff','--cached','--name-only'],cwd=REPO,text=True).splitlines()
+    staged=subprocess.check_output(['git','-c','core.quotepath=false','diff','--cached','--name-only'],cwd=REPO,text=True).splitlines()
     expected=sorted(str(Path('BeamtenMonitorAvatar')/'Assets 40'/rel) for rel in ['Avatar/Idle.png','Avatar/Actions.png','MonitorScene/MonitorScene.png','Klingel/MonitorBell.png','Sprüche/Abschiedsspruch.json'])
     assert sorted(staged)==expected,(staged,expected)
     run('git','commit','-m','Assets 40: Buchbindertag (verified fallback publish)')
