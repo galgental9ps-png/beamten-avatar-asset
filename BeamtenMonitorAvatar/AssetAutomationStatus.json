@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Status, Spezifikation, lückenlose Nummerierung bis Assets 39 sowie Original- und letzte Bildreferenzen wurden geprüft. Die Bildgenerierung für Assets 40 (Buchbindertag) beginnt.",
+  "failedStep": "github-publish-fallback",
+  "message": "Vier PNGs und die Spruchdatei wurden lokal vollständig geprüft; alle acht Sprite-Zellen haben mindestens 28 px Sicherheitsrand. Da der direkte Binär-Bridge-Transfer nachweislich unzuverlässig ist, startet der verpflichtende GitHub-Actions-Publisher.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-13T06:04:27+02:00",
     "targetDate": "2026-10-13",
