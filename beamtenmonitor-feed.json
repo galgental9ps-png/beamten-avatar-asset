@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Tagesprüfung 13.10.2026: Keine neue relevante Veröffentlichung seit dem verifizierten Stand vom 12.10.2026. BayMBl. bis Nr. 421 vom 07.10.2026, GVBl. bis S. 606 vom 30.09.2026, Augsburger Amtsblatt Nr. 39/40 vom 02.10.2026, Regierungsamtsblatt Schwaben Nr. 18 vom 29.09.2026; BVS-Jahrgangsunterlagen, Augsburger Stadtrecht/Nachwuchsinformationen sowie Bayern.Recht (GO, BayVwVfG) geprüft.",
+  "checkedSources": "Tagesprüfung 14.10.2026: Keine neue relevante Veröffentlichung seit dem verifizierten Stand vom 13.10.2026. BayMBl. bis Nr. 421 vom 07.10.2026, GVBl. bis S. 606 vom 30.09.2026, Augsburger Amtsblatt Nr. 39/40 vom 02.10.2026, Regierungsamtsblatt Schwaben Nr. 18 vom 29.09.2026; BVS-Jahrgangsunterlagen, Augsburger Stadtrecht/Nachwuchsinformationen sowie Bayern.Recht (GO, BayVwVfG) geprüft.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -931,7 +931,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 13.10.2026: keine neue relevante Veröffentlichung seit dem verifizierten Vortagesstand; gültige Meldungen bleiben erhalten. Bayern.Recht war heute erreichbar.",
+      "intro": "Prüfstand 14.10.2026: keine neue relevante Veröffentlichung seit dem verifizierten Vortagesstand; gültige Meldungen bleiben erhalten. Bayern.Recht war heute erreichbar.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -1766,7 +1766,7 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 13.10.2026: keine neue relevante Veröffentlichung seit dem verifizierten Vortagesstand; gültige Meldungen bleiben erhalten. Bayern.Recht war heute erreichbar.",
+      "intro": "Prüfstand 14.10.2026: keine neue relevante Veröffentlichung seit dem verifizierten Vortagesstand; gültige Meldungen bleiben erhalten. Bayern.Recht war heute erreichbar.",
       "label": "Was ist wichtig?"
     },
     {
@@ -2730,9 +2730,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 13.10.2026: keine neue relevante Veröffentlichung seit dem verifizierten Vortagesstand; gültige Meldungen bleiben erhalten. Bayern.Recht war heute erreichbar.",
+      "intro": "Prüfstand 14.10.2026: keine neue relevante Veröffentlichung seit dem verifizierten Vortagesstand; gültige Meldungen bleiben erhalten. Bayern.Recht war heute erreichbar.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-13T06:01:28+02:00"
+  "updatedAt": "2026-10-14T05:57:59+02:00"
 }
