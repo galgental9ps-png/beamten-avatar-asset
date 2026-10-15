@@ -1,29 +1,20 @@
 {
-  "runAt": "2026-10-14T05:55:40+02:00",
-  "targetDate": "2026-10-14",
-  "targetSet": "Assets 40",
-  "theme": "Buchbindertag",
-  "success": true,
-  "state": "completed",
-  "committedSha": "c0743e4a38d4b176c421df0fa20af871797f10db",
-  "buildSuccess": true,
-  "verifiedPaths": [
-    "BeamtenMonitorAvatar/Assets 40/Avatar/Idle.png",
-    "BeamtenMonitorAvatar/Assets 40/Avatar/Actions.png",
-    "BeamtenMonitorAvatar/Assets 40/MonitorScene/MonitorScene.png",
-    "BeamtenMonitorAvatar/Assets 40/Klingel/MonitorBell.png",
-    "BeamtenMonitorAvatar/Assets 40/Sprüche/Abschiedsspruch.json"
-  ],
-  "failedStep": "",
-  "message": "Assets 40 (Buchbindertag) wurde als atomarer Fünf-Dateien-Commit veröffentlicht. Nach Korrektur einer ausschließlich Git-bedingten Umlaut-Pfadmaskierung bestätigten GitHub Actions und zusätzliche frische main-Clones PNG-Integrität, exakte Maße, RGBA-Transparenz, acht Sprite-Zellränder von mindestens 28 px, gleiche Geh-Bodenlinie, verschiedene Gehphasen und gültiges JSON. Der Einmal-Publisher wurde entfernt und der bereinigte main-Stand erneut geprüft.",
+  "runAt": "2026-10-15T05:59:37+02:00",
+  "targetDate": "2026-10-15",
+  "targetSet": "Assets 41",
+  "theme": "Zeitungstag",
+  "success": false,
+  "state": "running",
+  "committedSha": "",
+  "buildSuccess": null,
+  "verifiedPaths": [],
+  "failedStep": "image-generation",
+  "message": "Status, Spezifikation, lückenlose Nummerierung bis Assets 40 sowie Original- und letzte Bildreferenzen wurden geprüft. Die Bildgenerierung für Assets 41 (Zeitungstag) beginnt.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-14T05:55:40+02:00",
     "targetDate": "2026-10-14",
     "targetSet": "Assets 40",
     "theme": "Buchbindertag",
     "committedSha": "c0743e4a38d4b176c421df0fa20af871797f10db"
-  },
-  "verificationWorkflowRunId": 38512342264,
-  "verificationMainSha": "c0743e4a38d4b176c421df0fa20af871797f10db",
-  "publisherCleanupSha": "add59dfcf318141149321c7ea01ec7f9f51a1742"
+  }
 }
