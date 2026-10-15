@@ -1,9 +1,75 @@
 {
-  "checkedSources": "Tagesprüfung 14.10.2026: Keine neue relevante Veröffentlichung seit dem verifizierten Stand vom 13.10.2026. BayMBl. bis Nr. 421 vom 07.10.2026, GVBl. bis S. 606 vom 30.09.2026, Augsburger Amtsblatt Nr. 39/40 vom 02.10.2026, Regierungsamtsblatt Schwaben Nr. 18 vom 29.09.2026; BVS-Jahrgangsunterlagen, Augsburger Stadtrecht/Nachwuchsinformationen sowie Bayern.Recht (GO, BayVwVfG) geprüft.",
+  "checkedSources": "Tagesprüfung 15.10.2026: Vier neue verwaltungsrelevante Veröffentlichungen seit dem verifizierten Stand vom 14.10.2026 aufgenommen: GVBl. 2026 S. 614 (DBauV) sowie BayMBl. 2026 Nr. 433 (BayKiBiG-Förderpauschalen), Nr. 431 (Justiz-Prüfungsvergütungen) und Nr. 425 (Aufhebung BZRG-Vollzugsbekanntmachung). BayMBl. bis Nr. 433 vom 14.10.2026, GVBl. bis S. 614 vom 15.10.2026; Augsburger Amtsblatt Nr. 39/40, RABl Schwaben Nr. 18, BVS-Jahrgangsunterlagen, Augsburger Stadtrecht/Nachwuchsinformationen sowie Bayern.Recht (GO, BayVwVfG, DBauV, BayKiBiG) geprüft.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Digitale Bauantragsverordnung: Stadt Marktredwitz wird einbezogen",
+          "kind": "Verordnung – Bauordnungsrecht",
+          "reference": "GVBl. 2026 S. 614; Verordnung vom 02.10.2026; BayRS 2132-1-24-B",
+          "published": "15.10.2026",
+          "effective": "01.11.2026; keine Übergangs- oder Rückwirkungsregel",
+          "summary": "§ 1 Abs. 3 DBauV erhält nach Nr. 18 die neue Nr. 19 „Stadt Marktredwitz“; die bisherigen Nrn. 19 bis 31 werden zu Nrn. 20 bis 32. Damit nimmt Marktredwitz ab November am digitalen Bauantragsverfahren nach der DBauV teil.",
+          "administrationImpact": "Für Augsburg entsteht keine neue Zuständigkeit. Bauverwaltungen sollten landesweite Verfahrensübersichten, Formulare und Hinweise zum Teilnehmerkreis ab 01.11.2026 mit der neuen Nummerierung abgleichen.",
+          "checkpoints": [
+            "Verkündung am 15.10.2026 und Inkrafttreten am 01.11.2026 unterscheiden.",
+            "Räumlichen Anwendungsbereich des § 1 Abs. 3 DBauV prüfen.",
+            "Keine Übergangs- oder Rückwirkungsregel festgestellt."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-614/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayDBauV"
+        },
+        {
+          "title": "BayKiBiG-Vollzug: neue Kindertagespflege- und Funktionsstellenpauschalen für 2027",
+          "kind": "Verwaltungsvorschrift – Kindertagesbetreuung und Förderung",
+          "reference": "BayMBl. 2026 Nr. 433; Bekanntmachung vom 29.09.2026, Az. V3/6511-1/874",
+          "published": "14.10.2026",
+          "effective": "Nr. 2 ab 22.10.2026; Nr. 1 ab 01.01.2027; keine Rückwirkung",
+          "summary": "Die Förderbekanntmachung wird um eine Kindertagespflegepauschale von 11.877,47 € je Kindertagespflegeperson und eine Funktionsstellenpauschale von 2.790,30 € je Kindertageseinrichtung für 2027 ergänzt. Außerdem wird in der U3-Bundesmittelrichtlinie die Jahresangabe 2027 durch 2026 ersetzt.",
+          "administrationImpact": "Kommunale Jugendhilfe- und Finanzstellen müssen Förderplanung, Haushaltsansätze, Vollzugshinweise und Abrechnungsvorgaben zu den jeweils unterschiedlichen Inkrafttretenszeitpunkten anpassen.",
+          "checkpoints": [
+            "Zwei unterschiedliche Inkrafttretenszeitpunkte beachten.",
+            "Pauschalen für das Kalenderjahr 2027 in Förder- und Haushaltsplanung übernehmen.",
+            "Korrektur der U3-Bundesmittelrichtlinie ab 22.10.2026 prüfen.",
+            "Keine Rückwirkung festgestellt."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-433/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKiBiG"
+        },
+        {
+          "title": "Justizbereich: Vergütungen für Prüfungs-, Lehr- und Vortragstätigkeiten steigen",
+          "kind": "Verwaltungsvorschrift – Prüfungs- und Lehrvergütung",
+          "reference": "BayMBl. 2026 Nr. 431; Bekanntmachung vom 08.09.2026, Az. 2103 - IX - 6422/2024",
+          "published": "14.10.2026",
+          "effective": "01.01.2027; keine Übergangs- oder Rückwirkungsregel",
+          "summary": "Stundensätze steigen je nach Fall von 13,84 € auf 20,00 € beziehungsweise von 18,04 € auf 23,00 €; zugehörige Höchstbeträge steigen von 83,04 € auf 120,00 € und von 108,24 € auf 138,00 €.",
+          "administrationImpact": "Die Regelung gilt unmittelbar nur im Geschäftsbereich des Bayerischen Staatsministeriums der Justiz. Einschlägige Abrechnungsstellen müssen ab 2027 die neuen Sätze anwenden; für die kommunale BVS-Ausbildung entsteht keine unmittelbare Änderung.",
+          "checkpoints": [
+            "Sachlichen Geltungsbereich Justiz prüfen.",
+            "Neue Sätze erst ab 01.01.2027 anwenden.",
+            "Keine Übergangs- oder Rückwirkungsregel festgestellt."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-431/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-431/"
+        },
+        {
+          "title": "BZRG-Vollzug: Bekanntmachung zur geschäftlichen Behandlung wird aufgehoben",
+          "kind": "Aufhebungsbekanntmachung – Bundeszentralregisterrecht",
+          "reference": "BayMBl. 2026 Nr. 425; Bekanntmachung vom 21.09.2026, Az. E8 - 4240 - II - 5136/2022",
+          "published": "14.10.2026",
+          "effective": "20.10.2026; keine Übergangs- oder Rückwirkungsregel",
+          "summary": "Die Bekanntmachung von 2022 zur geschäftlichen Behandlung der Angelegenheiten nach §§ 30 und 42 BZRG wird vollständig aufgehoben.",
+          "administrationImpact": "Betroffene Justizstellen müssen ab 20.10.2026 interne Verfahrenshinweise und Zuständigkeitsverweise bereinigen. Kommunen sollten alte Verweisungen auf die aufgehobene Bekanntmachung nicht ungeprüft weiterverwenden.",
+          "checkpoints": [
+            "Aufhebung tritt am 20.10.2026 in Kraft.",
+            "Interne Handreichungen und Verweisungen auf BayMBl. 2023 Nr. 1 prüfen.",
+            "Maßgeblich bleiben BZRG und aktuelle Vollzugsvorgaben.",
+            "Keine Übergangs- oder Rückwirkungsregel festgestellt."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-425/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-425/"
+        },
         {
           "title": "Aussetzung des Sonn- und Feiertagsfahrverbots wegen Niedrigwassers verlängert",
           "kind": "Allgemeinverfügung – befristete Ausnahme von § 30 Abs. 3 Satz 1 StVO",
@@ -931,11 +997,77 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 14.10.2026: keine neue relevante Veröffentlichung seit dem verifizierten Vortagesstand; gültige Meldungen bleiben erhalten. Bayern.Recht war heute erreichbar.",
+      "intro": "Prüfstand 15.10.2026: vier neue verwaltungsrelevante Veröffentlichungen aufgenommen; amtliche Fundstellen und Inkrafttreten geprüft.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Digitale Bauantragsverordnung: Stadt Marktredwitz wird einbezogen",
+          "kind": "Verordnung – Bauordnungsrecht",
+          "reference": "GVBl. 2026 S. 614; Verordnung vom 02.10.2026; BayRS 2132-1-24-B",
+          "published": "15.10.2026",
+          "effective": "01.11.2026; keine Übergangs- oder Rückwirkungsregel",
+          "summary": "§ 1 Abs. 3 DBauV erhält nach Nr. 18 die neue Nr. 19 „Stadt Marktredwitz“; die bisherigen Nrn. 19 bis 31 werden zu Nrn. 20 bis 32. Damit nimmt Marktredwitz ab November am digitalen Bauantragsverfahren nach der DBauV teil.",
+          "administrationImpact": "Für Augsburg entsteht keine neue Zuständigkeit. Bauverwaltungen sollten landesweite Verfahrensübersichten, Formulare und Hinweise zum Teilnehmerkreis ab 01.11.2026 mit der neuen Nummerierung abgleichen.",
+          "checkpoints": [
+            "Verkündung am 15.10.2026 und Inkrafttreten am 01.11.2026 unterscheiden.",
+            "Räumlichen Anwendungsbereich des § 1 Abs. 3 DBauV prüfen.",
+            "Keine Übergangs- oder Rückwirkungsregel festgestellt."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-614/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayDBauV"
+        },
+        {
+          "title": "BayKiBiG-Vollzug: neue Kindertagespflege- und Funktionsstellenpauschalen für 2027",
+          "kind": "Verwaltungsvorschrift – Kindertagesbetreuung und Förderung",
+          "reference": "BayMBl. 2026 Nr. 433; Bekanntmachung vom 29.09.2026, Az. V3/6511-1/874",
+          "published": "14.10.2026",
+          "effective": "Nr. 2 ab 22.10.2026; Nr. 1 ab 01.01.2027; keine Rückwirkung",
+          "summary": "Die Förderbekanntmachung wird um eine Kindertagespflegepauschale von 11.877,47 € je Kindertagespflegeperson und eine Funktionsstellenpauschale von 2.790,30 € je Kindertageseinrichtung für 2027 ergänzt. Außerdem wird in der U3-Bundesmittelrichtlinie die Jahresangabe 2027 durch 2026 ersetzt.",
+          "administrationImpact": "Kommunale Jugendhilfe- und Finanzstellen müssen Förderplanung, Haushaltsansätze, Vollzugshinweise und Abrechnungsvorgaben zu den jeweils unterschiedlichen Inkrafttretenszeitpunkten anpassen.",
+          "checkpoints": [
+            "Zwei unterschiedliche Inkrafttretenszeitpunkte beachten.",
+            "Pauschalen für das Kalenderjahr 2027 in Förder- und Haushaltsplanung übernehmen.",
+            "Korrektur der U3-Bundesmittelrichtlinie ab 22.10.2026 prüfen.",
+            "Keine Rückwirkung festgestellt."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-433/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKiBiG"
+        },
+        {
+          "title": "Justizbereich: Vergütungen für Prüfungs-, Lehr- und Vortragstätigkeiten steigen",
+          "kind": "Verwaltungsvorschrift – Prüfungs- und Lehrvergütung",
+          "reference": "BayMBl. 2026 Nr. 431; Bekanntmachung vom 08.09.2026, Az. 2103 - IX - 6422/2024",
+          "published": "14.10.2026",
+          "effective": "01.01.2027; keine Übergangs- oder Rückwirkungsregel",
+          "summary": "Stundensätze steigen je nach Fall von 13,84 € auf 20,00 € beziehungsweise von 18,04 € auf 23,00 €; zugehörige Höchstbeträge steigen von 83,04 € auf 120,00 € und von 108,24 € auf 138,00 €.",
+          "administrationImpact": "Die Regelung gilt unmittelbar nur im Geschäftsbereich des Bayerischen Staatsministeriums der Justiz. Einschlägige Abrechnungsstellen müssen ab 2027 die neuen Sätze anwenden; für die kommunale BVS-Ausbildung entsteht keine unmittelbare Änderung.",
+          "checkpoints": [
+            "Sachlichen Geltungsbereich Justiz prüfen.",
+            "Neue Sätze erst ab 01.01.2027 anwenden.",
+            "Keine Übergangs- oder Rückwirkungsregel festgestellt."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-431/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-431/"
+        },
+        {
+          "title": "BZRG-Vollzug: Bekanntmachung zur geschäftlichen Behandlung wird aufgehoben",
+          "kind": "Aufhebungsbekanntmachung – Bundeszentralregisterrecht",
+          "reference": "BayMBl. 2026 Nr. 425; Bekanntmachung vom 21.09.2026, Az. E8 - 4240 - II - 5136/2022",
+          "published": "14.10.2026",
+          "effective": "20.10.2026; keine Übergangs- oder Rückwirkungsregel",
+          "summary": "Die Bekanntmachung von 2022 zur geschäftlichen Behandlung der Angelegenheiten nach §§ 30 und 42 BZRG wird vollständig aufgehoben.",
+          "administrationImpact": "Betroffene Justizstellen müssen ab 20.10.2026 interne Verfahrenshinweise und Zuständigkeitsverweise bereinigen. Kommunen sollten alte Verweisungen auf die aufgehobene Bekanntmachung nicht ungeprüft weiterverwenden.",
+          "checkpoints": [
+            "Aufhebung tritt am 20.10.2026 in Kraft.",
+            "Interne Handreichungen und Verweisungen auf BayMBl. 2023 Nr. 1 prüfen.",
+            "Maßgeblich bleiben BZRG und aktuelle Vollzugsvorgaben.",
+            "Keine Übergangs- oder Rückwirkungsregel festgestellt."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-425/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-425/"
+        },
         {
           "title": "Aussetzung des Sonn- und Feiertagsfahrverbots wegen Niedrigwassers verlängert",
           "kind": "Allgemeinverfügung – befristete Ausnahme von § 30 Abs. 3 Satz 1 StVO",
@@ -1766,11 +1898,77 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 14.10.2026: keine neue relevante Veröffentlichung seit dem verifizierten Vortagesstand; gültige Meldungen bleiben erhalten. Bayern.Recht war heute erreichbar.",
+      "intro": "Prüfstand 15.10.2026: besonders relevant sind die DBauV-Erweiterung ab 01.11.2026 und die neuen BayKiBiG-Förderpauschalen; Geltungsbereiche beachten.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Digitale Bauantragsverordnung: Stadt Marktredwitz wird einbezogen",
+          "kind": "Verordnung – Bauordnungsrecht",
+          "reference": "GVBl. 2026 S. 614; Verordnung vom 02.10.2026; BayRS 2132-1-24-B",
+          "published": "15.10.2026",
+          "effective": "01.11.2026; keine Übergangs- oder Rückwirkungsregel",
+          "summary": "§ 1 Abs. 3 DBauV erhält nach Nr. 18 die neue Nr. 19 „Stadt Marktredwitz“; die bisherigen Nrn. 19 bis 31 werden zu Nrn. 20 bis 32. Damit nimmt Marktredwitz ab November am digitalen Bauantragsverfahren nach der DBauV teil.",
+          "administrationImpact": "Für Augsburg entsteht keine neue Zuständigkeit. Bauverwaltungen sollten landesweite Verfahrensübersichten, Formulare und Hinweise zum Teilnehmerkreis ab 01.11.2026 mit der neuen Nummerierung abgleichen.",
+          "checkpoints": [
+            "Verkündung am 15.10.2026 und Inkrafttreten am 01.11.2026 unterscheiden.",
+            "Räumlichen Anwendungsbereich des § 1 Abs. 3 DBauV prüfen.",
+            "Keine Übergangs- oder Rückwirkungsregel festgestellt."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-614/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayDBauV"
+        },
+        {
+          "title": "BayKiBiG-Vollzug: neue Kindertagespflege- und Funktionsstellenpauschalen für 2027",
+          "kind": "Verwaltungsvorschrift – Kindertagesbetreuung und Förderung",
+          "reference": "BayMBl. 2026 Nr. 433; Bekanntmachung vom 29.09.2026, Az. V3/6511-1/874",
+          "published": "14.10.2026",
+          "effective": "Nr. 2 ab 22.10.2026; Nr. 1 ab 01.01.2027; keine Rückwirkung",
+          "summary": "Die Förderbekanntmachung wird um eine Kindertagespflegepauschale von 11.877,47 € je Kindertagespflegeperson und eine Funktionsstellenpauschale von 2.790,30 € je Kindertageseinrichtung für 2027 ergänzt. Außerdem wird in der U3-Bundesmittelrichtlinie die Jahresangabe 2027 durch 2026 ersetzt.",
+          "administrationImpact": "Kommunale Jugendhilfe- und Finanzstellen müssen Förderplanung, Haushaltsansätze, Vollzugshinweise und Abrechnungsvorgaben zu den jeweils unterschiedlichen Inkrafttretenszeitpunkten anpassen.",
+          "checkpoints": [
+            "Zwei unterschiedliche Inkrafttretenszeitpunkte beachten.",
+            "Pauschalen für das Kalenderjahr 2027 in Förder- und Haushaltsplanung übernehmen.",
+            "Korrektur der U3-Bundesmittelrichtlinie ab 22.10.2026 prüfen.",
+            "Keine Rückwirkung festgestellt."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-433/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKiBiG"
+        },
+        {
+          "title": "Justizbereich: Vergütungen für Prüfungs-, Lehr- und Vortragstätigkeiten steigen",
+          "kind": "Verwaltungsvorschrift – Prüfungs- und Lehrvergütung",
+          "reference": "BayMBl. 2026 Nr. 431; Bekanntmachung vom 08.09.2026, Az. 2103 - IX - 6422/2024",
+          "published": "14.10.2026",
+          "effective": "01.01.2027; keine Übergangs- oder Rückwirkungsregel",
+          "summary": "Stundensätze steigen je nach Fall von 13,84 € auf 20,00 € beziehungsweise von 18,04 € auf 23,00 €; zugehörige Höchstbeträge steigen von 83,04 € auf 120,00 € und von 108,24 € auf 138,00 €.",
+          "administrationImpact": "Die Regelung gilt unmittelbar nur im Geschäftsbereich des Bayerischen Staatsministeriums der Justiz. Einschlägige Abrechnungsstellen müssen ab 2027 die neuen Sätze anwenden; für die kommunale BVS-Ausbildung entsteht keine unmittelbare Änderung.",
+          "checkpoints": [
+            "Sachlichen Geltungsbereich Justiz prüfen.",
+            "Neue Sätze erst ab 01.01.2027 anwenden.",
+            "Keine Übergangs- oder Rückwirkungsregel festgestellt."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-431/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-431/"
+        },
+        {
+          "title": "BZRG-Vollzug: Bekanntmachung zur geschäftlichen Behandlung wird aufgehoben",
+          "kind": "Aufhebungsbekanntmachung – Bundeszentralregisterrecht",
+          "reference": "BayMBl. 2026 Nr. 425; Bekanntmachung vom 21.09.2026, Az. E8 - 4240 - II - 5136/2022",
+          "published": "14.10.2026",
+          "effective": "20.10.2026; keine Übergangs- oder Rückwirkungsregel",
+          "summary": "Die Bekanntmachung von 2022 zur geschäftlichen Behandlung der Angelegenheiten nach §§ 30 und 42 BZRG wird vollständig aufgehoben.",
+          "administrationImpact": "Betroffene Justizstellen müssen ab 20.10.2026 interne Verfahrenshinweise und Zuständigkeitsverweise bereinigen. Kommunen sollten alte Verweisungen auf die aufgehobene Bekanntmachung nicht ungeprüft weiterverwenden.",
+          "checkpoints": [
+            "Aufhebung tritt am 20.10.2026 in Kraft.",
+            "Interne Handreichungen und Verweisungen auf BayMBl. 2023 Nr. 1 prüfen.",
+            "Maßgeblich bleiben BZRG und aktuelle Vollzugsvorgaben.",
+            "Keine Übergangs- oder Rückwirkungsregel festgestellt."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-425/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-425/"
+        },
         {
           "title": "Aussetzung des Sonn- und Feiertagsfahrverbots wegen Niedrigwassers verlängert",
           "kind": "Allgemeinverfügung – befristete Ausnahme von § 30 Abs. 3 Satz 1 StVO",
@@ -2730,9 +2928,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 14.10.2026: keine neue relevante Veröffentlichung seit dem verifizierten Vortagesstand; gültige Meldungen bleiben erhalten. Bayern.Recht war heute erreichbar.",
+      "intro": "Prüfstand 15.10.2026: vollständige heutige Änderungen mit Fundstellen, Inkrafttreten, Auswirkungen und Prüfpunkten.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-14T05:57:59+02:00"
+  "updatedAt": "2026-10-15T06:02:20+02:00"
 }
