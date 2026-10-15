@@ -8,8 +8,8 @@
   "committedSha": "",
   "buildSuccess": null,
   "verifiedPaths": [],
-  "failedStep": "image-generation",
-  "message": "Status, Spezifikation, lückenlose Nummerierung bis Assets 40 sowie Original- und letzte Bildreferenzen wurden geprüft. Die Bildgenerierung für Assets 41 (Zeitungstag) beginnt.",
+  "failedStep": "github-publish-fallback",
+  "message": "Vier eigenständige Zeitungstag-Illustrationen und der Abschiedsspruch wurden lokal vollständig geprüft: exakte Maße, RGBA-Transparenz, PNG load/verify sowie acht Sprite-Zellen mit mindestens 28 px Sicherheitsrand. Wegen der Größe der Binärdateien wird der verbindliche einmalige GitHub-Actions-Publisher vorbereitet.",
   "lastSuccessfulRun": {
     "runAt": "2026-10-14T05:55:40+02:00",
     "targetDate": "2026-10-14",
