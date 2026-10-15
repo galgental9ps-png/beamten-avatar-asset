@@ -1,0 +1,21 @@
+name: Publish Assets 41 Zeitungstag
+on:
+  push:
+    branches: [main]
+    paths: ['.asset-publisher/41/ready']
+permissions:
+  contents: write
+jobs:
+  publish-and-verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install --disable-pip-version-check Pillow
+      - name: Reconstruct, validate, publish, and verify origin/main
+        run: python .asset-publisher/41/publisher.py
