@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Tagesprüfung 15.10.2026: Vier neue verwaltungsrelevante Veröffentlichungen seit dem verifizierten Stand vom 14.10.2026 aufgenommen: GVBl. 2026 S. 614 (DBauV) sowie BayMBl. 2026 Nr. 433 (BayKiBiG-Förderpauschalen), Nr. 431 (Justiz-Prüfungsvergütungen) und Nr. 425 (Aufhebung BZRG-Vollzugsbekanntmachung). BayMBl. bis Nr. 433 vom 14.10.2026, GVBl. bis S. 614 vom 15.10.2026; Augsburger Amtsblatt Nr. 39/40, RABl Schwaben Nr. 18, BVS-Jahrgangsunterlagen, Augsburger Stadtrecht/Nachwuchsinformationen sowie Bayern.Recht (GO, BayVwVfG, DBauV, BayKiBiG) geprüft.",
+  "checkedSources": "Tagesprüfung 16.10.2026: Keine neue relevante Veröffentlichung seit dem verifizierten Stand vom 15.10.2026 festgestellt. BayMBl. bis Nr. 433 vom 14.10.2026, GVBl. bis S. 614 vom 15.10.2026; Augsburger Amtsblatt Nr. 39/40 vom 02.10.2026, RABl Schwaben Nr. 18 vom 29.09.2026, BVS-Jahrgangsunterlagen 2026/2028, Augsburger Stadtrecht und Nachwuchsinformationen sowie Bayern.Recht (GO, BayVwVfG, DBauV und BayKiBiG) geprüft.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -997,7 +997,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 15.10.2026: vier neue verwaltungsrelevante Veröffentlichungen aufgenommen; amtliche Fundstellen und Inkrafttreten geprüft.",
+      "intro": "Prüfstand 16.10.2026: keine neue relevante Veröffentlichung; amtliche Quellen und bestehende Fundstellen erneut geprüft.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -1898,7 +1898,7 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 15.10.2026: besonders relevant sind die DBauV-Erweiterung ab 01.11.2026 und die neuen BayKiBiG-Förderpauschalen; Geltungsbereiche beachten.",
+      "intro": "Prüfstand 16.10.2026: bestehende Hinweise bleiben maßgeblich; heute keine neue relevante Veröffentlichung.",
       "label": "Was ist wichtig?"
     },
     {
@@ -2928,9 +2928,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 15.10.2026: vollständige heutige Änderungen mit Fundstellen, Inkrafttreten, Auswirkungen und Prüfpunkten.",
+      "intro": "Prüfstand 16.10.2026: vollständiger verifizierter Änderungsbestand; heute ohne fachliche Neuerung.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-15T06:02:20+02:00"
+  "updatedAt": "2026-10-16T05:55:56+02:00"
 }
