@@ -1,9 +1,43 @@
 {
-  "checkedSources": "Tagesprüfung 16.10.2026: Keine neue relevante Veröffentlichung seit dem verifizierten Stand vom 15.10.2026 festgestellt. BayMBl. bis Nr. 433 vom 14.10.2026, GVBl. bis S. 614 vom 15.10.2026; Augsburger Amtsblatt Nr. 39/40 vom 02.10.2026, RABl Schwaben Nr. 18 vom 29.09.2026, BVS-Jahrgangsunterlagen 2026/2028, Augsburger Stadtrecht und Nachwuchsinformationen sowie Bayern.Recht (GO, BayVwVfG, DBauV und BayKiBiG) geprüft.",
+  "checkedSources": "Tagesprüfung 17.10.2026: Zwei neue verwaltungsrelevante Veröffentlichungen aus dem Augsburger Amtsblatt Nr. 41/42 vom 16.10.2026 aufgenommen (Änderung der Stadtrats-Entschädigungssatzung; wasserrechtliches UVP-Verfahren im Textilviertel). BayMBl. bis Nr. 433 vom 14.10.2026, GVBl. bis S. 614 vom 15.10.2026, RABl Schwaben Nr. 18 vom 29.09.2026, BVS-Jahrgangsunterlagen 2026/2028, Augsburger Stadtrecht und Nachwuchsinformationen sowie Bayern.Recht (GO, BayVwVfG, DBauV und BayKiBiG) geprüft.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Augsburg: Entschädigung ehrenamtlicher Stadtratsmitglieder geändert",
+          "kind": "Kommunale Änderungssatzung",
+          "reference": "Amtsblatt der Stadt Augsburg Nr. 41/42, S. 279; Satzung vom 01.10.2026",
+          "published": "2026-10-16",
+          "effective": "2026-10-17; die Änderungen gelten rückwirkend ab 2026-05-01",
+          "summary": "Zusatzentschädigungen für Vorsitzende und Stellvertretungen von Fraktionen oder Fraktionsgemeinschaften werden nach Fraktionsgröße neu gestaffelt; außerdem wird der Kreis entschädigungsfähiger Sitzungen neu gefasst.",
+          "administrationImpact": "Rats- und Finanzverwaltung müssen Anspruchsberechtigte, Prozentsätze und Abrechnungen seit Mai 2026 prüfen und gegebenenfalls rückwirkend berichtigen.",
+          "checkpoints": [
+            "Keine unmittelbare Änderung für Anwärterbezüge",
+            "Inkrafttreten am Tag nach Bekanntmachung beachten",
+            "Rückwirkungsstichtag 01.05.2026 getrennt dokumentieren",
+            "Abrechnungsläufe und Fraktionsstammdaten prüfen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-41-42_vom-16-10-2026_.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Augsburg: Wasserrechtliches UVP-Verfahren zur Grundwasserabsenkung im Textilviertel",
+          "kind": "Amtliche Bekanntmachung / wasserrechtliches Erlaubnisverfahren",
+          "reference": "§ 15 WHG; Art. 69 BayWG i. V. m. Art. 72 ff. BayVwVfG; Amtsblatt Nr. 41/42, S. 279–280",
+          "published": "2026-10-16",
+          "effective": "Auslegung 2026-10-26 bis 2026-11-25; Einwendungen bis einschließlich 2026-12-09",
+          "summary": "Für den seit 1999 bestehenden Betrieb der Grundwasseranlage wird eine gehobene Erlaubnis neu beantragt. Die Stadt hat eine UVP-Pflicht festgestellt und legt die Planunterlagen öffentlich aus.",
+          "administrationImpact": "Umweltamt und Stadtentwässerung müssen Online- und Vor-Ort-Auslegung, Einwendungen, Behördenbeteiligung und gegebenenfalls Erörterung und öffentliche Zustellungen fristgerecht dokumentieren.",
+          "checkpoints": [
+            "Auslegungsfrist 26.10.–25.11.2026 sichern",
+            "Einwendungsfrist 09.12.2026 sichern",
+            "Formhinweise für elektronische Einwendungen beachten",
+            "UVP-Unterlagen und Onlinezugang kontrollieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-41-42_vom-16-10-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwVfG"
+        },
         {
           "title": "Digitale Bauantragsverordnung: Stadt Marktredwitz wird einbezogen",
           "kind": "Verordnung – Bauordnungsrecht",
@@ -997,11 +1031,45 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 16.10.2026: keine neue relevante Veröffentlichung; amtliche Quellen und bestehende Fundstellen erneut geprüft.",
+      "intro": "Prüfstand 17.10.2026: zwei neue relevante Veröffentlichungen aus dem Augsburger Amtsblatt Nr. 41/42 aufgenommen.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Augsburg: Entschädigung ehrenamtlicher Stadtratsmitglieder geändert",
+          "kind": "Kommunale Änderungssatzung",
+          "reference": "Amtsblatt der Stadt Augsburg Nr. 41/42, S. 279; Satzung vom 01.10.2026",
+          "published": "2026-10-16",
+          "effective": "2026-10-17; die Änderungen gelten rückwirkend ab 2026-05-01",
+          "summary": "Zusatzentschädigungen für Vorsitzende und Stellvertretungen von Fraktionen oder Fraktionsgemeinschaften werden nach Fraktionsgröße neu gestaffelt; außerdem wird der Kreis entschädigungsfähiger Sitzungen neu gefasst.",
+          "administrationImpact": "Rats- und Finanzverwaltung müssen Anspruchsberechtigte, Prozentsätze und Abrechnungen seit Mai 2026 prüfen und gegebenenfalls rückwirkend berichtigen.",
+          "checkpoints": [
+            "Keine unmittelbare Änderung für Anwärterbezüge",
+            "Inkrafttreten am Tag nach Bekanntmachung beachten",
+            "Rückwirkungsstichtag 01.05.2026 getrennt dokumentieren",
+            "Abrechnungsläufe und Fraktionsstammdaten prüfen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-41-42_vom-16-10-2026_.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Augsburg: Wasserrechtliches UVP-Verfahren zur Grundwasserabsenkung im Textilviertel",
+          "kind": "Amtliche Bekanntmachung / wasserrechtliches Erlaubnisverfahren",
+          "reference": "§ 15 WHG; Art. 69 BayWG i. V. m. Art. 72 ff. BayVwVfG; Amtsblatt Nr. 41/42, S. 279–280",
+          "published": "2026-10-16",
+          "effective": "Auslegung 2026-10-26 bis 2026-11-25; Einwendungen bis einschließlich 2026-12-09",
+          "summary": "Für den seit 1999 bestehenden Betrieb der Grundwasseranlage wird eine gehobene Erlaubnis neu beantragt. Die Stadt hat eine UVP-Pflicht festgestellt und legt die Planunterlagen öffentlich aus.",
+          "administrationImpact": "Umweltamt und Stadtentwässerung müssen Online- und Vor-Ort-Auslegung, Einwendungen, Behördenbeteiligung und gegebenenfalls Erörterung und öffentliche Zustellungen fristgerecht dokumentieren.",
+          "checkpoints": [
+            "Auslegungsfrist 26.10.–25.11.2026 sichern",
+            "Einwendungsfrist 09.12.2026 sichern",
+            "Formhinweise für elektronische Einwendungen beachten",
+            "UVP-Unterlagen und Onlinezugang kontrollieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-41-42_vom-16-10-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwVfG"
+        },
         {
           "title": "Digitale Bauantragsverordnung: Stadt Marktredwitz wird einbezogen",
           "kind": "Verordnung – Bauordnungsrecht",
@@ -1898,11 +1966,45 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 16.10.2026: bestehende Hinweise bleiben maßgeblich; heute keine neue relevante Veröffentlichung.",
+      "intro": "Prüfstand 17.10.2026: Rückwirkung der Entschädigungssatzung und Fristen des wasserrechtlichen UVP-Verfahrens besonders beachten.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Augsburg: Entschädigung ehrenamtlicher Stadtratsmitglieder geändert",
+          "kind": "Kommunale Änderungssatzung",
+          "reference": "Amtsblatt der Stadt Augsburg Nr. 41/42, S. 279; Satzung vom 01.10.2026",
+          "published": "2026-10-16",
+          "effective": "2026-10-17; die Änderungen gelten rückwirkend ab 2026-05-01",
+          "summary": "Zusatzentschädigungen für Vorsitzende und Stellvertretungen von Fraktionen oder Fraktionsgemeinschaften werden nach Fraktionsgröße neu gestaffelt; außerdem wird der Kreis entschädigungsfähiger Sitzungen neu gefasst.",
+          "administrationImpact": "Rats- und Finanzverwaltung müssen Anspruchsberechtigte, Prozentsätze und Abrechnungen seit Mai 2026 prüfen und gegebenenfalls rückwirkend berichtigen.",
+          "checkpoints": [
+            "Keine unmittelbare Änderung für Anwärterbezüge",
+            "Inkrafttreten am Tag nach Bekanntmachung beachten",
+            "Rückwirkungsstichtag 01.05.2026 getrennt dokumentieren",
+            "Abrechnungsläufe und Fraktionsstammdaten prüfen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-41-42_vom-16-10-2026_.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Augsburg: Wasserrechtliches UVP-Verfahren zur Grundwasserabsenkung im Textilviertel",
+          "kind": "Amtliche Bekanntmachung / wasserrechtliches Erlaubnisverfahren",
+          "reference": "§ 15 WHG; Art. 69 BayWG i. V. m. Art. 72 ff. BayVwVfG; Amtsblatt Nr. 41/42, S. 279–280",
+          "published": "2026-10-16",
+          "effective": "Auslegung 2026-10-26 bis 2026-11-25; Einwendungen bis einschließlich 2026-12-09",
+          "summary": "Für den seit 1999 bestehenden Betrieb der Grundwasseranlage wird eine gehobene Erlaubnis neu beantragt. Die Stadt hat eine UVP-Pflicht festgestellt und legt die Planunterlagen öffentlich aus.",
+          "administrationImpact": "Umweltamt und Stadtentwässerung müssen Online- und Vor-Ort-Auslegung, Einwendungen, Behördenbeteiligung und gegebenenfalls Erörterung und öffentliche Zustellungen fristgerecht dokumentieren.",
+          "checkpoints": [
+            "Auslegungsfrist 26.10.–25.11.2026 sichern",
+            "Einwendungsfrist 09.12.2026 sichern",
+            "Formhinweise für elektronische Einwendungen beachten",
+            "UVP-Unterlagen und Onlinezugang kontrollieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-41-42_vom-16-10-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwVfG"
+        },
         {
           "title": "Digitale Bauantragsverordnung: Stadt Marktredwitz wird einbezogen",
           "kind": "Verordnung – Bauordnungsrecht",
@@ -2928,9 +3030,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 16.10.2026: vollständiger verifizierter Änderungsbestand; heute ohne fachliche Neuerung.",
+      "intro": "Prüfstand 17.10.2026: vollständiger verifizierter Änderungsbestand einschließlich der zwei neuen Augsburger Bekanntmachungen.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-16T05:55:56+02:00"
+  "updatedAt": "2026-10-17T05:55:52+02:00"
 }
