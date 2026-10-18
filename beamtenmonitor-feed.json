@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Tagesprüfung 17.10.2026: Zwei neue verwaltungsrelevante Veröffentlichungen aus dem Augsburger Amtsblatt Nr. 41/42 vom 16.10.2026 aufgenommen (Änderung der Stadtrats-Entschädigungssatzung; wasserrechtliches UVP-Verfahren im Textilviertel). BayMBl. bis Nr. 433 vom 14.10.2026, GVBl. bis S. 614 vom 15.10.2026, RABl Schwaben Nr. 18 vom 29.09.2026, BVS-Jahrgangsunterlagen 2026/2028, Augsburger Stadtrecht und Nachwuchsinformationen sowie Bayern.Recht (GO, BayVwVfG, DBauV und BayKiBiG) geprüft.",
+  "checkedSources": "Tagesprüfung 18.10.2026: Keine neue relevante Veröffentlichung seit dem verifizierten Stand vom 17.10.2026 festgestellt. BayMBl. weiterhin bis Nr. 433 vom 14.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt Nr. 41/42 vom 16.10.2026 und RABl Schwaben Nr. 18 vom 29.09.2026. BVS-Jahrgangsunterlagen 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburger Stadtrecht und Nachwuchsinformationen sowie Bayern.Recht (GO, BayVwVfG, DBauV und BayKiBiG) geprüft.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -1031,7 +1031,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 17.10.2026: zwei neue relevante Veröffentlichungen aus dem Augsburger Amtsblatt Nr. 41/42 aufgenommen.",
+      "intro": "Prüfstand 18.10.2026: keine neue relevante fachliche Änderung; der verifizierte Änderungsbestand bleibt unverändert.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -1966,7 +1966,7 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 17.10.2026: Rückwirkung der Entschädigungssatzung und Fristen des wasserrechtlichen UVP-Verfahrens besonders beachten.",
+      "intro": "Prüfstand 18.10.2026: keine neue Meldung; bestehende Fristen, Rückwirkungen und Verwaltungsauswirkungen bleiben maßgeblich.",
       "label": "Was ist wichtig?"
     },
     {
@@ -3030,9 +3030,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 17.10.2026: vollständiger verifizierter Änderungsbestand einschließlich der zwei neuen Augsburger Bekanntmachungen.",
+      "intro": "Prüfstand 18.10.2026: vollständiger verifizierter Änderungsbestand ohne neue Einträge gegenüber dem 17.10.2026.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-17T05:55:52+02:00"
+  "updatedAt": "2026-10-18T05:57:16+02:00"
 }
