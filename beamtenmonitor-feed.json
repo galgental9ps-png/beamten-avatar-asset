@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Tagesprüfung 20.10.2026: Keine neue relevante Veröffentlichung seit dem verifizierten Stand vom 19.10.2026 festgestellt. BayMBl. weiterhin bis Nr. 433 vom 14.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt Nr. 41/42 vom 16.10.2026 und RABl Schwaben Nr. 18 vom 29.09.2026. BVS-Jahrgangsunterlagen 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburger Stadtrecht und Nachwuchsinformationen sowie Bayern.Recht (GO, BayVwVfG, DBauV und BayKiBiG) geprüft.",
+  "checkedSources": "Prüfstand 21.10.2026: BayMBl. bis Nr. 433 vom 14.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt bis Nr. 41/42 vom 16.10.2026, Regierungsamtsblatt Schwaben bis Nr. 18 vom 29.09.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht-Lesefassungen geprüft; gegenüber dem verifizierten Stand vom 20.10.2026 keine neue relevante fachliche Änderung festgestellt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -1031,7 +1031,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 20.10.2026: keine neue relevante fachliche Änderung; der verifizierte Änderungsbestand bleibt unverändert.",
+      "intro": "Prüfstand 21.10.2026: amtliche Primärquellen geprüft; keine neuen relevanten Einträge gegenüber dem 20.10.2026.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -1966,7 +1966,7 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 20.10.2026: keine neue Meldung; bestehende Fristen, Rückwirkungen und Verwaltungsauswirkungen bleiben maßgeblich.",
+      "intro": "Prüfstand 21.10.2026: amtliche Primärquellen geprüft; keine neuen relevanten Einträge gegenüber dem 20.10.2026.",
       "label": "Was ist wichtig?"
     },
     {
@@ -3030,9 +3030,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 20.10.2026: vollständiger verifizierter Änderungsbestand ohne neue Einträge gegenüber dem 19.10.2026.",
+      "intro": "Prüfstand 21.10.2026: vollständiger verifizierter Änderungsbestand; keine neuen relevanten Einträge gegenüber dem 20.10.2026.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-20T06:01:27+02:00"
+  "updatedAt": "2026-10-21T05:55:22+02:00"
 }
