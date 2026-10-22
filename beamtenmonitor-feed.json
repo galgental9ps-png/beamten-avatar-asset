@@ -1,9 +1,43 @@
 {
-  "checkedSources": "Prüfstand 21.10.2026: BayMBl. bis Nr. 433 vom 14.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt bis Nr. 41/42 vom 16.10.2026, Regierungsamtsblatt Schwaben bis Nr. 18 vom 29.09.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht-Lesefassungen geprüft; gegenüber dem verifizierten Stand vom 20.10.2026 keine neue relevante fachliche Änderung festgestellt.",
+  "checkedSources": "Prüfstand 22.10.2026: BayMBl. bis Nr. 439 vom 21.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt bis Nr. 41/42 vom 16.10.2026, Regierungsamtsblatt Schwaben bis Nr. 18 vom 29.09.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht-Lesefassungen geprüft; zwei neue kommunalrelevante Verwaltungsvorschriften aufgenommen (BayMBl. Nr. 434 und Nr. 439).",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Bayerisches Wohnraumförderprogramm (BayWP) ab 2027",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 434; Bekanntmachung vom 17.09.2026, Az. 31-4731.1-2-15-56",
+          "published": "2026-10-21",
+          "effective": "2027-01-01 bis 2029-12-31; Altprogramme treten 2026-12-31 außer Kraft; Überleitung für bis 2025-05-30 zugelassene vorzeitige Vorhabenbeginne/Kaufvertragsabschlüsse bis 2028-12-31",
+          "summary": "Das BayWP bündelt die Förderung von Miet- und Eigenwohnraum, Modernisierung, Barriereabbau und kommunalem Wohnungsbau. Alte und neue Bewilligungsverfahren sind anhand der Überleitungsregel zu trennen.",
+          "administrationImpact": "Kommunale Wohnungs-, Liegenschafts- und Förderstellen müssen Formblätter, Haushaltsplanung, Zuständigkeiten und offene Förderfälle auf das neue Programm umstellen.",
+          "checkpoints": [
+            "Keine unmittelbare Änderung der Anwärterbezüge",
+            "Neue Anträge ab 01.01.2027 nach BayWP behandeln",
+            "Altfälle nach Stichtag 30.05.2025 klassifizieren",
+            "Überleitungsentscheidung und Zuständigkeit aktenkundig machen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-434/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayWoFG"
+        },
+        {
+          "title": "Heimat-Digital-Regional-Förderrichtlinie geändert",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 439; Bekanntmachung vom 09.10.2026, Az. 55-L 9542-2",
+          "published": "2026-10-21",
+          "effective": "2026-12-31; Geltung bis 2030 verlängert; keine Rückwirkung",
+          "summary": "Gefördert werden innovative, fachübergreifende digitale Heimatprojekte. Partizipative Projekte können bis zu 450.000 Euro erhalten; begrenzte unentgeltliche Arbeitsleistungen können als fiktive Ausgaben berücksichtigt werden. Anträge sind digital regelmäßig sechs Wochen vor Projektbeginn einzureichen.",
+          "administrationImpact": "Kommunale Projekt-, Digital- und Finanzstellen müssen regionale Abstimmung, Beteiligung, Eigenleistungen, Kofinanzierung und die Antragsfrist frühzeitig dokumentieren.",
+          "checkpoints": [
+            "Keine unmittelbare Änderung für die BVS-Ausbildung",
+            "Förderfähigkeit geplanter Digitalprojekte prüfen",
+            "Sechswochenfrist vor Projektbeginn einplanen",
+            "Eigenleistungen und Finanzierungsplan prüffest belegen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-439/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-439/"
+        },
         {
           "title": "Augsburg: Entschädigung ehrenamtlicher Stadtratsmitglieder geändert",
           "kind": "Kommunale Änderungssatzung",
@@ -1031,11 +1065,45 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 21.10.2026: amtliche Primärquellen geprüft; keine neuen relevanten Einträge gegenüber dem 20.10.2026.",
+      "intro": "Prüfstand 22.10.2026: zwei neue kommunalrelevante Verwaltungsvorschriften vom 21.10.2026 aufgenommen.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Bayerisches Wohnraumförderprogramm (BayWP) ab 2027",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 434; Bekanntmachung vom 17.09.2026, Az. 31-4731.1-2-15-56",
+          "published": "2026-10-21",
+          "effective": "2027-01-01 bis 2029-12-31; Altprogramme treten 2026-12-31 außer Kraft; Überleitung für bis 2025-05-30 zugelassene vorzeitige Vorhabenbeginne/Kaufvertragsabschlüsse bis 2028-12-31",
+          "summary": "Das BayWP bündelt die Förderung von Miet- und Eigenwohnraum, Modernisierung, Barriereabbau und kommunalem Wohnungsbau. Alte und neue Bewilligungsverfahren sind anhand der Überleitungsregel zu trennen.",
+          "administrationImpact": "Kommunale Wohnungs-, Liegenschafts- und Förderstellen müssen Formblätter, Haushaltsplanung, Zuständigkeiten und offene Förderfälle auf das neue Programm umstellen.",
+          "checkpoints": [
+            "Keine unmittelbare Änderung der Anwärterbezüge",
+            "Neue Anträge ab 01.01.2027 nach BayWP behandeln",
+            "Altfälle nach Stichtag 30.05.2025 klassifizieren",
+            "Überleitungsentscheidung und Zuständigkeit aktenkundig machen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-434/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayWoFG"
+        },
+        {
+          "title": "Heimat-Digital-Regional-Förderrichtlinie geändert",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 439; Bekanntmachung vom 09.10.2026, Az. 55-L 9542-2",
+          "published": "2026-10-21",
+          "effective": "2026-12-31; Geltung bis 2030 verlängert; keine Rückwirkung",
+          "summary": "Gefördert werden innovative, fachübergreifende digitale Heimatprojekte. Partizipative Projekte können bis zu 450.000 Euro erhalten; begrenzte unentgeltliche Arbeitsleistungen können als fiktive Ausgaben berücksichtigt werden. Anträge sind digital regelmäßig sechs Wochen vor Projektbeginn einzureichen.",
+          "administrationImpact": "Kommunale Projekt-, Digital- und Finanzstellen müssen regionale Abstimmung, Beteiligung, Eigenleistungen, Kofinanzierung und die Antragsfrist frühzeitig dokumentieren.",
+          "checkpoints": [
+            "Keine unmittelbare Änderung für die BVS-Ausbildung",
+            "Förderfähigkeit geplanter Digitalprojekte prüfen",
+            "Sechswochenfrist vor Projektbeginn einplanen",
+            "Eigenleistungen und Finanzierungsplan prüffest belegen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-439/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-439/"
+        },
         {
           "title": "Augsburg: Entschädigung ehrenamtlicher Stadtratsmitglieder geändert",
           "kind": "Kommunale Änderungssatzung",
@@ -1966,11 +2034,45 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 21.10.2026: amtliche Primärquellen geprüft; keine neuen relevanten Einträge gegenüber dem 20.10.2026.",
+      "intro": "Prüfstand 22.10.2026: wichtig sind die Umstellung der Wohnraumförderung ab 2027 und neue Regeln für digitale Regionalprojekte ab 31.12.2026.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Bayerisches Wohnraumförderprogramm (BayWP) ab 2027",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 434; Bekanntmachung vom 17.09.2026, Az. 31-4731.1-2-15-56",
+          "published": "2026-10-21",
+          "effective": "2027-01-01 bis 2029-12-31; Altprogramme treten 2026-12-31 außer Kraft; Überleitung für bis 2025-05-30 zugelassene vorzeitige Vorhabenbeginne/Kaufvertragsabschlüsse bis 2028-12-31",
+          "summary": "Das BayWP bündelt die Förderung von Miet- und Eigenwohnraum, Modernisierung, Barriereabbau und kommunalem Wohnungsbau. Alte und neue Bewilligungsverfahren sind anhand der Überleitungsregel zu trennen.",
+          "administrationImpact": "Kommunale Wohnungs-, Liegenschafts- und Förderstellen müssen Formblätter, Haushaltsplanung, Zuständigkeiten und offene Förderfälle auf das neue Programm umstellen.",
+          "checkpoints": [
+            "Keine unmittelbare Änderung der Anwärterbezüge",
+            "Neue Anträge ab 01.01.2027 nach BayWP behandeln",
+            "Altfälle nach Stichtag 30.05.2025 klassifizieren",
+            "Überleitungsentscheidung und Zuständigkeit aktenkundig machen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-434/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayWoFG"
+        },
+        {
+          "title": "Heimat-Digital-Regional-Förderrichtlinie geändert",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 439; Bekanntmachung vom 09.10.2026, Az. 55-L 9542-2",
+          "published": "2026-10-21",
+          "effective": "2026-12-31; Geltung bis 2030 verlängert; keine Rückwirkung",
+          "summary": "Gefördert werden innovative, fachübergreifende digitale Heimatprojekte. Partizipative Projekte können bis zu 450.000 Euro erhalten; begrenzte unentgeltliche Arbeitsleistungen können als fiktive Ausgaben berücksichtigt werden. Anträge sind digital regelmäßig sechs Wochen vor Projektbeginn einzureichen.",
+          "administrationImpact": "Kommunale Projekt-, Digital- und Finanzstellen müssen regionale Abstimmung, Beteiligung, Eigenleistungen, Kofinanzierung und die Antragsfrist frühzeitig dokumentieren.",
+          "checkpoints": [
+            "Keine unmittelbare Änderung für die BVS-Ausbildung",
+            "Förderfähigkeit geplanter Digitalprojekte prüfen",
+            "Sechswochenfrist vor Projektbeginn einplanen",
+            "Eigenleistungen und Finanzierungsplan prüffest belegen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-439/",
+          "consolidatedUrl": "https://www.verkuendung-bayern.de/baymbl/2026-439/"
+        },
         {
           "title": "Augsburg: Entschädigung ehrenamtlicher Stadtratsmitglieder geändert",
           "kind": "Kommunale Änderungssatzung",
@@ -3030,9 +3132,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 21.10.2026: vollständiger verifizierter Änderungsbestand; keine neuen relevanten Einträge gegenüber dem 20.10.2026.",
+      "intro": "Prüfstand 22.10.2026: vollständiger verifizierter Änderungsbestand einschließlich BayMBl. 2026 Nr. 434 und Nr. 439.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-21T05:55:22+02:00"
+  "updatedAt": "2026-10-22T05:57:43+02:00"
 }
