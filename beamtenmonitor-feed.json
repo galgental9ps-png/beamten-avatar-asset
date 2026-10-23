@@ -1,9 +1,43 @@
 {
-  "checkedSources": "Prüfstand 22.10.2026: BayMBl. bis Nr. 439 vom 21.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt bis Nr. 41/42 vom 16.10.2026, Regierungsamtsblatt Schwaben bis Nr. 18 vom 29.09.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht-Lesefassungen geprüft; zwei neue kommunalrelevante Verwaltungsvorschriften aufgenommen (BayMBl. Nr. 434 und Nr. 439).",
+  "checkedSources": "Prüfstand 23.10.2026: BayMBl. bis Nr. 439 vom 21.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt bis Nr. 41/42 vom 16.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht-Lesefassungen geprüft; zwei neue kommunalrelevante Veröffentlichungen aus RABl. Schwaben Nr. 19 aufgenommen.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Kurhaus Augsburg-Göggingen: Entschädigung der Verbandsräte neu geregelt",
+          "kind": "Satzung",
+          "reference": "RABl. Schwaben 2026 S. 222; Satzung vom 14.07.2026",
+          "published": "2026-10-20",
+          "effective": "Rückwirkend zum 2026-08-01",
+          "summary": "Der Zweckverband regelt Pauschalen, Sitzungsgeld sowie Ersatz von Verdienstausfall, Betreuungskosten und Fahrtauslagen für Verbandsräte neu.",
+          "administrationImpact": "Geschäftsstelle und Finanzverwaltung müssen Ansprüche seit 1. August 2026 nach den neuen Sätzen abrechnen und Nachweise dokumentieren.",
+          "checkpoints": [
+            "150 € monatlich für den Verbandsvorsitz",
+            "75 € monatlich für die Stellvertretung",
+            "40 € Sitzungsgeld für gekorene Verbandsräte",
+            "Rückwirkende Abrechnung ab 01.08.2026 prüfen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_19_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKommZG/true"
+        },
+        {
+          "title": "Krankenhauszweckverband Augsburg: Haushaltssatzung 2026",
+          "kind": "Haushaltssatzung",
+          "reference": "RABl. Schwaben 2026 S. 223; Haushaltssatzung vom 10.08.2026",
+          "published": "2026-10-20",
+          "effective": "Rückwirkend zum 2026-01-01",
+          "summary": "Der Wirtschaftsplan 2026, Kreditrahmen, Kassenkredite und die Umlageanteile von Stadt und Landkreis Augsburg wurden verbindlich festgesetzt.",
+          "administrationImpact": "Kämmerei und Beteiligungsverwaltung müssen insbesondere den städtischen Umlageanteil von 13.486.400 €, die Kreditgenehmigung über 15.000.000 € und deren Bedingung berücksichtigen.",
+          "checkpoints": [
+            "Erfolgsplan und Vermögensplan abgleichen",
+            "Umlage Stadt Augsburg: 13.486.400 €",
+            "Kreditaufnahme erst nach Ausschöpfung älterer Ermächtigungen",
+            "Rückwirkung zum 01.01.2026 dokumentieren"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_19_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKommZG/true"
+        },
         {
           "title": "Bayerisches Wohnraumförderprogramm (BayWP) ab 2027",
           "kind": "Verwaltungsvorschrift",
@@ -1065,11 +1099,45 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 22.10.2026: zwei neue kommunalrelevante Verwaltungsvorschriften vom 21.10.2026 aufgenommen.",
+      "intro": "Prüfstand 23.10.2026: zwei kommunalrelevante Veröffentlichungen aus RABl. Schwaben Nr. 19 aufgenommen.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Kurhaus Augsburg-Göggingen: Entschädigung der Verbandsräte neu geregelt",
+          "kind": "Satzung",
+          "reference": "RABl. Schwaben 2026 S. 222; Satzung vom 14.07.2026",
+          "published": "2026-10-20",
+          "effective": "Rückwirkend zum 2026-08-01",
+          "summary": "Der Zweckverband regelt Pauschalen, Sitzungsgeld sowie Ersatz von Verdienstausfall, Betreuungskosten und Fahrtauslagen für Verbandsräte neu.",
+          "administrationImpact": "Geschäftsstelle und Finanzverwaltung müssen Ansprüche seit 1. August 2026 nach den neuen Sätzen abrechnen und Nachweise dokumentieren.",
+          "checkpoints": [
+            "150 € monatlich für den Verbandsvorsitz",
+            "75 € monatlich für die Stellvertretung",
+            "40 € Sitzungsgeld für gekorene Verbandsräte",
+            "Rückwirkende Abrechnung ab 01.08.2026 prüfen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_19_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKommZG/true"
+        },
+        {
+          "title": "Krankenhauszweckverband Augsburg: Haushaltssatzung 2026",
+          "kind": "Haushaltssatzung",
+          "reference": "RABl. Schwaben 2026 S. 223; Haushaltssatzung vom 10.08.2026",
+          "published": "2026-10-20",
+          "effective": "Rückwirkend zum 2026-01-01",
+          "summary": "Der Wirtschaftsplan 2026, Kreditrahmen, Kassenkredite und die Umlageanteile von Stadt und Landkreis Augsburg wurden verbindlich festgesetzt.",
+          "administrationImpact": "Kämmerei und Beteiligungsverwaltung müssen insbesondere den städtischen Umlageanteil von 13.486.400 €, die Kreditgenehmigung über 15.000.000 € und deren Bedingung berücksichtigen.",
+          "checkpoints": [
+            "Erfolgsplan und Vermögensplan abgleichen",
+            "Umlage Stadt Augsburg: 13.486.400 €",
+            "Kreditaufnahme erst nach Ausschöpfung älterer Ermächtigungen",
+            "Rückwirkung zum 01.01.2026 dokumentieren"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_19_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKommZG/true"
+        },
         {
           "title": "Bayerisches Wohnraumförderprogramm (BayWP) ab 2027",
           "kind": "Verwaltungsvorschrift",
@@ -2034,11 +2102,45 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 22.10.2026: wichtig sind die Umstellung der Wohnraumförderung ab 2027 und neue Regeln für digitale Regionalprojekte ab 31.12.2026.",
+      "intro": "Prüfstand 23.10.2026: wichtig sind die rückwirkende Entschädigungssatzung und die Haushaltssatzung 2026 der Augsburger Zweckverbände.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Kurhaus Augsburg-Göggingen: Entschädigung der Verbandsräte neu geregelt",
+          "kind": "Satzung",
+          "reference": "RABl. Schwaben 2026 S. 222; Satzung vom 14.07.2026",
+          "published": "2026-10-20",
+          "effective": "Rückwirkend zum 2026-08-01",
+          "summary": "Der Zweckverband regelt Pauschalen, Sitzungsgeld sowie Ersatz von Verdienstausfall, Betreuungskosten und Fahrtauslagen für Verbandsräte neu.",
+          "administrationImpact": "Geschäftsstelle und Finanzverwaltung müssen Ansprüche seit 1. August 2026 nach den neuen Sätzen abrechnen und Nachweise dokumentieren.",
+          "checkpoints": [
+            "150 € monatlich für den Verbandsvorsitz",
+            "75 € monatlich für die Stellvertretung",
+            "40 € Sitzungsgeld für gekorene Verbandsräte",
+            "Rückwirkende Abrechnung ab 01.08.2026 prüfen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_19_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKommZG/true"
+        },
+        {
+          "title": "Krankenhauszweckverband Augsburg: Haushaltssatzung 2026",
+          "kind": "Haushaltssatzung",
+          "reference": "RABl. Schwaben 2026 S. 223; Haushaltssatzung vom 10.08.2026",
+          "published": "2026-10-20",
+          "effective": "Rückwirkend zum 2026-01-01",
+          "summary": "Der Wirtschaftsplan 2026, Kreditrahmen, Kassenkredite und die Umlageanteile von Stadt und Landkreis Augsburg wurden verbindlich festgesetzt.",
+          "administrationImpact": "Kämmerei und Beteiligungsverwaltung müssen insbesondere den städtischen Umlageanteil von 13.486.400 €, die Kreditgenehmigung über 15.000.000 € und deren Bedingung berücksichtigen.",
+          "checkpoints": [
+            "Erfolgsplan und Vermögensplan abgleichen",
+            "Umlage Stadt Augsburg: 13.486.400 €",
+            "Kreditaufnahme erst nach Ausschöpfung älterer Ermächtigungen",
+            "Rückwirkung zum 01.01.2026 dokumentieren"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_19_-_bf.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKommZG/true"
+        },
         {
           "title": "Bayerisches Wohnraumförderprogramm (BayWP) ab 2027",
           "kind": "Verwaltungsvorschrift",
@@ -3132,9 +3234,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 22.10.2026: vollständiger verifizierter Änderungsbestand einschließlich BayMBl. 2026 Nr. 434 und Nr. 439.",
+      "intro": "Prüfstand 23.10.2026: vollständiger verifizierter Änderungsbestand einschließlich RABl. Schwaben 2026 S. 222 und S. 223.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-22T05:57:43+02:00"
+  "updatedAt": "2026-10-23T06:02:58+02:00"
 }
