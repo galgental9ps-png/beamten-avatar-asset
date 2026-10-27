@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Prüfstand 26.10.2026: BayMBl. bis Nr. 439 vom 21.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt bis Nr. 41/42 vom 16.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht-Lesefassungen geprüft; keine neue relevante fachliche Änderung seit dem verifizierten Stand vom 25.10.2026 festgestellt.",
+  "checkedSources": "Prüfstand 27.10.2026: BayMBl. bis Nr. 439 vom 21.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt bis Nr. 41/42 vom 16.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht-Lesefassungen geprüft; keine neue relevante fachliche Änderung seit dem verifizierten Stand vom 26.10.2026 festgestellt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -1099,7 +1099,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 24.10.2026: keine neue relevante fachliche Änderung; der zuletzt verifizierte Änderungsbestand bleibt bestehen.",
+      "intro": "Prüfstand 27.10.2026: keine neue relevante fachliche Änderung; der zuletzt verifizierte Änderungsbestand bleibt bestehen.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -2102,7 +2102,7 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 24.10.2026: bestehende Übergangs-, Rückwirkungs- und Vollzugshinweise bleiben aktuell.",
+      "intro": "Prüfstand 27.10.2026: bestehende Übergangs-, Rückwirkungs- und Vollzugshinweise bleiben aktuell.",
       "label": "Was ist wichtig?"
     },
     {
@@ -3234,9 +3234,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 24.10.2026: vollständiger verifizierter Änderungsbestand ohne neue Ergänzung gegenüber dem 23.10.2026.",
+      "intro": "Prüfstand 27.10.2026: vollständiger verifizierter Änderungsbestand ohne neue Ergänzung gegenüber dem 26.10.2026.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-26T06:04:11+01:00"
+  "updatedAt": "2026-10-27T06:01:16+01:00"
 }
