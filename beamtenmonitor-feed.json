@@ -1,9 +1,60 @@
 {
-  "checkedSources": "Prüfstand 27.10.2026: BayMBl. bis Nr. 439 vom 21.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt bis Nr. 41/42 vom 16.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht-Lesefassungen geprüft; keine neue relevante fachliche Änderung seit dem verifizierten Stand vom 26.10.2026 festgestellt.",
+  "checkedSources": "Prüfstand 28.10.2026: BayMBl. bis Nr. 460 vom 28.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt bis Nr. 41/42 vom 16.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht-Lesefassungen geprüft; drei neue verwaltungsrelevante Veröffentlichungen aufgenommen (BayMBl. 2026 Nr. 452, 460 und 447).",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Naturschutzwacht: neue Vollzugsbekanntmachung",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 452; Gl.-Nr. 7910-U; Bekanntmachung vom 05.10.2026",
+          "published": "2026-10-28",
+          "effective": "2026-11-01; befristet bis 2031-10-31; ersetzt die Bekanntmachung vom 08.06.2020 zum Ablauf des 2026-10-31",
+          "summary": "Die neue Bekanntmachung regelt Aufgaben, Auswahl, Bestellung, Befugnisse, Ausbildung, Entschädigung, Einsatzdokumentation und Berichtspflichten der Naturschutzwacht. Naturschutzwacht-Anwärter können bis zu drei Jahre als ehrenamtliche Naturschutzhelfer ohne hoheitliche Befugnisse eingesetzt werden.",
+          "administrationImpact": "Untere Naturschutzbehörden müssen Bestellungs- und Einsatzverfahren, Ausweise, Entschädigungen, Begleitung von Anwärtern und die jährliche Meldung zum 1. November anpassen. Für Augsburg betrifft dies die Aufgabenwahrnehmung als kreisfreie Stadt.",
+          "checkpoints": [
+            "Inkrafttreten 01.11.2026 und Außerkrafttreten 31.10.2031 notieren",
+            "Alte Bekanntmachung und ergänzende Schreiben enden am 31.10.2026",
+            "Naturschutzwacht-Anwärter haben keine Befugnisse nach Art. 49 BayNatSchG",
+            "Bestellung, Begleitung, Einsatzberichte und Jahresmeldung organisatorisch abgleichen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-452/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_7910_U_11261/true"
+        },
+        {
+          "title": "Vollzug der Sicherheitswacht bis 30. April 2027 verlängert",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 460; Gl.-Nr. 2011-I; Änderung vom 23.10.2026",
+          "published": "2026-10-28",
+          "effective": "2026-10-29; neues Außerkrafttreten 2027-04-30",
+          "summary": "Nr. 9 Satz 2 VollzBekSWG wird ausschließlich hinsichtlich der Geltungsdauer geändert: An die Stelle des 31. Oktober 2026 tritt der 30. April 2027.",
+          "administrationImpact": "Polizei und beteiligte Gemeinden können die bestehende Vollzugspraxis der Sicherheitswacht bis 30. April 2027 fortführen; neue materielle Aufgaben entstehen durch die reine Laufzeitverlängerung nicht.",
+          "checkpoints": [
+            "Inkrafttreten am 29.10.2026",
+            "Außerkrafttreten auf 30.04.2027 umstellen",
+            "Keine weitergehende inhaltliche Änderung ableiten",
+            "Fristen- und Vorschriftenverzeichnisse aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-460/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV96521/true"
+        },
+        {
+          "title": "Urkundenverkehr: Apostille-Regeln für fünf Staaten geändert",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 447; Gl.-Nr. 319-J; Änderung vom 09.10.2026",
+          "published": "2026-10-28",
+          "effective": "2026-11-20",
+          "summary": "Die Länderliste wird angepasst: Für Aserbaidschan, Kirgisistan und Moldau ist das Apostillenübereinkommen im Verhältnis zu Deutschland anwendbar; für Algerien und Vietnam ist es wegen deutschen Einspruchs nicht in Kraft.",
+          "administrationImpact": "Bürgerbüro, Standesamt und vorbeglaubigende Stellen müssen Auskünfte und Prüfhilfen für deutsche öffentliche Urkunden zur Verwendung im Ausland ab 20. November 2026 an die aktualisierte Länderliste anpassen.",
+          "checkpoints": [
+            "Aserbaidschan, Kirgisistan und Moldau: Apostille anwendbar",
+            "Algerien und Vietnam: Apostillenübereinkommen nicht in Kraft",
+            "Zielland vor Auskunft und Vorbeglaubigung prüfen",
+            "Geänderte Vorgaben ab 20.11.2026 anwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-447/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV246099/true"
+        },
         {
           "title": "Kurhaus Augsburg-Göggingen: Entschädigung der Verbandsräte neu geregelt",
           "kind": "Satzung",
@@ -1099,11 +1150,62 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 27.10.2026: keine neue relevante fachliche Änderung; der zuletzt verifizierte Änderungsbestand bleibt bestehen.",
+      "intro": "Prüfstand 28.10.2026: drei neue verwaltungsrelevante Veröffentlichungen zu Naturschutzwacht, Sicherheitswacht und Apostille-Regeln aufgenommen.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Naturschutzwacht: neue Vollzugsbekanntmachung",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 452; Gl.-Nr. 7910-U; Bekanntmachung vom 05.10.2026",
+          "published": "2026-10-28",
+          "effective": "2026-11-01; befristet bis 2031-10-31; ersetzt die Bekanntmachung vom 08.06.2020 zum Ablauf des 2026-10-31",
+          "summary": "Die neue Bekanntmachung regelt Aufgaben, Auswahl, Bestellung, Befugnisse, Ausbildung, Entschädigung, Einsatzdokumentation und Berichtspflichten der Naturschutzwacht. Naturschutzwacht-Anwärter können bis zu drei Jahre als ehrenamtliche Naturschutzhelfer ohne hoheitliche Befugnisse eingesetzt werden.",
+          "administrationImpact": "Untere Naturschutzbehörden müssen Bestellungs- und Einsatzverfahren, Ausweise, Entschädigungen, Begleitung von Anwärtern und die jährliche Meldung zum 1. November anpassen. Für Augsburg betrifft dies die Aufgabenwahrnehmung als kreisfreie Stadt.",
+          "checkpoints": [
+            "Inkrafttreten 01.11.2026 und Außerkrafttreten 31.10.2031 notieren",
+            "Alte Bekanntmachung und ergänzende Schreiben enden am 31.10.2026",
+            "Naturschutzwacht-Anwärter haben keine Befugnisse nach Art. 49 BayNatSchG",
+            "Bestellung, Begleitung, Einsatzberichte und Jahresmeldung organisatorisch abgleichen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-452/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_7910_U_11261/true"
+        },
+        {
+          "title": "Vollzug der Sicherheitswacht bis 30. April 2027 verlängert",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 460; Gl.-Nr. 2011-I; Änderung vom 23.10.2026",
+          "published": "2026-10-28",
+          "effective": "2026-10-29; neues Außerkrafttreten 2027-04-30",
+          "summary": "Nr. 9 Satz 2 VollzBekSWG wird ausschließlich hinsichtlich der Geltungsdauer geändert: An die Stelle des 31. Oktober 2026 tritt der 30. April 2027.",
+          "administrationImpact": "Polizei und beteiligte Gemeinden können die bestehende Vollzugspraxis der Sicherheitswacht bis 30. April 2027 fortführen; neue materielle Aufgaben entstehen durch die reine Laufzeitverlängerung nicht.",
+          "checkpoints": [
+            "Inkrafttreten am 29.10.2026",
+            "Außerkrafttreten auf 30.04.2027 umstellen",
+            "Keine weitergehende inhaltliche Änderung ableiten",
+            "Fristen- und Vorschriftenverzeichnisse aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-460/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV96521/true"
+        },
+        {
+          "title": "Urkundenverkehr: Apostille-Regeln für fünf Staaten geändert",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 447; Gl.-Nr. 319-J; Änderung vom 09.10.2026",
+          "published": "2026-10-28",
+          "effective": "2026-11-20",
+          "summary": "Die Länderliste wird angepasst: Für Aserbaidschan, Kirgisistan und Moldau ist das Apostillenübereinkommen im Verhältnis zu Deutschland anwendbar; für Algerien und Vietnam ist es wegen deutschen Einspruchs nicht in Kraft.",
+          "administrationImpact": "Bürgerbüro, Standesamt und vorbeglaubigende Stellen müssen Auskünfte und Prüfhilfen für deutsche öffentliche Urkunden zur Verwendung im Ausland ab 20. November 2026 an die aktualisierte Länderliste anpassen.",
+          "checkpoints": [
+            "Aserbaidschan, Kirgisistan und Moldau: Apostille anwendbar",
+            "Algerien und Vietnam: Apostillenübereinkommen nicht in Kraft",
+            "Zielland vor Auskunft und Vorbeglaubigung prüfen",
+            "Geänderte Vorgaben ab 20.11.2026 anwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-447/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV246099/true"
+        },
         {
           "title": "Kurhaus Augsburg-Göggingen: Entschädigung der Verbandsräte neu geregelt",
           "kind": "Satzung",
@@ -2102,11 +2204,62 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 27.10.2026: bestehende Übergangs-, Rückwirkungs- und Vollzugshinweise bleiben aktuell.",
+      "intro": "Prüfstand 28.10.2026: besonders wichtig sind die Umstellung der Naturschutzwacht zum 01.11.2026 und die aktualisierten Länderregeln für öffentliche Urkunden ab 20.11.2026.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Naturschutzwacht: neue Vollzugsbekanntmachung",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 452; Gl.-Nr. 7910-U; Bekanntmachung vom 05.10.2026",
+          "published": "2026-10-28",
+          "effective": "2026-11-01; befristet bis 2031-10-31; ersetzt die Bekanntmachung vom 08.06.2020 zum Ablauf des 2026-10-31",
+          "summary": "Die neue Bekanntmachung regelt Aufgaben, Auswahl, Bestellung, Befugnisse, Ausbildung, Entschädigung, Einsatzdokumentation und Berichtspflichten der Naturschutzwacht. Naturschutzwacht-Anwärter können bis zu drei Jahre als ehrenamtliche Naturschutzhelfer ohne hoheitliche Befugnisse eingesetzt werden.",
+          "administrationImpact": "Untere Naturschutzbehörden müssen Bestellungs- und Einsatzverfahren, Ausweise, Entschädigungen, Begleitung von Anwärtern und die jährliche Meldung zum 1. November anpassen. Für Augsburg betrifft dies die Aufgabenwahrnehmung als kreisfreie Stadt.",
+          "checkpoints": [
+            "Inkrafttreten 01.11.2026 und Außerkrafttreten 31.10.2031 notieren",
+            "Alte Bekanntmachung und ergänzende Schreiben enden am 31.10.2026",
+            "Naturschutzwacht-Anwärter haben keine Befugnisse nach Art. 49 BayNatSchG",
+            "Bestellung, Begleitung, Einsatzberichte und Jahresmeldung organisatorisch abgleichen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-452/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_7910_U_11261/true"
+        },
+        {
+          "title": "Vollzug der Sicherheitswacht bis 30. April 2027 verlängert",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 460; Gl.-Nr. 2011-I; Änderung vom 23.10.2026",
+          "published": "2026-10-28",
+          "effective": "2026-10-29; neues Außerkrafttreten 2027-04-30",
+          "summary": "Nr. 9 Satz 2 VollzBekSWG wird ausschließlich hinsichtlich der Geltungsdauer geändert: An die Stelle des 31. Oktober 2026 tritt der 30. April 2027.",
+          "administrationImpact": "Polizei und beteiligte Gemeinden können die bestehende Vollzugspraxis der Sicherheitswacht bis 30. April 2027 fortführen; neue materielle Aufgaben entstehen durch die reine Laufzeitverlängerung nicht.",
+          "checkpoints": [
+            "Inkrafttreten am 29.10.2026",
+            "Außerkrafttreten auf 30.04.2027 umstellen",
+            "Keine weitergehende inhaltliche Änderung ableiten",
+            "Fristen- und Vorschriftenverzeichnisse aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-460/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV96521/true"
+        },
+        {
+          "title": "Urkundenverkehr: Apostille-Regeln für fünf Staaten geändert",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 447; Gl.-Nr. 319-J; Änderung vom 09.10.2026",
+          "published": "2026-10-28",
+          "effective": "2026-11-20",
+          "summary": "Die Länderliste wird angepasst: Für Aserbaidschan, Kirgisistan und Moldau ist das Apostillenübereinkommen im Verhältnis zu Deutschland anwendbar; für Algerien und Vietnam ist es wegen deutschen Einspruchs nicht in Kraft.",
+          "administrationImpact": "Bürgerbüro, Standesamt und vorbeglaubigende Stellen müssen Auskünfte und Prüfhilfen für deutsche öffentliche Urkunden zur Verwendung im Ausland ab 20. November 2026 an die aktualisierte Länderliste anpassen.",
+          "checkpoints": [
+            "Aserbaidschan, Kirgisistan und Moldau: Apostille anwendbar",
+            "Algerien und Vietnam: Apostillenübereinkommen nicht in Kraft",
+            "Zielland vor Auskunft und Vorbeglaubigung prüfen",
+            "Geänderte Vorgaben ab 20.11.2026 anwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-447/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV246099/true"
+        },
         {
           "title": "Kurhaus Augsburg-Göggingen: Entschädigung der Verbandsräte neu geregelt",
           "kind": "Satzung",
@@ -3234,9 +3387,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 27.10.2026: vollständiger verifizierter Änderungsbestand ohne neue Ergänzung gegenüber dem 26.10.2026.",
+      "intro": "Prüfstand 28.10.2026: vollständiger verifizierter Änderungsbestand einschließlich BayMBl. 2026 Nr. 452, 460 und 447.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-27T06:01:16+01:00"
+  "updatedAt": "2026-10-28T06:01:32+01:00"
 }
