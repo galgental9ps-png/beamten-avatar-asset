@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Prüfstand 28.10.2026: BayMBl. bis Nr. 460 vom 28.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt bis Nr. 41/42 vom 16.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht-Lesefassungen geprüft; drei neue verwaltungsrelevante Veröffentlichungen aufgenommen (BayMBl. 2026 Nr. 452, 460 und 447).",
+  "checkedSources": "Prüfstand 29.10.2026: BayMBl. bis Nr. 460 vom 28.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt bis Nr. 41/42 vom 16.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht-Lesefassungen geprüft; keine neue relevante fachliche Änderung seit dem verifizierten Stand vom 28.10.2026 festgestellt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -1150,7 +1150,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 28.10.2026: drei neue verwaltungsrelevante Veröffentlichungen zu Naturschutzwacht, Sicherheitswacht und Apostille-Regeln aufgenommen.",
+      "intro": "Prüfstand 29.10.2026: keine neue relevante fachliche Änderung seit dem verifizierten Stand vom 28.10.2026; jüngste aufgenommene Änderungen bleiben BayMBl. 2026 Nr. 452, 460 und 447.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -2204,7 +2204,7 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 28.10.2026: besonders wichtig sind die Umstellung der Naturschutzwacht zum 01.11.2026 und die aktualisierten Länderregeln für öffentliche Urkunden ab 20.11.2026.",
+      "intro": "Prüfstand 29.10.2026: wichtige bestehende Änderungen und neutrale Prüfhilfen; heute keine neue relevante fachliche Änderung festgestellt.",
       "label": "Was ist wichtig?"
     },
     {
@@ -3387,9 +3387,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 28.10.2026: vollständiger verifizierter Änderungsbestand einschließlich BayMBl. 2026 Nr. 452, 460 und 447.",
+      "intro": "Prüfstand 29.10.2026: vollständiger verifizierter Änderungsbestand; heute keine neue relevante fachliche Änderung festgestellt.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-28T06:01:32+01:00"
+  "updatedAt": "2026-10-29T06:02:52+01:00"
 }
