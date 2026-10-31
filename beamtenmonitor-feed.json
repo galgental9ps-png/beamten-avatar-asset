@@ -1,9 +1,60 @@
 {
-  "checkedSources": "Prüfstand 30.10.2026: BayMBl. bis Nr. 460 vom 28.10.2026, GVBl. bis S. 614 vom 15.10.2026, Augsburger Amtsblatt bis Nr. 41/42 vom 16.10.2026 (eine Ausgabe 43/44 war bei der heutigen Prüfung noch nicht gelistet), Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht geprüft; keine neue relevante fachliche Änderung seit dem verifizierten Stand vom 29.10.2026 festgestellt. Konsolidierungshinweis: Die Bayern.Recht-Lesefassung der VollzBekSWG zeigte weiterhin das alte Außerkrafttretensdatum 31.10.2026; maßgeblich für die Verlängerung bis 30.04.2027 bleibt BayMBl. 2026 Nr. 460.",
+  "checkedSources": "Prüfstand 31.10.2026: BayMBl. bis Nr. 460 vom 28.10.2026, GVBl. bis S. 623 vom 30.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht geprüft. Drei neue fachlich relevante Verordnungen (GVBl. S. 618, 621 und 623) ausgewertet. Das Augsburger Amtsblatt 43/44 vom 30.10.2026 war in der amtlichen Trefferliste genannt, das PDF über die amtliche Detailseite bei der Prüfung jedoch noch nicht direkt abrufbar; sein Inhalt wurde nicht als geprüft ausgegeben.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Gewalthilfegesetz: Anerkennung, Qualität und Finanzierung konkretisiert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 623; BayRS 86-8-A/G; Verordnung vom 14.10.2026",
+          "published": "2026-10-30",
+          "effective": "2026-10-31; keine Rückwirkung; Ausgangsanalyse und Entwicklungsplanung bis 2026-12-31",
+          "summary": "Ein neuer Teil 17 der AVSG regelt Trägeranerkennung, Förderanträge, Qualitäts- und Dokumentationspflichten, Personal- und Sachkosten, Vor-Ort-Prüfungen sowie die Entwicklungsplanung für Frauenschutzeinrichtungen, Fachberatungs- und Interventionsstellen.",
+          "administrationImpact": "Sozialverwaltung, Kämmerei und kommunal beteiligte Träger müssen Anerkennung, Förderfristen, Personalbemessung, Dokumentation und Bedarfsplanung abgleichen. Zuschussanträge sollen grundsätzlich bis 31. Oktober des Vorjahres beim ZBFS eingehen.",
+          "checkpoints": [
+            "Inkrafttreten am 31.10.2026",
+            "Betroffene Einrichtungen und Förderfälle für 2027 erfassen",
+            "ZBFS-Formulare, Nachweise und Dokumentationspflichten abgleichen",
+            "Entwicklungsplanung bis 31.12.2026 beobachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-623/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayAVSG"
+        },
+        {
+          "title": "AVBayJG: Rotwildplanung, Jagdzeiten und Lenkungsmaßnahmen neu geregelt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 621; BayRS 792-2-W; Verordnung vom 13.10.2026",
+          "published": "2026-10-30",
+          "effective": "2026-10-31; Übergang für einjährigen Rotwild-Abschussplan 2027-04-01 bis 2028-03-31; § 34 endet mit Ablauf 2028-04-01",
+          "summary": "Die AVBayJG erweitert den Personenkreis beim Fallenfang, ermöglicht unter Voraussetzungen dreijährige Rotwild-Abschusspläne mit 20-Prozent-Korridor, setzt Jagdzeiten neu und regelt Ausnahmen vom Fütterungsverbot.",
+          "administrationImpact": "Untere Jagdbehörden sowie betroffene Eigen- und Gemeinschaftsjagdreviere müssen Planzeiträume, Einvernehmen, Jagdzeiten, Jahresquoten und Lenkungsmaßnahmen ab sofort nach neuem Recht prüfen.",
+          "checkpoints": [
+            "Neue Jagdzeiten ab 31.10.2026 anwenden",
+            "Einvernehmen bei mehrjährigen Abschussplänen dokumentieren",
+            "20-Prozent-Korridor und Jahresdrittel getrennt prüfen",
+            "Übergang für den Zeitraum 01.04.2027 bis 31.03.2028 aktenkundig machen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-621/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayAVJG/true"
+        },
+        {
+          "title": "Sachverständigen- und Untersuchungsstellen-Verordnung bis 2036 verlängert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 618; BayRS 2129-4-2-U; Verordnung vom 08.10.2026",
+          "published": "2026-10-30",
+          "effective": "2026-12-31; Außerkrafttreten von 2026-12-31 auf 2036-12-31 verschoben; keine Rückwirkung",
+          "summary": "Die VSU wird überwiegend redaktionell bereinigt und ihr Außerkrafttreten um zehn Jahre bis zum 31. Dezember 2036 verlängert. In § 15 Abs. 6 entfällt zudem ein Satz.",
+          "administrationImpact": "Kommunale Umwelt- und Bodenschutzstellen können das bestehende Anerkennungs- und Verfahrenssystem fortführen, müssen aber Rechtsstandsverzeichnisse und Fristen auf 2036 aktualisieren.",
+          "checkpoints": [
+            "Inkrafttreten am 31.12.2026",
+            "Neues Außerkrafttreten 31.12.2036",
+            "Redaktionelle Verweisänderungen nicht als neue Zuständigkeiten behandeln",
+            "Konsolidierte Bayern.Recht-Fassung nach Einpflege kontrollieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-618/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVSUBodAltV/true"
+        },
         {
           "title": "Naturschutzwacht: neue Vollzugsbekanntmachung",
           "kind": "Verwaltungsvorschrift",
@@ -1156,6 +1207,57 @@
     {
       "changes": [
         {
+          "title": "Gewalthilfegesetz: Anerkennung, Qualität und Finanzierung konkretisiert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 623; BayRS 86-8-A/G; Verordnung vom 14.10.2026",
+          "published": "2026-10-30",
+          "effective": "2026-10-31; keine Rückwirkung; Ausgangsanalyse und Entwicklungsplanung bis 2026-12-31",
+          "summary": "Ein neuer Teil 17 der AVSG regelt Trägeranerkennung, Förderanträge, Qualitäts- und Dokumentationspflichten, Personal- und Sachkosten, Vor-Ort-Prüfungen sowie die Entwicklungsplanung für Frauenschutzeinrichtungen, Fachberatungs- und Interventionsstellen.",
+          "administrationImpact": "Sozialverwaltung, Kämmerei und kommunal beteiligte Träger müssen Anerkennung, Förderfristen, Personalbemessung, Dokumentation und Bedarfsplanung abgleichen. Zuschussanträge sollen grundsätzlich bis 31. Oktober des Vorjahres beim ZBFS eingehen.",
+          "checkpoints": [
+            "Inkrafttreten am 31.10.2026",
+            "Betroffene Einrichtungen und Förderfälle für 2027 erfassen",
+            "ZBFS-Formulare, Nachweise und Dokumentationspflichten abgleichen",
+            "Entwicklungsplanung bis 31.12.2026 beobachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-623/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayAVSG"
+        },
+        {
+          "title": "AVBayJG: Rotwildplanung, Jagdzeiten und Lenkungsmaßnahmen neu geregelt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 621; BayRS 792-2-W; Verordnung vom 13.10.2026",
+          "published": "2026-10-30",
+          "effective": "2026-10-31; Übergang für einjährigen Rotwild-Abschussplan 2027-04-01 bis 2028-03-31; § 34 endet mit Ablauf 2028-04-01",
+          "summary": "Die AVBayJG erweitert den Personenkreis beim Fallenfang, ermöglicht unter Voraussetzungen dreijährige Rotwild-Abschusspläne mit 20-Prozent-Korridor, setzt Jagdzeiten neu und regelt Ausnahmen vom Fütterungsverbot.",
+          "administrationImpact": "Untere Jagdbehörden sowie betroffene Eigen- und Gemeinschaftsjagdreviere müssen Planzeiträume, Einvernehmen, Jagdzeiten, Jahresquoten und Lenkungsmaßnahmen ab sofort nach neuem Recht prüfen.",
+          "checkpoints": [
+            "Neue Jagdzeiten ab 31.10.2026 anwenden",
+            "Einvernehmen bei mehrjährigen Abschussplänen dokumentieren",
+            "20-Prozent-Korridor und Jahresdrittel getrennt prüfen",
+            "Übergang für den Zeitraum 01.04.2027 bis 31.03.2028 aktenkundig machen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-621/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayAVJG/true"
+        },
+        {
+          "title": "Sachverständigen- und Untersuchungsstellen-Verordnung bis 2036 verlängert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 618; BayRS 2129-4-2-U; Verordnung vom 08.10.2026",
+          "published": "2026-10-30",
+          "effective": "2026-12-31; Außerkrafttreten von 2026-12-31 auf 2036-12-31 verschoben; keine Rückwirkung",
+          "summary": "Die VSU wird überwiegend redaktionell bereinigt und ihr Außerkrafttreten um zehn Jahre bis zum 31. Dezember 2036 verlängert. In § 15 Abs. 6 entfällt zudem ein Satz.",
+          "administrationImpact": "Kommunale Umwelt- und Bodenschutzstellen können das bestehende Anerkennungs- und Verfahrenssystem fortführen, müssen aber Rechtsstandsverzeichnisse und Fristen auf 2036 aktualisieren.",
+          "checkpoints": [
+            "Inkrafttreten am 31.12.2026",
+            "Neues Außerkrafttreten 31.12.2036",
+            "Redaktionelle Verweisänderungen nicht als neue Zuständigkeiten behandeln",
+            "Konsolidierte Bayern.Recht-Fassung nach Einpflege kontrollieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-618/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVSUBodAltV/true"
+        },
+        {
           "title": "Naturschutzwacht: neue Vollzugsbekanntmachung",
           "kind": "Verwaltungsvorschrift",
           "reference": "BayMBl. 2026 Nr. 452; Gl.-Nr. 7910-U; Bekanntmachung vom 05.10.2026",
@@ -2209,6 +2311,57 @@
     },
     {
       "changes": [
+        {
+          "title": "Gewalthilfegesetz: Anerkennung, Qualität und Finanzierung konkretisiert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 623; BayRS 86-8-A/G; Verordnung vom 14.10.2026",
+          "published": "2026-10-30",
+          "effective": "2026-10-31; keine Rückwirkung; Ausgangsanalyse und Entwicklungsplanung bis 2026-12-31",
+          "summary": "Ein neuer Teil 17 der AVSG regelt Trägeranerkennung, Förderanträge, Qualitäts- und Dokumentationspflichten, Personal- und Sachkosten, Vor-Ort-Prüfungen sowie die Entwicklungsplanung für Frauenschutzeinrichtungen, Fachberatungs- und Interventionsstellen.",
+          "administrationImpact": "Sozialverwaltung, Kämmerei und kommunal beteiligte Träger müssen Anerkennung, Förderfristen, Personalbemessung, Dokumentation und Bedarfsplanung abgleichen. Zuschussanträge sollen grundsätzlich bis 31. Oktober des Vorjahres beim ZBFS eingehen.",
+          "checkpoints": [
+            "Inkrafttreten am 31.10.2026",
+            "Betroffene Einrichtungen und Förderfälle für 2027 erfassen",
+            "ZBFS-Formulare, Nachweise und Dokumentationspflichten abgleichen",
+            "Entwicklungsplanung bis 31.12.2026 beobachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-623/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayAVSG"
+        },
+        {
+          "title": "AVBayJG: Rotwildplanung, Jagdzeiten und Lenkungsmaßnahmen neu geregelt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 621; BayRS 792-2-W; Verordnung vom 13.10.2026",
+          "published": "2026-10-30",
+          "effective": "2026-10-31; Übergang für einjährigen Rotwild-Abschussplan 2027-04-01 bis 2028-03-31; § 34 endet mit Ablauf 2028-04-01",
+          "summary": "Die AVBayJG erweitert den Personenkreis beim Fallenfang, ermöglicht unter Voraussetzungen dreijährige Rotwild-Abschusspläne mit 20-Prozent-Korridor, setzt Jagdzeiten neu und regelt Ausnahmen vom Fütterungsverbot.",
+          "administrationImpact": "Untere Jagdbehörden sowie betroffene Eigen- und Gemeinschaftsjagdreviere müssen Planzeiträume, Einvernehmen, Jagdzeiten, Jahresquoten und Lenkungsmaßnahmen ab sofort nach neuem Recht prüfen.",
+          "checkpoints": [
+            "Neue Jagdzeiten ab 31.10.2026 anwenden",
+            "Einvernehmen bei mehrjährigen Abschussplänen dokumentieren",
+            "20-Prozent-Korridor und Jahresdrittel getrennt prüfen",
+            "Übergang für den Zeitraum 01.04.2027 bis 31.03.2028 aktenkundig machen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-621/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayAVJG/true"
+        },
+        {
+          "title": "Sachverständigen- und Untersuchungsstellen-Verordnung bis 2036 verlängert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 618; BayRS 2129-4-2-U; Verordnung vom 08.10.2026",
+          "published": "2026-10-30",
+          "effective": "2026-12-31; Außerkrafttreten von 2026-12-31 auf 2036-12-31 verschoben; keine Rückwirkung",
+          "summary": "Die VSU wird überwiegend redaktionell bereinigt und ihr Außerkrafttreten um zehn Jahre bis zum 31. Dezember 2036 verlängert. In § 15 Abs. 6 entfällt zudem ein Satz.",
+          "administrationImpact": "Kommunale Umwelt- und Bodenschutzstellen können das bestehende Anerkennungs- und Verfahrenssystem fortführen, müssen aber Rechtsstandsverzeichnisse und Fristen auf 2036 aktualisieren.",
+          "checkpoints": [
+            "Inkrafttreten am 31.12.2026",
+            "Neues Außerkrafttreten 31.12.2036",
+            "Redaktionelle Verweisänderungen nicht als neue Zuständigkeiten behandeln",
+            "Konsolidierte Bayern.Recht-Fassung nach Einpflege kontrollieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-618/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVSUBodAltV/true"
+        },
         {
           "title": "Naturschutzwacht: neue Vollzugsbekanntmachung",
           "kind": "Verwaltungsvorschrift",
@@ -3391,5 +3544,5 @@
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-30T06:05:36+01:00"
+  "updatedAt": "2026-10-31T06:18:00+01:00"
 }
