@@ -1,9 +1,26 @@
 {
-  "checkedSources": "Prüfstand 31.10.2026: BayMBl. bis Nr. 460 vom 28.10.2026, GVBl. bis S. 623 vom 30.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht geprüft. Drei neue fachlich relevante Verordnungen (GVBl. S. 618, 621 und 623) ausgewertet. Das Augsburger Amtsblatt 43/44 vom 30.10.2026 war in der amtlichen Trefferliste genannt, das PDF über die amtliche Detailseite bei der Prüfung jedoch noch nicht direkt abrufbar; sein Inhalt wurde nicht als geprüft ausgegeben.",
+  "checkedSources": "Prüfstand 01.11.2026: BayMBl. bis Nr. 460 vom 28.10.2026, GVBl. bis S. 623 vom 30.10.2026, Augsburger Amtsblatt Nr. 43/44 vom 30.10.2026 einschließlich der Aufhebung der Sperrzone Karlsruher Straße/Frankfurter Straße, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht geprüft; eine neue kommunalrelevante Änderung seit dem verifizierten Stand vom 31.10.2026 vollständig amtlich verifiziert. Die Naturschutzwacht-Neufassung gilt planmäßig seit heute.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Augsburg hebt Sperrzone Karlsruher Straße/Frankfurter Straße auf",
+          "kind": "Allgemeinverfügung",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 43/44 vom 30.10.2026, S. 287; Allgemeinverfügung vom 22.10.2026",
+          "published": "2026-10-30",
+          "effective": "Mit Bekanntgabe am 30.10.2026; hebt die Allgemeinverfügung vom 18.12.2025 (Amtsblatt Nr. 1/2, Januar 2026) auf; keine Rückwirkung",
+          "summary": "Die Stadt Augsburg hebt die wegen eines großen TNT-Fundes eingerichtete Sperrzone im Bereich Karlsruher Straße/Frankfurter Straße auf. Die beauftragte Fachfirma meldete die Räumstelle bereits zum 30.06.2026 ab; die Absuchmaßnahmen des Kampfmittelräumdienstes sind beendet.",
+          "administrationImpact": "Ordnungs-, Tiefbau- und Sicherheitsstellen müssen Sperrvermerke, Beschilderung, Einsatzunterlagen und öffentliche Hinweise aufheben beziehungsweise archivieren. Die Allgemeinverfügung enthält eine einmonatige Klagefrist zum Verwaltungsgericht Augsburg.",
+          "checkpoints": [
+            "Aufhebung der Sperrzone mit Bekanntgabe beachten",
+            "Sperrvermerke, Beschilderung und öffentliche Hinweise entfernen oder aktualisieren",
+            "Abschluss der Kampfmittelräumung und Aktenabschluss dokumentieren",
+            "Keine Rückwirkung oder besondere Übergangsregel ableiten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-43-44_vom-30-10-2026_.pdf",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Gewalthilfegesetz: Anerkennung, Qualität und Finanzierung konkretisiert",
           "kind": "Rechtsverordnung",
@@ -1201,11 +1218,28 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 29.10.2026: keine neue relevante fachliche Änderung seit dem verifizierten Stand vom 28.10.2026; jüngste aufgenommene Änderungen bleiben BayMBl. 2026 Nr. 452, 460 und 447.",
+      "intro": "Prüfstand 01.11.2026: Eine neue kommunalrelevante Änderung wurde vollständig amtlich verifiziert. Die Augsburger Sperrzone Karlsruher Straße/Frankfurter Straße ist aufgehoben; die Naturschutzwacht-Neufassung gilt planmäßig seit heute.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Augsburg hebt Sperrzone Karlsruher Straße/Frankfurter Straße auf",
+          "kind": "Allgemeinverfügung",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 43/44 vom 30.10.2026, S. 287; Allgemeinverfügung vom 22.10.2026",
+          "published": "2026-10-30",
+          "effective": "Mit Bekanntgabe am 30.10.2026; hebt die Allgemeinverfügung vom 18.12.2025 (Amtsblatt Nr. 1/2, Januar 2026) auf; keine Rückwirkung",
+          "summary": "Die Stadt Augsburg hebt die wegen eines großen TNT-Fundes eingerichtete Sperrzone im Bereich Karlsruher Straße/Frankfurter Straße auf. Die beauftragte Fachfirma meldete die Räumstelle bereits zum 30.06.2026 ab; die Absuchmaßnahmen des Kampfmittelräumdienstes sind beendet.",
+          "administrationImpact": "Ordnungs-, Tiefbau- und Sicherheitsstellen müssen Sperrvermerke, Beschilderung, Einsatzunterlagen und öffentliche Hinweise aufheben beziehungsweise archivieren. Die Allgemeinverfügung enthält eine einmonatige Klagefrist zum Verwaltungsgericht Augsburg.",
+          "checkpoints": [
+            "Aufhebung der Sperrzone mit Bekanntgabe beachten",
+            "Sperrvermerke, Beschilderung und öffentliche Hinweise entfernen oder aktualisieren",
+            "Abschluss der Kampfmittelräumung und Aktenabschluss dokumentieren",
+            "Keine Rückwirkung oder besondere Übergangsregel ableiten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-43-44_vom-30-10-2026_.pdf",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Gewalthilfegesetz: Anerkennung, Qualität und Finanzierung konkretisiert",
           "kind": "Rechtsverordnung",
@@ -2306,11 +2340,28 @@
         }
       ],
       "id": "important",
-      "intro": "Prüfstand 29.10.2026: wichtige bestehende Änderungen und neutrale Prüfhilfen; heute keine neue relevante fachliche Änderung festgestellt.",
+      "intro": "Für die Verwaltungspraxis am 01.11.2026 wichtig: Sperrvermerke, Beschilderung und Einsatzunterlagen zur aufgehobenen Augsburger Sperrzone aktualisieren. Bereits bekannte Inkrafttretensregelungen bleiben beachtet.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Augsburg hebt Sperrzone Karlsruher Straße/Frankfurter Straße auf",
+          "kind": "Allgemeinverfügung",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 43/44 vom 30.10.2026, S. 287; Allgemeinverfügung vom 22.10.2026",
+          "published": "2026-10-30",
+          "effective": "Mit Bekanntgabe am 30.10.2026; hebt die Allgemeinverfügung vom 18.12.2025 (Amtsblatt Nr. 1/2, Januar 2026) auf; keine Rückwirkung",
+          "summary": "Die Stadt Augsburg hebt die wegen eines großen TNT-Fundes eingerichtete Sperrzone im Bereich Karlsruher Straße/Frankfurter Straße auf. Die beauftragte Fachfirma meldete die Räumstelle bereits zum 30.06.2026 ab; die Absuchmaßnahmen des Kampfmittelräumdienstes sind beendet.",
+          "administrationImpact": "Ordnungs-, Tiefbau- und Sicherheitsstellen müssen Sperrvermerke, Beschilderung, Einsatzunterlagen und öffentliche Hinweise aufheben beziehungsweise archivieren. Die Allgemeinverfügung enthält eine einmonatige Klagefrist zum Verwaltungsgericht Augsburg.",
+          "checkpoints": [
+            "Aufhebung der Sperrzone mit Bekanntgabe beachten",
+            "Sperrvermerke, Beschilderung und öffentliche Hinweise entfernen oder aktualisieren",
+            "Abschluss der Kampfmittelräumung und Aktenabschluss dokumentieren",
+            "Keine Rückwirkung oder besondere Übergangsregel ableiten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-43-44_vom-30-10-2026_.pdf",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Gewalthilfegesetz: Anerkennung, Qualität und Finanzierung konkretisiert",
           "kind": "Rechtsverordnung",
@@ -3540,9 +3591,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Prüfstand 29.10.2026: vollständiger verifizierter Änderungsbestand; heute keine neue relevante fachliche Änderung festgestellt.",
+      "intro": "Vollständig verifiziertes Änderungsinventar zum 01.11.2026 aus amtlichen Primärquellen, einschließlich der neu bestätigten Aufhebung der Augsburger Sperrzone.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-10-31T06:18:00+01:00"
+  "updatedAt": "2026-11-01T06:03:30+01:00"
 }
