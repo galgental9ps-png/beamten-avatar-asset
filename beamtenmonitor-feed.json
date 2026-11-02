@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Prüfstand 01.11.2026: BayMBl. bis Nr. 460 vom 28.10.2026, GVBl. bis S. 623 vom 30.10.2026, Augsburger Amtsblatt Nr. 43/44 vom 30.10.2026 einschließlich der Aufhebung der Sperrzone Karlsruher Straße/Frankfurter Straße, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht geprüft; eine neue kommunalrelevante Änderung seit dem verifizierten Stand vom 31.10.2026 vollständig amtlich verifiziert. Die Naturschutzwacht-Neufassung gilt planmäßig seit heute.",
+  "checkedSources": "Prüfstand 02.11.2026: BayMBl. bis Nr. 460 vom 28.10.2026, GVBl. bis S. 623 vom 30.10.2026, Augsburger Amtsblatt Nr. 43/44 vom 30.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht erneut geprüft; keine neue relevante fachliche Änderung seit dem verifizierten Stand vom 01.11.2026 festgestellt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -1218,7 +1218,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 01.11.2026: Eine neue kommunalrelevante Änderung wurde vollständig amtlich verifiziert. Die Augsburger Sperrzone Karlsruher Straße/Frankfurter Straße ist aufgehoben; die Naturschutzwacht-Neufassung gilt planmäßig seit heute.",
+      "intro": "Prüfstand 02.11.2026: Keine neue relevante fachliche Änderung seit dem verifizierten Stand vom 01.11.2026. Der zuletzt neu verifizierte Eintrag bleibt die Aufhebung der Augsburger Sperrzone Karlsruher Straße/Frankfurter Straße.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -2340,7 +2340,7 @@
         }
       ],
       "id": "important",
-      "intro": "Für die Verwaltungspraxis am 01.11.2026 wichtig: Sperrvermerke, Beschilderung und Einsatzunterlagen zur aufgehobenen Augsburger Sperrzone aktualisieren. Bereits bekannte Inkrafttretensregelungen bleiben beachtet.",
+      "intro": "Für die Verwaltungspraxis am 02.11.2026 wichtig: Die bereits verifizierten Änderungen und Inkrafttretensregeln bleiben aktuell; in den heute geprüften amtlichen Quellen kam keine neue einschlägige Veröffentlichung hinzu.",
       "label": "Was ist wichtig?"
     },
     {
@@ -3591,9 +3591,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Vollständig verifiziertes Änderungsinventar zum 01.11.2026 aus amtlichen Primärquellen, einschließlich der neu bestätigten Aufhebung der Augsburger Sperrzone.",
+      "intro": "Vollständig verifiziertes Änderungsinventar zum 02.11.2026 aus amtlichen Primärquellen; heute ohne neuen fachlichen Eintrag.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-01T06:03:30+01:00"
+  "updatedAt": "2026-11-02T05:56:57+01:00"
 }
