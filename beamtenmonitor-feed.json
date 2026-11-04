@@ -1,9 +1,41 @@
 {
-  "checkedSources": "Prüfstand 03.11.2026: BayMBl. bis Nr. 460 vom 28.10.2026, GVBl. bis S. 623 vom 30.10.2026, Augsburger Amtsblatt Nr. 43/44 vom 30.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht erneut geprüft; keine neue relevante fachliche Änderung seit dem verifizierten Stand vom 02.11.2026 festgestellt.",
+  "checkedSources": "Prüfstand 04.11.2026: BayMBl. bis Nr. 474 vom 04.11.2026, GVBl. bis S. 623 vom 30.10.2026, Augsburger Amtsblatt Nr. 43/44 vom 30.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und Nachwuchskräfteinformationen sowie Bayern.Recht geprüft; zwei neue relevante Bekanntmachungen seit dem verifizierten Stand vom 03.11.2026 aufgenommen.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Alte Verwaltungsvorschriften werden zum 1. Dezember 2026 aufgehoben",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 474; Bekanntmachung der Bayerischen Staatsregierung vom 20.10.2026, Az. B II 4 – G 31/26-1",
+          "published": "2026-11-04",
+          "effective": "01.12.2026; keine Rückwirkung und keine besondere Übergangsregel",
+          "summary": "Vier ältere Verwaltungsvorschriften werden aufgehoben: die Weitergeltungsbekanntmachung, die Richtlinien über den amtlichen Auslandsverkehr, die Rahmenvorschriften zur elektronischen Aktenführung und Papiervernichtung sowie die personalrechtlichen Grundsätze „Verwaltung 21“.",
+          "administrationImpact": "„Verwaltung 21“ galt für den staatlichen Bereich. Personal-, Organisations- und Aktenstellen sollten dennoch Verweise, Muster und interne Regelwerke auf die aufgehobenen Fundstellen prüfen; kommunales Satzungsrecht wird nicht unmittelbar geändert.",
+          "checkpoints": [
+            "Laufende Vorgänge und bisherige Rechtsgrundlagen bis 30.11.2026 dokumentieren.",
+            "Ab 01.12.2026 keine der vier aufgehobenen Verwaltungsvorschriften als aktuelle Vollzugsgrundlage verwenden.",
+            "Interne Verweise, Muster, Aktenpläne und Schulungsunterlagen auf aktuelle Spezialregelungen umstellen."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-474/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV96668"
+        },
+        {
+          "title": "AVSG-Förderkommunikation: Haushaltsvorbehalt ausdrücklich nennen",
+          "kind": "Änderung einer Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 470; Bekanntmachung des Bayerischen Staatsministeriums für Gesundheit, Pflege und Prävention vom 14.10.2026, Az. 42-G8300-2026/269",
+          "published": "2026-11-04",
+          "effective": "05.11.2026; keine Rückwirkung und keine gesonderte Übergangsregel; Geltungsdauer bis 2029 verlängert",
+          "summary": "In Veröffentlichungen und der direkten Kommunikation mit Antragstellern muss ausdrücklich darauf hingewiesen werden, dass Förderleistungen freiwillig und haushaltsabhängig sind und Anträge bei Überzeichnung abgelehnt werden können. Die Vorgabe gilt entsprechend in weiteren Förderbereichen; die Laufzeit wird von 2026 auf 2029 verlängert.",
+          "administrationImpact": "Sozialverwaltung, Pflegestützpunkte und kommunal beteiligte Träger sollten Webseiten, Merkblätter, Eingangsbestätigungen und Ablehnungsbausteine für einschlägige Förderprogramme vor dem nächsten Antragseingang aktualisieren.",
+          "checkpoints": [
+            "Pflicht-Hinweis zur Freiwilligkeit, Haushaltsmittelverfügbarkeit und möglichen Überzeichnung in alle betroffenen Kommunikationskanäle aufnehmen.",
+            "Fördermerkblätter, Webtexte und Standardanschreiben vor neuen Anträgen ab 05.11.2026 aktualisieren.",
+            "Konsolidierte Bayern.Recht-Fassung nachziehen, sobald die Änderung eingearbeitet ist."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-470/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_861_G_10013/true"
+        },
         {
           "title": "Augsburg hebt Sperrzone Karlsruher Straße/Frankfurter Straße auf",
           "kind": "Allgemeinverfügung",
@@ -1218,11 +1250,43 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 03.11.2026: Keine neue relevante fachliche Änderung seit dem verifizierten Stand vom 02.11.2026. Der zuletzt neu verifizierte Eintrag bleibt die Aufhebung der Augsburger Sperrzone Karlsruher Straße/Frankfurter Straße.",
+      "intro": "Prüfstand 04.11.2026: Zwei neue verwaltungsrelevante Bekanntmachungen aufgenommen – Aufhebung alter Verwaltungsvorschriften zum 01.12.2026 und verbindlicher Haushaltsvorbehalt in der AVSG-Förderkommunikation ab 05.11.2026.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Alte Verwaltungsvorschriften werden zum 1. Dezember 2026 aufgehoben",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 474; Bekanntmachung der Bayerischen Staatsregierung vom 20.10.2026, Az. B II 4 – G 31/26-1",
+          "published": "2026-11-04",
+          "effective": "01.12.2026; keine Rückwirkung und keine besondere Übergangsregel",
+          "summary": "Vier ältere Verwaltungsvorschriften werden aufgehoben: die Weitergeltungsbekanntmachung, die Richtlinien über den amtlichen Auslandsverkehr, die Rahmenvorschriften zur elektronischen Aktenführung und Papiervernichtung sowie die personalrechtlichen Grundsätze „Verwaltung 21“.",
+          "administrationImpact": "„Verwaltung 21“ galt für den staatlichen Bereich. Personal-, Organisations- und Aktenstellen sollten dennoch Verweise, Muster und interne Regelwerke auf die aufgehobenen Fundstellen prüfen; kommunales Satzungsrecht wird nicht unmittelbar geändert.",
+          "checkpoints": [
+            "Laufende Vorgänge und bisherige Rechtsgrundlagen bis 30.11.2026 dokumentieren.",
+            "Ab 01.12.2026 keine der vier aufgehobenen Verwaltungsvorschriften als aktuelle Vollzugsgrundlage verwenden.",
+            "Interne Verweise, Muster, Aktenpläne und Schulungsunterlagen auf aktuelle Spezialregelungen umstellen."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-474/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV96668"
+        },
+        {
+          "title": "AVSG-Förderkommunikation: Haushaltsvorbehalt ausdrücklich nennen",
+          "kind": "Änderung einer Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 470; Bekanntmachung des Bayerischen Staatsministeriums für Gesundheit, Pflege und Prävention vom 14.10.2026, Az. 42-G8300-2026/269",
+          "published": "2026-11-04",
+          "effective": "05.11.2026; keine Rückwirkung und keine gesonderte Übergangsregel; Geltungsdauer bis 2029 verlängert",
+          "summary": "In Veröffentlichungen und der direkten Kommunikation mit Antragstellern muss ausdrücklich darauf hingewiesen werden, dass Förderleistungen freiwillig und haushaltsabhängig sind und Anträge bei Überzeichnung abgelehnt werden können. Die Vorgabe gilt entsprechend in weiteren Förderbereichen; die Laufzeit wird von 2026 auf 2029 verlängert.",
+          "administrationImpact": "Sozialverwaltung, Pflegestützpunkte und kommunal beteiligte Träger sollten Webseiten, Merkblätter, Eingangsbestätigungen und Ablehnungsbausteine für einschlägige Förderprogramme vor dem nächsten Antragseingang aktualisieren.",
+          "checkpoints": [
+            "Pflicht-Hinweis zur Freiwilligkeit, Haushaltsmittelverfügbarkeit und möglichen Überzeichnung in alle betroffenen Kommunikationskanäle aufnehmen.",
+            "Fördermerkblätter, Webtexte und Standardanschreiben vor neuen Anträgen ab 05.11.2026 aktualisieren.",
+            "Konsolidierte Bayern.Recht-Fassung nachziehen, sobald die Änderung eingearbeitet ist."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-470/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_861_G_10013/true"
+        },
         {
           "title": "Augsburg hebt Sperrzone Karlsruher Straße/Frankfurter Straße auf",
           "kind": "Allgemeinverfügung",
@@ -2340,11 +2404,43 @@
         }
       ],
       "id": "important",
-      "intro": "Für die Verwaltungspraxis am 03.11.2026 wichtig: Die bereits verifizierten Änderungen und Inkrafttretensregeln bleiben aktuell; in den heute geprüften amtlichen Quellen kam keine neue einschlägige Veröffentlichung hinzu.",
+      "intro": "Für die Verwaltungspraxis am 04.11.2026 wichtig: Verweise auf die aufgehobenen Verwaltungsvorschriften bis Ende November bereinigen und einschlägige AVSG-Förderkommunikation vor dem 05.11.2026 um den ausdrücklichen Haushaltsvorbehalt ergänzen.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Alte Verwaltungsvorschriften werden zum 1. Dezember 2026 aufgehoben",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 474; Bekanntmachung der Bayerischen Staatsregierung vom 20.10.2026, Az. B II 4 – G 31/26-1",
+          "published": "2026-11-04",
+          "effective": "01.12.2026; keine Rückwirkung und keine besondere Übergangsregel",
+          "summary": "Vier ältere Verwaltungsvorschriften werden aufgehoben: die Weitergeltungsbekanntmachung, die Richtlinien über den amtlichen Auslandsverkehr, die Rahmenvorschriften zur elektronischen Aktenführung und Papiervernichtung sowie die personalrechtlichen Grundsätze „Verwaltung 21“.",
+          "administrationImpact": "„Verwaltung 21“ galt für den staatlichen Bereich. Personal-, Organisations- und Aktenstellen sollten dennoch Verweise, Muster und interne Regelwerke auf die aufgehobenen Fundstellen prüfen; kommunales Satzungsrecht wird nicht unmittelbar geändert.",
+          "checkpoints": [
+            "Laufende Vorgänge und bisherige Rechtsgrundlagen bis 30.11.2026 dokumentieren.",
+            "Ab 01.12.2026 keine der vier aufgehobenen Verwaltungsvorschriften als aktuelle Vollzugsgrundlage verwenden.",
+            "Interne Verweise, Muster, Aktenpläne und Schulungsunterlagen auf aktuelle Spezialregelungen umstellen."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-474/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVwV96668"
+        },
+        {
+          "title": "AVSG-Förderkommunikation: Haushaltsvorbehalt ausdrücklich nennen",
+          "kind": "Änderung einer Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 470; Bekanntmachung des Bayerischen Staatsministeriums für Gesundheit, Pflege und Prävention vom 14.10.2026, Az. 42-G8300-2026/269",
+          "published": "2026-11-04",
+          "effective": "05.11.2026; keine Rückwirkung und keine gesonderte Übergangsregel; Geltungsdauer bis 2029 verlängert",
+          "summary": "In Veröffentlichungen und der direkten Kommunikation mit Antragstellern muss ausdrücklich darauf hingewiesen werden, dass Förderleistungen freiwillig und haushaltsabhängig sind und Anträge bei Überzeichnung abgelehnt werden können. Die Vorgabe gilt entsprechend in weiteren Förderbereichen; die Laufzeit wird von 2026 auf 2029 verlängert.",
+          "administrationImpact": "Sozialverwaltung, Pflegestützpunkte und kommunal beteiligte Träger sollten Webseiten, Merkblätter, Eingangsbestätigungen und Ablehnungsbausteine für einschlägige Förderprogramme vor dem nächsten Antragseingang aktualisieren.",
+          "checkpoints": [
+            "Pflicht-Hinweis zur Freiwilligkeit, Haushaltsmittelverfügbarkeit und möglichen Überzeichnung in alle betroffenen Kommunikationskanäle aufnehmen.",
+            "Fördermerkblätter, Webtexte und Standardanschreiben vor neuen Anträgen ab 05.11.2026 aktualisieren.",
+            "Konsolidierte Bayern.Recht-Fassung nachziehen, sobald die Änderung eingearbeitet ist."
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-470/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayVV_861_G_10013/true"
+        },
         {
           "title": "Augsburg hebt Sperrzone Karlsruher Straße/Frankfurter Straße auf",
           "kind": "Allgemeinverfügung",
@@ -3591,9 +3687,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Vollständig verifiziertes Änderungsinventar zum 03.11.2026 aus amtlichen Primärquellen; heute ohne neuen fachlichen Eintrag.",
+      "intro": "Vollständig verifiziertes Änderungsinventar zum 04.11.2026 aus amtlichen Primärquellen; heute um BayMBl. 2026 Nr. 474 und Nr. 470 ergänzt.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-03T06:01:01+01:00"
+  "updatedAt": "2026-11-04T06:04:30+01:00"
 }
