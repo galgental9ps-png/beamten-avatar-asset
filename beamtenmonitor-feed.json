@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Prüfstand 05.11.2026: BayMBl. bis Nr. 474 vom 04.11.2026, GVBl. bis S. 623 vom 30.10.2026, Augsburger Amtsblatt Nr. 43/44 vom 30.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und öffentliche Ausbildungsinformationen sowie Bayern.Recht geprüft; keine neue relevante Änderung seit dem verifizierten Stand vom 04.11.2026. Die konsolidierte Bayern.Recht-Fassung der AVSG-Vollzugshinweise war weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
+  "checkedSources": "Prüfstand 06.11.2026: BayMBl. bis Nr. 474 vom 04.11.2026, GVBl. bis S. 623 vom 30.10.2026, Augsburger Amtsblatt Nr. 43/44 vom 30.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und öffentliche Ausbildungsinformationen sowie Bayern.Recht geprüft; keine neue relevante Änderung seit dem verifizierten Stand vom 05.11.2026. Die konsolidierte Bayern.Recht-Fassung der AVSG-Vollzugshinweise ist weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -1250,7 +1250,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 05.11.2026: Keine neue relevante Änderung seit dem verifizierten Stand vom 04.11.2026; die beiden BayMBl.-Änderungen Nr. 474 und Nr. 470 bleiben aktuell.",
+      "intro": "Prüfstand 06.11.2026: Keine neue relevante Änderung seit dem verifizierten Stand vom 05.11.2026; BayMBl. Nr. 474 und Nr. 470 bleiben die jüngsten einschlägigen Änderungen.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -2404,7 +2404,7 @@
         }
       ],
       "id": "important",
-      "intro": "Für die Verwaltungspraxis am 05.11.2026 wichtig: Der ausdrückliche Haushaltsvorbehalt in der AVSG-Förderkommunikation gilt ab heute; die Bayern.Recht-Lesefassung ist weiterhin noch nicht nachgeführt.",
+      "intro": "Für die Verwaltungspraxis am 06.11.2026 wichtig: Der Haushaltsvorbehalt in der AVSG-Förderkommunikation gilt seit 05.11.2026; die Bayern.Recht-Lesefassung ist weiterhin noch nicht nachgeführt.",
       "label": "Was ist wichtig?"
     },
     {
@@ -3687,9 +3687,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Vollständig verifiziertes Änderungsinventar zum 05.11.2026 aus amtlichen Primärquellen; seit dem Vortag keine neue relevante Änderung.",
+      "intro": "Vollständig verifiziertes Änderungsinventar zum 06.11.2026 aus amtlichen Primärquellen; seit dem Vortag keine neue relevante Änderung.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-05T06:07:00+01:00"
+  "updatedAt": "2026-11-06T06:10:00+01:00"
 }
