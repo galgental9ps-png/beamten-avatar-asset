@@ -1,9 +1,89 @@
 {
-  "checkedSources": "Prüfstand 06.11.2026: BayMBl. bis Nr. 474 vom 04.11.2026, GVBl. bis S. 623 vom 30.10.2026, Augsburger Amtsblatt Nr. 43/44 vom 30.10.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und öffentliche Ausbildungsinformationen sowie Bayern.Recht geprüft; keine neue relevante Änderung seit dem verifizierten Stand vom 05.11.2026. Die konsolidierte Bayern.Recht-Fassung der AVSG-Vollzugshinweise ist weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
+  "checkedSources": "Prüfstand 07.11.2026: BayMBl. bis Nr. 474 vom 04.11.2026, GVBl. bis S. 623 vom 30.10.2026, Augsburger Amtsblatt Nr. 45 vom 06.11.2026, Regierungsamtsblatt Schwaben bis Nr. 19 vom 20.10.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und öffentliche Ausbildungsinformationen sowie Bayern.Recht geprüft. Fünf neue kommunal- und verfahrensrechtliche Bekanntmachungen aus Amtsblatt Nr. 45 aufgenommen. Die konsolidierte Bayern.Recht-Fassung der AVSG-Vollzugshinweise ist weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Bebauungsplan Nr. 897 „Östlich der Rechenstraße“: Öffentlichkeitsbeteiligung",
+          "kind": "Bauleitplanverfahren / öffentliche Bekanntmachung",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 45 vom 06.11.2026, S. 293–295; § 3 Abs. 2 BauGB",
+          "published": "06.11.2026",
+          "effective": "Beteiligung vom 09.11.2026 bis 08.12.2026; noch kein Satzungsrecht, keine Rückwirkung oder Übergangsregel",
+          "summary": "Der Entwurf des Bebauungsplans für den Bereich zwischen Rechenstraße, Sämannstraße, Breitwiesenstraße und Flachsstraße wird mit Begründung und Umweltinformationen öffentlich bereitgestellt. Ziel sind geordnete Nachverdichtung, Erhalt zentraler Grünbereiche sowie städtebauliche und klimatische Qualität.",
+          "administrationImpact": "Das Stadtplanungsamt muss die Unterlagen zugänglich halten, Stellungnahmen dokumentieren und die spätere Abwägung vorbereiten; beteiligte Fachämter liefern Umwelt- und Fachdaten.",
+          "checkpoints": [
+            "Unterlagen ab 09.11.2026 im DiPlanungs-Portal prüfen",
+            "Stellungnahmen möglichst elektronisch bis 08.12.2026 einreichen",
+            "Umweltinformationen und Abwägungsmaterial vollständig dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://by.beteiligung.diplanung.de/plaene/augsburg"
+        },
+        {
+          "title": "Imhofstraße 12: Ferienwohnung Nr. 2314 genehmigt",
+          "kind": "Baugenehmigung / öffentliche Bekanntmachung",
+          "reference": "Bescheid vom 28.10.2026, Az. 630/NU-2026-34-1DD; Amtsblatt Nr. 45, S. 295–296",
+          "published": "06.11.2026",
+          "effective": "Nach Art. 66 Abs. 2 Satz 5 BayBO am 06.11.2026 öffentlich zugestellt; keine Rückwirkung oder Übergangsregel",
+          "summary": "Die Nutzungsänderung der Wohnung Nr. 2314 im 23. Obergeschoss zu einer gewerblich betriebenen Ferienwohnung wurde genehmigt. Wegen der großen Zahl beteiligter Nachbarn ersetzt die öffentliche Bekanntmachung die Einzelzustellung.",
+          "administrationImpact": "Die Bauordnungsbehörde dokumentiert die öffentliche Zustellung, hält den Bescheid zur Einsicht bereit und berechnet Rechtsbehelfsfristen ab dem Bekanntmachungstag.",
+          "checkpoints": [
+            "Bescheidauflagen vor Betriebsaufnahme umsetzen",
+            "Einsichtsmöglichkeit und Zustellnachweis dokumentieren",
+            "Einmonatige Klagefrist ab öffentlicher Zustellung beachten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "City-Galerie: Verbindungstreppe und Kundenaufzug geändert genehmigt",
+          "kind": "Baugenehmigung / Änderungsbescheid / öffentliche Bekanntmachung",
+          "reference": "Bescheid vom 28.10.2026, Az. 630/BA-2026-1133-1DD; Amtsblatt Nr. 45, S. 296",
+          "published": "06.11.2026",
+          "effective": "Nach Art. 66 Abs. 2 Satz 5 BayBO am 06.11.2026 öffentlich zugestellt; keine Rückwirkung oder Übergangsregel",
+          "summary": "Für die neue Verbindungstreppe und den Kundenaufzug zwischen Erd- und erstem Obergeschoss wurden die Verlegung des Aufzugsschachts und eine Änderung der Zwischenzustandsauflage genehmigt.",
+          "administrationImpact": "Bauaufsicht und Betreiber müssen genehmigte Planfassung, Auflagenvollzug und öffentliche Zustellung eindeutig dem Änderungsbescheid zuordnen.",
+          "checkpoints": [
+            "Nur die genehmigte Änderungsplanung ausführen",
+            "Zwischenzustandsauflage in der aktuellen Fassung beachten",
+            "Zustellung und Rechtsbehelfsfrist dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "Imhofstraße 12: Ferienwohnung Nr. 1710 genehmigt",
+          "kind": "Baugenehmigung / öffentliche Bekanntmachung",
+          "reference": "Bescheid vom 28.10.2026, Az. 630/NU-2026-36-1DD; Amtsblatt Nr. 45, S. 297",
+          "published": "06.11.2026",
+          "effective": "Nach Art. 66 Abs. 2 Satz 5 BayBO am 06.11.2026 öffentlich zugestellt; keine Rückwirkung oder Übergangsregel",
+          "summary": "Die Nutzungsänderung der Wohnung Nr. 1710 im 17. Obergeschoss zu einer gewerblich betriebenen Ferienwohnung wurde genehmigt.",
+          "administrationImpact": "Die Bauordnungsbehörde muss Zustellung, Einsichtsmöglichkeit, Auflagen und Rechtsbehelfsfrist revisionssicher dokumentieren.",
+          "checkpoints": [
+            "Bescheidauflagen vor Betriebsaufnahme umsetzen",
+            "Öffentliche Zustellung revisionssicher dokumentieren",
+            "Einmonatige Klagefrist beachten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "Imhofstraße 12: Ferienwohnungen Nr. 2804 und 2805 genehmigt",
+          "kind": "Baugenehmigung / öffentliche Bekanntmachung",
+          "reference": "Bescheid vom 28.10.2026, Az. 630/NU-2026-35-1DD; Amtsblatt Nr. 45, S. 297–298",
+          "published": "06.11.2026",
+          "effective": "Nach Art. 66 Abs. 2 Satz 5 BayBO am 06.11.2026 öffentlich zugestellt; keine Rückwirkung oder Übergangsregel",
+          "summary": "Die Nutzungsänderung der Wohnungen Nr. 2804 und 2805 im 28. Obergeschoss zu gewerblich betriebenen Ferienwohnungen wurde genehmigt.",
+          "administrationImpact": "Neben dem Bauordnungsrecht sind Auflagenvollzug, Dokumentation und gegebenenfalls weitere fachrechtliche Anforderungen an den Beherbergungsbetrieb abzugleichen.",
+          "checkpoints": [
+            "Bescheidauflagen und weitere Genehmigungspflichten prüfen",
+            "Öffentliche Zustellung dokumentieren",
+            "Einmonatige Klagefrist beachten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
         {
           "title": "Alte Verwaltungsvorschriften werden zum 1. Dezember 2026 aufgehoben",
           "kind": "Verwaltungsvorschrift",
@@ -1250,11 +1330,91 @@
         }
       ],
       "id": "latest",
-      "intro": "Prüfstand 06.11.2026: Keine neue relevante Änderung seit dem verifizierten Stand vom 05.11.2026; BayMBl. Nr. 474 und Nr. 470 bleiben die jüngsten einschlägigen Änderungen.",
+      "intro": "Amtlicher Prüfstand 07.11.2026: Fünf neue Augsburger Bekanntmachungen aus Amtsblatt Nr. 45 sind aufgenommen; alle weiteren Quellenstände wurden erneut abgeglichen.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Bebauungsplan Nr. 897 „Östlich der Rechenstraße“: Öffentlichkeitsbeteiligung",
+          "kind": "Bauleitplanverfahren / öffentliche Bekanntmachung",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 45 vom 06.11.2026, S. 293–295; § 3 Abs. 2 BauGB",
+          "published": "06.11.2026",
+          "effective": "Beteiligung vom 09.11.2026 bis 08.12.2026; noch kein Satzungsrecht, keine Rückwirkung oder Übergangsregel",
+          "summary": "Der Entwurf des Bebauungsplans für den Bereich zwischen Rechenstraße, Sämannstraße, Breitwiesenstraße und Flachsstraße wird mit Begründung und Umweltinformationen öffentlich bereitgestellt. Ziel sind geordnete Nachverdichtung, Erhalt zentraler Grünbereiche sowie städtebauliche und klimatische Qualität.",
+          "administrationImpact": "Das Stadtplanungsamt muss die Unterlagen zugänglich halten, Stellungnahmen dokumentieren und die spätere Abwägung vorbereiten; beteiligte Fachämter liefern Umwelt- und Fachdaten.",
+          "checkpoints": [
+            "Unterlagen ab 09.11.2026 im DiPlanungs-Portal prüfen",
+            "Stellungnahmen möglichst elektronisch bis 08.12.2026 einreichen",
+            "Umweltinformationen und Abwägungsmaterial vollständig dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://by.beteiligung.diplanung.de/plaene/augsburg"
+        },
+        {
+          "title": "Imhofstraße 12: Ferienwohnung Nr. 2314 genehmigt",
+          "kind": "Baugenehmigung / öffentliche Bekanntmachung",
+          "reference": "Bescheid vom 28.10.2026, Az. 630/NU-2026-34-1DD; Amtsblatt Nr. 45, S. 295–296",
+          "published": "06.11.2026",
+          "effective": "Nach Art. 66 Abs. 2 Satz 5 BayBO am 06.11.2026 öffentlich zugestellt; keine Rückwirkung oder Übergangsregel",
+          "summary": "Die Nutzungsänderung der Wohnung Nr. 2314 im 23. Obergeschoss zu einer gewerblich betriebenen Ferienwohnung wurde genehmigt. Wegen der großen Zahl beteiligter Nachbarn ersetzt die öffentliche Bekanntmachung die Einzelzustellung.",
+          "administrationImpact": "Die Bauordnungsbehörde dokumentiert die öffentliche Zustellung, hält den Bescheid zur Einsicht bereit und berechnet Rechtsbehelfsfristen ab dem Bekanntmachungstag.",
+          "checkpoints": [
+            "Bescheidauflagen vor Betriebsaufnahme umsetzen",
+            "Einsichtsmöglichkeit und Zustellnachweis dokumentieren",
+            "Einmonatige Klagefrist ab öffentlicher Zustellung beachten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "City-Galerie: Verbindungstreppe und Kundenaufzug geändert genehmigt",
+          "kind": "Baugenehmigung / Änderungsbescheid / öffentliche Bekanntmachung",
+          "reference": "Bescheid vom 28.10.2026, Az. 630/BA-2026-1133-1DD; Amtsblatt Nr. 45, S. 296",
+          "published": "06.11.2026",
+          "effective": "Nach Art. 66 Abs. 2 Satz 5 BayBO am 06.11.2026 öffentlich zugestellt; keine Rückwirkung oder Übergangsregel",
+          "summary": "Für die neue Verbindungstreppe und den Kundenaufzug zwischen Erd- und erstem Obergeschoss wurden die Verlegung des Aufzugsschachts und eine Änderung der Zwischenzustandsauflage genehmigt.",
+          "administrationImpact": "Bauaufsicht und Betreiber müssen genehmigte Planfassung, Auflagenvollzug und öffentliche Zustellung eindeutig dem Änderungsbescheid zuordnen.",
+          "checkpoints": [
+            "Nur die genehmigte Änderungsplanung ausführen",
+            "Zwischenzustandsauflage in der aktuellen Fassung beachten",
+            "Zustellung und Rechtsbehelfsfrist dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "Imhofstraße 12: Ferienwohnung Nr. 1710 genehmigt",
+          "kind": "Baugenehmigung / öffentliche Bekanntmachung",
+          "reference": "Bescheid vom 28.10.2026, Az. 630/NU-2026-36-1DD; Amtsblatt Nr. 45, S. 297",
+          "published": "06.11.2026",
+          "effective": "Nach Art. 66 Abs. 2 Satz 5 BayBO am 06.11.2026 öffentlich zugestellt; keine Rückwirkung oder Übergangsregel",
+          "summary": "Die Nutzungsänderung der Wohnung Nr. 1710 im 17. Obergeschoss zu einer gewerblich betriebenen Ferienwohnung wurde genehmigt.",
+          "administrationImpact": "Die Bauordnungsbehörde muss Zustellung, Einsichtsmöglichkeit, Auflagen und Rechtsbehelfsfrist revisionssicher dokumentieren.",
+          "checkpoints": [
+            "Bescheidauflagen vor Betriebsaufnahme umsetzen",
+            "Öffentliche Zustellung revisionssicher dokumentieren",
+            "Einmonatige Klagefrist beachten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "Imhofstraße 12: Ferienwohnungen Nr. 2804 und 2805 genehmigt",
+          "kind": "Baugenehmigung / öffentliche Bekanntmachung",
+          "reference": "Bescheid vom 28.10.2026, Az. 630/NU-2026-35-1DD; Amtsblatt Nr. 45, S. 297–298",
+          "published": "06.11.2026",
+          "effective": "Nach Art. 66 Abs. 2 Satz 5 BayBO am 06.11.2026 öffentlich zugestellt; keine Rückwirkung oder Übergangsregel",
+          "summary": "Die Nutzungsänderung der Wohnungen Nr. 2804 und 2805 im 28. Obergeschoss zu gewerblich betriebenen Ferienwohnungen wurde genehmigt.",
+          "administrationImpact": "Neben dem Bauordnungsrecht sind Auflagenvollzug, Dokumentation und gegebenenfalls weitere fachrechtliche Anforderungen an den Beherbergungsbetrieb abzugleichen.",
+          "checkpoints": [
+            "Bescheidauflagen und weitere Genehmigungspflichten prüfen",
+            "Öffentliche Zustellung dokumentieren",
+            "Einmonatige Klagefrist beachten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
         {
           "title": "Alte Verwaltungsvorschriften werden zum 1. Dezember 2026 aufgehoben",
           "kind": "Verwaltungsvorschrift",
@@ -2404,11 +2564,91 @@
         }
       ],
       "id": "important",
-      "intro": "Für die Verwaltungspraxis am 06.11.2026 wichtig: Der Haushaltsvorbehalt in der AVSG-Förderkommunikation gilt seit 05.11.2026; die Bayern.Recht-Lesefassung ist weiterhin noch nicht nachgeführt.",
+      "intro": "Amtlicher Prüfstand 07.11.2026: Fünf neue Augsburger Bekanntmachungen aus Amtsblatt Nr. 45 sind aufgenommen; alle weiteren Quellenstände wurden erneut abgeglichen.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Bebauungsplan Nr. 897 „Östlich der Rechenstraße“: Öffentlichkeitsbeteiligung",
+          "kind": "Bauleitplanverfahren / öffentliche Bekanntmachung",
+          "reference": "Amtsblatt Stadt Augsburg Nr. 45 vom 06.11.2026, S. 293–295; § 3 Abs. 2 BauGB",
+          "published": "06.11.2026",
+          "effective": "Beteiligung vom 09.11.2026 bis 08.12.2026; noch kein Satzungsrecht, keine Rückwirkung oder Übergangsregel",
+          "summary": "Der Entwurf des Bebauungsplans für den Bereich zwischen Rechenstraße, Sämannstraße, Breitwiesenstraße und Flachsstraße wird mit Begründung und Umweltinformationen öffentlich bereitgestellt. Ziel sind geordnete Nachverdichtung, Erhalt zentraler Grünbereiche sowie städtebauliche und klimatische Qualität.",
+          "administrationImpact": "Das Stadtplanungsamt muss die Unterlagen zugänglich halten, Stellungnahmen dokumentieren und die spätere Abwägung vorbereiten; beteiligte Fachämter liefern Umwelt- und Fachdaten.",
+          "checkpoints": [
+            "Unterlagen ab 09.11.2026 im DiPlanungs-Portal prüfen",
+            "Stellungnahmen möglichst elektronisch bis 08.12.2026 einreichen",
+            "Umweltinformationen und Abwägungsmaterial vollständig dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://by.beteiligung.diplanung.de/plaene/augsburg"
+        },
+        {
+          "title": "Imhofstraße 12: Ferienwohnung Nr. 2314 genehmigt",
+          "kind": "Baugenehmigung / öffentliche Bekanntmachung",
+          "reference": "Bescheid vom 28.10.2026, Az. 630/NU-2026-34-1DD; Amtsblatt Nr. 45, S. 295–296",
+          "published": "06.11.2026",
+          "effective": "Nach Art. 66 Abs. 2 Satz 5 BayBO am 06.11.2026 öffentlich zugestellt; keine Rückwirkung oder Übergangsregel",
+          "summary": "Die Nutzungsänderung der Wohnung Nr. 2314 im 23. Obergeschoss zu einer gewerblich betriebenen Ferienwohnung wurde genehmigt. Wegen der großen Zahl beteiligter Nachbarn ersetzt die öffentliche Bekanntmachung die Einzelzustellung.",
+          "administrationImpact": "Die Bauordnungsbehörde dokumentiert die öffentliche Zustellung, hält den Bescheid zur Einsicht bereit und berechnet Rechtsbehelfsfristen ab dem Bekanntmachungstag.",
+          "checkpoints": [
+            "Bescheidauflagen vor Betriebsaufnahme umsetzen",
+            "Einsichtsmöglichkeit und Zustellnachweis dokumentieren",
+            "Einmonatige Klagefrist ab öffentlicher Zustellung beachten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "City-Galerie: Verbindungstreppe und Kundenaufzug geändert genehmigt",
+          "kind": "Baugenehmigung / Änderungsbescheid / öffentliche Bekanntmachung",
+          "reference": "Bescheid vom 28.10.2026, Az. 630/BA-2026-1133-1DD; Amtsblatt Nr. 45, S. 296",
+          "published": "06.11.2026",
+          "effective": "Nach Art. 66 Abs. 2 Satz 5 BayBO am 06.11.2026 öffentlich zugestellt; keine Rückwirkung oder Übergangsregel",
+          "summary": "Für die neue Verbindungstreppe und den Kundenaufzug zwischen Erd- und erstem Obergeschoss wurden die Verlegung des Aufzugsschachts und eine Änderung der Zwischenzustandsauflage genehmigt.",
+          "administrationImpact": "Bauaufsicht und Betreiber müssen genehmigte Planfassung, Auflagenvollzug und öffentliche Zustellung eindeutig dem Änderungsbescheid zuordnen.",
+          "checkpoints": [
+            "Nur die genehmigte Änderungsplanung ausführen",
+            "Zwischenzustandsauflage in der aktuellen Fassung beachten",
+            "Zustellung und Rechtsbehelfsfrist dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "Imhofstraße 12: Ferienwohnung Nr. 1710 genehmigt",
+          "kind": "Baugenehmigung / öffentliche Bekanntmachung",
+          "reference": "Bescheid vom 28.10.2026, Az. 630/NU-2026-36-1DD; Amtsblatt Nr. 45, S. 297",
+          "published": "06.11.2026",
+          "effective": "Nach Art. 66 Abs. 2 Satz 5 BayBO am 06.11.2026 öffentlich zugestellt; keine Rückwirkung oder Übergangsregel",
+          "summary": "Die Nutzungsänderung der Wohnung Nr. 1710 im 17. Obergeschoss zu einer gewerblich betriebenen Ferienwohnung wurde genehmigt.",
+          "administrationImpact": "Die Bauordnungsbehörde muss Zustellung, Einsichtsmöglichkeit, Auflagen und Rechtsbehelfsfrist revisionssicher dokumentieren.",
+          "checkpoints": [
+            "Bescheidauflagen vor Betriebsaufnahme umsetzen",
+            "Öffentliche Zustellung revisionssicher dokumentieren",
+            "Einmonatige Klagefrist beachten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "Imhofstraße 12: Ferienwohnungen Nr. 2804 und 2805 genehmigt",
+          "kind": "Baugenehmigung / öffentliche Bekanntmachung",
+          "reference": "Bescheid vom 28.10.2026, Az. 630/NU-2026-35-1DD; Amtsblatt Nr. 45, S. 297–298",
+          "published": "06.11.2026",
+          "effective": "Nach Art. 66 Abs. 2 Satz 5 BayBO am 06.11.2026 öffentlich zugestellt; keine Rückwirkung oder Übergangsregel",
+          "summary": "Die Nutzungsänderung der Wohnungen Nr. 2804 und 2805 im 28. Obergeschoss zu gewerblich betriebenen Ferienwohnungen wurde genehmigt.",
+          "administrationImpact": "Neben dem Bauordnungsrecht sind Auflagenvollzug, Dokumentation und gegebenenfalls weitere fachrechtliche Anforderungen an den Beherbergungsbetrieb abzugleichen.",
+          "checkpoints": [
+            "Bescheidauflagen und weitere Genehmigungspflichten prüfen",
+            "Öffentliche Zustellung dokumentieren",
+            "Einmonatige Klagefrist beachten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-45_vom-06-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
         {
           "title": "Alte Verwaltungsvorschriften werden zum 1. Dezember 2026 aufgehoben",
           "kind": "Verwaltungsvorschrift",
@@ -3687,9 +3927,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Vollständig verifiziertes Änderungsinventar zum 06.11.2026 aus amtlichen Primärquellen; seit dem Vortag keine neue relevante Änderung.",
+      "intro": "Amtlicher Prüfstand 07.11.2026: Fünf neue Augsburger Bekanntmachungen aus Amtsblatt Nr. 45 sind aufgenommen; alle weiteren Quellenstände wurden erneut abgeglichen.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-06T06:10:00+01:00"
+  "updatedAt": "2026-11-07T06:15:00+01:00"
 }
