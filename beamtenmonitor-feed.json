@@ -1,9 +1,57 @@
 {
-  "checkedSources": "Prüfstand 10.11.2026: BayMBl. bis Nr. 474 vom 04.11.2026, GVBl. bis S. 623 vom 30.10.2026, Augsburger Amtsblatt Nr. 45 vom 06.11.2026, BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung, Augsburg Stadtrecht und öffentliche Ausbildungsinformationen sowie Bayern.Recht geprüft; keine neue relevante Änderung seit dem verifizierten Stand vom 09.11.2026. Die Regierungsamtsblatt-Übersicht Schwaben wurde geprüft; Nr. 20 ist laut Jahresplan für heute vorgesehen, war zum Prüfzeitpunkt aber noch nicht veröffentlicht, letzter abrufbarer Stand bleibt Nr. 19 vom 20.10.2026. Praktikum I läuft seit 09.11.2026 bis 02.01.2027. Die Bayern.Recht-Kopfzeile der AVSG-Vollzugshinweise ist weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
+  "checkedSources": "Prüfstand 11.11.2026: BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; BayMBl. bis Nr. 474 vom 04.11.2026; GVBl. bis S. 623 vom 30.10.2026; Bayern.Recht; Augsburg Stadtrecht, Amtsblatt Nr. 45 vom 06.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 vollständig geprüft. Neu relevant: Haushaltssatzung des Landschaftspflegeverbands Zusam, Sitzung des Regionalen Planungsverbands Augsburg sowie zwei GVZ-Verbandsversammlungen. Praktikum I läuft bis 02.01.2027. Die Bayern.Recht-Kopfzeile der AVSG-Vollzugshinweise ist weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Landschaftspflegeverband Zusam: Haushaltssatzung 2026",
+          "kind": "Haushaltssatzung",
+          "reference": "RABl. Schw. 2026 S. 227",
+          "published": "2026-11-10",
+          "effective": "2026-01-01 (rückwirkend; keine weiteren Übergangsregeln)",
+          "summary": "Der Haushalt wird mit 53.000 € im Verwaltungshaushalt und 27.400 € im Vermögenshaushalt festgesetzt. Kredite und Verpflichtungsermächtigungen sind nicht vorgesehen; die Betriebskostenumlage der Stadt Augsburg beträgt 3.500 €.",
+          "administrationImpact": "Die Stadt Augsburg muss ihren Umlageanteil haushalts- und buchungsseitig abgleichen und die rückwirkende Wirkung zum Jahresbeginn dokumentieren.",
+          "checkpoints": [
+            "3.500-€-Umlage im Haushalt und in der Verbandsabrechnung abgleichen",
+            "Rückwirkendes Inkrafttreten zum 01.01.2026 dokumentieren",
+            "Öffentlich ausgelegte Anlagen bei Bedarf einsehen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf",
+          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf"
+        },
+        {
+          "title": "Regionaler Planungsverband Augsburg: Verbandsversammlung am 21. Dezember 2026",
+          "kind": "Sitzungsbekanntmachung",
+          "reference": "RABl. Schw. 2026 S. 226",
+          "published": "2026-11-10",
+          "effective": "2026-12-21 (Sitzungstermin; keine Rechtsänderung und keine Rückwirkung)",
+          "summary": "Die öffentliche Verbandsversammlung behandelt Wahlen, Satzungs- und Geschäftsordnungsanträge sowie Fortschreibungen des Regionalplans zu Landwirtschaft, Wasserwirtschaft, Bodenschätzen und Windenergie.",
+          "administrationImpact": "Betroffene städtische Stellen sollten Termin und Vorlagen verfolgen; Rechtswirkungen entstehen erst durch spätere Beschlüsse und gegebenenfalls weitere Bekanntmachungen.",
+          "checkpoints": [
+            "Sitzung am 21.12.2026 vormerken",
+            "Satzungs- und Geschäftsordnungsanträge fachlich prüfen",
+            "Spätere Regionalplanbeschlüsse und Bekanntmachungen nachverfolgen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf",
+          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf"
+        },
+        {
+          "title": "Güterverkehrszentrum Raum Augsburg: öffentliche Verbandsversammlungen",
+          "kind": "Sitzungsbekanntmachungen",
+          "reference": "RABl. Schw. 2026 S. 230",
+          "published": "2026-11-10",
+          "effective": "2026-11-27 (Sitzungstermine; keine unmittelbare Rechtsänderung und keine Rückwirkung)",
+          "summary": "Zweck- und Planungsverband tagen am 27. November 2026. Themen sind insbesondere die Aufgabenübertragung für Straßenreinigung und Straßensicherung, Haushaltsplanung 2027, Jahresrechnung 2024 und Entlastung.",
+          "administrationImpact": "Die Stadt Augsburg sollte Vorlagen, Zuständigkeitsübertragung und Haushaltsfolgen koordinieren; verbindliche Wirkungen hängen von den noch zu fassenden Beschlüssen ab.",
+          "checkpoints": [
+            "Sitzungen am 27.11.2026 vormerken",
+            "Zweckvereinbarung zu Straßenreinigung und Straßensicherung prüfen",
+            "Haushalts- und Jahresrechnungsbeschlüsse nachverfolgen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf",
+          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf"
+        },
         {
           "title": "Bebauungsplan Nr. 897 „Östlich der Rechenstraße“: Öffentlichkeitsbeteiligung",
           "kind": "Bauleitplanverfahren / öffentliche Bekanntmachung",
@@ -1336,6 +1384,54 @@
     {
       "changes": [
         {
+          "title": "Landschaftspflegeverband Zusam: Haushaltssatzung 2026",
+          "kind": "Haushaltssatzung",
+          "reference": "RABl. Schw. 2026 S. 227",
+          "published": "2026-11-10",
+          "effective": "2026-01-01 (rückwirkend; keine weiteren Übergangsregeln)",
+          "summary": "Der Haushalt wird mit 53.000 € im Verwaltungshaushalt und 27.400 € im Vermögenshaushalt festgesetzt. Kredite und Verpflichtungsermächtigungen sind nicht vorgesehen; die Betriebskostenumlage der Stadt Augsburg beträgt 3.500 €.",
+          "administrationImpact": "Die Stadt Augsburg muss ihren Umlageanteil haushalts- und buchungsseitig abgleichen und die rückwirkende Wirkung zum Jahresbeginn dokumentieren.",
+          "checkpoints": [
+            "3.500-€-Umlage im Haushalt und in der Verbandsabrechnung abgleichen",
+            "Rückwirkendes Inkrafttreten zum 01.01.2026 dokumentieren",
+            "Öffentlich ausgelegte Anlagen bei Bedarf einsehen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf",
+          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf"
+        },
+        {
+          "title": "Regionaler Planungsverband Augsburg: Verbandsversammlung am 21. Dezember 2026",
+          "kind": "Sitzungsbekanntmachung",
+          "reference": "RABl. Schw. 2026 S. 226",
+          "published": "2026-11-10",
+          "effective": "2026-12-21 (Sitzungstermin; keine Rechtsänderung und keine Rückwirkung)",
+          "summary": "Die öffentliche Verbandsversammlung behandelt Wahlen, Satzungs- und Geschäftsordnungsanträge sowie Fortschreibungen des Regionalplans zu Landwirtschaft, Wasserwirtschaft, Bodenschätzen und Windenergie.",
+          "administrationImpact": "Betroffene städtische Stellen sollten Termin und Vorlagen verfolgen; Rechtswirkungen entstehen erst durch spätere Beschlüsse und gegebenenfalls weitere Bekanntmachungen.",
+          "checkpoints": [
+            "Sitzung am 21.12.2026 vormerken",
+            "Satzungs- und Geschäftsordnungsanträge fachlich prüfen",
+            "Spätere Regionalplanbeschlüsse und Bekanntmachungen nachverfolgen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf",
+          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf"
+        },
+        {
+          "title": "Güterverkehrszentrum Raum Augsburg: öffentliche Verbandsversammlungen",
+          "kind": "Sitzungsbekanntmachungen",
+          "reference": "RABl. Schw. 2026 S. 230",
+          "published": "2026-11-10",
+          "effective": "2026-11-27 (Sitzungstermine; keine unmittelbare Rechtsänderung und keine Rückwirkung)",
+          "summary": "Zweck- und Planungsverband tagen am 27. November 2026. Themen sind insbesondere die Aufgabenübertragung für Straßenreinigung und Straßensicherung, Haushaltsplanung 2027, Jahresrechnung 2024 und Entlastung.",
+          "administrationImpact": "Die Stadt Augsburg sollte Vorlagen, Zuständigkeitsübertragung und Haushaltsfolgen koordinieren; verbindliche Wirkungen hängen von den noch zu fassenden Beschlüssen ab.",
+          "checkpoints": [
+            "Sitzungen am 27.11.2026 vormerken",
+            "Zweckvereinbarung zu Straßenreinigung und Straßensicherung prüfen",
+            "Haushalts- und Jahresrechnungsbeschlüsse nachverfolgen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf",
+          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf"
+        },
+        {
           "title": "Bebauungsplan Nr. 897 „Östlich der Rechenstraße“: Öffentlichkeitsbeteiligung",
           "kind": "Bauleitplanverfahren / öffentliche Bekanntmachung",
           "reference": "Amtsblatt Stadt Augsburg Nr. 45 vom 06.11.2026, S. 293–295; § 3 Abs. 2 BauGB",
@@ -2569,6 +2665,54 @@
     },
     {
       "changes": [
+        {
+          "title": "Landschaftspflegeverband Zusam: Haushaltssatzung 2026",
+          "kind": "Haushaltssatzung",
+          "reference": "RABl. Schw. 2026 S. 227",
+          "published": "2026-11-10",
+          "effective": "2026-01-01 (rückwirkend; keine weiteren Übergangsregeln)",
+          "summary": "Der Haushalt wird mit 53.000 € im Verwaltungshaushalt und 27.400 € im Vermögenshaushalt festgesetzt. Kredite und Verpflichtungsermächtigungen sind nicht vorgesehen; die Betriebskostenumlage der Stadt Augsburg beträgt 3.500 €.",
+          "administrationImpact": "Die Stadt Augsburg muss ihren Umlageanteil haushalts- und buchungsseitig abgleichen und die rückwirkende Wirkung zum Jahresbeginn dokumentieren.",
+          "checkpoints": [
+            "3.500-€-Umlage im Haushalt und in der Verbandsabrechnung abgleichen",
+            "Rückwirkendes Inkrafttreten zum 01.01.2026 dokumentieren",
+            "Öffentlich ausgelegte Anlagen bei Bedarf einsehen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf",
+          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf"
+        },
+        {
+          "title": "Regionaler Planungsverband Augsburg: Verbandsversammlung am 21. Dezember 2026",
+          "kind": "Sitzungsbekanntmachung",
+          "reference": "RABl. Schw. 2026 S. 226",
+          "published": "2026-11-10",
+          "effective": "2026-12-21 (Sitzungstermin; keine Rechtsänderung und keine Rückwirkung)",
+          "summary": "Die öffentliche Verbandsversammlung behandelt Wahlen, Satzungs- und Geschäftsordnungsanträge sowie Fortschreibungen des Regionalplans zu Landwirtschaft, Wasserwirtschaft, Bodenschätzen und Windenergie.",
+          "administrationImpact": "Betroffene städtische Stellen sollten Termin und Vorlagen verfolgen; Rechtswirkungen entstehen erst durch spätere Beschlüsse und gegebenenfalls weitere Bekanntmachungen.",
+          "checkpoints": [
+            "Sitzung am 21.12.2026 vormerken",
+            "Satzungs- und Geschäftsordnungsanträge fachlich prüfen",
+            "Spätere Regionalplanbeschlüsse und Bekanntmachungen nachverfolgen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf",
+          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf"
+        },
+        {
+          "title": "Güterverkehrszentrum Raum Augsburg: öffentliche Verbandsversammlungen",
+          "kind": "Sitzungsbekanntmachungen",
+          "reference": "RABl. Schw. 2026 S. 230",
+          "published": "2026-11-10",
+          "effective": "2026-11-27 (Sitzungstermine; keine unmittelbare Rechtsänderung und keine Rückwirkung)",
+          "summary": "Zweck- und Planungsverband tagen am 27. November 2026. Themen sind insbesondere die Aufgabenübertragung für Straßenreinigung und Straßensicherung, Haushaltsplanung 2027, Jahresrechnung 2024 und Entlastung.",
+          "administrationImpact": "Die Stadt Augsburg sollte Vorlagen, Zuständigkeitsübertragung und Haushaltsfolgen koordinieren; verbindliche Wirkungen hängen von den noch zu fassenden Beschlüssen ab.",
+          "checkpoints": [
+            "Sitzungen am 27.11.2026 vormerken",
+            "Zweckvereinbarung zu Straßenreinigung und Straßensicherung prüfen",
+            "Haushalts- und Jahresrechnungsbeschlüsse nachverfolgen"
+          ],
+          "sourceUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf",
+          "consolidatedUrl": "https://www.regierung.schwaben.bayern.de/mam/service/veroeff/rabl2026/amtsblatt_rvs_2026_20_-_bf.pdf"
+        },
         {
           "title": "Bebauungsplan Nr. 897 „Östlich der Rechenstraße“: Öffentlichkeitsbeteiligung",
           "kind": "Bauleitplanverfahren / öffentliche Bekanntmachung",
@@ -3931,5 +4075,5 @@
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-10T06:20:00+01:00"
+  "updatedAt": "2026-11-11T06:20:00+01:00"
 }
