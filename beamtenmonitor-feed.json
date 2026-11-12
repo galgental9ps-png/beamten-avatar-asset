@@ -1,9 +1,89 @@
 {
-  "checkedSources": "Prüfstand 11.11.2026: BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; BayMBl. bis Nr. 474 vom 04.11.2026; GVBl. bis S. 623 vom 30.10.2026; Bayern.Recht; Augsburg Stadtrecht, Amtsblatt Nr. 45 vom 06.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 vollständig geprüft. Neu relevant: Haushaltssatzung des Landschaftspflegeverbands Zusam, Sitzung des Regionalen Planungsverbands Augsburg sowie zwei GVZ-Verbandsversammlungen. Praktikum I läuft bis 02.01.2027. Die Bayern.Recht-Kopfzeile der AVSG-Vollzugshinweise ist weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
+  "checkedSources": "Prüfstand 12.11.2026: BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; BayMBl. bis Nr. 486 vom 11.11.2026; GVBl. bis S. 623 vom 30.10.2026; Bayern.Recht; Augsburg Stadtrecht, Amtsblatt Nr. 45 vom 06.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 geprüft. Neu relevant: ErNa (BayMBl. Nr. 475), FöRLa IV (Nr. 477), neue GutePflegeFöR (Nr. 480), vorgezogenes Ende der bisherigen Förderrichtlinie Pflege (Nr. 481) und Krisenresilienz an Schulen (Nr. 484). Praktikum I läuft bis 02.01.2027. Die Bayern.Recht-Kopfzeile der AVSG-Vollzugshinweise ist weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "All-Gefahren-Abwehr an Schulen neu geordnet",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 484",
+          "published": "2026-11-11",
+          "effective": "2026-11-12; Außerkrafttreten 2026-11-11; ersetzt zwei bisherige Bekanntmachungen mit Ablauf 2026-11-11",
+          "summary": "Die Bekanntmachung bündelt Prävention und Intervention bei Brand, Gebäudeschäden, Gewaltlagen, Infrastruktur- und Naturereignissen, CBRN-Lagen und Pandemien. Bestimmte Vorgaben zu Brandschutz, Krisenverhalten und Unterrichtseinschränkungen gelten unmittelbar auch für kommunale Schulen.",
+          "administrationImpact": "Kommunale Schulverwaltung, Gebäudemanagement, Feuerwehr sowie Ordnungs- und Katastrophenschutzstellen müssen Krisenpläne, Alarmketten und Zuständigkeiten abgleichen.",
+          "checkpoints": [
+            "Krisen- und Alarmpläne kommunaler Schulen anhand der neuen Nummern prüfen",
+            "Alte Bekanntmachungen ab 12.11.2026 nicht mehr als geltenden Stand verwenden",
+            "Kontakte, Dokumentation und Übungen fachstellenübergreifend aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-484/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "GutePflegeFöR neu gefasst",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 480",
+          "published": "2026-11-11",
+          "effective": "2026-11-13 bis 2029-12-31; bisherige GutePflegeFöR endet mit Ablauf 2026-11-12",
+          "summary": "Die Richtlinie fördert kommunale Sozialraumprojekte, Koordinierungsstellen, ambulant betreute Wohngemeinschaften, Kurzzeitpflegeplätze und Simulationsprüfungen zur Anerkennung ausländischer Pflegeabschlüsse. Für die häusliche Pflege sind ausschließlich Kommunen antragsberechtigt.",
+          "administrationImpact": "Sozialverwaltung und Kämmerei müssen Projektkonzepte, Finanzierungspläne, Eigenanteile, Vorhabenbeginn, Weiterleitung und Verwendungsnachweise an den neuen Rahmen anpassen.",
+          "checkpoints": [
+            "Bestehende und geplante Pflegeprojekte einem Fördertatbestand zuordnen",
+            "LfP-Vordrucke und bestätigten Antragseingang vor Vorhabenbeginn dokumentieren",
+            "Mehrfachförderung, gesetzliche Leistungen und mindestens 10 Prozent Eigenanteil prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-480/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Bisherige Förderrichtlinie Pflege endet vorzeitig",
+          "kind": "Änderungsbekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 481",
+          "published": "2026-11-11",
+          "effective": "2026-11-12; Enddatum der bisherigen WoLeRaF wird von 2026-12-31 auf 2026-11-12 vorgezogen",
+          "summary": "Das Außerkrafttretensdatum der Förderrichtlinie Pflege/WoLeRaF wird auf den 12. November 2026 vorgezogen. Damit schließt der alte Rahmen unmittelbar vor dem Inkrafttreten der neuen GutePflegeFöR am 13. November.",
+          "administrationImpact": "Laufende und neue Förderfälle müssen anhand von Antrag, Bewilligung und Vorhabenbeginn eindeutig dem alten oder neuen Förderregime zugeordnet werden.",
+          "checkpoints": [
+            "Offene Anträge und Bescheide mit Stichtag 12./13.11.2026 kennzeichnen",
+            "Keine weitere Rückwirkung oder Übergangsregel unterstellen",
+            "Abgrenzungsfragen mit dem Bayerischen Landesamt für Pflege klären"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-481/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Regionalmanagement-Förderung ab 2027 neu geregelt",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 477",
+          "published": "2026-11-11",
+          "effective": "2027-01-01 bis 2029-12-31; keine Rückwirkung",
+          "summary": "FöRLa IV fördert Regionale Initiativen, Strategieentwicklung, Resilienz, Transformation und interkommunale Zusammenarbeit. Strategieprojekte können bis zu 50.000 Euro je Projektjahr für bis zu zwei Jahre erhalten.",
+          "administrationImpact": "Gebietskörperschaften und regionale Träger müssen Strategie, Trägerschaft, Partner, Haushaltsjährlichkeit und Förderfähigkeit früh mit der Regierung abstimmen.",
+          "checkpoints": [
+            "Regionale Zukunftsthemen und Kooperationspartner bestimmen",
+            "Trägerschaft und Eigenbeteiligung vor Antragstellung klären",
+            "Projektbeginn erst nach förderrechtlicher Absicherung auslösen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-477/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "ErNa-Förderprogramm für ergänzende Nahverkehrsangebote erneuert",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 475",
+          "published": "2026-11-11",
+          "effective": "2027-01-01 bis 2030-12-31; Vorgängerrichtlinie endet 2026-12-31; begrenzte Ausnahme zum vorzeitigen Vorhabenbeginn für bestehende Anschlussprojekte",
+          "summary": "Gefördert werden flexible und bedarfsorientierte ÖPNV-Angebote im ländlichen Raum. Antragsberechtigt sind ausschließlich ÖPNV-Aufgabenträger. Die Richtlinie konkretisiert Mindestbedienung, Datenbereitstellung, Buchungsintegration, Tarifangebote, Vermarktung und Erfolgskontrolle.",
+          "administrationImpact": "ÖPNV-Aufgabenträger müssen Fördergebiet, Kooperationen, Vergabe, DEFAS-Daten, Mobilitätsplattform, Tarife und Verwendungsnachweise abgleichen.",
+          "checkpoints": [
+            "Fördergebiet und Aufgabenträgerschaft prüfen",
+            "Bestehende Angebote gegen Mindestbedienung und Datenpflichten abgleichen",
+            "Vorhabenbeginn und mögliche Anschlussförder-Ausnahme dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-475/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Landschaftspflegeverband Zusam: Haushaltssatzung 2026",
           "kind": "Haushaltssatzung",
@@ -1378,11 +1458,91 @@
         }
       ],
       "id": "latest",
-      "intro": "Amtlicher Prüfstand 11.11.2026: RABl. Schwaben Nr. 20 vollständig geprüft; drei Augsburg-relevante Vorgänge neu aufgenommen. Übrige Quellenstände erneut abgeglichen.",
+      "intro": "Amtlicher Prüfstand 12.11.2026: BayMBl. bis Nr. 486 geprüft; fünf verwaltungsrelevante Veröffentlichungen vom 11.11.2026 neu aufgenommen. Übrige Quellenstände erneut abgeglichen.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "All-Gefahren-Abwehr an Schulen neu geordnet",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 484",
+          "published": "2026-11-11",
+          "effective": "2026-11-12; Außerkrafttreten 2026-11-11; ersetzt zwei bisherige Bekanntmachungen mit Ablauf 2026-11-11",
+          "summary": "Die Bekanntmachung bündelt Prävention und Intervention bei Brand, Gebäudeschäden, Gewaltlagen, Infrastruktur- und Naturereignissen, CBRN-Lagen und Pandemien. Bestimmte Vorgaben zu Brandschutz, Krisenverhalten und Unterrichtseinschränkungen gelten unmittelbar auch für kommunale Schulen.",
+          "administrationImpact": "Kommunale Schulverwaltung, Gebäudemanagement, Feuerwehr sowie Ordnungs- und Katastrophenschutzstellen müssen Krisenpläne, Alarmketten und Zuständigkeiten abgleichen.",
+          "checkpoints": [
+            "Krisen- und Alarmpläne kommunaler Schulen anhand der neuen Nummern prüfen",
+            "Alte Bekanntmachungen ab 12.11.2026 nicht mehr als geltenden Stand verwenden",
+            "Kontakte, Dokumentation und Übungen fachstellenübergreifend aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-484/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "GutePflegeFöR neu gefasst",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 480",
+          "published": "2026-11-11",
+          "effective": "2026-11-13 bis 2029-12-31; bisherige GutePflegeFöR endet mit Ablauf 2026-11-12",
+          "summary": "Die Richtlinie fördert kommunale Sozialraumprojekte, Koordinierungsstellen, ambulant betreute Wohngemeinschaften, Kurzzeitpflegeplätze und Simulationsprüfungen zur Anerkennung ausländischer Pflegeabschlüsse. Für die häusliche Pflege sind ausschließlich Kommunen antragsberechtigt.",
+          "administrationImpact": "Sozialverwaltung und Kämmerei müssen Projektkonzepte, Finanzierungspläne, Eigenanteile, Vorhabenbeginn, Weiterleitung und Verwendungsnachweise an den neuen Rahmen anpassen.",
+          "checkpoints": [
+            "Bestehende und geplante Pflegeprojekte einem Fördertatbestand zuordnen",
+            "LfP-Vordrucke und bestätigten Antragseingang vor Vorhabenbeginn dokumentieren",
+            "Mehrfachförderung, gesetzliche Leistungen und mindestens 10 Prozent Eigenanteil prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-480/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Bisherige Förderrichtlinie Pflege endet vorzeitig",
+          "kind": "Änderungsbekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 481",
+          "published": "2026-11-11",
+          "effective": "2026-11-12; Enddatum der bisherigen WoLeRaF wird von 2026-12-31 auf 2026-11-12 vorgezogen",
+          "summary": "Das Außerkrafttretensdatum der Förderrichtlinie Pflege/WoLeRaF wird auf den 12. November 2026 vorgezogen. Damit schließt der alte Rahmen unmittelbar vor dem Inkrafttreten der neuen GutePflegeFöR am 13. November.",
+          "administrationImpact": "Laufende und neue Förderfälle müssen anhand von Antrag, Bewilligung und Vorhabenbeginn eindeutig dem alten oder neuen Förderregime zugeordnet werden.",
+          "checkpoints": [
+            "Offene Anträge und Bescheide mit Stichtag 12./13.11.2026 kennzeichnen",
+            "Keine weitere Rückwirkung oder Übergangsregel unterstellen",
+            "Abgrenzungsfragen mit dem Bayerischen Landesamt für Pflege klären"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-481/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Regionalmanagement-Förderung ab 2027 neu geregelt",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 477",
+          "published": "2026-11-11",
+          "effective": "2027-01-01 bis 2029-12-31; keine Rückwirkung",
+          "summary": "FöRLa IV fördert Regionale Initiativen, Strategieentwicklung, Resilienz, Transformation und interkommunale Zusammenarbeit. Strategieprojekte können bis zu 50.000 Euro je Projektjahr für bis zu zwei Jahre erhalten.",
+          "administrationImpact": "Gebietskörperschaften und regionale Träger müssen Strategie, Trägerschaft, Partner, Haushaltsjährlichkeit und Förderfähigkeit früh mit der Regierung abstimmen.",
+          "checkpoints": [
+            "Regionale Zukunftsthemen und Kooperationspartner bestimmen",
+            "Trägerschaft und Eigenbeteiligung vor Antragstellung klären",
+            "Projektbeginn erst nach förderrechtlicher Absicherung auslösen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-477/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "ErNa-Förderprogramm für ergänzende Nahverkehrsangebote erneuert",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 475",
+          "published": "2026-11-11",
+          "effective": "2027-01-01 bis 2030-12-31; Vorgängerrichtlinie endet 2026-12-31; begrenzte Ausnahme zum vorzeitigen Vorhabenbeginn für bestehende Anschlussprojekte",
+          "summary": "Gefördert werden flexible und bedarfsorientierte ÖPNV-Angebote im ländlichen Raum. Antragsberechtigt sind ausschließlich ÖPNV-Aufgabenträger. Die Richtlinie konkretisiert Mindestbedienung, Datenbereitstellung, Buchungsintegration, Tarifangebote, Vermarktung und Erfolgskontrolle.",
+          "administrationImpact": "ÖPNV-Aufgabenträger müssen Fördergebiet, Kooperationen, Vergabe, DEFAS-Daten, Mobilitätsplattform, Tarife und Verwendungsnachweise abgleichen.",
+          "checkpoints": [
+            "Fördergebiet und Aufgabenträgerschaft prüfen",
+            "Bestehende Angebote gegen Mindestbedienung und Datenpflichten abgleichen",
+            "Vorhabenbeginn und mögliche Anschlussförder-Ausnahme dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-475/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Landschaftspflegeverband Zusam: Haushaltssatzung 2026",
           "kind": "Haushaltssatzung",
@@ -2660,11 +2820,91 @@
         }
       ],
       "id": "important",
-      "intro": "Amtlicher Prüfstand 11.11.2026: RABl. Schwaben Nr. 20 vollständig geprüft; drei Augsburg-relevante Vorgänge neu aufgenommen. Übrige Quellenstände erneut abgeglichen.",
+      "intro": "Amtlicher Prüfstand 12.11.2026: BayMBl. bis Nr. 486 geprüft; fünf verwaltungsrelevante Veröffentlichungen vom 11.11.2026 neu aufgenommen. Übrige Quellenstände erneut abgeglichen.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "All-Gefahren-Abwehr an Schulen neu geordnet",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 484",
+          "published": "2026-11-11",
+          "effective": "2026-11-12; Außerkrafttreten 2026-11-11; ersetzt zwei bisherige Bekanntmachungen mit Ablauf 2026-11-11",
+          "summary": "Die Bekanntmachung bündelt Prävention und Intervention bei Brand, Gebäudeschäden, Gewaltlagen, Infrastruktur- und Naturereignissen, CBRN-Lagen und Pandemien. Bestimmte Vorgaben zu Brandschutz, Krisenverhalten und Unterrichtseinschränkungen gelten unmittelbar auch für kommunale Schulen.",
+          "administrationImpact": "Kommunale Schulverwaltung, Gebäudemanagement, Feuerwehr sowie Ordnungs- und Katastrophenschutzstellen müssen Krisenpläne, Alarmketten und Zuständigkeiten abgleichen.",
+          "checkpoints": [
+            "Krisen- und Alarmpläne kommunaler Schulen anhand der neuen Nummern prüfen",
+            "Alte Bekanntmachungen ab 12.11.2026 nicht mehr als geltenden Stand verwenden",
+            "Kontakte, Dokumentation und Übungen fachstellenübergreifend aktualisieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-484/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "GutePflegeFöR neu gefasst",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 480",
+          "published": "2026-11-11",
+          "effective": "2026-11-13 bis 2029-12-31; bisherige GutePflegeFöR endet mit Ablauf 2026-11-12",
+          "summary": "Die Richtlinie fördert kommunale Sozialraumprojekte, Koordinierungsstellen, ambulant betreute Wohngemeinschaften, Kurzzeitpflegeplätze und Simulationsprüfungen zur Anerkennung ausländischer Pflegeabschlüsse. Für die häusliche Pflege sind ausschließlich Kommunen antragsberechtigt.",
+          "administrationImpact": "Sozialverwaltung und Kämmerei müssen Projektkonzepte, Finanzierungspläne, Eigenanteile, Vorhabenbeginn, Weiterleitung und Verwendungsnachweise an den neuen Rahmen anpassen.",
+          "checkpoints": [
+            "Bestehende und geplante Pflegeprojekte einem Fördertatbestand zuordnen",
+            "LfP-Vordrucke und bestätigten Antragseingang vor Vorhabenbeginn dokumentieren",
+            "Mehrfachförderung, gesetzliche Leistungen und mindestens 10 Prozent Eigenanteil prüfen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-480/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Bisherige Förderrichtlinie Pflege endet vorzeitig",
+          "kind": "Änderungsbekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 481",
+          "published": "2026-11-11",
+          "effective": "2026-11-12; Enddatum der bisherigen WoLeRaF wird von 2026-12-31 auf 2026-11-12 vorgezogen",
+          "summary": "Das Außerkrafttretensdatum der Förderrichtlinie Pflege/WoLeRaF wird auf den 12. November 2026 vorgezogen. Damit schließt der alte Rahmen unmittelbar vor dem Inkrafttreten der neuen GutePflegeFöR am 13. November.",
+          "administrationImpact": "Laufende und neue Förderfälle müssen anhand von Antrag, Bewilligung und Vorhabenbeginn eindeutig dem alten oder neuen Förderregime zugeordnet werden.",
+          "checkpoints": [
+            "Offene Anträge und Bescheide mit Stichtag 12./13.11.2026 kennzeichnen",
+            "Keine weitere Rückwirkung oder Übergangsregel unterstellen",
+            "Abgrenzungsfragen mit dem Bayerischen Landesamt für Pflege klären"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-481/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Regionalmanagement-Förderung ab 2027 neu geregelt",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 477",
+          "published": "2026-11-11",
+          "effective": "2027-01-01 bis 2029-12-31; keine Rückwirkung",
+          "summary": "FöRLa IV fördert Regionale Initiativen, Strategieentwicklung, Resilienz, Transformation und interkommunale Zusammenarbeit. Strategieprojekte können bis zu 50.000 Euro je Projektjahr für bis zu zwei Jahre erhalten.",
+          "administrationImpact": "Gebietskörperschaften und regionale Träger müssen Strategie, Trägerschaft, Partner, Haushaltsjährlichkeit und Förderfähigkeit früh mit der Regierung abstimmen.",
+          "checkpoints": [
+            "Regionale Zukunftsthemen und Kooperationspartner bestimmen",
+            "Trägerschaft und Eigenbeteiligung vor Antragstellung klären",
+            "Projektbeginn erst nach förderrechtlicher Absicherung auslösen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-477/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "ErNa-Förderprogramm für ergänzende Nahverkehrsangebote erneuert",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 475",
+          "published": "2026-11-11",
+          "effective": "2027-01-01 bis 2030-12-31; Vorgängerrichtlinie endet 2026-12-31; begrenzte Ausnahme zum vorzeitigen Vorhabenbeginn für bestehende Anschlussprojekte",
+          "summary": "Gefördert werden flexible und bedarfsorientierte ÖPNV-Angebote im ländlichen Raum. Antragsberechtigt sind ausschließlich ÖPNV-Aufgabenträger. Die Richtlinie konkretisiert Mindestbedienung, Datenbereitstellung, Buchungsintegration, Tarifangebote, Vermarktung und Erfolgskontrolle.",
+          "administrationImpact": "ÖPNV-Aufgabenträger müssen Fördergebiet, Kooperationen, Vergabe, DEFAS-Daten, Mobilitätsplattform, Tarife und Verwendungsnachweise abgleichen.",
+          "checkpoints": [
+            "Fördergebiet und Aufgabenträgerschaft prüfen",
+            "Bestehende Angebote gegen Mindestbedienung und Datenpflichten abgleichen",
+            "Vorhabenbeginn und mögliche Anschlussförder-Ausnahme dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-475/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Landschaftspflegeverband Zusam: Haushaltssatzung 2026",
           "kind": "Haushaltssatzung",
@@ -4071,9 +4311,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Amtlicher Prüfstand 11.11.2026: RABl. Schwaben Nr. 20 vollständig geprüft; drei Augsburg-relevante Vorgänge neu aufgenommen. Übrige Quellenstände erneut abgeglichen.",
+      "intro": "Amtlicher Prüfstand 12.11.2026: BayMBl. bis Nr. 486 geprüft; fünf verwaltungsrelevante Veröffentlichungen vom 11.11.2026 neu aufgenommen. Übrige Quellenstände erneut abgeglichen.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-11T06:20:00+01:00"
+  "updatedAt": "2026-11-12T06:20:00+01:00"
 }
