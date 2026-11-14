@@ -1,9 +1,108 @@
 {
-  "checkedSources": "Prüfstand 13.11.2026: BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; BayMBl. bis Nr. 486 vom 11.11.2026; GVBl. bis S. 623 vom 30.10.2026; Bayern.Recht; Augsburg Stadtrecht, Amtsblatt Nr. 45 vom 06.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 geprüft. Keine neue einschlägige Veröffentlichung seit dem verifizierten Stand vom 12.11.2026. Praktikum I läuft bis 02.01.2027. Die Bayern.Recht-Kopfzeile der AVSG-Vollzugshinweise ist weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
+  "checkedSources": "Prüfstand 14.11.2026: BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; BayMBl. bis Nr. 486 vom 11.11.2026; GVBl. bis S. 623 vom 30.10.2026; Bayern.Recht; Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 geprüft. Neu sind sechs verwaltungsrelevante Veröffentlichungen im Augsburger Amtsblatt Nr. 46: Heimtierausweis-Allgemeinverfügung, wasserrechtliche Auslegung, Jahresabschluss Stadtentwässerung und drei Baugenehmigungen. Übrige Quellen ohne neue einschlägige Änderung seit dem verifizierten Stand vom 13.11.2026. Praktikum I läuft bis 02.01.2027. Die Bayern.Recht-Kopfzeile der AVSG-Vollzugshinweise ist weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Neue Augsburger Ermächtigung für Heimtierausweise",
+          "kind": "Allgemeinverfügung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 300–301",
+          "published": "13.11.2026",
+          "effective": "14.11.2026 (Bekanntgabe); frühere Allgemeinverfügung vom 03.12.2014 aufgehoben mit Ablauf des 13.11.2026",
+          "summary": "Niedergelassene Tierärztinnen und Tierärzte im Stadtgebiet werden bei Registrierung in der HI-Tier-Datenbank zur Ausstellung von Heimtierausweisen nach den neuen EU-Vorgaben und zur Blutentnahme für Tollwutantikörpertiter ermächtigt. Dokumentations-, Aufbewahrungs- und Bezugsregeln werden neu gefasst.",
+          "administrationImpact": "Das Amt für Verbraucherschutz und Veterinärwesen muss Registrierung und Überwachung absichern; Praxen dürfen nur autorisierte Ausweise verwenden, müssen Angaben drei Jahre aufbewahren und die neue EU-Rechtslage anwenden.",
+          "checkpoints": [
+            "HI-Tier-Registrierung der Praxis prüfen",
+            "Nur Ausweise autorisierter Hersteller oder Druckereien verwenden",
+            "Dreijährige Aufbewahrung der Erstausstellungsdaten sicherstellen",
+            "Alte Ermächtigungen ab 14.11.2026 nicht fortverwenden"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf"
+        },
+        {
+          "title": "Gehobene wasserrechtliche Erlaubnis für Everllence SE wird ausgelegt",
+          "kind": "Wasserrechtliche Bekanntmachung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 302; Bescheid 04.11.2026, Az. 321-663002/127/20",
+          "published": "13.11.2026",
+          "effective": "Auslegung 20.11.–03.12.2026; Zustellung gegenüber übrigen Betroffenen mit Ablauf des 03.12.2026",
+          "summary": "Die Stadt veröffentlicht die gehobene Erlaubnis für Entnahme, Ableitung und Wiedereinleitung von Grund- und Oberflächenwasser auf den Betriebsgeländen von Everllence SE und MT Aerospace AG. Die Benutzung dient insbesondere der Kühlwasserversorgung.",
+          "administrationImpact": "Umweltamt muss Bescheid und Pläne während der Auslegungsfrist zugänglich halten und die Zustellungswirkung sowie den Beginn der Rechtsbehelfsfrist dokumentieren.",
+          "checkpoints": [
+            "Unterlagen vom 20.11. bis 03.12.2026 auslegen",
+            "Parallele Online-Veröffentlichung sicherstellen",
+            "Zustellungswirkung zum Ablauf 03.12.2026 vermerken",
+            "Rechtsbehelfsfrist ab diesem Zeitpunkt überwachen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf"
+        },
+        {
+          "title": "Jahresabschluss 2024 der Stadtentwässerung Augsburg festgestellt",
+          "kind": "Kommunale Rechnungslegung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 302–304",
+          "published": "13.11.2026",
+          "effective": "Feststellungsbeschluss 29.10.2026; öffentliche Einsicht für sieben Tage ab Veröffentlichung",
+          "summary": "Der Stadtrat stellte den Jahresabschluss zum 31.12.2024 fest, erteilte Entlastung und trug den Jahresfehlbetrag von 1.220.939,54 Euro auf neue Rechnung vor. Der Bayerische Kommunale Prüfungsverband erteilte einen uneingeschränkten Bestätigungsvermerk.",
+          "administrationImpact": "Der Eigenbetrieb muss Jahresabschluss und Lagebericht sieben Tage zur Einsicht bereithalten; der Verlustvortrag ist in der Folgeperiode nachzuvollziehen.",
+          "checkpoints": [
+            "Sieben Tage öffentliche Einsicht ermöglichen",
+            "Feststellungs- und Entlastungsbeschluss dokumentieren",
+            "Verlustvortrag von 1.220.939,54 Euro fortführen",
+            "Bestätigungsvermerk zu den Akten nehmen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf"
+        },
+        {
+          "title": "Baugenehmigung Waldstraße 13 öffentlich bekannt gemacht",
+          "kind": "Baugenehmigung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 305; Az. 630/BA-2025-50-1DD",
+          "published": "13.11.2026",
+          "effective": "13.11.2026; Zustellung gilt nach Art. 66 Abs. 2 Satz 5 BayBO mit Bekanntmachung als bewirkt",
+          "summary": "Genehmigt wurden der Umbau im Gastraum und die Erweiterung der Außenbewirtungsfläche auf dem Grundstück Waldstraße 13 in Göggingen.",
+          "administrationImpact": "Die öffentliche Bekanntmachung ersetzt wegen der Vielzahl betroffener Nachbarn die Einzelzustellung; die Klagefrist wird ausgelöst und die Akte muss zur Einsicht bereitstehen.",
+          "checkpoints": [
+            "Bekanntmachungsdatum als Zustellungsdatum vermerken",
+            "Monatige Klagefrist überwachen",
+            "Genehmigung und Planunterlagen zur Einsicht bereithalten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "Baugenehmigung Ortlerstraße 83 a öffentlich bekannt gemacht",
+          "kind": "Baugenehmigung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 305–306; Az. 630/BF-2026-295-1",
+          "published": "13.11.2026",
+          "effective": "13.11.2026; Zustellung gilt nach Art. 66 Abs. 2 Satz 5 BayBO mit Bekanntmachung als bewirkt",
+          "summary": "Genehmigt wurden die energetische Sanierung und der Ausbau des Dachgeschosses auf dem Grundstück Ortlerstraße 83 a in Hochzoll.",
+          "administrationImpact": "Die öffentliche Bekanntmachung ersetzt die Einzelzustellung an zahlreiche Nachbarn und setzt die Klagefrist in Gang.",
+          "checkpoints": [
+            "Bekanntmachungsdatum als Zustellungsdatum vermerken",
+            "Monatige Klagefrist überwachen",
+            "Genehmigung und Planunterlagen zur Einsicht bereithalten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "Baugenehmigung Auf dem Kreuz 2 öffentlich bekannt gemacht",
+          "kind": "Baugenehmigung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 306–307; Az. 630/BA-2026-1086-1DD",
+          "published": "13.11.2026",
+          "effective": "13.11.2026; Zustellung gilt nach Art. 66 Abs. 2 Satz 5 BayBO mit Bekanntmachung als bewirkt",
+          "summary": "Genehmigt wurden die Nutzungsänderung einer Wohnung in zwei Beherbergungsräume und die Änderung des zweiten Fluchtwegs für Gasträume auf dem Grundstück Auf dem Kreuz 2.",
+          "administrationImpact": "Die öffentliche Bekanntmachung ersetzt die Einzelzustellung an zahlreiche Nachbarn; Rechtsbehelfsfrist und Akteneinsicht sind verfahrenssicher zu behandeln.",
+          "checkpoints": [
+            "Bekanntmachungsdatum als Zustellungsdatum vermerken",
+            "Monatige Klagefrist überwachen",
+            "Genehmigung und Planunterlagen zur Einsicht bereithalten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
         {
           "title": "All-Gefahren-Abwehr an Schulen neu geordnet",
           "kind": "Verwaltungsvorschrift",
@@ -1458,11 +1557,110 @@
         }
       ],
       "id": "latest",
-      "intro": "Amtlicher Prüfstand 13.11.2026: BayMBl. bis Nr. 486, GVBl. bis S. 623, Augsburger Amtsblatt bis Nr. 45 und RABl. Schwaben bis Nr. 20 geprüft; keine neue einschlägige Veröffentlichung seit dem verifizierten Vortag. BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
+      "intro": "Amtlicher Prüfstand 14.11.2026: Augsburger Amtsblatt Nr. 46 mit sechs neuen verwaltungsrelevanten Veröffentlichungen; BayMBl. bis Nr. 486, GVBl. bis S. 623 und RABl. Schwaben bis Nr. 20 geprüft. BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Neue Augsburger Ermächtigung für Heimtierausweise",
+          "kind": "Allgemeinverfügung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 300–301",
+          "published": "13.11.2026",
+          "effective": "14.11.2026 (Bekanntgabe); frühere Allgemeinverfügung vom 03.12.2014 aufgehoben mit Ablauf des 13.11.2026",
+          "summary": "Niedergelassene Tierärztinnen und Tierärzte im Stadtgebiet werden bei Registrierung in der HI-Tier-Datenbank zur Ausstellung von Heimtierausweisen nach den neuen EU-Vorgaben und zur Blutentnahme für Tollwutantikörpertiter ermächtigt. Dokumentations-, Aufbewahrungs- und Bezugsregeln werden neu gefasst.",
+          "administrationImpact": "Das Amt für Verbraucherschutz und Veterinärwesen muss Registrierung und Überwachung absichern; Praxen dürfen nur autorisierte Ausweise verwenden, müssen Angaben drei Jahre aufbewahren und die neue EU-Rechtslage anwenden.",
+          "checkpoints": [
+            "HI-Tier-Registrierung der Praxis prüfen",
+            "Nur Ausweise autorisierter Hersteller oder Druckereien verwenden",
+            "Dreijährige Aufbewahrung der Erstausstellungsdaten sicherstellen",
+            "Alte Ermächtigungen ab 14.11.2026 nicht fortverwenden"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf"
+        },
+        {
+          "title": "Gehobene wasserrechtliche Erlaubnis für Everllence SE wird ausgelegt",
+          "kind": "Wasserrechtliche Bekanntmachung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 302; Bescheid 04.11.2026, Az. 321-663002/127/20",
+          "published": "13.11.2026",
+          "effective": "Auslegung 20.11.–03.12.2026; Zustellung gegenüber übrigen Betroffenen mit Ablauf des 03.12.2026",
+          "summary": "Die Stadt veröffentlicht die gehobene Erlaubnis für Entnahme, Ableitung und Wiedereinleitung von Grund- und Oberflächenwasser auf den Betriebsgeländen von Everllence SE und MT Aerospace AG. Die Benutzung dient insbesondere der Kühlwasserversorgung.",
+          "administrationImpact": "Umweltamt muss Bescheid und Pläne während der Auslegungsfrist zugänglich halten und die Zustellungswirkung sowie den Beginn der Rechtsbehelfsfrist dokumentieren.",
+          "checkpoints": [
+            "Unterlagen vom 20.11. bis 03.12.2026 auslegen",
+            "Parallele Online-Veröffentlichung sicherstellen",
+            "Zustellungswirkung zum Ablauf 03.12.2026 vermerken",
+            "Rechtsbehelfsfrist ab diesem Zeitpunkt überwachen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf"
+        },
+        {
+          "title": "Jahresabschluss 2024 der Stadtentwässerung Augsburg festgestellt",
+          "kind": "Kommunale Rechnungslegung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 302–304",
+          "published": "13.11.2026",
+          "effective": "Feststellungsbeschluss 29.10.2026; öffentliche Einsicht für sieben Tage ab Veröffentlichung",
+          "summary": "Der Stadtrat stellte den Jahresabschluss zum 31.12.2024 fest, erteilte Entlastung und trug den Jahresfehlbetrag von 1.220.939,54 Euro auf neue Rechnung vor. Der Bayerische Kommunale Prüfungsverband erteilte einen uneingeschränkten Bestätigungsvermerk.",
+          "administrationImpact": "Der Eigenbetrieb muss Jahresabschluss und Lagebericht sieben Tage zur Einsicht bereithalten; der Verlustvortrag ist in der Folgeperiode nachzuvollziehen.",
+          "checkpoints": [
+            "Sieben Tage öffentliche Einsicht ermöglichen",
+            "Feststellungs- und Entlastungsbeschluss dokumentieren",
+            "Verlustvortrag von 1.220.939,54 Euro fortführen",
+            "Bestätigungsvermerk zu den Akten nehmen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf"
+        },
+        {
+          "title": "Baugenehmigung Waldstraße 13 öffentlich bekannt gemacht",
+          "kind": "Baugenehmigung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 305; Az. 630/BA-2025-50-1DD",
+          "published": "13.11.2026",
+          "effective": "13.11.2026; Zustellung gilt nach Art. 66 Abs. 2 Satz 5 BayBO mit Bekanntmachung als bewirkt",
+          "summary": "Genehmigt wurden der Umbau im Gastraum und die Erweiterung der Außenbewirtungsfläche auf dem Grundstück Waldstraße 13 in Göggingen.",
+          "administrationImpact": "Die öffentliche Bekanntmachung ersetzt wegen der Vielzahl betroffener Nachbarn die Einzelzustellung; die Klagefrist wird ausgelöst und die Akte muss zur Einsicht bereitstehen.",
+          "checkpoints": [
+            "Bekanntmachungsdatum als Zustellungsdatum vermerken",
+            "Monatige Klagefrist überwachen",
+            "Genehmigung und Planunterlagen zur Einsicht bereithalten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "Baugenehmigung Ortlerstraße 83 a öffentlich bekannt gemacht",
+          "kind": "Baugenehmigung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 305–306; Az. 630/BF-2026-295-1",
+          "published": "13.11.2026",
+          "effective": "13.11.2026; Zustellung gilt nach Art. 66 Abs. 2 Satz 5 BayBO mit Bekanntmachung als bewirkt",
+          "summary": "Genehmigt wurden die energetische Sanierung und der Ausbau des Dachgeschosses auf dem Grundstück Ortlerstraße 83 a in Hochzoll.",
+          "administrationImpact": "Die öffentliche Bekanntmachung ersetzt die Einzelzustellung an zahlreiche Nachbarn und setzt die Klagefrist in Gang.",
+          "checkpoints": [
+            "Bekanntmachungsdatum als Zustellungsdatum vermerken",
+            "Monatige Klagefrist überwachen",
+            "Genehmigung und Planunterlagen zur Einsicht bereithalten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "Baugenehmigung Auf dem Kreuz 2 öffentlich bekannt gemacht",
+          "kind": "Baugenehmigung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 306–307; Az. 630/BA-2026-1086-1DD",
+          "published": "13.11.2026",
+          "effective": "13.11.2026; Zustellung gilt nach Art. 66 Abs. 2 Satz 5 BayBO mit Bekanntmachung als bewirkt",
+          "summary": "Genehmigt wurden die Nutzungsänderung einer Wohnung in zwei Beherbergungsräume und die Änderung des zweiten Fluchtwegs für Gasträume auf dem Grundstück Auf dem Kreuz 2.",
+          "administrationImpact": "Die öffentliche Bekanntmachung ersetzt die Einzelzustellung an zahlreiche Nachbarn; Rechtsbehelfsfrist und Akteneinsicht sind verfahrenssicher zu behandeln.",
+          "checkpoints": [
+            "Bekanntmachungsdatum als Zustellungsdatum vermerken",
+            "Monatige Klagefrist überwachen",
+            "Genehmigung und Planunterlagen zur Einsicht bereithalten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
         {
           "title": "All-Gefahren-Abwehr an Schulen neu geordnet",
           "kind": "Verwaltungsvorschrift",
@@ -2820,11 +3018,110 @@
         }
       ],
       "id": "important",
-      "intro": "Amtlicher Prüfstand 13.11.2026: BayMBl. bis Nr. 486, GVBl. bis S. 623, Augsburger Amtsblatt bis Nr. 45 und RABl. Schwaben bis Nr. 20 geprüft; keine neue einschlägige Veröffentlichung seit dem verifizierten Vortag. BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
+      "intro": "Amtlicher Prüfstand 14.11.2026: Augsburger Amtsblatt Nr. 46 mit sechs neuen verwaltungsrelevanten Veröffentlichungen; BayMBl. bis Nr. 486, GVBl. bis S. 623 und RABl. Schwaben bis Nr. 20 geprüft. BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Neue Augsburger Ermächtigung für Heimtierausweise",
+          "kind": "Allgemeinverfügung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 300–301",
+          "published": "13.11.2026",
+          "effective": "14.11.2026 (Bekanntgabe); frühere Allgemeinverfügung vom 03.12.2014 aufgehoben mit Ablauf des 13.11.2026",
+          "summary": "Niedergelassene Tierärztinnen und Tierärzte im Stadtgebiet werden bei Registrierung in der HI-Tier-Datenbank zur Ausstellung von Heimtierausweisen nach den neuen EU-Vorgaben und zur Blutentnahme für Tollwutantikörpertiter ermächtigt. Dokumentations-, Aufbewahrungs- und Bezugsregeln werden neu gefasst.",
+          "administrationImpact": "Das Amt für Verbraucherschutz und Veterinärwesen muss Registrierung und Überwachung absichern; Praxen dürfen nur autorisierte Ausweise verwenden, müssen Angaben drei Jahre aufbewahren und die neue EU-Rechtslage anwenden.",
+          "checkpoints": [
+            "HI-Tier-Registrierung der Praxis prüfen",
+            "Nur Ausweise autorisierter Hersteller oder Druckereien verwenden",
+            "Dreijährige Aufbewahrung der Erstausstellungsdaten sicherstellen",
+            "Alte Ermächtigungen ab 14.11.2026 nicht fortverwenden"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf"
+        },
+        {
+          "title": "Gehobene wasserrechtliche Erlaubnis für Everllence SE wird ausgelegt",
+          "kind": "Wasserrechtliche Bekanntmachung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 302; Bescheid 04.11.2026, Az. 321-663002/127/20",
+          "published": "13.11.2026",
+          "effective": "Auslegung 20.11.–03.12.2026; Zustellung gegenüber übrigen Betroffenen mit Ablauf des 03.12.2026",
+          "summary": "Die Stadt veröffentlicht die gehobene Erlaubnis für Entnahme, Ableitung und Wiedereinleitung von Grund- und Oberflächenwasser auf den Betriebsgeländen von Everllence SE und MT Aerospace AG. Die Benutzung dient insbesondere der Kühlwasserversorgung.",
+          "administrationImpact": "Umweltamt muss Bescheid und Pläne während der Auslegungsfrist zugänglich halten und die Zustellungswirkung sowie den Beginn der Rechtsbehelfsfrist dokumentieren.",
+          "checkpoints": [
+            "Unterlagen vom 20.11. bis 03.12.2026 auslegen",
+            "Parallele Online-Veröffentlichung sicherstellen",
+            "Zustellungswirkung zum Ablauf 03.12.2026 vermerken",
+            "Rechtsbehelfsfrist ab diesem Zeitpunkt überwachen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf"
+        },
+        {
+          "title": "Jahresabschluss 2024 der Stadtentwässerung Augsburg festgestellt",
+          "kind": "Kommunale Rechnungslegung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 302–304",
+          "published": "13.11.2026",
+          "effective": "Feststellungsbeschluss 29.10.2026; öffentliche Einsicht für sieben Tage ab Veröffentlichung",
+          "summary": "Der Stadtrat stellte den Jahresabschluss zum 31.12.2024 fest, erteilte Entlastung und trug den Jahresfehlbetrag von 1.220.939,54 Euro auf neue Rechnung vor. Der Bayerische Kommunale Prüfungsverband erteilte einen uneingeschränkten Bestätigungsvermerk.",
+          "administrationImpact": "Der Eigenbetrieb muss Jahresabschluss und Lagebericht sieben Tage zur Einsicht bereithalten; der Verlustvortrag ist in der Folgeperiode nachzuvollziehen.",
+          "checkpoints": [
+            "Sieben Tage öffentliche Einsicht ermöglichen",
+            "Feststellungs- und Entlastungsbeschluss dokumentieren",
+            "Verlustvortrag von 1.220.939,54 Euro fortführen",
+            "Bestätigungsvermerk zu den Akten nehmen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf"
+        },
+        {
+          "title": "Baugenehmigung Waldstraße 13 öffentlich bekannt gemacht",
+          "kind": "Baugenehmigung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 305; Az. 630/BA-2025-50-1DD",
+          "published": "13.11.2026",
+          "effective": "13.11.2026; Zustellung gilt nach Art. 66 Abs. 2 Satz 5 BayBO mit Bekanntmachung als bewirkt",
+          "summary": "Genehmigt wurden der Umbau im Gastraum und die Erweiterung der Außenbewirtungsfläche auf dem Grundstück Waldstraße 13 in Göggingen.",
+          "administrationImpact": "Die öffentliche Bekanntmachung ersetzt wegen der Vielzahl betroffener Nachbarn die Einzelzustellung; die Klagefrist wird ausgelöst und die Akte muss zur Einsicht bereitstehen.",
+          "checkpoints": [
+            "Bekanntmachungsdatum als Zustellungsdatum vermerken",
+            "Monatige Klagefrist überwachen",
+            "Genehmigung und Planunterlagen zur Einsicht bereithalten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "Baugenehmigung Ortlerstraße 83 a öffentlich bekannt gemacht",
+          "kind": "Baugenehmigung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 305–306; Az. 630/BF-2026-295-1",
+          "published": "13.11.2026",
+          "effective": "13.11.2026; Zustellung gilt nach Art. 66 Abs. 2 Satz 5 BayBO mit Bekanntmachung als bewirkt",
+          "summary": "Genehmigt wurden die energetische Sanierung und der Ausbau des Dachgeschosses auf dem Grundstück Ortlerstraße 83 a in Hochzoll.",
+          "administrationImpact": "Die öffentliche Bekanntmachung ersetzt die Einzelzustellung an zahlreiche Nachbarn und setzt die Klagefrist in Gang.",
+          "checkpoints": [
+            "Bekanntmachungsdatum als Zustellungsdatum vermerken",
+            "Monatige Klagefrist überwachen",
+            "Genehmigung und Planunterlagen zur Einsicht bereithalten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
+        {
+          "title": "Baugenehmigung Auf dem Kreuz 2 öffentlich bekannt gemacht",
+          "kind": "Baugenehmigung",
+          "reference": "Amtsblatt der Stadt Augsburg 2026 Nr. 46, S. 306–307; Az. 630/BA-2026-1086-1DD",
+          "published": "13.11.2026",
+          "effective": "13.11.2026; Zustellung gilt nach Art. 66 Abs. 2 Satz 5 BayBO mit Bekanntmachung als bewirkt",
+          "summary": "Genehmigt wurden die Nutzungsänderung einer Wohnung in zwei Beherbergungsräume und die Änderung des zweiten Fluchtwegs für Gasträume auf dem Grundstück Auf dem Kreuz 2.",
+          "administrationImpact": "Die öffentliche Bekanntmachung ersetzt die Einzelzustellung an zahlreiche Nachbarn; Rechtsbehelfsfrist und Akteneinsicht sind verfahrenssicher zu behandeln.",
+          "checkpoints": [
+            "Bekanntmachungsdatum als Zustellungsdatum vermerken",
+            "Monatige Klagefrist überwachen",
+            "Genehmigung und Planunterlagen zur Einsicht bereithalten"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-46_vom-13-11-2026_.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO-66"
+        },
         {
           "title": "All-Gefahren-Abwehr an Schulen neu geordnet",
           "kind": "Verwaltungsvorschrift",
@@ -4311,9 +4608,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Amtlicher Prüfstand 13.11.2026: BayMBl. bis Nr. 486, GVBl. bis S. 623, Augsburger Amtsblatt bis Nr. 45 und RABl. Schwaben bis Nr. 20 geprüft; keine neue einschlägige Veröffentlichung seit dem verifizierten Vortag. BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
+      "intro": "Amtlicher Prüfstand 14.11.2026: Augsburger Amtsblatt Nr. 46 mit sechs neuen verwaltungsrelevanten Veröffentlichungen; BayMBl. bis Nr. 486, GVBl. bis S. 623 und RABl. Schwaben bis Nr. 20 geprüft. BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-13T06:14:00+01:00"
+  "updatedAt": "2026-11-14T05:58:26+01:00"
 }
