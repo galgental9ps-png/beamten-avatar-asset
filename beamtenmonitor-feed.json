@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Prüfstand 14.11.2026: BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; BayMBl. bis Nr. 486 vom 11.11.2026; GVBl. bis S. 623 vom 30.10.2026; Bayern.Recht; Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 geprüft. Neu sind sechs verwaltungsrelevante Veröffentlichungen im Augsburger Amtsblatt Nr. 46: Heimtierausweis-Allgemeinverfügung, wasserrechtliche Auslegung, Jahresabschluss Stadtentwässerung und drei Baugenehmigungen. Übrige Quellen ohne neue einschlägige Änderung seit dem verifizierten Stand vom 13.11.2026. Praktikum I läuft bis 02.01.2027. Die Bayern.Recht-Kopfzeile der AVSG-Vollzugshinweise ist weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
+  "checkedSources": "Prüfstand 15.11.2026: BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; BayMBl. bis Nr. 486 vom 11.11.2026; GVBl. bis S. 623 vom 30.10.2026; Bayern.Recht; Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 geprüft. Keine neue einschlägige Veröffentlichung seit dem verifizierten Stand vom 14.11.2026. Die sechs am 14.11.2026 aufgenommenen Augsburger Bekanntmachungen bleiben aktuell. Praktikum I läuft bis 02.01.2027. Die Bayern.Recht-Kopfzeile der AVSG-Vollzugshinweise ist weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -1557,7 +1557,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Amtlicher Prüfstand 14.11.2026: Augsburger Amtsblatt Nr. 46 mit sechs neuen verwaltungsrelevanten Veröffentlichungen; BayMBl. bis Nr. 486, GVBl. bis S. 623 und RABl. Schwaben bis Nr. 20 geprüft. BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
+      "intro": "Amtlicher Prüfstand 15.11.2026: Gegenüber dem verifizierten Vortag keine neue einschlägige Veröffentlichung. Augsburger Amtsblatt bis Nr. 46, BayMBl. bis Nr. 486, GVBl. bis S. 623 und RABl. Schwaben bis Nr. 20 geprüft; BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -3018,7 +3018,7 @@
         }
       ],
       "id": "important",
-      "intro": "Amtlicher Prüfstand 14.11.2026: Augsburger Amtsblatt Nr. 46 mit sechs neuen verwaltungsrelevanten Veröffentlichungen; BayMBl. bis Nr. 486, GVBl. bis S. 623 und RABl. Schwaben bis Nr. 20 geprüft. BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
+      "intro": "Amtlicher Prüfstand 15.11.2026: Gegenüber dem verifizierten Vortag keine neue einschlägige Veröffentlichung. Augsburger Amtsblatt bis Nr. 46, BayMBl. bis Nr. 486, GVBl. bis S. 623 und RABl. Schwaben bis Nr. 20 geprüft; BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
       "label": "Was ist wichtig?"
     },
     {
@@ -4608,9 +4608,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Amtlicher Prüfstand 14.11.2026: Augsburger Amtsblatt Nr. 46 mit sechs neuen verwaltungsrelevanten Veröffentlichungen; BayMBl. bis Nr. 486, GVBl. bis S. 623 und RABl. Schwaben bis Nr. 20 geprüft. BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
+      "intro": "Amtlicher Prüfstand 15.11.2026: Gegenüber dem verifizierten Vortag keine neue einschlägige Veröffentlichung. Augsburger Amtsblatt bis Nr. 46, BayMBl. bis Nr. 486, GVBl. bis S. 623 und RABl. Schwaben bis Nr. 20 geprüft; BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-14T05:58:26+01:00"
+  "updatedAt": "2026-11-15T06:03:09+01:00"
 }
