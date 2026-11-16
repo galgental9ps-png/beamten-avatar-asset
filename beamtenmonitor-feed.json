@@ -1,9 +1,77 @@
 {
-  "checkedSources": "Prüfstand 15.11.2026: BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung, Leistungsnachweisen, Stoffgliederungsplan und Hilfsmittelbestimmung; BayMBl. bis Nr. 486 vom 11.11.2026; GVBl. bis S. 623 vom 30.10.2026; Bayern.Recht; Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 geprüft. Keine neue einschlägige Veröffentlichung seit dem verifizierten Stand vom 14.11.2026. Die sechs am 14.11.2026 aufgenommenen Augsburger Bekanntmachungen bleiben aktuell. Praktikum I läuft bis 02.01.2027. Die Bayern.Recht-Kopfzeile der AVSG-Vollzugshinweise ist weiterhin noch nicht auf BayMBl. 2026 Nr. 470 nachgeführt.",
+  "checkedSources": "Prüfstand 16.11.2026: BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung (Stand März 2026), 20 Leistungsnachweisen, Stoffgliederungsplan (Stand Juli 2026) und Hilfsmittelbestimmung; BayMBl. bis Nr. 486 vom 11.11.2026; GVBl. 2026 Nr. 21 vom 16.11.2026 bis S. 698; Bayern.Recht einschließlich FachV-nVD und der derzeit noch nicht vollständig fortgeschriebenen Lesefassungen; Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 geprüft. Neu gegenüber dem verifizierten Stand vom 15.11.2026: Bezügeanpassung 2026/2027/2028, Erweiterung der Digitalen Bauantragsverordnung, redaktionelle Schulrechtsänderungen und neue AVSG-Regeln zur Verteilung der Landesmittel für ganztägige Bildung und Betreuung. Bis zur Konsolidierung sind die amtlichen GVBl.-Änderungstexte maßgeblich.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Gesetz zur Anpassung der Bezüge 2026/2027/2028",
+          "kind": "Gesetz",
+          "reference": "GVBl. 2026 S. 642; Gesetz vom 09.11.2026",
+          "published": "16.11.2026",
+          "effective": "grundsätzlich 01.12.2026; Bezügestufe rückwirkend ab 01.10.2026; weitere Stufen 01.01.2027, 01.09.2027 und 01.01.2028; einzelne Regelungen ab 01.01.2026 bzw. 31.12.2026",
+          "summary": "Besoldungs- und Versorgungsbeträge werden gestuft erhöht. Ab 01.10.2026 steigen die Anlagen 3 bis 9 um 2,82 Prozent und die Anwärtergrundbeträge um 60 Euro; für A 5 bis A 8 gelten 1.569,93 Euro. Weitere 60 Euro folgen zum 01.09.2027 und 30 Euro zum 01.01.2028.",
+          "administrationImpact": "Personal- und Bezügestellen müssen die rückwirkende Nachberechnung, Nachzahlungen und die weiteren Stichtage umsetzen. Anwärter sollten die Abrechnung ab Oktober 2026 kontrollieren.",
+          "checkpoints": [
+            "Anwärtergrundbetrag A 5 bis A 8 ab 01.10.2026: 1.569,93 Euro prüfen",
+            "Rückwirkende Nachzahlung ab Oktober 2026 dokumentieren",
+            "Weitere Stufen 01.09.2027 und 01.01.2028 vormerken",
+            "Bis zur Fortschreibung amtlichen GVBl.-Text verwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-642/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBesG"
+        },
+        {
+          "title": "Landesmittel für ganztägige Bildung und Betreuung werden nach betreuten Kindern verteilt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 698; Verordnung vom 28.10.2026; neue §§ 171 bis 174 AVSG",
+          "published": "16.11.2026",
+          "effective": "17.11.2026; keine Rückwirkung und keine besondere Übergangsregel",
+          "summary": "Kreisangehörige und kreisfreie Gemeinden erhalten Landesanteile für rechtsanspruchserfüllende Ganztagsangebote nach der Zahl betreuter Kinder. Das Landesamt für Statistik erlässt ohne Antrag jährlich einen Bescheid; Berichtigungen erfolgen bei Abweichungen von mehr als 20 Kindern im Folgejahr.",
+          "administrationImpact": "Kommunale Schul-, Jugendhilfe-, Kita-, Statistik- und Finanzstellen müssen Schul-, Förder- und Kita-Daten plausibilisieren und die jährlichen Zuweisungsbescheide prüfen.",
+          "checkpoints": [
+            "Schul- und Förderstatistik zum 1. Oktober des Vorjahres abstimmen",
+            "Kita-Statistik zum 1. März des Auszahlungsjahres prüfen",
+            "Bescheidwerte mit kommunalen Daten plausibilisieren",
+            "Abweichungen von mehr als 20 Kindern belegen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-698/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayAVSG"
+        },
+        {
+          "title": "Digitale Bauantragsverordnung um vier Städte erweitert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 694; Verordnung vom 26.10.2026",
+          "published": "16.11.2026",
+          "effective": "01.12.2026; keine Rückwirkung und keine Übergangsregel",
+          "summary": "Ansbach und Coburg sowie Dachau und Donauwörth werden in die Listen des § 1 DBauV aufgenommen. Der Geltungsbereich des digitalen Bauantragsverfahrens wird damit erweitert.",
+          "administrationImpact": "Betroffene untere Bauaufsichtsbehörden und Kommunen müssen digitale Einreichung, Zuständigkeiten, Formulare und Verfahrenshinweise zum Stichtag umstellen. Augsburg ist nicht neu aufgenommen.",
+          "checkpoints": [
+            "Neuen Geltungsbereich ab 01.12.2026 anwenden",
+            "Verfahrenshinweise und Zuständigkeitsübersichten aktualisieren",
+            "Digitale Schnittstellen der betroffenen Städte prüfen",
+            "Amtlichen Änderungstext bis zur Konsolidierung verwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-694/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayDBauV"
+        },
+        {
+          "title": "Schulrecht auf Klinikschule und personalisierte Nutzerkennung umgestellt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 696; Verordnung vom 27.10.2026",
+          "published": "16.11.2026",
+          "effective": "17.11.2026; keine Rückwirkung und keine besondere Übergangsregel",
+          "summary": "BaySchO, Klinikschulordnung und Zulassungsverordnung verwenden künftig die Bezeichnung Klinikschule; in der BaySchO wird ID-Adresse durch personalisierte Nutzerkennung ersetzt und ein Verweis berichtigt.",
+          "administrationImpact": "Kommunale Schulstellen sollten Formulare, Textbausteine, Verzeichnisse und digitale Hinweise auf die neue Terminologie prüfen und anpassen.",
+          "checkpoints": [
+            "Ab 17.11.2026 Begriff Klinikschule verwenden",
+            "ID-Adresse in Mustern durch personalisierte Nutzerkennung ersetzen",
+            "Berichtigten BaySchO-Verweis prüfen",
+            "BVS-Zeitplan und Prüfungsrecht bleiben unverändert"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-696/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BaySchO"
+        },
         {
           "title": "Neue Augsburger Ermächtigung für Heimtierausweise",
           "kind": "Allgemeinverfügung",
@@ -1557,11 +1625,79 @@
         }
       ],
       "id": "latest",
-      "intro": "Amtlicher Prüfstand 15.11.2026: Gegenüber dem verifizierten Vortag keine neue einschlägige Veröffentlichung. Augsburger Amtsblatt bis Nr. 46, BayMBl. bis Nr. 486, GVBl. bis S. 623 und RABl. Schwaben bis Nr. 20 geprüft; BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
+      "intro": "Amtlicher Prüfstand 16.11.2026: Vier neue einschlägige Änderungen aus GVBl. 2026 Nr. 21 aufgenommen. Besonders wichtig sind die rückwirkende Bezügeanpassung ab 01.10.2026 und die neuen kommunalen Ganztags-Zuweisungsregeln ab 17.11.2026.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Gesetz zur Anpassung der Bezüge 2026/2027/2028",
+          "kind": "Gesetz",
+          "reference": "GVBl. 2026 S. 642; Gesetz vom 09.11.2026",
+          "published": "16.11.2026",
+          "effective": "grundsätzlich 01.12.2026; Bezügestufe rückwirkend ab 01.10.2026; weitere Stufen 01.01.2027, 01.09.2027 und 01.01.2028; einzelne Regelungen ab 01.01.2026 bzw. 31.12.2026",
+          "summary": "Besoldungs- und Versorgungsbeträge werden gestuft erhöht. Ab 01.10.2026 steigen die Anlagen 3 bis 9 um 2,82 Prozent und die Anwärtergrundbeträge um 60 Euro; für A 5 bis A 8 gelten 1.569,93 Euro. Weitere 60 Euro folgen zum 01.09.2027 und 30 Euro zum 01.01.2028.",
+          "administrationImpact": "Personal- und Bezügestellen müssen die rückwirkende Nachberechnung, Nachzahlungen und die weiteren Stichtage umsetzen. Anwärter sollten die Abrechnung ab Oktober 2026 kontrollieren.",
+          "checkpoints": [
+            "Anwärtergrundbetrag A 5 bis A 8 ab 01.10.2026: 1.569,93 Euro prüfen",
+            "Rückwirkende Nachzahlung ab Oktober 2026 dokumentieren",
+            "Weitere Stufen 01.09.2027 und 01.01.2028 vormerken",
+            "Bis zur Fortschreibung amtlichen GVBl.-Text verwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-642/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBesG"
+        },
+        {
+          "title": "Landesmittel für ganztägige Bildung und Betreuung werden nach betreuten Kindern verteilt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 698; Verordnung vom 28.10.2026; neue §§ 171 bis 174 AVSG",
+          "published": "16.11.2026",
+          "effective": "17.11.2026; keine Rückwirkung und keine besondere Übergangsregel",
+          "summary": "Kreisangehörige und kreisfreie Gemeinden erhalten Landesanteile für rechtsanspruchserfüllende Ganztagsangebote nach der Zahl betreuter Kinder. Das Landesamt für Statistik erlässt ohne Antrag jährlich einen Bescheid; Berichtigungen erfolgen bei Abweichungen von mehr als 20 Kindern im Folgejahr.",
+          "administrationImpact": "Kommunale Schul-, Jugendhilfe-, Kita-, Statistik- und Finanzstellen müssen Schul-, Förder- und Kita-Daten plausibilisieren und die jährlichen Zuweisungsbescheide prüfen.",
+          "checkpoints": [
+            "Schul- und Förderstatistik zum 1. Oktober des Vorjahres abstimmen",
+            "Kita-Statistik zum 1. März des Auszahlungsjahres prüfen",
+            "Bescheidwerte mit kommunalen Daten plausibilisieren",
+            "Abweichungen von mehr als 20 Kindern belegen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-698/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayAVSG"
+        },
+        {
+          "title": "Digitale Bauantragsverordnung um vier Städte erweitert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 694; Verordnung vom 26.10.2026",
+          "published": "16.11.2026",
+          "effective": "01.12.2026; keine Rückwirkung und keine Übergangsregel",
+          "summary": "Ansbach und Coburg sowie Dachau und Donauwörth werden in die Listen des § 1 DBauV aufgenommen. Der Geltungsbereich des digitalen Bauantragsverfahrens wird damit erweitert.",
+          "administrationImpact": "Betroffene untere Bauaufsichtsbehörden und Kommunen müssen digitale Einreichung, Zuständigkeiten, Formulare und Verfahrenshinweise zum Stichtag umstellen. Augsburg ist nicht neu aufgenommen.",
+          "checkpoints": [
+            "Neuen Geltungsbereich ab 01.12.2026 anwenden",
+            "Verfahrenshinweise und Zuständigkeitsübersichten aktualisieren",
+            "Digitale Schnittstellen der betroffenen Städte prüfen",
+            "Amtlichen Änderungstext bis zur Konsolidierung verwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-694/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayDBauV"
+        },
+        {
+          "title": "Schulrecht auf Klinikschule und personalisierte Nutzerkennung umgestellt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 696; Verordnung vom 27.10.2026",
+          "published": "16.11.2026",
+          "effective": "17.11.2026; keine Rückwirkung und keine besondere Übergangsregel",
+          "summary": "BaySchO, Klinikschulordnung und Zulassungsverordnung verwenden künftig die Bezeichnung Klinikschule; in der BaySchO wird ID-Adresse durch personalisierte Nutzerkennung ersetzt und ein Verweis berichtigt.",
+          "administrationImpact": "Kommunale Schulstellen sollten Formulare, Textbausteine, Verzeichnisse und digitale Hinweise auf die neue Terminologie prüfen und anpassen.",
+          "checkpoints": [
+            "Ab 17.11.2026 Begriff Klinikschule verwenden",
+            "ID-Adresse in Mustern durch personalisierte Nutzerkennung ersetzen",
+            "Berichtigten BaySchO-Verweis prüfen",
+            "BVS-Zeitplan und Prüfungsrecht bleiben unverändert"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-696/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BaySchO"
+        },
         {
           "title": "Neue Augsburger Ermächtigung für Heimtierausweise",
           "kind": "Allgemeinverfügung",
@@ -3018,11 +3154,79 @@
         }
       ],
       "id": "important",
-      "intro": "Amtlicher Prüfstand 15.11.2026: Gegenüber dem verifizierten Vortag keine neue einschlägige Veröffentlichung. Augsburger Amtsblatt bis Nr. 46, BayMBl. bis Nr. 486, GVBl. bis S. 623 und RABl. Schwaben bis Nr. 20 geprüft; BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
+      "intro": "Heute besonders wichtig: Anwärter- und Beamtenbezüge werden gestuft angehoben; kommunale Stellen müssen die neue Ganztagsfinanzierung, den erweiterten digitalen Bauantrag und die neue Schulrechtsterminologie beachten.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Gesetz zur Anpassung der Bezüge 2026/2027/2028",
+          "kind": "Gesetz",
+          "reference": "GVBl. 2026 S. 642; Gesetz vom 09.11.2026",
+          "published": "16.11.2026",
+          "effective": "grundsätzlich 01.12.2026; Bezügestufe rückwirkend ab 01.10.2026; weitere Stufen 01.01.2027, 01.09.2027 und 01.01.2028; einzelne Regelungen ab 01.01.2026 bzw. 31.12.2026",
+          "summary": "Besoldungs- und Versorgungsbeträge werden gestuft erhöht. Ab 01.10.2026 steigen die Anlagen 3 bis 9 um 2,82 Prozent und die Anwärtergrundbeträge um 60 Euro; für A 5 bis A 8 gelten 1.569,93 Euro. Weitere 60 Euro folgen zum 01.09.2027 und 30 Euro zum 01.01.2028.",
+          "administrationImpact": "Personal- und Bezügestellen müssen die rückwirkende Nachberechnung, Nachzahlungen und die weiteren Stichtage umsetzen. Anwärter sollten die Abrechnung ab Oktober 2026 kontrollieren.",
+          "checkpoints": [
+            "Anwärtergrundbetrag A 5 bis A 8 ab 01.10.2026: 1.569,93 Euro prüfen",
+            "Rückwirkende Nachzahlung ab Oktober 2026 dokumentieren",
+            "Weitere Stufen 01.09.2027 und 01.01.2028 vormerken",
+            "Bis zur Fortschreibung amtlichen GVBl.-Text verwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-642/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBesG"
+        },
+        {
+          "title": "Landesmittel für ganztägige Bildung und Betreuung werden nach betreuten Kindern verteilt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 698; Verordnung vom 28.10.2026; neue §§ 171 bis 174 AVSG",
+          "published": "16.11.2026",
+          "effective": "17.11.2026; keine Rückwirkung und keine besondere Übergangsregel",
+          "summary": "Kreisangehörige und kreisfreie Gemeinden erhalten Landesanteile für rechtsanspruchserfüllende Ganztagsangebote nach der Zahl betreuter Kinder. Das Landesamt für Statistik erlässt ohne Antrag jährlich einen Bescheid; Berichtigungen erfolgen bei Abweichungen von mehr als 20 Kindern im Folgejahr.",
+          "administrationImpact": "Kommunale Schul-, Jugendhilfe-, Kita-, Statistik- und Finanzstellen müssen Schul-, Förder- und Kita-Daten plausibilisieren und die jährlichen Zuweisungsbescheide prüfen.",
+          "checkpoints": [
+            "Schul- und Förderstatistik zum 1. Oktober des Vorjahres abstimmen",
+            "Kita-Statistik zum 1. März des Auszahlungsjahres prüfen",
+            "Bescheidwerte mit kommunalen Daten plausibilisieren",
+            "Abweichungen von mehr als 20 Kindern belegen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-698/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayAVSG"
+        },
+        {
+          "title": "Digitale Bauantragsverordnung um vier Städte erweitert",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 694; Verordnung vom 26.10.2026",
+          "published": "16.11.2026",
+          "effective": "01.12.2026; keine Rückwirkung und keine Übergangsregel",
+          "summary": "Ansbach und Coburg sowie Dachau und Donauwörth werden in die Listen des § 1 DBauV aufgenommen. Der Geltungsbereich des digitalen Bauantragsverfahrens wird damit erweitert.",
+          "administrationImpact": "Betroffene untere Bauaufsichtsbehörden und Kommunen müssen digitale Einreichung, Zuständigkeiten, Formulare und Verfahrenshinweise zum Stichtag umstellen. Augsburg ist nicht neu aufgenommen.",
+          "checkpoints": [
+            "Neuen Geltungsbereich ab 01.12.2026 anwenden",
+            "Verfahrenshinweise und Zuständigkeitsübersichten aktualisieren",
+            "Digitale Schnittstellen der betroffenen Städte prüfen",
+            "Amtlichen Änderungstext bis zur Konsolidierung verwenden"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-694/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayDBauV"
+        },
+        {
+          "title": "Schulrecht auf Klinikschule und personalisierte Nutzerkennung umgestellt",
+          "kind": "Rechtsverordnung",
+          "reference": "GVBl. 2026 S. 696; Verordnung vom 27.10.2026",
+          "published": "16.11.2026",
+          "effective": "17.11.2026; keine Rückwirkung und keine besondere Übergangsregel",
+          "summary": "BaySchO, Klinikschulordnung und Zulassungsverordnung verwenden künftig die Bezeichnung Klinikschule; in der BaySchO wird ID-Adresse durch personalisierte Nutzerkennung ersetzt und ein Verweis berichtigt.",
+          "administrationImpact": "Kommunale Schulstellen sollten Formulare, Textbausteine, Verzeichnisse und digitale Hinweise auf die neue Terminologie prüfen und anpassen.",
+          "checkpoints": [
+            "Ab 17.11.2026 Begriff Klinikschule verwenden",
+            "ID-Adresse in Mustern durch personalisierte Nutzerkennung ersetzen",
+            "Berichtigten BaySchO-Verweis prüfen",
+            "BVS-Zeitplan und Prüfungsrecht bleiben unverändert"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/gvbl/2026-696/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BaySchO"
+        },
         {
           "title": "Neue Augsburger Ermächtigung für Heimtierausweise",
           "kind": "Allgemeinverfügung",
@@ -4608,9 +4812,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Amtlicher Prüfstand 15.11.2026: Gegenüber dem verifizierten Vortag keine neue einschlägige Veröffentlichung. Augsburger Amtsblatt bis Nr. 46, BayMBl. bis Nr. 486, GVBl. bis S. 623 und RABl. Schwaben bis Nr. 20 geprüft; BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
+      "intro": "Amtlicher Prüfstand 16.11.2026: GVBl. 2026 Nr. 21 bis S. 698, BayMBl. bis Nr. 486, Augsburger Amtsblatt bis Nr. 46 und RABl. Schwaben bis Nr. 20 geprüft; BVS-Jahrgangsunterlagen, Bayern.Recht, Stadtrecht und Ausbildungsinformationen erneut abgeglichen.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-15T06:03:09+01:00"
+  "updatedAt": "2026-11-16T06:04:19+01:00"
 }
