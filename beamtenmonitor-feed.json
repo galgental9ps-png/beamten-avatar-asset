@@ -1,9 +1,89 @@
 {
-  "checkedSources": "Prüfstand 16.11.2026: BVS QE2nVD 2026/2028 einschließlich zeitlicher Gliederung (Stand März 2026), 20 Leistungsnachweisen, Stoffgliederungsplan (Stand Juli 2026) und Hilfsmittelbestimmung; BayMBl. bis Nr. 486 vom 11.11.2026; GVBl. 2026 Nr. 21 vom 16.11.2026 bis S. 698; Bayern.Recht einschließlich FachV-nVD und der derzeit noch nicht vollständig fortgeschriebenen Lesefassungen; Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 geprüft. Neu gegenüber dem verifizierten Stand vom 15.11.2026: Bezügeanpassung 2026/2027/2028, Erweiterung der Digitalen Bauantragsverordnung, redaktionelle Schulrechtsänderungen und neue AVSG-Regeln zur Verteilung der Landesmittel für ganztägige Bildung und Betreuung. Bis zur Konsolidierung sind die amtlichen GVBl.-Änderungstexte maßgeblich.",
+  "checkedSources": "Prüfstand 19.11.2026: BVS QE2nVD 2026/2028 einschließlich jahrgangsspezifischer zeitlicher Gliederung, Übersicht der 20 Leistungsnachweise, Stoffgliederungsplan (Stand Juli 2026) und Hilfsmittelbestimmung; Verkündungsplattform BayMBl. bis Nr. 497 vom 18.11.2026 und GVBl. bis S. 698 vom 16.11.2026; Bayern.Recht einschließlich konsolidiertem KWBG; Stadt Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 tatsächlich geprüft. Neu seit dem letzten verifizierten Stand 16.11.2026: KWBG-Anpassungsbekanntmachung Nr. 487, KitaInvest Bayern Nr. 494, Richtlinie für Überfall- und Einbruchmeldeanlagen Nr. 497, Berufsschulen mit überregionalem Einzugsbereich Nr. 493 und Verlängerung der Wasserkraft-Förderrichtlinie Nr. 496. Der Einzelabruf zu BayMBl. Nr. 489 war technisch nicht möglich und wurde deshalb nicht inhaltlich bewertet. Übrige geprüfte Quellen ohne neue einschlägige Änderung.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Neue Schwellen- und Höchstbeträge für kommunale Wahlbeamte",
+          "kind": "Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 487",
+          "published": "18.11.2026",
+          "effective": "Rückwirkend 01.10.2026; Bekanntmachung 2024 außer Kraft ab 30.09.2026",
+          "summary": "Die KWBG-Beträge werden an die Bezügeanpassung 2026/2027/2028 angeglichen. Die Sonderzahlungsgrenze beträgt 2026 5.130,48 Euro, 2027 5.273,15 Euro und ab 2028 5.396,42 Euro; die Kommunalrechts-Zuwendung beträgt 2027 9.014,49 Euro und ab 2028 9.286,73 Euro.",
+          "administrationImpact": "Kommunale Personal- und Bezügestellen müssen Berechnungstabellen aktualisieren und rückwirkende Abrechnungen ab Oktober 2026 prüfen.",
+          "checkpoints": [
+            "Berechnungstabellen ab 01.10.2026 aktualisieren",
+            "Rückwirkende Differenzen dokumentieren",
+            "Weitere Stufen 2027 und 2028 vormerken"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-487/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKWBG/true"
+        },
+        {
+          "title": "Investitionsprogramm für zusätzliche und modernisierte Kita-Plätze gestartet",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 494",
+          "published": "18.11.2026",
+          "effective": "19.11.2026 bis 31.12.2029; Abwicklung danach möglich",
+          "summary": "KitaInvest Bayern fördert Schaffung, Erhalt, Ausstattung und Digitalisierung von Betreuungsplätzen. Je nach Fördergegenstand gelten Antragsfristen bis 30.06.2029 oder 30.09.2029; bestimmte seit 01.01.2026 begonnene Beschaffungen können nach den Übergangsregeln berücksichtigt werden.",
+          "administrationImpact": "Kommunen müssen Projektliste, Eigenmittel, Förderfähigkeit und Priorisierung früh koordinieren; vollständige Anträge sind wegen der Mittelbegrenzung besonders wichtig.",
+          "checkpoints": [
+            "Förderfähige Projekte inventarisieren",
+            "Eigenmittel und Bewilligungsstelle abstimmen",
+            "Antrags- und Übergangsfristen sichern"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-494/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Neue Anschlussregeln für Alarmanlagen mit Polizeiaufschaltung",
+          "kind": "Richtlinie",
+          "reference": "BayMBl. 2026 Nr. 497",
+          "published": "18.11.2026",
+          "effective": "19.11.2026 bis 30.11.2031; alte Fassung endet 18.11.2026",
+          "summary": "Die überarbeitete ÜEA-Richtlinie ersetzt die bisherige Fassung und aktualisiert Planung, Errichtung, Erweiterung, Änderung, Betrieb und Instandhaltung. Neue staatliche Datenschutzhinweise und ergänzende Unterlagen sind zu beachten.",
+          "administrationImpact": "Bei kommunalen Gebäuden mit Polizeiaufschaltung sind Planungsunterlagen, Verträge, Datenschutz- und Sicherheitsdokumentation auf die neue Fassung umzustellen.",
+          "checkpoints": [
+            "Laufende Vorhaben auf neue Richtlinie prüfen",
+            "Neue Anhänge und Datenschutzhinweise verwenden",
+            "Mustervertrag und Sicherheitsdokumentation abgleichen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-497/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Überregionale Berufsschulzuständigkeiten werden neu gefasst",
+          "kind": "Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 493",
+          "published": "18.11.2026",
+          "effective": "01.12.2026; keine besondere Rückwirkung",
+          "summary": "Die Liste der Berufsschulen mit überregionalem Einzugsbereich wird geändert, ergänzt und bereinigt; betroffen sind auch Augsburger Einträge und die Stadt Augsburg als Aufwandsträger.",
+          "administrationImpact": "Schul-, Finanz- und Ausbildungsstellen müssen Zuständigkeitsstammdaten sowie Abrechnungswege für Gastschulbeiträge prüfen.",
+          "checkpoints": [
+            "Betroffene Berufsgruppen identifizieren",
+            "Stammdaten zum 01.12.2026 aktualisieren",
+            "Gastschulbeiträge und Kostenwege abgleichen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-493/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Förderrichtlinie für Wasserkraftanlagen um ein Jahr verlängert",
+          "kind": "Änderungsrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 496",
+          "published": "18.11.2026",
+          "effective": "31.12.2026; neues Außerkrafttreten 31.12.2027",
+          "summary": "Das Außerkrafttreten der bestehenden Förderrichtlinie wird vom 31.12.2026 auf den 31.12.2027 verschoben; weitere Übergangs- oder Rückwirkungsregeln enthält die Änderung nicht.",
+          "administrationImpact": "Kommunale Energie- und Wasserprojekte behalten ein zusätzliches Jahr für die Nutzung des Förderprogramms.",
+          "checkpoints": [
+            "Förderfähige Vorhaben für 2027 prüfen",
+            "Projekt- und Haushaltsplanung aktualisieren",
+            "Antragsfristen der Grundrichtlinie beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-496/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Gesetz zur Anpassung der Bezüge 2026/2027/2028",
           "kind": "Gesetz",
@@ -1631,6 +1711,86 @@
     {
       "changes": [
         {
+          "title": "Neue Schwellen- und Höchstbeträge für kommunale Wahlbeamte",
+          "kind": "Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 487",
+          "published": "18.11.2026",
+          "effective": "Rückwirkend 01.10.2026; Bekanntmachung 2024 außer Kraft ab 30.09.2026",
+          "summary": "Die KWBG-Beträge werden an die Bezügeanpassung 2026/2027/2028 angeglichen. Die Sonderzahlungsgrenze beträgt 2026 5.130,48 Euro, 2027 5.273,15 Euro und ab 2028 5.396,42 Euro; die Kommunalrechts-Zuwendung beträgt 2027 9.014,49 Euro und ab 2028 9.286,73 Euro.",
+          "administrationImpact": "Kommunale Personal- und Bezügestellen müssen Berechnungstabellen aktualisieren und rückwirkende Abrechnungen ab Oktober 2026 prüfen.",
+          "checkpoints": [
+            "Berechnungstabellen ab 01.10.2026 aktualisieren",
+            "Rückwirkende Differenzen dokumentieren",
+            "Weitere Stufen 2027 und 2028 vormerken"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-487/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKWBG/true"
+        },
+        {
+          "title": "Investitionsprogramm für zusätzliche und modernisierte Kita-Plätze gestartet",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 494",
+          "published": "18.11.2026",
+          "effective": "19.11.2026 bis 31.12.2029; Abwicklung danach möglich",
+          "summary": "KitaInvest Bayern fördert Schaffung, Erhalt, Ausstattung und Digitalisierung von Betreuungsplätzen. Je nach Fördergegenstand gelten Antragsfristen bis 30.06.2029 oder 30.09.2029; bestimmte seit 01.01.2026 begonnene Beschaffungen können nach den Übergangsregeln berücksichtigt werden.",
+          "administrationImpact": "Kommunen müssen Projektliste, Eigenmittel, Förderfähigkeit und Priorisierung früh koordinieren; vollständige Anträge sind wegen der Mittelbegrenzung besonders wichtig.",
+          "checkpoints": [
+            "Förderfähige Projekte inventarisieren",
+            "Eigenmittel und Bewilligungsstelle abstimmen",
+            "Antrags- und Übergangsfristen sichern"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-494/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Neue Anschlussregeln für Alarmanlagen mit Polizeiaufschaltung",
+          "kind": "Richtlinie",
+          "reference": "BayMBl. 2026 Nr. 497",
+          "published": "18.11.2026",
+          "effective": "19.11.2026 bis 30.11.2031; alte Fassung endet 18.11.2026",
+          "summary": "Die überarbeitete ÜEA-Richtlinie ersetzt die bisherige Fassung und aktualisiert Planung, Errichtung, Erweiterung, Änderung, Betrieb und Instandhaltung. Neue staatliche Datenschutzhinweise und ergänzende Unterlagen sind zu beachten.",
+          "administrationImpact": "Bei kommunalen Gebäuden mit Polizeiaufschaltung sind Planungsunterlagen, Verträge, Datenschutz- und Sicherheitsdokumentation auf die neue Fassung umzustellen.",
+          "checkpoints": [
+            "Laufende Vorhaben auf neue Richtlinie prüfen",
+            "Neue Anhänge und Datenschutzhinweise verwenden",
+            "Mustervertrag und Sicherheitsdokumentation abgleichen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-497/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Überregionale Berufsschulzuständigkeiten werden neu gefasst",
+          "kind": "Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 493",
+          "published": "18.11.2026",
+          "effective": "01.12.2026; keine besondere Rückwirkung",
+          "summary": "Die Liste der Berufsschulen mit überregionalem Einzugsbereich wird geändert, ergänzt und bereinigt; betroffen sind auch Augsburger Einträge und die Stadt Augsburg als Aufwandsträger.",
+          "administrationImpact": "Schul-, Finanz- und Ausbildungsstellen müssen Zuständigkeitsstammdaten sowie Abrechnungswege für Gastschulbeiträge prüfen.",
+          "checkpoints": [
+            "Betroffene Berufsgruppen identifizieren",
+            "Stammdaten zum 01.12.2026 aktualisieren",
+            "Gastschulbeiträge und Kostenwege abgleichen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-493/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Förderrichtlinie für Wasserkraftanlagen um ein Jahr verlängert",
+          "kind": "Änderungsrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 496",
+          "published": "18.11.2026",
+          "effective": "31.12.2026; neues Außerkrafttreten 31.12.2027",
+          "summary": "Das Außerkrafttreten der bestehenden Förderrichtlinie wird vom 31.12.2026 auf den 31.12.2027 verschoben; weitere Übergangs- oder Rückwirkungsregeln enthält die Änderung nicht.",
+          "administrationImpact": "Kommunale Energie- und Wasserprojekte behalten ein zusätzliches Jahr für die Nutzung des Förderprogramms.",
+          "checkpoints": [
+            "Förderfähige Vorhaben für 2027 prüfen",
+            "Projekt- und Haushaltsplanung aktualisieren",
+            "Antragsfristen der Grundrichtlinie beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-496/",
+          "consolidatedUrl": ""
+        },
+        {
           "title": "Gesetz zur Anpassung der Bezüge 2026/2027/2028",
           "kind": "Gesetz",
           "reference": "GVBl. 2026 S. 642; Gesetz vom 09.11.2026",
@@ -3159,6 +3319,86 @@
     },
     {
       "changes": [
+        {
+          "title": "Neue Schwellen- und Höchstbeträge für kommunale Wahlbeamte",
+          "kind": "Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 487",
+          "published": "18.11.2026",
+          "effective": "Rückwirkend 01.10.2026; Bekanntmachung 2024 außer Kraft ab 30.09.2026",
+          "summary": "Die KWBG-Beträge werden an die Bezügeanpassung 2026/2027/2028 angeglichen. Die Sonderzahlungsgrenze beträgt 2026 5.130,48 Euro, 2027 5.273,15 Euro und ab 2028 5.396,42 Euro; die Kommunalrechts-Zuwendung beträgt 2027 9.014,49 Euro und ab 2028 9.286,73 Euro.",
+          "administrationImpact": "Kommunale Personal- und Bezügestellen müssen Berechnungstabellen aktualisieren und rückwirkende Abrechnungen ab Oktober 2026 prüfen.",
+          "checkpoints": [
+            "Berechnungstabellen ab 01.10.2026 aktualisieren",
+            "Rückwirkende Differenzen dokumentieren",
+            "Weitere Stufen 2027 und 2028 vormerken"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-487/",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayKWBG/true"
+        },
+        {
+          "title": "Investitionsprogramm für zusätzliche und modernisierte Kita-Plätze gestartet",
+          "kind": "Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 494",
+          "published": "18.11.2026",
+          "effective": "19.11.2026 bis 31.12.2029; Abwicklung danach möglich",
+          "summary": "KitaInvest Bayern fördert Schaffung, Erhalt, Ausstattung und Digitalisierung von Betreuungsplätzen. Je nach Fördergegenstand gelten Antragsfristen bis 30.06.2029 oder 30.09.2029; bestimmte seit 01.01.2026 begonnene Beschaffungen können nach den Übergangsregeln berücksichtigt werden.",
+          "administrationImpact": "Kommunen müssen Projektliste, Eigenmittel, Förderfähigkeit und Priorisierung früh koordinieren; vollständige Anträge sind wegen der Mittelbegrenzung besonders wichtig.",
+          "checkpoints": [
+            "Förderfähige Projekte inventarisieren",
+            "Eigenmittel und Bewilligungsstelle abstimmen",
+            "Antrags- und Übergangsfristen sichern"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-494/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Neue Anschlussregeln für Alarmanlagen mit Polizeiaufschaltung",
+          "kind": "Richtlinie",
+          "reference": "BayMBl. 2026 Nr. 497",
+          "published": "18.11.2026",
+          "effective": "19.11.2026 bis 30.11.2031; alte Fassung endet 18.11.2026",
+          "summary": "Die überarbeitete ÜEA-Richtlinie ersetzt die bisherige Fassung und aktualisiert Planung, Errichtung, Erweiterung, Änderung, Betrieb und Instandhaltung. Neue staatliche Datenschutzhinweise und ergänzende Unterlagen sind zu beachten.",
+          "administrationImpact": "Bei kommunalen Gebäuden mit Polizeiaufschaltung sind Planungsunterlagen, Verträge, Datenschutz- und Sicherheitsdokumentation auf die neue Fassung umzustellen.",
+          "checkpoints": [
+            "Laufende Vorhaben auf neue Richtlinie prüfen",
+            "Neue Anhänge und Datenschutzhinweise verwenden",
+            "Mustervertrag und Sicherheitsdokumentation abgleichen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-497/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Überregionale Berufsschulzuständigkeiten werden neu gefasst",
+          "kind": "Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 493",
+          "published": "18.11.2026",
+          "effective": "01.12.2026; keine besondere Rückwirkung",
+          "summary": "Die Liste der Berufsschulen mit überregionalem Einzugsbereich wird geändert, ergänzt und bereinigt; betroffen sind auch Augsburger Einträge und die Stadt Augsburg als Aufwandsträger.",
+          "administrationImpact": "Schul-, Finanz- und Ausbildungsstellen müssen Zuständigkeitsstammdaten sowie Abrechnungswege für Gastschulbeiträge prüfen.",
+          "checkpoints": [
+            "Betroffene Berufsgruppen identifizieren",
+            "Stammdaten zum 01.12.2026 aktualisieren",
+            "Gastschulbeiträge und Kostenwege abgleichen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-493/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Förderrichtlinie für Wasserkraftanlagen um ein Jahr verlängert",
+          "kind": "Änderungsrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 496",
+          "published": "18.11.2026",
+          "effective": "31.12.2026; neues Außerkrafttreten 31.12.2027",
+          "summary": "Das Außerkrafttreten der bestehenden Förderrichtlinie wird vom 31.12.2026 auf den 31.12.2027 verschoben; weitere Übergangs- oder Rückwirkungsregeln enthält die Änderung nicht.",
+          "administrationImpact": "Kommunale Energie- und Wasserprojekte behalten ein zusätzliches Jahr für die Nutzung des Förderprogramms.",
+          "checkpoints": [
+            "Förderfähige Vorhaben für 2027 prüfen",
+            "Projekt- und Haushaltsplanung aktualisieren",
+            "Antragsfristen der Grundrichtlinie beachten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-496/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Gesetz zur Anpassung der Bezüge 2026/2027/2028",
           "kind": "Gesetz",
@@ -4816,5 +5056,5 @@
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-16T06:04:19+01:00"
+  "updatedAt": "2026-11-19T09:34:00+01:00"
 }
