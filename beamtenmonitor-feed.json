@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Prüfstand 22.11.2026: BVS QE2nVD 2026/2028 einschließlich jahrgangsspezifischer zeitlicher Gliederung, Übersicht der 20 Leistungsnachweise, Stoffgliederungsplan (Stand Juli 2026) und Hilfsmittelbestimmung; Verkündungsplattform BayMBl. bis Nr. 497 vom 18.11.2026 und GVBl. bis S. 698 vom 16.11.2026; Bayern.Recht einschließlich konsolidiertem KWBG; Stadt Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 tatsächlich geprüft. Seit dem letzten tatsächlich verifizierten Prüftag 21.11.2026 keine neue einschlägige Änderung. Die fünf am 19.11.2026 aufgenommenen Änderungen bleiben unverändert gültig.",
+  "checkedSources": "Prüfstand 23.11.2026: BVS QE2nVD 2026/2028 einschließlich jahrgangsspezifischer zeitlicher Gliederung, Übersicht der 20 Leistungsnachweise, Stoffgliederungsplan (Stand Juli 2026) und Hilfsmittelbestimmung; Verkündungsplattform BayMBl. bis Nr. 497 vom 18.11.2026 und GVBl. bis S. 698 vom 16.11.2026; Bayern.Recht einschließlich konsolidiertem KWBG; Stadt Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 tatsächlich geprüft. Seit dem letzten tatsächlich verifizierten Prüftag 22.11.2026 keine neue einschlägige Änderung. Die fünf am 19.11.2026 aufgenommenen Änderungen bleiben unverändert gültig.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -1705,7 +1705,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Amtlicher Prüfstand 22.11.2026: Seit dem verifizierten Vortag keine neue einschlägige Änderung; die zuletzt aufgenommenen Änderungen bleiben gültig.",
+      "intro": "Amtlicher Prüfstand 23.11.2026: Seit dem verifizierten Vortag keine neue einschlägige Änderung; die zuletzt aufgenommenen Änderungen bleiben gültig.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -3314,7 +3314,7 @@
         }
       ],
       "id": "important",
-      "intro": "Amtlicher Prüfstand 22.11.2026: Weiter besonders wichtig sind die rückwirkende KWBG-Anpassung sowie die geltenden KitaInvest- und Alarmanlagen-Regelungen.",
+      "intro": "Amtlicher Prüfstand 23.11.2026: Weiter besonders wichtig sind die rückwirkende KWBG-Anpassung sowie die geltenden KitaInvest- und Alarmanlagen-Regelungen.",
       "label": "Was ist wichtig?"
     },
     {
@@ -5052,9 +5052,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Amtlicher Prüfstand 22.11.2026: BayMBl. bis Nr. 497, GVBl. bis S. 698, Augsburg bis Amtsblatt Nr. 46 und RABl. Schwaben bis Nr. 20 geprüft; keine neue einschlägige Änderung.",
+      "intro": "Amtlicher Prüfstand 23.11.2026: BayMBl. bis Nr. 497, GVBl. bis S. 698, Augsburg bis Amtsblatt Nr. 46 und RABl. Schwaben bis Nr. 20 geprüft; keine neue einschlägige Änderung.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-22T06:27:00+01:00"
+  "updatedAt": "2026-11-23T06:04:34+01:00"
 }
