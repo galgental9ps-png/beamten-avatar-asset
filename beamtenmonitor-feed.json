@@ -1,9 +1,105 @@
 {
-  "checkedSources": "Prüfstand 25.11.2026: BVS QE2nVD 2026/2028 einschließlich jahrgangsspezifischer zeitlicher Gliederung, Übersicht der 20 Leistungsnachweise, Stoffgliederungsplan (Stand Juli 2026) und Hilfsmittelbestimmung; Verkündungsplattform BayMBl. bis Nr. 497 vom 18.11.2026 und GVBl. bis S. 698 vom 16.11.2026; Bayern.Recht einschließlich konsolidiertem KWBG; Stadt Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 tatsächlich geprüft. Seit dem letzten tatsächlich verifizierten Prüftag 24.11.2026 keine neue einschlägige Änderung. Die fünf am 19.11.2026 aufgenommenen Änderungen bleiben unverändert gültig.",
+  "checkedSources": "Prüfstand 26.11.2026: BVS QE2nVD 2026/2028 einschließlich jahrgangsspezifischer zeitlicher Gliederung, Übersicht der 20 Leistungsnachweise, Stoffgliederungsplan (Stand Juli 2026) und Hilfsmittelbestimmung; Verkündungsplattform BayMBl. bis Nr. 507 vom 25.11.2026 und GVBl. bis S. 698 vom 16.11.2026; Bayern.Recht; Stadt Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 tatsächlich geprüft. Seit dem letzten tatsächlich verifizierten Prüftag 25.11.2026 sechs neue einschlägige BayMBl.-Veröffentlichungen aufgenommen: Nr. 498, 500, 501, 502, 506 und 507.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "XWasser und SHAPTH werden für Trinkwasserdaten verbindlich",
+          "kind": "Allgemeinverfügung",
+          "reference": "BayMBl. 2026 Nr. 506",
+          "published": "25.11.2026",
+          "effective": "Bekanntgegeben 26.11.2026; verpflichtende Nutzung ab 01.07.2027",
+          "summary": "Betreiber von Wasserversorgungsanlagen und zugelassene Untersuchungsstellen müssen ab 1. Juli 2027 den Datenstandard XWasser und die Plattform SHAPTH für Untersuchungsniederschriften, Übermittlungen und Anzeigen nutzen. Das Verfahren ersetzt SEBAM.",
+          "administrationImpact": "Gesundheitsämter und kommunale Betreiber müssen Schnittstellen, Zugänge, Verfahrensabläufe und Schulungen rechtzeitig auf XWasser/SHAPTH umstellen.",
+          "checkpoints": [
+            "Betroffene Wasserversorgungsanlagen und Untersuchungsstellen erfassen",
+            "SHAPTH-Zugang und Schnittstellen vor dem Pflichttermin testen",
+            "Migrations- und Schulungsplan bis 30.06.2027 festlegen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-506/",
+          "consolidatedUrl": "https://www.gesetze-im-internet.de/trinkwv_2023/"
+        },
+        {
+          "title": "Neue Orientierungsdaten für kommunale Haushaltspläne",
+          "kind": "Sonstige Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 502",
+          "published": "25.11.2026",
+          "effective": "Planungsorientierung ab Veröffentlichung; kein eigener Inkrafttretensbefehl",
+          "summary": "Die Herbst-Steuerschätzung 2026 enthält neue Durchschnittswerte bis 2031. Für 2026 werden unter anderem −2,1 % Brutto-Gewerbesteuer, +2,3 % Einkommensteueranteil und +17,7 % Umsatzsteueranteil prognostiziert.",
+          "administrationImpact": "Kämmereien müssen die Orientierungsdaten mit der örtlichen Steuerentwicklung abgleichen; die Werte sind Anhaltspunkte und keine verbindlichen Einzelansätze.",
+          "checkpoints": [
+            "Planansätze und Nachträge gegen die neuen Orientierungsdaten prüfen",
+            "Lokale Abweichungen nachvollziehbar begründen",
+            "Gewerbesteuer wegen örtlicher Besonderheiten gesondert bewerten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-502/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Neue ZTV-ING für Ingenieurbauten eingeführt",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 501",
+          "published": "25.11.2026",
+          "effective": "25.11.2026; vorherige Bekanntmachung außer Kraft mit Ablauf 24.11.2026; laufende Verträge grundsätzlich nach vereinbarter Alt-Fassung",
+          "summary": "Die ZTV-ING, Ausgabe Januar 2026, ersetzt die Ausgabe Februar 2025. Aktualisierte Hinweise sind bei Projektbearbeitung, Ausschreibung und Vergabeunterlagen zu beachten.",
+          "administrationImpact": "Kommunale Bau- und Vergabestellen sollten bei entsprechender Anwendung Muster, Ausschreibungen und Vertragsstände prüfen und frühere Fassungen für laufende Verträge archivieren.",
+          "checkpoints": [
+            "Neue Ausgabe in künftigen Ausschreibungen referenzieren",
+            "Bei laufenden Verträgen die vereinbarte Fassung dokumentieren",
+            "Frühere ZTV-ING-Fassungen revisionssicher archivieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-501/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "BKPV-Satzungswerte von 90 auf 100 angehoben",
+          "kind": "Änderungssatzung",
+          "reference": "BayMBl. 2026 Nr. 500",
+          "published": "25.11.2026",
+          "effective": "Rückwirkend ab 18.11.2026",
+          "summary": "In § 6 Abs. 4 Halbsatz 2 und § 9 Abs. 3 Halbsatz 2 der Satzung des Bayerischen Kommunalen Prüfungsverbands wird jeweils die Zahl 90 durch 100 ersetzt.",
+          "administrationImpact": "Mitglieder und Prüfstellen sollten verwendete Satzungsfassungen, interne Verweise und Vorlagen auf den rückwirkenden Stand aktualisieren.",
+          "checkpoints": [
+            "Ab 18.11.2026 die geänderten Werte verwenden",
+            "Interne Vorlagen und Satzungsverweise kontrollieren",
+            "Rückwirkenden Rechtsstand dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-500/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Touristische Infrastrukturförderung aktualisiert und verlängert",
+          "kind": "Verwaltungsvorschrift / Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 498",
+          "published": "25.11.2026",
+          "effective": "Mit Wirkung vom 31.12.2026; Laufzeit bis 31.12.2027 verlängert",
+          "summary": "Die RÖFE aktualisiert EU-Beihilfeverweise, De-minimis-Regeln, Antragsunterlagen und technische Stellungnahmen und verlängert die Richtlinie bis Ende 2027.",
+          "administrationImpact": "Kommunale Tourismus-, Bau- und Finanzstellen müssen neue Formblätter, Beihilfegrundlagen, Finanzierungspläne und Sichtvermerke verwenden.",
+          "checkpoints": [
+            "Anträge ab 31.12.2026 auf neue Nachweise umstellen",
+            "Aktuelle De-minimis- und AGVO-Grundlage prüfen",
+            "Finanzierungsplan und technische Stellungnahmen mit der Regierung abstimmen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-498/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Neues 2.000-Euro-Förderprogramm für Heimatpflege",
+          "kind": "Verwaltungsvorschrift / Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 507",
+          "published": "25.11.2026",
+          "effective": "01.12.2026 bis 31.12.2029",
+          "summary": "Außerkommunale Vereine, Organisationen und Initiativen können für innovative Heimatpflegevorhaben einen Festbetrag von 2.000 Euro beantragen; kommunale Institutionen und kommunal getragene Organisationen sind ausdrücklich ausgeschlossen.",
+          "administrationImpact": "Kommunale Beratungsstellen können private Vereine auf das Programm hinweisen, dürfen kommunale oder kommunal getragene Projekte aber nicht als antragsberechtigt darstellen.",
+          "checkpoints": [
+            "Antragsberechtigung als außerkommunaler Träger prüfen",
+            "Stichtage 31.03. und 31.10. beachten",
+            "Kommunale Trägerschaft und Mehrfachförderung ausschließen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-507/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Neue Schwellen- und Höchstbeträge für kommunale Wahlbeamte",
           "kind": "Bekanntmachung",
@@ -1705,11 +1801,107 @@
         }
       ],
       "id": "latest",
-      "intro": "Amtlicher Prüfstand 25.11.2026: Seit dem verifizierten Vortag keine neue einschlägige Änderung; die zuletzt aufgenommenen Änderungen bleiben gültig.",
+      "intro": "Amtlicher Prüfstand 26.11.2026: Sechs neue einschlägige BayMBl.-Veröffentlichungen vom 25.11.2026 wurden aufgenommen.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "XWasser und SHAPTH werden für Trinkwasserdaten verbindlich",
+          "kind": "Allgemeinverfügung",
+          "reference": "BayMBl. 2026 Nr. 506",
+          "published": "25.11.2026",
+          "effective": "Bekanntgegeben 26.11.2026; verpflichtende Nutzung ab 01.07.2027",
+          "summary": "Betreiber von Wasserversorgungsanlagen und zugelassene Untersuchungsstellen müssen ab 1. Juli 2027 den Datenstandard XWasser und die Plattform SHAPTH für Untersuchungsniederschriften, Übermittlungen und Anzeigen nutzen. Das Verfahren ersetzt SEBAM.",
+          "administrationImpact": "Gesundheitsämter und kommunale Betreiber müssen Schnittstellen, Zugänge, Verfahrensabläufe und Schulungen rechtzeitig auf XWasser/SHAPTH umstellen.",
+          "checkpoints": [
+            "Betroffene Wasserversorgungsanlagen und Untersuchungsstellen erfassen",
+            "SHAPTH-Zugang und Schnittstellen vor dem Pflichttermin testen",
+            "Migrations- und Schulungsplan bis 30.06.2027 festlegen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-506/",
+          "consolidatedUrl": "https://www.gesetze-im-internet.de/trinkwv_2023/"
+        },
+        {
+          "title": "Neue Orientierungsdaten für kommunale Haushaltspläne",
+          "kind": "Sonstige Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 502",
+          "published": "25.11.2026",
+          "effective": "Planungsorientierung ab Veröffentlichung; kein eigener Inkrafttretensbefehl",
+          "summary": "Die Herbst-Steuerschätzung 2026 enthält neue Durchschnittswerte bis 2031. Für 2026 werden unter anderem −2,1 % Brutto-Gewerbesteuer, +2,3 % Einkommensteueranteil und +17,7 % Umsatzsteueranteil prognostiziert.",
+          "administrationImpact": "Kämmereien müssen die Orientierungsdaten mit der örtlichen Steuerentwicklung abgleichen; die Werte sind Anhaltspunkte und keine verbindlichen Einzelansätze.",
+          "checkpoints": [
+            "Planansätze und Nachträge gegen die neuen Orientierungsdaten prüfen",
+            "Lokale Abweichungen nachvollziehbar begründen",
+            "Gewerbesteuer wegen örtlicher Besonderheiten gesondert bewerten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-502/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Neue ZTV-ING für Ingenieurbauten eingeführt",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 501",
+          "published": "25.11.2026",
+          "effective": "25.11.2026; vorherige Bekanntmachung außer Kraft mit Ablauf 24.11.2026; laufende Verträge grundsätzlich nach vereinbarter Alt-Fassung",
+          "summary": "Die ZTV-ING, Ausgabe Januar 2026, ersetzt die Ausgabe Februar 2025. Aktualisierte Hinweise sind bei Projektbearbeitung, Ausschreibung und Vergabeunterlagen zu beachten.",
+          "administrationImpact": "Kommunale Bau- und Vergabestellen sollten bei entsprechender Anwendung Muster, Ausschreibungen und Vertragsstände prüfen und frühere Fassungen für laufende Verträge archivieren.",
+          "checkpoints": [
+            "Neue Ausgabe in künftigen Ausschreibungen referenzieren",
+            "Bei laufenden Verträgen die vereinbarte Fassung dokumentieren",
+            "Frühere ZTV-ING-Fassungen revisionssicher archivieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-501/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "BKPV-Satzungswerte von 90 auf 100 angehoben",
+          "kind": "Änderungssatzung",
+          "reference": "BayMBl. 2026 Nr. 500",
+          "published": "25.11.2026",
+          "effective": "Rückwirkend ab 18.11.2026",
+          "summary": "In § 6 Abs. 4 Halbsatz 2 und § 9 Abs. 3 Halbsatz 2 der Satzung des Bayerischen Kommunalen Prüfungsverbands wird jeweils die Zahl 90 durch 100 ersetzt.",
+          "administrationImpact": "Mitglieder und Prüfstellen sollten verwendete Satzungsfassungen, interne Verweise und Vorlagen auf den rückwirkenden Stand aktualisieren.",
+          "checkpoints": [
+            "Ab 18.11.2026 die geänderten Werte verwenden",
+            "Interne Vorlagen und Satzungsverweise kontrollieren",
+            "Rückwirkenden Rechtsstand dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-500/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Touristische Infrastrukturförderung aktualisiert und verlängert",
+          "kind": "Verwaltungsvorschrift / Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 498",
+          "published": "25.11.2026",
+          "effective": "Mit Wirkung vom 31.12.2026; Laufzeit bis 31.12.2027 verlängert",
+          "summary": "Die RÖFE aktualisiert EU-Beihilfeverweise, De-minimis-Regeln, Antragsunterlagen und technische Stellungnahmen und verlängert die Richtlinie bis Ende 2027.",
+          "administrationImpact": "Kommunale Tourismus-, Bau- und Finanzstellen müssen neue Formblätter, Beihilfegrundlagen, Finanzierungspläne und Sichtvermerke verwenden.",
+          "checkpoints": [
+            "Anträge ab 31.12.2026 auf neue Nachweise umstellen",
+            "Aktuelle De-minimis- und AGVO-Grundlage prüfen",
+            "Finanzierungsplan und technische Stellungnahmen mit der Regierung abstimmen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-498/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Neues 2.000-Euro-Förderprogramm für Heimatpflege",
+          "kind": "Verwaltungsvorschrift / Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 507",
+          "published": "25.11.2026",
+          "effective": "01.12.2026 bis 31.12.2029",
+          "summary": "Außerkommunale Vereine, Organisationen und Initiativen können für innovative Heimatpflegevorhaben einen Festbetrag von 2.000 Euro beantragen; kommunale Institutionen und kommunal getragene Organisationen sind ausdrücklich ausgeschlossen.",
+          "administrationImpact": "Kommunale Beratungsstellen können private Vereine auf das Programm hinweisen, dürfen kommunale oder kommunal getragene Projekte aber nicht als antragsberechtigt darstellen.",
+          "checkpoints": [
+            "Antragsberechtigung als außerkommunaler Träger prüfen",
+            "Stichtage 31.03. und 31.10. beachten",
+            "Kommunale Trägerschaft und Mehrfachförderung ausschließen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-507/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Neue Schwellen- und Höchstbeträge für kommunale Wahlbeamte",
           "kind": "Bekanntmachung",
@@ -3314,11 +3506,107 @@
         }
       ],
       "id": "important",
-      "intro": "Amtlicher Prüfstand 25.11.2026: Weiter besonders wichtig sind die rückwirkende KWBG-Anpassung sowie die geltenden KitaInvest- und Alarmanlagen-Regelungen.",
+      "intro": "Amtlicher Prüfstand 26.11.2026: Besonders wichtig sind XWasser/SHAPTH ab 01.07.2027, neue Haushaltsorientierungsdaten und die Übergangsregeln der ZTV-ING.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "XWasser und SHAPTH werden für Trinkwasserdaten verbindlich",
+          "kind": "Allgemeinverfügung",
+          "reference": "BayMBl. 2026 Nr. 506",
+          "published": "25.11.2026",
+          "effective": "Bekanntgegeben 26.11.2026; verpflichtende Nutzung ab 01.07.2027",
+          "summary": "Betreiber von Wasserversorgungsanlagen und zugelassene Untersuchungsstellen müssen ab 1. Juli 2027 den Datenstandard XWasser und die Plattform SHAPTH für Untersuchungsniederschriften, Übermittlungen und Anzeigen nutzen. Das Verfahren ersetzt SEBAM.",
+          "administrationImpact": "Gesundheitsämter und kommunale Betreiber müssen Schnittstellen, Zugänge, Verfahrensabläufe und Schulungen rechtzeitig auf XWasser/SHAPTH umstellen.",
+          "checkpoints": [
+            "Betroffene Wasserversorgungsanlagen und Untersuchungsstellen erfassen",
+            "SHAPTH-Zugang und Schnittstellen vor dem Pflichttermin testen",
+            "Migrations- und Schulungsplan bis 30.06.2027 festlegen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-506/",
+          "consolidatedUrl": "https://www.gesetze-im-internet.de/trinkwv_2023/"
+        },
+        {
+          "title": "Neue Orientierungsdaten für kommunale Haushaltspläne",
+          "kind": "Sonstige Bekanntmachung",
+          "reference": "BayMBl. 2026 Nr. 502",
+          "published": "25.11.2026",
+          "effective": "Planungsorientierung ab Veröffentlichung; kein eigener Inkrafttretensbefehl",
+          "summary": "Die Herbst-Steuerschätzung 2026 enthält neue Durchschnittswerte bis 2031. Für 2026 werden unter anderem −2,1 % Brutto-Gewerbesteuer, +2,3 % Einkommensteueranteil und +17,7 % Umsatzsteueranteil prognostiziert.",
+          "administrationImpact": "Kämmereien müssen die Orientierungsdaten mit der örtlichen Steuerentwicklung abgleichen; die Werte sind Anhaltspunkte und keine verbindlichen Einzelansätze.",
+          "checkpoints": [
+            "Planansätze und Nachträge gegen die neuen Orientierungsdaten prüfen",
+            "Lokale Abweichungen nachvollziehbar begründen",
+            "Gewerbesteuer wegen örtlicher Besonderheiten gesondert bewerten"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-502/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Neue ZTV-ING für Ingenieurbauten eingeführt",
+          "kind": "Verwaltungsvorschrift",
+          "reference": "BayMBl. 2026 Nr. 501",
+          "published": "25.11.2026",
+          "effective": "25.11.2026; vorherige Bekanntmachung außer Kraft mit Ablauf 24.11.2026; laufende Verträge grundsätzlich nach vereinbarter Alt-Fassung",
+          "summary": "Die ZTV-ING, Ausgabe Januar 2026, ersetzt die Ausgabe Februar 2025. Aktualisierte Hinweise sind bei Projektbearbeitung, Ausschreibung und Vergabeunterlagen zu beachten.",
+          "administrationImpact": "Kommunale Bau- und Vergabestellen sollten bei entsprechender Anwendung Muster, Ausschreibungen und Vertragsstände prüfen und frühere Fassungen für laufende Verträge archivieren.",
+          "checkpoints": [
+            "Neue Ausgabe in künftigen Ausschreibungen referenzieren",
+            "Bei laufenden Verträgen die vereinbarte Fassung dokumentieren",
+            "Frühere ZTV-ING-Fassungen revisionssicher archivieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-501/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "BKPV-Satzungswerte von 90 auf 100 angehoben",
+          "kind": "Änderungssatzung",
+          "reference": "BayMBl. 2026 Nr. 500",
+          "published": "25.11.2026",
+          "effective": "Rückwirkend ab 18.11.2026",
+          "summary": "In § 6 Abs. 4 Halbsatz 2 und § 9 Abs. 3 Halbsatz 2 der Satzung des Bayerischen Kommunalen Prüfungsverbands wird jeweils die Zahl 90 durch 100 ersetzt.",
+          "administrationImpact": "Mitglieder und Prüfstellen sollten verwendete Satzungsfassungen, interne Verweise und Vorlagen auf den rückwirkenden Stand aktualisieren.",
+          "checkpoints": [
+            "Ab 18.11.2026 die geänderten Werte verwenden",
+            "Interne Vorlagen und Satzungsverweise kontrollieren",
+            "Rückwirkenden Rechtsstand dokumentieren"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-500/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Touristische Infrastrukturförderung aktualisiert und verlängert",
+          "kind": "Verwaltungsvorschrift / Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 498",
+          "published": "25.11.2026",
+          "effective": "Mit Wirkung vom 31.12.2026; Laufzeit bis 31.12.2027 verlängert",
+          "summary": "Die RÖFE aktualisiert EU-Beihilfeverweise, De-minimis-Regeln, Antragsunterlagen und technische Stellungnahmen und verlängert die Richtlinie bis Ende 2027.",
+          "administrationImpact": "Kommunale Tourismus-, Bau- und Finanzstellen müssen neue Formblätter, Beihilfegrundlagen, Finanzierungspläne und Sichtvermerke verwenden.",
+          "checkpoints": [
+            "Anträge ab 31.12.2026 auf neue Nachweise umstellen",
+            "Aktuelle De-minimis- und AGVO-Grundlage prüfen",
+            "Finanzierungsplan und technische Stellungnahmen mit der Regierung abstimmen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-498/",
+          "consolidatedUrl": ""
+        },
+        {
+          "title": "Neues 2.000-Euro-Förderprogramm für Heimatpflege",
+          "kind": "Verwaltungsvorschrift / Förderrichtlinie",
+          "reference": "BayMBl. 2026 Nr. 507",
+          "published": "25.11.2026",
+          "effective": "01.12.2026 bis 31.12.2029",
+          "summary": "Außerkommunale Vereine, Organisationen und Initiativen können für innovative Heimatpflegevorhaben einen Festbetrag von 2.000 Euro beantragen; kommunale Institutionen und kommunal getragene Organisationen sind ausdrücklich ausgeschlossen.",
+          "administrationImpact": "Kommunale Beratungsstellen können private Vereine auf das Programm hinweisen, dürfen kommunale oder kommunal getragene Projekte aber nicht als antragsberechtigt darstellen.",
+          "checkpoints": [
+            "Antragsberechtigung als außerkommunaler Träger prüfen",
+            "Stichtage 31.03. und 31.10. beachten",
+            "Kommunale Trägerschaft und Mehrfachförderung ausschließen"
+          ],
+          "sourceUrl": "https://www.verkuendung-bayern.de/baymbl/2026-507/",
+          "consolidatedUrl": ""
+        },
         {
           "title": "Neue Schwellen- und Höchstbeträge für kommunale Wahlbeamte",
           "kind": "Bekanntmachung",
@@ -5052,9 +5340,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Amtlicher Prüfstand 25.11.2026: BayMBl. bis Nr. 497, GVBl. bis S. 698, Augsburg bis Amtsblatt Nr. 46 und RABl. Schwaben bis Nr. 20 geprüft; keine neue einschlägige Änderung.",
+      "intro": "Amtlicher Prüfstand 26.11.2026: BayMBl. bis Nr. 507, GVBl. bis S. 698, Augsburg bis Amtsblatt Nr. 46 und RABl. Schwaben bis Nr. 20 geprüft; sechs neue einschlägige Veröffentlichungen.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-25T06:02:02+01:00"
+  "updatedAt": "2026-11-26T05:57:56+01:00"
 }
