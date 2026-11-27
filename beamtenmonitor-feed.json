@@ -1,5 +1,5 @@
 {
-  "checkedSources": "Prüfstand 26.11.2026: BVS QE2nVD 2026/2028 einschließlich jahrgangsspezifischer zeitlicher Gliederung, Übersicht der 20 Leistungsnachweise, Stoffgliederungsplan (Stand Juli 2026) und Hilfsmittelbestimmung; Verkündungsplattform BayMBl. bis Nr. 507 vom 25.11.2026 und GVBl. bis S. 698 vom 16.11.2026; Bayern.Recht; Stadt Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 tatsächlich geprüft. Seit dem letzten tatsächlich verifizierten Prüftag 25.11.2026 sechs neue einschlägige BayMBl.-Veröffentlichungen aufgenommen: Nr. 498, 500, 501, 502, 506 und 507.",
+  "checkedSources": "Prüfstand 27.11.2026: BVS QE2nVD 2026/2028 einschließlich jahrgangsspezifischer zeitlicher Gliederung, Übersicht der Leistungsnachweise, Stoffgliederungsplan (Stand Juli 2026) und Hilfsmittelbestimmung; Verkündungsplattform BayMBl. bis Nr. 507 vom 25.11.2026 und GVBl. bis S. 698 vom 16.11.2026; Bayern.Recht; Stadt Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 tatsächlich geprüft. Seit dem letzten tatsächlich verifizierten Prüftag 26.11.2026 keine neue einschlägige Änderung. Die sechs am 26.11.2026 aufgenommenen BayMBl.-Veröffentlichungen bleiben unverändert gültig.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
@@ -1801,7 +1801,7 @@
         }
       ],
       "id": "latest",
-      "intro": "Amtlicher Prüfstand 26.11.2026: Sechs neue einschlägige BayMBl.-Veröffentlichungen vom 25.11.2026 wurden aufgenommen.",
+      "intro": "Amtlicher Prüfstand 27.11.2026: Seit dem verifizierten Vortag keine neue einschlägige Änderung; die sechs am 26.11.2026 aufgenommenen BayMBl.-Veröffentlichungen bleiben gültig.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
@@ -3506,7 +3506,7 @@
         }
       ],
       "id": "important",
-      "intro": "Amtlicher Prüfstand 26.11.2026: Besonders wichtig sind XWasser/SHAPTH ab 01.07.2027, neue Haushaltsorientierungsdaten und die Übergangsregeln der ZTV-ING.",
+      "intro": "Amtlicher Prüfstand 27.11.2026: Weiter besonders wichtig sind XWasser/SHAPTH ab 01.07.2027, die kommunalen Haushaltsorientierungsdaten und die Übergangsregeln der ZTV-ING.",
       "label": "Was ist wichtig?"
     },
     {
@@ -5340,9 +5340,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Amtlicher Prüfstand 26.11.2026: BayMBl. bis Nr. 507, GVBl. bis S. 698, Augsburg bis Amtsblatt Nr. 46 und RABl. Schwaben bis Nr. 20 geprüft; sechs neue einschlägige Veröffentlichungen.",
+      "intro": "Amtlicher Prüfstand 27.11.2026: BayMBl. bis Nr. 507, GVBl. bis S. 698, Augsburg bis Amtsblatt Nr. 46 und RABl. Schwaben bis Nr. 20 geprüft; keine neue einschlägige Änderung.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-26T05:57:56+01:00"
+  "updatedAt": "2026-11-27T06:04:13+01:00"
 }
