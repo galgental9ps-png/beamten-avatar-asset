@@ -1,9 +1,105 @@
 {
-  "checkedSources": "Prüfstand 27.11.2026: BVS QE2nVD 2026/2028 einschließlich jahrgangsspezifischer zeitlicher Gliederung, Übersicht der Leistungsnachweise, Stoffgliederungsplan (Stand Juli 2026) und Hilfsmittelbestimmung; Verkündungsplattform BayMBl. bis Nr. 507 vom 25.11.2026 und GVBl. bis S. 698 vom 16.11.2026; Bayern.Recht; Stadt Augsburg Stadtrecht, Amtsblatt Nr. 46 vom 13.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 tatsächlich geprüft. Seit dem letzten tatsächlich verifizierten Prüftag 26.11.2026 keine neue einschlägige Änderung. Die sechs am 26.11.2026 aufgenommenen BayMBl.-Veröffentlichungen bleiben unverändert gültig.",
+  "checkedSources": "Prüfstand 28.11.2026: BVS QE2nVD 2026/2028 einschließlich jahrgangsspezifischer zeitlicher Gliederung, Übersicht der Leistungsnachweise, Stoffgliederungsplan (Stand Juli 2026) und Hilfsmittelbestimmung; Verkündungsplattform BayMBl. bis Nr. 507 vom 25.11.2026 und GVBl. bis S. 698 vom 16.11.2026; Bayern.Recht; Stadt Augsburg Stadtrecht, Amtsblatt Nr. 47/48 vom 27.11.2026 und öffentliche Ausbildungsinformationen; Regierungsamtsblatt Schwaben Nr. 20 vom 10.11.2026 tatsächlich geprüft. Seit dem letzten tatsächlich verifizierten Prüftag 27.11.2026 sechs neue einschlägige Themenblöcke aus Amtsblatt Nr. 47/48 aufgenommen.",
   "fullMonitorUrl": "https://github.com/galgental9ps-png/Beamten-Monitor-/blob/main/index.html",
   "topics": [
     {
       "changes": [
+        {
+          "title": "Augsburg passt den Haushalt 2026 rückwirkend an",
+          "kind": "2. Nachtragshaushaltssatzung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 309–310",
+          "published": "27.11.2026",
+          "effective": "Rückwirkend zum 01.01.2026",
+          "summary": "Verwaltungshaushalt 1.336.490.222 Euro, Vermögenshaushalt 313.208.783 Euro; der Kassenkreditrahmen steigt von 167 auf 200 Millionen Euro. Genehmigungspflichtige Bestandteile enthält der Nachtrag nicht.",
+          "administrationImpact": "Haushaltsansätze, Mittelbewirtschaftung und Liquiditätsplanung der Stadt sind an den Nachtrag anzupassen; die Rückwirkung ist nachvollziehbar zu dokumentieren.",
+          "checkpoints": [
+            "Haushalts- und Bewirtschaftungsansätze abgleichen",
+            "Kassenkreditrahmen in Liquiditätsplanung aktualisieren",
+            "Rückwirkung zum 01.01.2026 dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Neue Benutzungs- und Gebührenregeln für das Augsburger Rathaus",
+          "kind": "Benutzungssatzung, Gebührensatzung und Hausordnung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 310–315",
+          "published": "27.11.2026",
+          "effective": "Satzungen seit 28.11.2026; Hausordnung mit sofortiger Wirkung",
+          "summary": "Nutzung, Ausschlüsse, schriftliche Mietverträge, Gebühren und Ermäßigungen für Goldenen Saal, Fürstenzimmer sowie Oberen und Unteren Fletz werden neu geregelt; die Hausordnung bündelt Sicherheits-, Schadens- und Brandschutzpflichten.",
+          "administrationImpact": "Raumvergabe, Vertragsmuster, Preislisten, Veranstaltungsprüfung und Sicherheitsabläufe müssen auf die neuen Regeln umgestellt werden.",
+          "checkpoints": [
+            "Formulare und Preislisten aktualisieren",
+            "Wahlzeit-Ausschlüsse und Ermäßigungen prüfen",
+            "Hausordnung in Übergabe- und Sicherheitsabläufe integrieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Volksfestbeirat erhält eine Satzungsgrundlage",
+          "kind": "Volksfestbeiratssatzung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 315–318",
+          "published": "27.11.2026",
+          "effective": "28.11.2026",
+          "summary": "Aufgaben, Mitglieder, Vorsitz, Einberufung, nichtöffentliche Beratung, empfehlende Beschlüsse, Befangenheit und Niederschriften des Volksfestbeirats werden verbindlich geregelt.",
+          "administrationImpact": "Geschäftsstelle und Referate müssen Mitgliederlisten, Einladungen, Vertraulichkeit, Niederschriften und die Behandlung von Empfehlungen standardisieren.",
+          "checkpoints": [
+            "Mitglieder und Stellvertretungen erfassen",
+            "Sitzungs- und Vorlagenprozess anpassen",
+            "Befangenheit und Vertraulichkeit dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Marktbeirat arbeitet auf neuer Satzungsbasis",
+          "kind": "Marktbeiratssatzung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 318–320",
+          "published": "27.11.2026",
+          "effective": "28.11.2026",
+          "summary": "Der Marktbeirat berät zu Stadtmarkt und Marktwesen. Die Satzung regelt Mitglieder, mindestens zwei Sitzungen jährlich, offene Abstimmungen, empfehlende Beschlüsse, Vertraulichkeit und Niederschriften.",
+          "administrationImpact": "Marktamt und zuständiges Referat müssen Berufungen, Terminplanung, Sitzungsunterlagen und die Behandlung der Empfehlungen nachvollziehbar organisieren.",
+          "checkpoints": [
+            "Berufungsvorschläge vorbereiten",
+            "Mindestens zwei Jahressitzungen einplanen",
+            "Empfehlungen und Verwaltungsreaktion dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Widmungen, Umstufung und neue Einziehungsabsichten nach BayStrWG",
+          "kind": "Straßenrechtliche Allgemeinverfügungen und Absichtsbekanntmachungen",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 320–325",
+          "published": "27.11.2026",
+          "effective": "Widmungen und Umstufung seit 28.11.2026; Einziehungsabsichten mit dreimonatiger Einwendungsfrist",
+          "summary": "Mehrere Verkehrsflächen werden gewidmet; der Gehweg Simpertstraße–Proviantbachstraße wird zum Geh- und Radweg umgestuft. Für Tiergartenweg, einen Teil dieses Wegs und den Hofacker-Feldweg sind Teileinziehungen angekündigt; die Hofacker-Bekanntmachung berichtigt eine fehlerhafte frühere Fassung.",
+          "administrationImpact": "Straßenverzeichnis, Beschilderung, Unterhaltung und Geodaten sind anzupassen; Einwendungen zu den beabsichtigten Teileinziehungen müssen fristgerecht erfasst werden.",
+          "checkpoints": [
+            "Wirksame Widmungen und Umstufung vollziehen",
+            "Einmonatige Klagefrist für Verfügungen beachten",
+            "Dreimonatige Einwendungsfrist der Einziehungsabsichten führen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayStrWG"
+        },
+        {
+          "title": "Zwei Baugenehmigungen werden öffentlich bekannt gemacht",
+          "kind": "Öffentliche Bekanntmachung nach Art. 66 Abs. 2 BayBO",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 325–326",
+          "published": "27.11.2026",
+          "effective": "Bekanntgabe durch öffentliche Bekanntmachung; Klage innerhalb eines Monats nach Bekanntgabe",
+          "summary": "Bekannt gemacht werden die Genehmigungen für ein Wohnhaus mit zwei Einheiten in der Rot-Kreuz-Str. 12 f (630/BF-2026-54-1) und für Bauabschnitt 1 eines Verwaltungsgebäudes mit Tiefgaragenerweiterung in der Neidhartstr. 32 (630/BA-2026-1087-1DD).",
+          "administrationImpact": "Das Bauordnungsamt muss die Planunterlagen zur Einsicht bereithalten und Bekanntgabe- sowie Rechtsbehelfsfristen eindeutig dokumentieren.",
+          "checkpoints": [
+            "Aktenzeichen und Bekanntgabetag vermerken",
+            "Einsicht nach Terminvereinbarung ermöglichen",
+            "Einmonatige Klagefrist dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO"
+        },
         {
           "title": "XWasser und SHAPTH werden für Trinkwasserdaten verbindlich",
           "kind": "Allgemeinverfügung",
@@ -1801,11 +1897,107 @@
         }
       ],
       "id": "latest",
-      "intro": "Amtlicher Prüfstand 27.11.2026: Seit dem verifizierten Vortag keine neue einschlägige Änderung; die sechs am 26.11.2026 aufgenommenen BayMBl.-Veröffentlichungen bleiben gültig.",
+      "intro": "Amtlicher Prüfstand 28.11.2026: Sechs neue einschlägige Themenblöcke aus dem Augsburger Amtsblatt Nr. 47/48 vom 27.11.2026 verifiziert.",
       "label": "Neueste Gesetzesänderungen"
     },
     {
       "changes": [
+        {
+          "title": "Augsburg passt den Haushalt 2026 rückwirkend an",
+          "kind": "2. Nachtragshaushaltssatzung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 309–310",
+          "published": "27.11.2026",
+          "effective": "Rückwirkend zum 01.01.2026",
+          "summary": "Verwaltungshaushalt 1.336.490.222 Euro, Vermögenshaushalt 313.208.783 Euro; der Kassenkreditrahmen steigt von 167 auf 200 Millionen Euro. Genehmigungspflichtige Bestandteile enthält der Nachtrag nicht.",
+          "administrationImpact": "Haushaltsansätze, Mittelbewirtschaftung und Liquiditätsplanung der Stadt sind an den Nachtrag anzupassen; die Rückwirkung ist nachvollziehbar zu dokumentieren.",
+          "checkpoints": [
+            "Haushalts- und Bewirtschaftungsansätze abgleichen",
+            "Kassenkreditrahmen in Liquiditätsplanung aktualisieren",
+            "Rückwirkung zum 01.01.2026 dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Neue Benutzungs- und Gebührenregeln für das Augsburger Rathaus",
+          "kind": "Benutzungssatzung, Gebührensatzung und Hausordnung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 310–315",
+          "published": "27.11.2026",
+          "effective": "Satzungen seit 28.11.2026; Hausordnung mit sofortiger Wirkung",
+          "summary": "Nutzung, Ausschlüsse, schriftliche Mietverträge, Gebühren und Ermäßigungen für Goldenen Saal, Fürstenzimmer sowie Oberen und Unteren Fletz werden neu geregelt; die Hausordnung bündelt Sicherheits-, Schadens- und Brandschutzpflichten.",
+          "administrationImpact": "Raumvergabe, Vertragsmuster, Preislisten, Veranstaltungsprüfung und Sicherheitsabläufe müssen auf die neuen Regeln umgestellt werden.",
+          "checkpoints": [
+            "Formulare und Preislisten aktualisieren",
+            "Wahlzeit-Ausschlüsse und Ermäßigungen prüfen",
+            "Hausordnung in Übergabe- und Sicherheitsabläufe integrieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Volksfestbeirat erhält eine Satzungsgrundlage",
+          "kind": "Volksfestbeiratssatzung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 315–318",
+          "published": "27.11.2026",
+          "effective": "28.11.2026",
+          "summary": "Aufgaben, Mitglieder, Vorsitz, Einberufung, nichtöffentliche Beratung, empfehlende Beschlüsse, Befangenheit und Niederschriften des Volksfestbeirats werden verbindlich geregelt.",
+          "administrationImpact": "Geschäftsstelle und Referate müssen Mitgliederlisten, Einladungen, Vertraulichkeit, Niederschriften und die Behandlung von Empfehlungen standardisieren.",
+          "checkpoints": [
+            "Mitglieder und Stellvertretungen erfassen",
+            "Sitzungs- und Vorlagenprozess anpassen",
+            "Befangenheit und Vertraulichkeit dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Marktbeirat arbeitet auf neuer Satzungsbasis",
+          "kind": "Marktbeiratssatzung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 318–320",
+          "published": "27.11.2026",
+          "effective": "28.11.2026",
+          "summary": "Der Marktbeirat berät zu Stadtmarkt und Marktwesen. Die Satzung regelt Mitglieder, mindestens zwei Sitzungen jährlich, offene Abstimmungen, empfehlende Beschlüsse, Vertraulichkeit und Niederschriften.",
+          "administrationImpact": "Marktamt und zuständiges Referat müssen Berufungen, Terminplanung, Sitzungsunterlagen und die Behandlung der Empfehlungen nachvollziehbar organisieren.",
+          "checkpoints": [
+            "Berufungsvorschläge vorbereiten",
+            "Mindestens zwei Jahressitzungen einplanen",
+            "Empfehlungen und Verwaltungsreaktion dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Widmungen, Umstufung und neue Einziehungsabsichten nach BayStrWG",
+          "kind": "Straßenrechtliche Allgemeinverfügungen und Absichtsbekanntmachungen",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 320–325",
+          "published": "27.11.2026",
+          "effective": "Widmungen und Umstufung seit 28.11.2026; Einziehungsabsichten mit dreimonatiger Einwendungsfrist",
+          "summary": "Mehrere Verkehrsflächen werden gewidmet; der Gehweg Simpertstraße–Proviantbachstraße wird zum Geh- und Radweg umgestuft. Für Tiergartenweg, einen Teil dieses Wegs und den Hofacker-Feldweg sind Teileinziehungen angekündigt; die Hofacker-Bekanntmachung berichtigt eine fehlerhafte frühere Fassung.",
+          "administrationImpact": "Straßenverzeichnis, Beschilderung, Unterhaltung und Geodaten sind anzupassen; Einwendungen zu den beabsichtigten Teileinziehungen müssen fristgerecht erfasst werden.",
+          "checkpoints": [
+            "Wirksame Widmungen und Umstufung vollziehen",
+            "Einmonatige Klagefrist für Verfügungen beachten",
+            "Dreimonatige Einwendungsfrist der Einziehungsabsichten führen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayStrWG"
+        },
+        {
+          "title": "Zwei Baugenehmigungen werden öffentlich bekannt gemacht",
+          "kind": "Öffentliche Bekanntmachung nach Art. 66 Abs. 2 BayBO",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 325–326",
+          "published": "27.11.2026",
+          "effective": "Bekanntgabe durch öffentliche Bekanntmachung; Klage innerhalb eines Monats nach Bekanntgabe",
+          "summary": "Bekannt gemacht werden die Genehmigungen für ein Wohnhaus mit zwei Einheiten in der Rot-Kreuz-Str. 12 f (630/BF-2026-54-1) und für Bauabschnitt 1 eines Verwaltungsgebäudes mit Tiefgaragenerweiterung in der Neidhartstr. 32 (630/BA-2026-1087-1DD).",
+          "administrationImpact": "Das Bauordnungsamt muss die Planunterlagen zur Einsicht bereithalten und Bekanntgabe- sowie Rechtsbehelfsfristen eindeutig dokumentieren.",
+          "checkpoints": [
+            "Aktenzeichen und Bekanntgabetag vermerken",
+            "Einsicht nach Terminvereinbarung ermöglichen",
+            "Einmonatige Klagefrist dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO"
+        },
         {
           "title": "XWasser und SHAPTH werden für Trinkwasserdaten verbindlich",
           "kind": "Allgemeinverfügung",
@@ -3506,11 +3698,107 @@
         }
       ],
       "id": "important",
-      "intro": "Amtlicher Prüfstand 27.11.2026: Weiter besonders wichtig sind XWasser/SHAPTH ab 01.07.2027, die kommunalen Haushaltsorientierungsdaten und die Übergangsregeln der ZTV-ING.",
+      "intro": "Heute besonders wichtig: rückwirkender zweiter Nachtragshaushalt 2026, neue Rathaus-Satzungen, neue Beiratssatzungen sowie straßen- und baurechtliche Bekanntmachungen.",
       "label": "Was ist wichtig?"
     },
     {
       "changes": [
+        {
+          "title": "Augsburg passt den Haushalt 2026 rückwirkend an",
+          "kind": "2. Nachtragshaushaltssatzung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 309–310",
+          "published": "27.11.2026",
+          "effective": "Rückwirkend zum 01.01.2026",
+          "summary": "Verwaltungshaushalt 1.336.490.222 Euro, Vermögenshaushalt 313.208.783 Euro; der Kassenkreditrahmen steigt von 167 auf 200 Millionen Euro. Genehmigungspflichtige Bestandteile enthält der Nachtrag nicht.",
+          "administrationImpact": "Haushaltsansätze, Mittelbewirtschaftung und Liquiditätsplanung der Stadt sind an den Nachtrag anzupassen; die Rückwirkung ist nachvollziehbar zu dokumentieren.",
+          "checkpoints": [
+            "Haushalts- und Bewirtschaftungsansätze abgleichen",
+            "Kassenkreditrahmen in Liquiditätsplanung aktualisieren",
+            "Rückwirkung zum 01.01.2026 dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Neue Benutzungs- und Gebührenregeln für das Augsburger Rathaus",
+          "kind": "Benutzungssatzung, Gebührensatzung und Hausordnung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 310–315",
+          "published": "27.11.2026",
+          "effective": "Satzungen seit 28.11.2026; Hausordnung mit sofortiger Wirkung",
+          "summary": "Nutzung, Ausschlüsse, schriftliche Mietverträge, Gebühren und Ermäßigungen für Goldenen Saal, Fürstenzimmer sowie Oberen und Unteren Fletz werden neu geregelt; die Hausordnung bündelt Sicherheits-, Schadens- und Brandschutzpflichten.",
+          "administrationImpact": "Raumvergabe, Vertragsmuster, Preislisten, Veranstaltungsprüfung und Sicherheitsabläufe müssen auf die neuen Regeln umgestellt werden.",
+          "checkpoints": [
+            "Formulare und Preislisten aktualisieren",
+            "Wahlzeit-Ausschlüsse und Ermäßigungen prüfen",
+            "Hausordnung in Übergabe- und Sicherheitsabläufe integrieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Volksfestbeirat erhält eine Satzungsgrundlage",
+          "kind": "Volksfestbeiratssatzung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 315–318",
+          "published": "27.11.2026",
+          "effective": "28.11.2026",
+          "summary": "Aufgaben, Mitglieder, Vorsitz, Einberufung, nichtöffentliche Beratung, empfehlende Beschlüsse, Befangenheit und Niederschriften des Volksfestbeirats werden verbindlich geregelt.",
+          "administrationImpact": "Geschäftsstelle und Referate müssen Mitgliederlisten, Einladungen, Vertraulichkeit, Niederschriften und die Behandlung von Empfehlungen standardisieren.",
+          "checkpoints": [
+            "Mitglieder und Stellvertretungen erfassen",
+            "Sitzungs- und Vorlagenprozess anpassen",
+            "Befangenheit und Vertraulichkeit dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Marktbeirat arbeitet auf neuer Satzungsbasis",
+          "kind": "Marktbeiratssatzung",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 318–320",
+          "published": "27.11.2026",
+          "effective": "28.11.2026",
+          "summary": "Der Marktbeirat berät zu Stadtmarkt und Marktwesen. Die Satzung regelt Mitglieder, mindestens zwei Sitzungen jährlich, offene Abstimmungen, empfehlende Beschlüsse, Vertraulichkeit und Niederschriften.",
+          "administrationImpact": "Marktamt und zuständiges Referat müssen Berufungen, Terminplanung, Sitzungsunterlagen und die Behandlung der Empfehlungen nachvollziehbar organisieren.",
+          "checkpoints": [
+            "Berufungsvorschläge vorbereiten",
+            "Mindestens zwei Jahressitzungen einplanen",
+            "Empfehlungen und Verwaltungsreaktion dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.augsburg.de/buergerservice-rathaus/rathaus/stadtrecht"
+        },
+        {
+          "title": "Widmungen, Umstufung und neue Einziehungsabsichten nach BayStrWG",
+          "kind": "Straßenrechtliche Allgemeinverfügungen und Absichtsbekanntmachungen",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 320–325",
+          "published": "27.11.2026",
+          "effective": "Widmungen und Umstufung seit 28.11.2026; Einziehungsabsichten mit dreimonatiger Einwendungsfrist",
+          "summary": "Mehrere Verkehrsflächen werden gewidmet; der Gehweg Simpertstraße–Proviantbachstraße wird zum Geh- und Radweg umgestuft. Für Tiergartenweg, einen Teil dieses Wegs und den Hofacker-Feldweg sind Teileinziehungen angekündigt; die Hofacker-Bekanntmachung berichtigt eine fehlerhafte frühere Fassung.",
+          "administrationImpact": "Straßenverzeichnis, Beschilderung, Unterhaltung und Geodaten sind anzupassen; Einwendungen zu den beabsichtigten Teileinziehungen müssen fristgerecht erfasst werden.",
+          "checkpoints": [
+            "Wirksame Widmungen und Umstufung vollziehen",
+            "Einmonatige Klagefrist für Verfügungen beachten",
+            "Dreimonatige Einwendungsfrist der Einziehungsabsichten führen"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayStrWG"
+        },
+        {
+          "title": "Zwei Baugenehmigungen werden öffentlich bekannt gemacht",
+          "kind": "Öffentliche Bekanntmachung nach Art. 66 Abs. 2 BayBO",
+          "reference": "Amtsblatt Stadt Augsburg 2026 Nr. 47/48, S. 325–326",
+          "published": "27.11.2026",
+          "effective": "Bekanntgabe durch öffentliche Bekanntmachung; Klage innerhalb eines Monats nach Bekanntgabe",
+          "summary": "Bekannt gemacht werden die Genehmigungen für ein Wohnhaus mit zwei Einheiten in der Rot-Kreuz-Str. 12 f (630/BF-2026-54-1) und für Bauabschnitt 1 eines Verwaltungsgebäudes mit Tiefgaragenerweiterung in der Neidhartstr. 32 (630/BA-2026-1087-1DD).",
+          "administrationImpact": "Das Bauordnungsamt muss die Planunterlagen zur Einsicht bereithalten und Bekanntgabe- sowie Rechtsbehelfsfristen eindeutig dokumentieren.",
+          "checkpoints": [
+            "Aktenzeichen und Bekanntgabetag vermerken",
+            "Einsicht nach Terminvereinbarung ermöglichen",
+            "Einmonatige Klagefrist dokumentieren"
+          ],
+          "sourceUrl": "https://www.augsburg.de/fileadmin/user_upload/footer/amtsblatt/2026/Amtsblatt-2026-47-48_vom-27-11-2026.pdf",
+          "consolidatedUrl": "https://www.gesetze-bayern.de/Content/Document/BayBO"
+        },
         {
           "title": "XWasser und SHAPTH werden für Trinkwasserdaten verbindlich",
           "kind": "Allgemeinverfügung",
@@ -5340,9 +5628,9 @@
         }
       ],
       "id": "changes",
-      "intro": "Amtlicher Prüfstand 27.11.2026: BayMBl. bis Nr. 507, GVBl. bis S. 698, Augsburg bis Amtsblatt Nr. 46 und RABl. Schwaben bis Nr. 20 geprüft; keine neue einschlägige Änderung.",
+      "intro": "Amtlicher Prüfstand 28.11.2026: BayMBl. bis Nr. 507, GVBl. bis S. 698, Augsburg bis Amtsblatt Nr. 47/48 und RABl. Schwaben bis Nr. 20 geprüft; sechs neue einschlägige Themenblöcke.",
       "label": "Gesetzesänderungen anzeigen"
     }
   ],
-  "updatedAt": "2026-11-27T06:04:13+01:00"
+  "updatedAt": "2026-11-28T12:15:00+01:00"
 }
